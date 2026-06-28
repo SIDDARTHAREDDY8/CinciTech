@@ -153,7 +153,7 @@ TEMPLATE = r"""<!doctype html>
     <br><br>
     Built for new grads, career switchers, international students on OPT/CPT, and contractors targeting the Cincinnati &amp; Ohio tech market. Every role links straight to the company's own application page. New postings are flagged each run.
     <br><br>
-    Open-source &amp; free · <a href="https://github.com/SIDDARTHAREDDY8/cincinnati_tech">github.com/SIDDARTHAREDDY8/cincinnati_tech</a> · You've got this. 🍀
+    Open-source &amp; free · <a href="https://github.com/SIDDARTHAREDDY8/CinciTech">github.com/SIDDARTHAREDDY8/CinciTech</a> · You've got this. 🍀
   </div>
 </footer>
 

@@ -24,7 +24,7 @@ def md_escape(text: str) -> str:
 
 
 def render(new_jobs: list[dict], total: int, updated: str) -> str:
-    BOARD = "https://siddarthareddy8.github.io/cincinnati_tech/"
+    BOARD = "https://siddarthareddy8.github.io/CinciTech/"
     lines = []
     if not new_jobs:
         lines.append(f"### 🟢 No new roles this update · **{total}** roles open total · updated `{updated}`")

@@ -3,7 +3,7 @@
 **A free, auto-updating job board for software, data, ML & cloud roles across Ohio — pulled
 from 130+ company career pages and staffing firms every 3 hours, filtered to Ohio + remote.**
 
-### 👉 [Browse the live board »](https://siddarthareddy8.github.io/cincinnati_tech/)
+### 👉 [Browse the live board »](https://siddarthareddy8.github.io/CinciTech/)
 
 ---
 
@@ -56,9 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **293** roles open total · updated `2026-06-28T01:36:12+00:00`
+### 🟢 No new roles this update · **212** roles open total · updated `2026-06-28T17:08:07+00:00`
 
-Nothing new since the last run — [browse all 293 open roles on the board »](https://siddarthareddy8.github.io/cincinnati_tech/)
+Nothing new since the last run — [browse all 212 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works

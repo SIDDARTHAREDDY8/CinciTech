@@ -168,17 +168,18 @@ def keep_location(location: str, firm: dict) -> bool:
 
     - firm['ohio_only']: employer that operates only in Ohio but labels jobs by
       facility name ("GRANT MEDICAL CENTER") → keep any US role.
-    - empty location: kept ONLY for employers / detail_date firms (iCIMS etc. that
-      backfill the real location after a detail-page fetch); dropped for national
-      staffing firms (unknown there almost always means out-of-state).
+    - empty location: DROPPED. This is the FINAL gate — the board shows no
+      unknown-location jobs. (detail_date firms keep blanks transiently in
+      apply_filters so they survive to the detail-page enrichment that fills the
+      real location; this re-check then drops any that are still blank.)
     - otherwise: must hit a remote token or an Ohio token (per-firm list or OHIO_DEFAULT).
     """
     if is_non_us(location):
         return False
+    if not (location or "").strip():
+        return False                      # no unknown-location jobs on the board
     if firm.get("ohio_only"):
-        return True                       # already passed the US check above
-    if not location:
-        return bool(firm.get("detail_date") or firm.get("employer"))
+        return True                       # OH-only employer, facility-named location
     loc = location.lower()
     if any(w in loc for w in REMOTE_TOKENS):
         return True
@@ -198,10 +199,21 @@ def _loc_token_match(loc: str, token: str) -> bool:
 
 
 def apply_filters(jobs: list[dict], firm: dict) -> list[dict]:
-    """Keep tech roles that are US + (Ohio OR remote) — see keep_location."""
+    """Keep tech roles that are US + (Ohio OR remote) — see keep_location.
+
+    detail_date firms (iCIMS etc.) have BLANK locations on the listing page and only
+    get the real location from a per-job detail fetch later, so we let their blank
+    jobs through here; run.py re-applies keep_location after that enrichment, which
+    drops any still-blank — so the final board never shows an unknown location.
+    """
     out = []
+    keep_blank = bool(firm.get("detail_date"))
     for j in jobs:
         if not matches_keywords(j["title"]):
+            continue
+        loc = (j.get("location") or "").strip()
+        if not loc and keep_blank:
+            out.append(j)
             continue
         if keep_location(j.get("location", ""), firm):
             out.append(j)

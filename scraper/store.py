@@ -9,6 +9,35 @@ from pathlib import Path
 DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "jobs.json"
 NEW_JOBS_FILE = Path(__file__).resolve().parent.parent / "data" / "new_jobs.json"
 
+MAX_AGE_DAYS = 60   # perpetual freshness cap: jobs older than this drop off the board
+
+
+def _age_days(job: dict):
+    """Effective age in days: the real posted date when it parses and is sane
+    (<=200d, ignoring evergreen/bogus dates), else first_seen. None if neither."""
+    now = datetime.now(timezone.utc)
+    p = job.get("posted")
+    if p:
+        try:
+            t = datetime.fromisoformat(str(p).replace("Z", "+00:00"))
+            if t.tzinfo is None:
+                t = t.replace(tzinfo=timezone.utc)
+            d = (now - t).days
+            if -2 <= d <= 200:
+                return d
+        except Exception:
+            pass
+    f = job.get("first_seen")
+    if f:
+        try:
+            t = datetime.fromisoformat(str(f).replace("Z", "+00:00"))
+            if t.tzinfo is None:
+                t = t.replace(tzinfo=timezone.utc)
+            return (now - t).days
+        except Exception:
+            pass
+    return None
+
 
 def _job_id(job: dict) -> str:
     """A job's identity is its URL — every firm's job URL carries a unique job id.
@@ -74,6 +103,14 @@ def merge_and_save(new_jobs: list[dict], refresh_firms: set | None = None) -> di
             del existing[jid]
             removed += 1
 
+    # Perpetual freshness prune: drop anything older than MAX_AGE_DAYS so the board
+    # never accumulates stale postings.
+    stale = 0
+    for jid in [k for k, v in existing.items()
+                if (_age_days(v) or 0) > MAX_AGE_DAYS]:
+        del existing[jid]
+        stale += 1
+
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated": now,
@@ -95,5 +132,5 @@ def merge_and_save(new_jobs: list[dict], refresh_firms: set | None = None) -> di
     }
     NEW_JOBS_FILE.write_text(json.dumps(diff, indent=2))
 
-    return {"added": added, "removed": removed, "total": len(existing),
-            "scraped": len(new_jobs), "new_jobs": new_records}
+    return {"added": added, "removed": removed, "stale_pruned": stale,
+            "total": len(existing), "scraped": len(new_jobs), "new_jobs": new_records}

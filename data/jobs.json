@@ -1,18 +1,7 @@
 {
   "updated": "2026-06-28T17:08:07+00:00",
-  "count": 293,
+  "count": 212,
   "jobs": [
-    {
-      "firm": "Cynet Systems",
-      "title": "SRE Engineer",
-      "location": "Ohio",
-      "url": "https://candidateportal.ceipal.com/job-details/u1od-6vdjtNAffS9tS9fGttAMXn6g7wdZGDPUZjlCRc",
-      "posted": "2026-02-17",
-      "id": "20d9dc3543d6",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
     {
       "firm": "Cynet Systems",
       "title": "Senior OMS Developer with Java Backend",
@@ -146,39 +135,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Honda",
-      "title": "Weld Robot Programmer",
-      "location": "Raymond, Ohio, United States",
-      "url": "https://careers.honda.com/us/en/job/10652",
-      "posted": "2026-04-02T00:00:00.000+0000",
-      "id": "e6fa3f7a7495",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Honda",
-      "title": "AI Machine Learning Principal Engineer",
-      "location": "Raymond, Ohio, United States",
-      "url": "https://careers.honda.com/us/en/job/10852",
-      "posted": "2026-04-23T00:00:00.000+0000",
-      "id": "a1cbbfff1941",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "MRI Software",
-      "title": "AI Senior Developer",
-      "location": "",
-      "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/AI-Senior-Developer_R-106910",
-      "posted": "2026-05-29",
-      "id": "8eab06b19af0",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "CrossCountry Mortgage",
       "title": "Data Engineering Manager",
       "location": "LC10530 - 2160 Superior Avenue, Cleveland, OH",
@@ -301,17 +257,6 @@
     },
     {
       "firm": "Lincoln Electric",
-      "title": "Software Developer (C#, Python)",
-      "location": "",
-      "url": "https://jobs.lincolnelectric.com/job/Hamilton-Software-Developer-%28C%2C-Python%29-ON-L9H-7L8/1397777333/",
-      "posted": "",
-      "id": "0df7004a55d4",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Lincoln Electric",
       "title": "Senior MES Developer",
       "location": "OH",
       "url": "https://jobs.lincolnelectric.com/job/Cleveland-Senior-MES-Developer-OH-44117/1368809133/",
@@ -344,105 +289,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Timken",
-      "title": "Application Engineer",
-      "location": "",
-      "url": "https://careers.timken.com/job/Carson-City-Application-Engineer-Neva-89706/1393475400/",
-      "posted": "",
-      "id": "ca5b3d23ee19",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Timken",
-      "title": "Principal AI Analyst",
-      "location": "",
-      "url": "https://careers.timken.com/job/North-Canton-Principal-AI-Analyst-Ohio-44720/1383016500/",
-      "posted": "",
-      "id": "1ca61ef28f27",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Timken",
-      "title": "Application Engineer I",
-      "location": "",
-      "url": "https://careers.timken.com/job/Wuxi-Application-Engineer-I-Jian-214000/1351988800/",
-      "posted": "",
-      "id": "dbe5f584a7ff",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Timken",
-      "title": "Applications Engineer",
-      "location": "",
-      "url": "https://careers.timken.com/job/Norton-Shores-Applications-Engineer-Mich-49441/1400732800/",
-      "posted": "",
-      "id": "1df5104a09d5",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Dana Incorporated",
-      "title": "Field Application Engineer",
-      "location": "",
-      "url": "https://jobs.dana.com/job/Arzignano-Field-Application-Engineer-36071/1362721400/",
-      "posted": "",
-      "id": "d309662483f2",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Dana Incorporated",
-      "title": "Supply Chain Analytics Engineer",
-      "location": "",
-      "url": "https://jobs.dana.com/job/Queretaro-Supply-Chain-Analytics-Engineer-Quer-76120/1385349300/",
-      "posted": "",
-      "id": "b108a2b61b49",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Dana Incorporated",
-      "title": "Analytics Engineer IT",
-      "location": "",
-      "url": "https://jobs.dana.com/job/Queretaro-Analytics-Engineer-IT-Quer-76120/1385331700/",
-      "posted": "",
-      "id": "d5d56b92b31a",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Dana Incorporated",
-      "title": "Data Analytics Engineer",
-      "location": "",
-      "url": "https://jobs.dana.com/job/Queretaro-Data-Analytics-Engineer-Quer-76120/1397312800/",
-      "posted": "",
-      "id": "8cbe6012e872",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Lubrizol",
-      "title": "Data Scientist Intern (PhD level)",
-      "location": "",
-      "url": "https://jobs.lubrizol.com/job/Hazelwood-Data-Scientist-Intern-%28PhD-level%29-DER-DE56-4AN/1354874200/",
-      "posted": "",
-      "id": "4c193d483c3b",
-      "first_seen": "2026-06-28T01:36:12+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "Lubrizol",
       "title": "Senior Manager, AI and Decision Science for Product & Formulation Development",
       "location": "OH",
@@ -451,17 +297,6 @@
       "id": "9f21fae95d1c",
       "first_seen": "2026-06-28T01:36:12+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Cynet Systems",
-      "title": "SRE Engineer",
-      "location": "Ohio",
-      "url": "https://candidateportal.ceipal.com/job-details/a8pR3eL5EUnQCvGkvJtQ9Rfde5YvVjIeHe2su6rjpaM",
-      "posted": "2026-02-17",
-      "id": "70ce046612d7",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T00:54:32+00:00",
       "readme_posted": true
     },
     {
@@ -587,17 +422,6 @@
     },
     {
       "firm": "Huntington Bank",
-      "title": "Site Reliability Engineer (SRE) \u2013 II",
-      "location": "",
-      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Site-Reliability-Engineer--SRE----II_R0071421",
-      "posted": "2026-05-29",
-      "id": "a6fd76e66cff",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Huntington Bank",
       "title": "Junior Backend Java Developer (Enterprise Payments/Credit Card)",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Junior-Backend-Java-Developer--Enterprise-Payments-Credit-Card-_R0071836",
@@ -708,17 +532,6 @@
     },
     {
       "firm": "Huntington Bank",
-      "title": "Site Reliability Engineer (SRE) \u2013 II",
-      "location": "",
-      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Site-Reliability-Engineer--SRE----II_R0064284",
-      "posted": "2026-05-29",
-      "id": "3f932a4d1543",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Huntington Bank",
       "title": "IS Technical Specialist (Application Architect)",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist--Application-Architect-_R0073427",
@@ -817,17 +630,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Abbott (Columbus)",
-      "title": "AI/Data Engineer",
-      "location": "",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/AI-Data-Engineer_31150268-2",
-      "posted": "2026-05-29",
-      "id": "2d05bd4441c4",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "Encova Insurance",
       "title": "Senior Software Engineer, AWS",
       "location": "Columbus, OH",
@@ -872,67 +674,12 @@
       "readme_posted": true
     },
     {
-      "firm": "Westfield Insurance",
-      "title": "Information Security Engineer",
-      "location": "Westfield Center, OH, United States",
-      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11788",
-      "posted": "2026-04-01",
-      "id": "4c2ac6bf4c8f",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Westfield Insurance",
-      "title": "Senior DevOps Engineer",
-      "location": "Westfield Center, OH, United States",
-      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11776",
-      "posted": "2026-03-23",
-      "id": "827d70df76fe",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Westfield Insurance",
-      "title": "AI Engineer",
-      "location": "Westfield Center, OH, United States",
-      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11651",
-      "posted": "2026-02-05",
-      "id": "e04b91905708",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "STERIS",
-      "title": "Senior Software Engineer",
-      "location": "Mentor, Ohio",
-      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53208&jobPipeline=PhenomCareerSite",
-      "posted": "2026-04-08T00:00:00.000+0000",
-      "id": "f6858c83eaa9",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "STERIS",
       "title": "Enterprise Data Modeler / Data Architect",
       "location": "Mentor, Ohio",
       "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=51962&jobPipeline=PhenomCareerSite",
       "posted": "2026-05-04T00:00:00.000+0000",
       "id": "2df17b6d2293",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "STERIS",
-      "title": "Lead Cloud Software Engineer - Connected Healthcare",
-      "location": "Mentor, Ohio",
-      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53410&jobPipeline=PhenomCareerSite",
-      "posted": "2026-04-08T00:00:00.000+0000",
-      "id": "7dc38d0ffedb",
       "first_seen": "2026-06-28T00:54:32+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
       "readme_posted": true
@@ -988,17 +735,6 @@
       "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=55006&jobPipeline=PhenomCareerSite",
       "posted": "2026-06-26T00:00:00.000+0000",
       "id": "651d42d8d430",
-      "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "STERIS",
-      "title": "Senior Manager, Software Engineering",
-      "location": "Mentor, Ohio",
-      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53669&jobPipeline=PhenomCareerSite",
-      "posted": "2026-04-08T00:00:00.000+0000",
-      "id": "5acb451f42f9",
       "first_seen": "2026-06-28T00:54:32+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
       "readme_posted": true
@@ -1202,17 +938,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Apex Systems",
-      "title": "Security Software Data Engineer - Venafi and/or CyberArk",
-      "location": "Virtual, OH",
-      "url": "https://www.apexsystems.com/job/3027515_usa/security-software-data-engineer----venafi-andor-cyberark",
-      "posted": "2026-03-25",
-      "id": "bc6fadc28878",
-      "first_seen": "2026-06-28T00:18:04+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "Robert Half",
       "title": "Software Engineer",
       "location": "Cincinnati, 04951",
@@ -1221,17 +946,6 @@
       "id": "e7edb11a5da0",
       "first_seen": "2026-06-28T00:18:04+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Cynet Systems",
-      "title": "SRE Engineer",
-      "location": "Ohio",
-      "url": "https://candidateportal.ceipal.com/job-details/AhzYUANXPGxwUbGJMVUdb61hEJPhQYDBUHpXeHu9lv4",
-      "posted": "2026-02-17",
-      "id": "deb748729e25",
-      "first_seen": "2026-06-28T00:18:04+00:00",
-      "last_seen": "2026-06-28T00:18:04+00:00",
       "readme_posted": true
     },
     {
@@ -1263,17 +977,6 @@
       "url": "https://agilityconnect.io/jobs/8171",
       "posted": "2026-06-23",
       "id": "7aff509c64a5",
-      "first_seen": "2026-06-28T00:18:04+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Agility Connect",
-      "title": "Senior Java Developer",
-      "location": "Cincinnati, OH",
-      "url": "https://agilityconnect.io/jobs/8070",
-      "posted": "2026-04-23",
-      "id": "4d0f34e1dde5",
       "first_seen": "2026-06-28T00:18:04+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
       "readme_posted": true
@@ -1334,39 +1037,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Beacon Hill",
-      "title": "Power BI & Azure Web App Developer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1463823-kab_1782481897-power-bi-azure-web-app-developer-tampa-florida/",
-      "posted": "2026-06-26",
-      "id": "ae71a16cd987",
-      "first_seen": "2026-06-28T00:18:04+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Senior Software Engineer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1460828tpa-kab_1782398663-senior-software-engineer-tampa-florida/",
-      "posted": "2026-06-25",
-      "id": "0653880a3f90",
-      "first_seen": "2026-06-28T00:18:04+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Senior Data Scientist",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1463815tpa-kab_1782323257-senior-data-scientist-tampa-florida/",
-      "posted": "2026-06-24",
-      "id": "3357d21fa8e6",
-      "first_seen": "2026-06-28T00:18:04+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "CareSource",
       "title": "Health Plan Data Analyst III (Health Plan & Provider experience a must)",
       "location": "Remote",
@@ -1408,83 +1078,6 @@
       "id": "59d75b43623d",
       "first_seen": "2026-06-28T00:18:04+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "84.51\u00b0",
-      "title": "Director Data Science (P2415)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8476911002",
-      "posted": "2026-04-01T13:27:07-04:00",
-      "id": "328a8e37bc58",
-      "first_seen": "2026-06-27T23:58:34+00:00",
-      "last_seen": "2026-06-28T17:08:07+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "84.51\u00b0",
-      "title": "Lead API Platform Engineer (P181)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8426909002",
-      "posted": "2026-04-02T14:43:49-04:00",
-      "id": "857d24ce9441",
-      "first_seen": "2026-06-27T23:58:34+00:00",
-      "last_seen": "2026-06-28T17:08:07+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "84.51\u00b0",
-      "title": "Lead Cloud Engineer (P486)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8503221002",
-      "posted": "2026-04-12T17:45:48-04:00",
-      "id": "8d134e2f369d",
-      "first_seen": "2026-06-27T23:58:34+00:00",
-      "last_seen": "2026-06-28T17:08:07+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "84.51\u00b0",
-      "title": "Lead Data Scientist (P3764)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8497437002",
-      "posted": "2026-04-20T15:43:24-04:00",
-      "id": "4cf3be6b61b9",
-      "first_seen": "2026-06-27T23:58:34+00:00",
-      "last_seen": "2026-06-28T17:08:07+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "84.51\u00b0",
-      "title": "Senior Agile Delivery-AI Proprietary Models + AI Hub (P4572)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8481969002",
-      "posted": "2026-04-14T08:56:35-04:00",
-      "id": "71351ad5f134",
-      "first_seen": "2026-06-27T23:58:34+00:00",
-      "last_seen": "2026-06-28T17:08:07+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "84.51\u00b0",
-      "title": "Senior Data Scientist Consultant - Agentic Platform (P4339)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8454763002",
-      "posted": "2026-04-07T13:52:40-04:00",
-      "id": "e30eb72d0bba",
-      "first_seen": "2026-06-27T23:58:34+00:00",
-      "last_seen": "2026-06-28T17:08:07+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "84.51\u00b0",
-      "title": "Senior Data Scientist (P1553)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8496709002",
-      "posted": "2026-04-20T09:37:34-04:00",
-      "id": "cac8d319eae5",
-      "first_seen": "2026-06-27T23:58:34+00:00",
-      "last_seen": "2026-06-28T17:08:07+00:00",
       "readme_posted": true
     },
     {
@@ -1692,50 +1285,6 @@
       "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Principal-Platform-Engineer--Customer-Communication--Orchestration_JR0609872",
       "posted": "",
       "id": "4d33c87c1716",
-      "first_seen": "2026-06-27T23:56:59+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Nationwide",
-      "title": "Sr Engineer, Software Engineer - Retirement Solutions - Java/Angular",
-      "location": "",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Retirement-Solutions---Java-Angular_098759",
-      "posted": "",
-      "id": "baa99e30496a",
-      "first_seen": "2026-06-27T23:56:59+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Nationwide",
-      "title": "Consultant, Software Engineer - Angular and .Net",
-      "location": "",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Angular-and-Net_098686",
-      "posted": "",
-      "id": "ea332444a844",
-      "first_seen": "2026-06-27T23:56:59+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Nationwide",
-      "title": "AVP, Software Engineering Leader",
-      "location": "",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/AVP--Software-Engineering-Leader_098912",
-      "posted": "",
-      "id": "f6bef9b3b494",
-      "first_seen": "2026-06-27T23:56:59+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Nationwide",
-      "title": "Specialist, Software Engineer",
-      "location": "",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer_098142-1",
-      "posted": "",
-      "id": "cc139184747b",
       "first_seen": "2026-06-27T23:56:59+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
       "readme_posted": true
@@ -2016,28 +1565,6 @@
       "readme_posted": true
     },
     {
-      "firm": "FirstEnergy",
-      "title": "Data Analyst",
-      "location": "Akron, OH, United States",
-      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104171",
-      "posted": "2026-04-27",
-      "id": "ff1109dc9b4e",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "FirstEnergy",
-      "title": "Senior Data Analyst",
-      "location": "Akron, OH, United States",
-      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104173",
-      "posted": "2026-04-27",
-      "id": "45030674219b",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "First Solar",
       "title": "Engineer- IT AI II USA",
       "location": "Perrysburg, OH, United States",
@@ -2132,83 +1659,6 @@
       "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32482884#/jobs/32482884",
       "posted": "2026-06-22",
       "id": "135491dce2b0",
-      "first_seen": "2026-06-23T15:10:10+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Endpoint Security Engineer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/1462533_1782221165-endpoint-security-engineer-charlotte-north-carolina/",
-      "posted": "2026-06-23",
-      "id": "22c53ebd4620",
-      "first_seen": "2026-06-23T15:10:10+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Sr Front-End Engineer \u2013 Angular / SSR",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/ns-angdo-ns_1782176956-sr-front-end-engineer-angular-ssr-orlando-florida/",
-      "posted": "2026-06-23",
-      "id": "f5694c8dcf0a",
-      "first_seen": "2026-06-23T15:10:10+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Lead/Principal AI Engineer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/ns-aied-ns_1782175946-lead-principal-ai-engineer-seattle-washington/",
-      "posted": "2026-06-23",
-      "id": "5149df884e19",
-      "first_seen": "2026-06-23T15:10:10+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Data Analyst, HMIS",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/13242434_1782172864-data-analyst-hmis-los-angeles-california/",
-      "posted": "2026-06-23",
-      "id": "29aa85150dde",
-      "first_seen": "2026-06-23T15:10:10+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Sr Network Cloud Security Engineer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/tftl-1462475zm_1782163040-sr-network-cloud-security-engineer-fort-lauderdale-florida/",
-      "posted": "2026-06-22",
-      "id": "a28d2626c2b0",
-      "first_seen": "2026-06-23T15:10:10+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Digital Solutions Architect (AWS Applications)",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/pbmad052926_1782155289-digital-solutions-architect-aws-applications-madison-wisconsin/",
-      "posted": "2026-06-22",
-      "id": "164515f350fa",
-      "first_seen": "2026-06-23T15:10:10+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Data Scientist (Medical Device)",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/san-tt1463225_1782150656-data-scientist-medical-device-san-diego-california/",
-      "posted": "2026-06-22",
-      "id": "f611a0268656",
       "first_seen": "2026-06-23T15:10:10+00:00",
       "last_seen": "2026-06-23T15:10:10+00:00",
       "readme_posted": true
@@ -2387,17 +1837,6 @@
       "id": "daac1ae6276c",
       "first_seen": "2026-06-21T10:22:04+00:00",
       "last_seen": "2026-06-21T10:22:04+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Vaco",
-      "title": "Tagging And Metadata Analyst Streaming Platform French German Or Polish Speaking",
-      "location": "",
-      "url": "https://jobs.vaco.com/job/11780/tagging_and_metadata_analyst_streaming_platform_french_german_or_polish_speaking/en",
-      "posted": "2026-06-21",
-      "id": "c44571c1a2b8",
-      "first_seen": "2026-06-21T07:51:29+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
       "readme_posted": true
     },
     {
@@ -2621,28 +2060,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Brooksource",
-      "title": "Full Stack Developer \u2013 Robotics",
-      "location": "",
-      "url": "https://jobs.brooksource.com/jobs/job/a1wcv000000gxoteaq-full-stack-developer-robotics-orlando-florida/",
-      "posted": "2026-06-19",
-      "id": "57411a09a9fc",
-      "first_seen": "2026-06-19T21:47:39+00:00",
-      "last_seen": "2026-06-28T00:54:32+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Brooksource",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://jobs.brooksource.com/jobs/job/a1wcv000000gzk1eai-data-analyst-lake-mary-florida/",
-      "posted": "2026-06-19",
-      "id": "f404925f85ff",
-      "first_seen": "2026-06-19T21:47:39+00:00",
-      "last_seen": "2026-06-23T13:16:27+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "Kforce",
       "title": "Data Scientist Level 2",
       "location": "Cincinnati, OH",
@@ -2682,17 +2099,6 @@
       "url": "https://www.apexsystems.com/job/3037308_usa/information-security-engineer-iv",
       "posted": "2026-06-05",
       "id": "464e93ce4e53",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Apex Systems",
-      "title": "Network Real Estate Specialist / Developer",
-      "location": "Remote, CA",
-      "url": "https://www.apexsystems.com/job/3031695_usa/network-real-estate-specialist--developer",
-      "posted": "2026-04-28",
-      "id": "e6692775c55b",
       "first_seen": "2026-06-19T21:32:50+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
       "readme_posted": true
@@ -2863,17 +2269,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Agility Connect",
-      "title": "Senior Data Engineer",
-      "location": "Columbus, OH",
-      "url": "https://agilityconnect.io/jobs/7984",
-      "posted": "2026-04-22",
-      "id": "70bdc3b4c435",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "Pinnacle Group",
       "title": "AI Technical Analyst",
       "location": "Remote US",
@@ -2918,149 +2313,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Belcan",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365851&apply=yes&",
-      "posted": "2026-6-17",
-      "id": "e0efcab8d439",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365890&apply=yes&",
-      "posted": "2026-6-18",
-      "id": "d1cbe70d930e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Senior Software Engineer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365889&apply=yes&",
-      "posted": "2026-6-18",
-      "id": "fae1d94e3b59",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365882&apply=yes&",
-      "posted": "2026-6-18",
-      "id": "c7ba92f3e31e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365799&apply=yes&",
-      "posted": "2026-6-16",
-      "id": "9e4913861d71",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Entry Level Software Engineer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365797&apply=yes&",
-      "posted": "2026-6-16",
-      "id": "5fa626b4c5ed",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-22T16:43:05+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Data Scientist",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=364968&apply=yes&",
-      "posted": "2026-5-12",
-      "id": "72c531cfcb07",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-22T16:43:05+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Embedded Software Engineer - ADV",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365910&apply=yes&",
-      "posted": "2026-6-19",
-      "id": "d94d18c86195",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Embedded Software Engineer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365865&apply=yes&",
-      "posted": "2026-6-17",
-      "id": "58fd3d41ec93",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Embedded Software Engineer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365836&apply=yes&",
-      "posted": "2026-6-17",
-      "id": "dfa11899d3a4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "Engineer Embedded Software 3",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365522&apply=yes&",
-      "posted": "2026-6-4",
-      "id": "91be71aebaba",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T13:16:27+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Belcan",
-      "title": "SMT (Surface Mount Technology) Technician/Programmer",
-      "location": "",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365732&apply=yes&",
-      "posted": "2026-6-12",
-      "id": "15e66f205c71",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Brooksource",
-      "title": "Jr Data Engineer",
-      "location": "",
-      "url": "https://jobs.brooksource.com/jobs/job/a1wcv000000gj7beaq-jr-data-engineer-baltimore-maryland/",
-      "posted": "2026-06-19",
-      "id": "6e5531f94ab1",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-28T00:54:32+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "Fast Switch",
       "title": "Senior Full Stack & GenAI Developer",
       "location": "Location: Cleveland, Ohio",
@@ -3080,149 +2332,6 @@
       "id": "3f6913b85003",
       "first_seen": "2026-06-19T21:32:50+00:00",
       "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Cloud Engineer / Site Reliability Engineer (SRE)",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/ns-sredf-ns_1781815644-cloud-engineer-site-reliability-engineer-sre-orlando-florida/",
-      "posted": "2026-06-18",
-      "id": "e824e5b77c1e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-22T19:20:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Senior Software Engineer (Java)\u2013100% Remote contract",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/hsmad61726_1781752012-senior-software-engineer-java-100-remote-contract-madison-wisconsin/",
-      "posted": "2026-06-18",
-      "id": "7d4a7954b735",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Software Developer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1462666-phi_1781725415-software-developer-galloway-new-jersey/",
-      "posted": "2026-06-17",
-      "id": "de585917da3c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-28T01:36:12+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "SQL Developer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1463060-phi_1781638496-sql-developer-plainsboro-new-jersey/",
-      "posted": "2026-06-16",
-      "id": "35148dd38107",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Senior GCP Cloud Engineer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1462333-phi_1781637277-senior-gcp-cloud-engineer-claymont-delaware/",
-      "posted": "2026-06-16",
-      "id": "97138e779f8a",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Endpoint Security Engineer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/1462533_1781616161-endpoint-security-engineer-charlotte-north-carolina/",
-      "posted": "2026-06-16",
-      "id": "6a85b9dae168",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T13:16:27+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "100%Remote-Sr Backend Eng (AWS Lambda / Serverless)",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/ns-awsa-ns_1781545795-100remote-sr-backend-eng-aws-lambda-serverless-irvine-california/",
-      "posted": "2026-06-15",
-      "id": "7ee77c030946",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "AI Analytics Engineer \u2013 Qlik & Semantic Layer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1462553-phi_1781469040-ai-analytics-engineer-qlik-semantic-layer-philadelphia-pennsylvania/",
-      "posted": "2026-06-14",
-      "id": "361719d74a55",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Sr. Data Engineer",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/t1454624chs-lf_1781279123-sr-data-engineer-huntsville-alabama/",
-      "posted": "2026-06-12",
-      "id": "35e2d6273c9a",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "OIPA Configuration Developer\u2013100% Remote\u2013C2H",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/hsmad61126_1781221120-oipa-configuration-developer-100-remote-c2h-madison-wisconsin/",
-      "posted": "2026-06-11",
-      "id": "955d6a524343",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-23T15:10:10+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Cyber Security Engineer (DataDog)",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/1459845_1781184965-cyber-security-engineer-datadog-washington-district-of-columbia/",
-      "posted": "2026-06-11",
-      "id": "4af4fa6e4cee",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-22T19:20:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "Software Developer (#669863E)",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/software-developer-669863e/",
-      "posted": "2026-06-10",
-      "id": "1c51f7a4adad",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-22T16:43:05+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Beacon Hill",
-      "title": "MLR Operations Print & Fulfillment Manager",
-      "location": "",
-      "url": "https://bhsg.com/jobs/job/1461491lmm_1781105007-mlr-operations-print-fulfillment-manager-cambridge-massachusetts/",
-      "posted": "2026-06-10",
-      "id": "0e9b68109b27",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-22T11:11:41+00:00",
       "readme_posted": true
     }
   ]
