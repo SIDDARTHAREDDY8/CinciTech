@@ -56,18 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 219 tracked total · updated `2026-06-28T21:03:43+00:00`
+### 🆕 2 new roles this update · 221 tracked total · updated `2026-06-28T21:56:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 2 |
-| L3Harris | 1 |
+| Robert Half | 1 |
+| Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Python Developer - Entry-Experienced](https://uscareers-medpace.icims.com/jobs/12736/login) | Medpace | Cincinnati, Ohio | 2026-06-28 |
-| [AI Scientist](https://uscareers-medpace.icims.com/jobs/12097/login) | Medpace | Cincinnati, Ohio | 2026-06-28 |
-| [Lead, Software Engineering](https://careers.l3harris.com/en/job/mason/lead-software-engineering/4832/94530013536) | L3Harris | Mason, OH | 2026-06-28 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-28 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/XqXDBitIj4T6pdxFxAdrP1rFxOmNwpsShtBM0y5sQUc) | Cynet Systems | Ohio | 2026-06-28 |
 <!-- JOBS:END -->
 
 ## How it works
