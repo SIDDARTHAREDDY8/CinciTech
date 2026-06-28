@@ -1,0 +1,2173 @@
+# StaffingBuddy — firm configs
+#
+# Two scrape modes per firm:
+#
+#   mode: api   -> we call the JSON endpoint the careers page calls behind the scenes
+#                  (fast, stable, no browser). Find it in DevTools > Network > XHR.
+#   mode: dom   -> Playwright renders the page, we read job cards via CSS selectors
+#                  (works on anything, slower, breaks when they redesign).
+#
+# Each firm produces job dicts with: title, location, url, posted, firm
+#
+# Kforce below is a CONFIRMED-WORKING api example (Azure Search POST endpoint,
+# discovered via DevTools > Network). The dom firms are STARTING POINTS whose
+# search URLs + selectors still need calibrating against the live site — see
+# README "Calibrating a firm".
+
+firms:
+  # ---------------------------------------------------------------- WORKING ----
+  - name: "Kforce"
+    mode: api
+    search_url: "https://www.kforce.com/find-work/search-jobs/"
+    api:
+      method: POST
+      url: "https://kforcewebeast.search.windows.net/indexes/kforcewebjobentity/docs/search?api-version=2016-09-01"
+      headers:
+        api-key: "1603E4DC4C87A8E41D6BBDE4EEA4EFB7"
+        Content-Type: "application/json; charset=UTF-8"
+        Accept: "application/json"
+      json_body:
+        count: true
+        select: "Title, Id, PostDate, City, State, Zip, TypeCode, ApplyUrl, Industry"
+        filter: ""
+        queryType: "simple"
+        search: "data"            # <- search term; broaden/narrow here
+        searchFields: "Title, Responsibilities, Skills, City, State"
+        searchMode: "any"
+        skip: 0
+        top: 50
+      paginate:
+        in: json_body
+        param: skip
+        size: 50
+        max_pages: 3
+      list_path: "value"
+      url_prefix: "https://www.kforce.com"
+      # ApplyUrl points at the apply flow; strip '/ApplyOnline...' -> job-description page
+      url_regex_sub: { pattern: "/ApplyOnline.*$", repl: "/" }
+      fields:
+        title: "Title"
+        location: ["City", "State"]
+        url: "ApplyUrl"
+        posted: "PostDate"
+    location_filter: ["United States", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "TEKsystems"
+    mode: api
+    # CONFIRMED working (Phenom People refineSearch API). global:true + empty
+    # locationData removes the 50mi geo-limit -> nationwide. Paginated via `from`.
+    search_url: "https://careers.teksystems.com/us/en/search-results?keywords=data"
+    api:
+      method: POST
+      url: "https://careers.teksystems.com/widgets"
+      headers:
+        Content-Type: "application/json"
+        Accept: "application/json"
+        User-Agent: "Mozilla/5.0 OhioTechJobs"
+      json_body:
+        lang: "en_us"
+        deviceType: "desktop"
+        country: "us"
+        pageName: "search-results"
+        ddoKey: "refineSearch"
+        sortBy: "Most recent"
+        from: 0
+        jobs: true
+        counts: true
+        all_fields: ["category", "state", "city", "type"]
+        size: 100
+        clearAll: false
+        jdsource: "facets"
+        isSliderEnable: false
+        pageId: "page10"
+        siteType: "external"
+        keywords: "data"
+        global: true
+        selected_fields: {}
+        locationData: {}
+      paginate:
+        in: json_body
+        param: from
+        size: 100
+        max_pages: 3
+      list_path: "refineSearch.data.jobs"
+      # applyUrl goes to apply.teksystems.com (apply flow). Build the JD page URL
+      # from jobId + a hyphenated title slug instead.
+      url_template: "https://careers.teksystems.com/us/en/job/{jobId}/{slug:title}"
+      fields:
+        title: "title"
+        location: "cityState"
+        url: "applyUrl"
+        posted: "postedDate"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "CyberCoders"
+    mode: api
+    enabled: false
+    # API reachable (GET, Solr-backed) BUT keyword search is NOT replicable — the
+    # ccv5-jobs/search endpoint ignores searchterms and returns all ~4,000 jobs
+    # (keyword filtering happens via a server-side search session we don't hold).
+    # CyberCoders is also multi-industry (tax/legal/medical), so the date-sorted
+    # firehose yields very few data/ML roles. Low ROI — left here as a documented
+    # dead-end. Revisit only if we replicate the search-session token.
+    search_url: "https://www.cybercoders.com/search/?searchterms=data"
+    api:
+      method: GET
+      url: "https://www.cybercoders.com/ccv5-jobs/search"
+      headers:
+        Accept: "application/json"
+        User-Agent: "Mozilla/5.0 OhioTechJobs"
+      params:
+        searchterms: "data"
+        rows: 50
+        page: 1
+        sortType: "posted"
+        daysPosted: 0
+        buid: 1
+      list_path: "jobs"
+      url_prefix: "https://www.cybercoders.com"
+      fields:
+        title: "jobTitle"
+        location: ["City", "StateCode"]
+        url: "JobURL"
+        posted: "DatePost"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Insight Global"
+    mode: html
+    # Jobs are server-rendered (curl_cffi reads them) on the jobs.* subdomain.
+    # The site paginates via ASP.NET POST (no GET param works), so instead we run
+    # several search terms and merge — each term returns ~10 results.
+    search_url: "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer&orderby=recent"
+    url_prefix: "https://jobs.insightglobal.com"
+    detail_date: true   # real Post Date is microdata on the detail page, not the listing
+    urls:
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=software+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+scientist&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=full+stack+developer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=python+developer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+analyst&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=devops+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=cloud+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=machine+learning&orderby=recent"
+    selectors:
+      card: "div.result"
+      title: ".job-title"
+      location: ".job-info"
+      link: "a[href*='/job-']"
+    location_split: "|"     # job-info is "City, ST | Category | Perm | $..."
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ---------------------------------- FREE sitemap bypass (Cloudflare-walled) ---
+  # These sites block headless browsers, but serve their XML job sitemap to search
+  # engines — so we read it directly. No browser, no Apify, no cost. Title is
+  # derived from the URL slug; location/date are limited (sitemap only).
+  # Apex Systems: LIVE & FREE via its Drupal search endpoint (found in the page's
+  # ajaxTrustedUrl). curl_cffi bypasses Cloudflare; the server renders a job-table.
+  # Empty query returns nothing, so we run several broad terms and merge/dedup.
+  # (Its sitemap.xml is a dead 2021-24 cache — do NOT use it.)
+  - name: "Apex Systems"
+    mode: html
+    search_url: "https://www.apexsystems.com/search-results-usa"
+    url_prefix: "https://www.apexsystems.com"
+    urls:
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=engineer"
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=developer"
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=data"
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=software"
+    selectors:
+      card: "table.job-table tr"
+      title: "a.job-title-link"
+      location: ["td:nth-of-type(2)", "td:nth-of-type(3)"]
+      posted: "td:nth-of-type(4)"
+      link: "a.job-title-link"
+      require_link: true
+    location_filter: []
+
+  - name: "Robert Half"
+    mode: sitemap
+    search_url: "https://www.roberthalf.com/us/en/jobs"
+    # The sitemap re-stamps <lastmod> to "today" on every crawl, so it's useless as
+    # a post date (made every job look posted-today). Ignore it and read the REAL
+    # datePosted off each JD page, then drop anything older than ~3 weeks.
+    detail_date: true
+    max_age_days: 21
+    sitemap:
+      url: "https://www.roberthalf.com/content/roberthalf.sitemap.us-external-job-details-sitemap.xml"
+      job_match: "/job/"
+      ignore_lastmod: true
+      max: 4000
+    # RH's sitemap lists many EXPIRED jobs (they redirect away from /job/). Verify
+    # each is live and prune dead ones from the board.
+    verify_live:
+      must_contain: "/job/"
+    location_filter: []
+
+  # Vaco: SPA with a CSRF-protected search API (hard), but exposes a job sitemap.
+  # The sitemap has no location/date, so detail_date enrichment backfills both, then
+  # the US + recency (45d) filters run post-enrichment.
+  - name: "Vaco"
+    mode: sitemap
+    search_url: "https://jobs.vaco.com/home"
+    detail_date: true
+    max_age_days: 45
+    sitemap:
+      url: "https://jobs.vaco.com/jobs-sitemap.xml"
+      job_match: "/job/"
+      ignore_lastmod: true   # sitemap stamps everything with today; use real datePosted
+      max: 4000
+    location_filter: []
+
+  # Alldus: AI/ML & Data Engineering specialist (WordPress / Staffing-Future). The
+  # job_listing sitemap enumerates every posting; detail pages carry JSON-LD
+  # JobPosting with addressCountry/Locality + real datePosted. Sitemap lastmods are
+  # all stamped "now", so ignore them and trust datePosted (old internal recruiter
+  # reqs from 2023 get pruned by the 60-day default recency cap).
+  - name: "Alldus"
+    mode: sitemap
+    search_url: "https://www.alldus.com/jobs/"
+    detail_date: true
+    sitemap:
+      url: "https://alldus.com/job_listing-sitemap.xml"
+      job_match: "/job/"
+      ignore_lastmod: true
+      max: 4000
+    location_filter: []
+
+  # CornerStone TTS (Technology Talent Services): woman-owned IT staffing (TX/NC/
+  # SC/GA/FL/AZ). Top Echelon / Big Biller board — the search page is JS-rendered,
+  # but rss/rss.smpl exposes every job with a clean title, link, and real pubDate.
+  - name: "CornerStone TTS"
+    mode: rss
+    search_url: "https://jobs.cornerstonetechtalent.com/"
+    max_age_days: 60
+    rss:
+      url: "https://jobs.cornerstonetechtalent.com/rss/rss.smpl"
+
+  # Strategic Staffing Solutions (S3): national IT consulting/staffing (Detroit).
+  # Board is WordPress (recruiterwp); the job sitemap enumerates every posting and
+  # detail pages carry JSON-LD JobPosting (datePosted, addressLocality). detail_date
+  # backfills date+location, then US + 60-day filters run (S3 has some intl roles).
+  - name: "Strategic Staffing Solutions"
+    mode: sitemap
+    search_url: "https://jobs.strategicstaff.com/"
+    detail_date: true
+    sitemap:
+      url: "https://jobs.strategicstaff.com/recruiterwp_job-sitemap.xml"
+      job_match: "/jobs/"
+      ignore_lastmod: true
+      max: 4000
+    location_filter: []
+
+  # ProFocus Technology: Portland tech staffing (data/BI/AI/cloud/dev). WordPress
+  # + EchoJobs plugin; the echojobs sitemap lists every posting. Detail pages have
+  # no JSON-LD, so no date/location enrichment — title comes from the slug and
+  # freshness from first_seen. Small board (~15) but all IT.
+  - name: "ProFocus"
+    mode: sitemap
+    search_url: "https://www.profocustechnology.com/jobs"
+    sitemap:
+      url: "https://www.profocustechnology.com/echojobs-sitemap.xml"
+      job_match: "/echojobs/"
+      ignore_lastmod: true
+      max: 4000
+    location_filter: []
+
+  # SolTech: Atlanta software/dev staffing. Old iCIMS portal is dead — jobs now on
+  # a Tracker-RMS "Lite" portal that server-renders every job (title h3, location,
+  # "Posted on DD Month YY" date, and a /Opportunity/LiteJob?...&id= link).
+  - name: "SolTech"
+    mode: html
+    search_url: "https://evoportalus.tracker-rms.com/Opportunity/Lite/?db=Soltech"
+    url: "https://evoportalus.tracker-rms.com/Opportunity/Lite/?db=Soltech"
+    url_prefix: "https://evoportalus.tracker-rms.com"
+    max_age_days: 60
+    selectors:
+      card: "div.fj_post"
+      title: "h3"
+      link: "a[href*='LiteJob']"
+      location: "ul.featurej_post li"
+      posted: "span.fw600"
+      require_link: true
+    location_filter: []
+
+  # Talent Groups: Healthcare/IT staffing (Bullhorn-backed, Shazamme front-end).
+  # The SPA fetches a public Shazamme JSON feed (list of {data:{...}}) with a
+  # ready-made jobURL and ISO addedOnUTC date — wire it straight as api mode.
+  - name: "Talent Groups"
+    mode: api
+    search_url: "https://www.talentgroups.com/jobs"
+    max_age_days: 60
+    api:
+      url: "https://shazamme.io/job-results/08ee2cd8-7bbf-4fb2-b77a-14b746f4cb57"
+      list_path: ""
+      fields:
+        title: "data.jobName"
+        url: "data.jobURL"
+        location: ["data.city", "data.state"]   # feed is 100% US
+        posted: "data.addedOnUTC"
+    location_filter: []
+
+  # TRU Staffing Partners: cybersecurity/eDiscovery (Bullhorn career portal). The
+  # SPA hits Bullhorn's PUBLIC REST JobBoardPost query API (no auth) — a reusable
+  # pattern for ANY Bullhorn portal: find the firm's corpToken (72YPD) + swimlane
+  # (rest30) in its network tab. id lives in the #fragment (which identity strips),
+  # so we also stash it as ?jobid= to keep each job unique. Mostly legal roles; the
+  # IT-title filter keeps the few software/AI ones.
+  - name: "TRU Staffing Partners"
+    mode: api
+    search_url: "https://jobs.trustaffingpartners.com/"
+    api:
+      url: "https://public-rest30.bullhornstaffing.com/rest-services/72YPD/query/JobBoardPost"
+      params:
+        fields: "id,title,address(city,state),employmentType,dateLastPublished"
+        where: "(isOpen=true AND isDeleted=false)"
+        orderBy: "-dateLastPublished"
+        count: "200"
+      headers:
+        Referer: "https://jobs.trustaffingpartners.com/"
+      list_path: "data"
+      url_template: "https://jobs.trustaffingpartners.com/?jobid={id}#/jobs/{id}"
+      fields:
+        title: "title"
+        url: "id"
+        location: ["address.city", "address.state"]
+    location_filter: []
+
+  # Stanton House: UK-based exec search with a US desk (cyber/IT/finance). Next.js
+  # site backed by Google Cloud Talent Solution (_sf/api/v1/jobs/search.json POST).
+  # address="United States" returns US-only; cursor pagination walks all pages via
+  # the metadata.next_page_token fed back into job_search.page_token.
+  - name: "Stanton House"
+    mode: api
+    search_url: "https://www.stantonhouse.com/jobs"
+    api:
+      url: "https://www.stantonhouse.com/_sf/api/v1/jobs/search.json"
+      method: POST
+      headers:
+        Referer: "https://www.stantonhouse.com/us/jobs"
+      json_body:
+        job_search:
+          query: ""
+          location: {address: "United States", radius: 3000, region: "US", radius_units: "miles"}
+          filters: {}
+      paginate:
+        mode: cursor
+        token_path: "metadata.next_page_token"
+        param: "job_search.page_token"
+        in: "json_body"
+        max_pages: 6
+      list_path: "results"
+      url_prefix: "https://www.stantonhouse.com/us/jobs"   # bare /jobs/ lands on the UK site
+      fields:
+        title: "job.title"
+        url: "job.url_slug"
+        location: ["job.original_location"]
+        posted: "job.published_at"
+    location_filter: []
+
+  # Mondo: national digital/tech/data staffing (Addison Group). The /jobs section
+  # is a RecruitingHop widget that 403s plain HTTP and renders only in a browser —
+  # so we use dom mode. /jobs/all-jobs lists every role as li.list-group-item with
+  # an h2 title, a <strong> "City, ST, ZIP", and a /jobs/job/<slug>/<hash> link.
+  - name: "Mondo"
+    mode: dom
+    search_url: "https://mondo.com/jobs/all-jobs"
+    wait_until: domcontentloaded
+    scroll_passes: 14
+    selectors:
+      card: "li.list-group-item"
+      title: "h2"
+      location: "strong"
+      link: "a"
+    location_filter: []
+
+  # ============================================================ SMARTRECRUITERS ==
+  # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
+  # and change the company id in BOTH the api.url and api.url_prefix. Find the id by
+  # testing https://api.smartrecruiters.com/v1/companies/<Id>/postings?limit=1
+  - name: "Collabera"
+    mode: api
+    search_url: "https://careers.smartrecruiters.com/Collabera2"
+    api:
+      method: GET
+      url: "https://api.smartrecruiters.com/v1/companies/Collabera2/postings"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { limit: 100, offset: 0 }
+      paginate: { in: params, param: offset, size: 100, max_pages: 3 }
+      list_path: "content"
+      url_prefix: "https://jobs.smartrecruiters.com/Collabera2"
+      fields:
+        title: "name"
+        location: ["location.city", "location.region"]
+        url: "id"
+        posted: "releasedDate"
+    location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Mastech Digital"
+    mode: api
+    search_url: "https://careers.smartrecruiters.com/MastechDigital"
+    api:
+      method: GET
+      url: "https://api.smartrecruiters.com/v1/companies/MastechDigital/postings"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { limit: 100, offset: 0 }
+      list_path: "content"
+      url_prefix: "https://jobs.smartrecruiters.com/MastechDigital"
+      fields:
+        title: "name"
+        location: ["location.city", "location.region"]
+        url: "id"
+        posted: "releasedDate"
+    location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Synechron"
+    mode: api
+    search_url: "https://careers.smartrecruiters.com/Synechron"
+    api:
+      method: GET
+      url: "https://api.smartrecruiters.com/v1/companies/Synechron/postings"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { limit: 100, offset: 0 }
+      list_path: "content"
+      url_prefix: "https://jobs.smartrecruiters.com/Synechron"
+      fields:
+        title: "name"
+        location: ["location.city", "location.region"]
+        url: "id"
+        posted: "releasedDate"
+    location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # Russell Tobin (Pride Global) — JobDiva candidate portal.
+  - name: "Russell Tobin"
+    mode: jobdiva
+    search_url: "https://www.russelltobin.com/find-work/"
+    jobdiva:
+      a: "nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r"
+      compid: "2"
+      pages: 3
+    location_filter: []
+
+  - name: "CRG"
+    mode: html
+    # Carolina Recruiting Group — Bullhorn career portal (Angular, server-rendered).
+    # Listing has no location; detail_date enrichment backfills it from the detail page.
+    search_url: "https://jobs.getcrg.com"
+    url: "https://jobs.getcrg.com"
+    url_prefix: "https://jobs.getcrg.com"
+    detail_date: true
+    selectors:
+      card: "div.list-item"
+      title: "a[href*='/jobs/']"
+      link: "a[href*='/jobs/']"
+      require_link: true
+    location_filter: []
+
+  # Motion Recruitment: national IT/software CONTRACT specialist (Bullhorn-backed).
+  # /tech-jobs server-renders the newest ~20 jobs as <a> cards whose href encodes
+  # city/type/title/id; the list paginates via a hidden JS API, but the newest-20
+  # is exactly what a freshness board wants on a 3h cadence. detail_date backfills
+  # the real datePosted (JSON-LD) from each job page; 60-day default cap prunes old.
+  - name: "Motion Recruitment"
+    mode: html
+    search_url: "https://motionrecruitment.com/tech-jobs"
+    url: "https://motionrecruitment.com/tech-jobs"
+    url_prefix: "https://motionrecruitment.com"
+    detail_date: true
+    selectors:
+      card: "a:has(h2[class*='JobItem_module_title'])"
+      title: "h2[class*='JobItem_module_title']"
+      location: "div[class*='jobDetailsSection'] p"
+      require_link: true
+    location_filter: []
+
+  # KORE1: national IT staffing (software/cloud/DevOps/data/AI). Uses a SmartSearch
+  # (smartsearchonline.com) board that server-renders every job as a list-group-item
+  # with title, location, and a "Posted M/D/YYYY" date — no enrichment needed.
+  - name: "KORE1"
+    mode: html
+    search_url: "https://search10.smartsearchonline.com/koreone/jobs/"
+    url: "https://search10.smartsearchonline.com/koreone/jobs/"
+    url_prefix: "https://search10.smartsearchonline.com/koreone/jobs/"
+    max_age_days: 60
+    selectors:
+      card: "div.list-group-item"
+      title: "a.coloredlink"
+      link: "a.coloredlink"
+      location: "div.thinrow"
+      posted: "div.thinrow:nth-of-type(2)"
+      require_link: true
+    location_filter: []
+
+  - name: "ASK Consulting"
+    mode: html
+    # Curately/ApostropheCMS — /jobs/list returns HTML cards; data is in
+    # data-job-* attributes (read via @attr selectors).
+    search_url: "https://careers.askconsulting.com/"
+    http: { headers: { Referer: "https://careers.askconsulting.com/", Accept: "*/*" } }
+    urls:
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=0&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=1&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=2&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=3&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=4&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=5&keyword=&aposLocale=en"
+    selectors:
+      card: "[data-job-id]"
+      title: "@data-job-title"
+      location: "@data-job-location"
+      link: "@data-job-applylink"
+      require_link: true
+    location_filter: []
+
+  - name: "Artech"
+    mode: jobdiva
+    search_url: "https://consultingjobs.artech.com/"
+    jobdiva:
+      a: "kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s"
+      compid: "0"
+      portal: "https://www1.jobdiva.com/"
+      pages: 3
+    location_filter: []
+
+  - name: "Mindlance"
+    mode: jobdiva
+    search_url: "https://mindlance.com/job-board/"
+    jobdiva:
+      a: "7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo"
+      compid: "0"
+      pages: 3
+    location_filter: []
+
+  - name: "Net2Source"
+    mode: jobdiva
+    search_url: "https://www.net2source.com/in-house-jobs"
+    jobdiva:
+      a: "fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi"
+      compid: "0"
+      pages: 3
+    location_filter: []
+
+  # =================================================== CEIPAL C2C VENDORS =======
+  # Generic Ceipal adapter. To add a Ceipal firm: view-source its careers page,
+  # find data-ceipal-api-key (apikey) and data-ceipal-career-portal-id (cp_id).
+  - name: "Cynet Systems"
+    mode: ceipal
+    search_url: "https://www.cynetsystems.com/jobs"
+    ceipal:
+      apikey: "ZS9ZemN0eVplUjFrdGU3U3hHS2t5dz09"
+      cp_id: "Z3RkUkt2OXZJVld2MjFpOVRSTXoxZz09"
+      pages: 15
+    location_filter: []
+
+  # Compunnel — StafflinePro platform (app.stafflinepro.com). Azure API gateway
+  # needs ocp-apim-subscription-key + secretkey headers.
+  - name: "Compunnel"
+    mode: api
+    search_url: "https://jobs.compunnel.com"
+    api:
+      method: POST
+      url: "https://prod-centralindia-njp-svc-gateway.azure-api.net/search/v1/job"
+      headers:
+        ocp-apim-subscription-key: "46b7a5e5064046db8eb413c66d43b863"
+        secretkey: "sda43WfR797sWQE"
+        Content-Type: "application/json"
+        Accept: "application/json, text/plain, */*"
+      json_body:
+        keywords: ""
+        location: []
+        radius: "50"
+        jobOwnerName: [1, 3, 5, 6, 7, 9]
+        experience: [0, 30]
+        _limit: 100
+        _page: 1
+        searchType: "Any"
+        _sortOrder: "desc"
+        _relocate: "n"
+      paginate: { in: json_body, param: _page, size: 100, max_pages: 3 }
+      list_path: "data.job"
+      url_prefix: "https://jobs.compunnel.com/jobs"
+      fields:
+        title: "title"
+        location: "cityStateCountry"
+        url: "clientPrimaryKey"
+        posted: "postingDate"
+    location_filter: []
+
+  # ================================================================ BATCH 2 ====
+  # 16 more staffing/vendor sources, calibrated 2026-06-19.
+
+  # ---- clean JSON APIs ----
+  - name: "Agility Connect"
+    mode: api
+    search_url: "https://agilityconnect.io/jobs"
+    api:
+      method: GET
+      url: "https://api.agilityconnect.io/jobs/"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { limit: 50, offset: 0 }
+      paginate: { in: params, param: offset, size: 50, max_pages: 2 }
+      list_path: "results"
+      url_prefix: "https://agilityconnect.io/jobs"
+      fields:
+        title: "name"
+        location: ["company.city", "company.state"]
+        url: "id"
+        posted: "posted_date"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Pinnacle Group"
+    mode: api
+    # Workday CXS API — standard pattern for any *.myworkdayjobs.com firm.
+    search_url: "https://pinnaclegroup.wd1.myworkdayjobs.com/en-US/PinnacleGroup"
+    api:
+      method: POST
+      url: "https://pinnaclegroup.wd1.myworkdayjobs.com/wday/cxs/pinnaclegroup/PinnacleGroup/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "data" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 3 }
+      list_path: "jobPostings"
+      url_prefix: "https://pinnaclegroup.wd1.myworkdayjobs.com/en-US/PinnacleGroup"
+      fields:
+        title: "title"
+        location: "locationsText"
+        url: "externalPath"
+        posted: "postedOn"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "KellyMitchell"
+    mode: api
+    search_url: "https://www.careers.kellymitchell.com/jobs"
+    api:
+      method: POST
+      url: "https://www.careers.kellymitchell.com/_sf/api/v1/jobs/search.json"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body:
+        job_search:
+          query: "data"
+          location: { address: "", radius: 50, region: "US", radius_units: "miles" }
+          filters: {}
+          commute_filter: {}
+          offset: 0
+      list_path: "results"
+      url_prefix: "https://www.careers.kellymitchell.com/jobs"
+      fields:
+        title: "job.title"
+        location: "job.original_location"
+        url: "job.url_slug"
+        posted: "job.published_at"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ---- WP Job Manager (HTML-in-JSON) ----
+  - name: "Gina's Tech Jobs"
+    mode: api_html
+    search_url: "https://www.ginastechjobs.com/find-it-jobs/"
+    detail_date: true   # real datePosted only on the detail page
+    api:
+      method: POST
+      url: "https://www.ginastechjobs.com/jm-ajax/get_listings/"
+      headers: { Content-Type: "application/x-www-form-urlencoded; charset=UTF-8" }
+      form: { search_keywords: "data", per_page: 30, orderby: "date", order: "DESC", page: 1 }
+      html_field: "html"
+    selectors:
+      card: "li.job_listing"
+      title: "h3"
+      location: ".location"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Next Step Systems"
+    mode: api_html
+    search_url: "https://www.nextstepsystems.com/find-it-jobs/"
+    detail_date: true   # real datePosted only on the detail page
+    api:
+      method: POST
+      url: "https://www.nextstepsystems.com/jm-ajax/get_listings/"
+      headers: { Content-Type: "application/x-www-form-urlencoded; charset=UTF-8" }
+      form: { search_keywords: "data", per_page: 30, orderby: "date", order: "DESC", page: 1 }
+      html_field: "html"
+    selectors:
+      card: "li.job_listing"
+      title: "h3"
+      location: ".location"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ---- DOM scrapeable ----
+  - name: "Vernovis"
+    mode: dom
+    # Cincinnati-based IT + finance contract/direct-hire staffing. WordPress+FacetWP.
+    # Blocks curl_cffi (403) so must use Playwright; location is in the listing.
+    search_url: "https://vernovis.com/search-jobs/"
+    selectors:
+      card: "div.fwpl-row"
+      title: ".job-search-title"
+      location: ".job-search-city"
+      link: ".job-search-title a"
+    location_filter: []
+
+  - name: "Belcan"
+    mode: dom
+    search_url: "https://belcanjobs.smartsearchonline.com/careersv2/process_jobsearch.asp"
+    detail_date: true   # real datePosted only on the detail page
+    selectors:
+      card: "div.jobGrpCard"
+      title: "a.jobTitleBtn"
+      location: ".jobLocation, [class*=ocation]"
+      link: "a.jobTitleBtn"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Harnham"
+    mode: dom
+    search_url: "https://www.harnham.com/job-search/"
+    selectors:
+      card: "div.pp-content-grid-post-text"
+      title: "a.job_search_title_anchor"
+      location: "[class*=ocation], [class*=meta]"
+      link: "a.job_search_title_anchor"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Goodwin Recruiting"
+    mode: dom
+    search_url: "https://www.goodwinrecruiting.com/search-jobs"
+    selectors:
+      card: "div.description_div_job_title_div"
+      title: "a.description_div_job_title"
+      location: "[class*=location]"
+      link: "a.description_div_job_title"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Brooksource"
+    mode: dom
+    search_url: "https://jobs.brooksource.com/jobs/"
+    detail_date: true   # real datePosted only on the detail page
+    selectors:
+      card: "div.col-md-9"
+      title: "a.medasource_jobs_title"
+      location: "[class*=location]"
+      link: "a.medasource_jobs_title"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Fast Switch"
+    mode: dom
+    search_url: "https://fastswitch.com/search-jobs/"
+    detail_date: true   # real datePosted only on the detail page
+    selectors:
+      card: "header.matador-job-header"
+      title: "h4.matador-job-title"
+      location: "[class*=location]"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Scion Staffing"
+    mode: dom
+    search_url: "https://scionstaffing.com/search-jobs/"
+    detail_date: true   # real datePosted only on the detail page
+    selectors:
+      card: "div.BH-joblist-item"
+      title: "div.BH-joblist-title"
+      location: ".BH-joblist-location, [class*=location]"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Nesco Resource"
+    mode: dom
+    search_url: "https://www.nescoresource.com/job-search#/"
+    selectors:
+      card: "div.shmJobItemDetails"
+      title: ".shmJobtitle"
+      location: ".shmLocation"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ---- bot-walled, cracked FREE via curl_cffi (real-browser TLS, no Apify) ----
+  # Beacon Hill: Cloudflare + WordPress WP Job Manager. We hit its jm-ajax endpoint
+  # (no keyword = all divisions) through curl_cffi, parse the custom card markup,
+  # then the focused filter keeps only the tech/data/SWE roles.
+  - name: "Beacon Hill"
+    mode: api_html
+    search_url: "https://bhsg.com/jobs/job-search/"
+    detail_date: true   # real datePosted only on the detail page
+    api:
+      method: POST
+      url: "https://bhsg.com/jobs/jm-ajax/get_listings/"
+      form: { per_page: 100, page: 1, orderby: "date", order: "DESC" }
+      pages: 4
+      page_param: "page"
+      html_field: "html"
+    selectors:
+      card: "a:has(div.parv_row_parent)"
+      title: "h3"
+    location_filter: []
+
+  # Njoyn (CGI): Radware/perfdrive + hCaptcha wall, but server-rendered ASP table.
+  # curl_cffi gets the HTML; we parse the JobList table cells.
+  - name: "Njoyn (CGI)"
+    mode: html
+    search_url: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=joblisting&CLID=21001"
+    detail_date: true   # real datePosted only on the detail page
+    url: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=joblisting&CLID=21001"
+    url_prefix: "https://cgi.njoyn.com/CORP/xweb/"
+    selectors:
+      card: "tr:has(a[href*=JobDetails])"
+      title: "td:nth-of-type(2)"
+      location: ["td:nth-of-type(4)", "td:nth-of-type(5)"]   # city, country
+      link: "a[href*=JobDetails]"
+      require_link: true
+    location_filter: []
+
+  # =================================================== OHIO DIRECT EMPLOYERS ===
+  # Below this line: NOT staffing firms — actual Ohio/Cincinnati companies
+  # (startups → Fortune 5000) hiring tech directly. location_filter is tightened
+  # to Ohio + remote so national postings from these big employers are dropped.
+  #
+  # GENERIC ATS PATTERNS (copy a block, swap the slug, verify it returns jobs):
+  #
+  #  GREENHOUSE  GET https://boards-api.greenhouse.io/v1/boards/<slug>/jobs?content=true
+  #      list_path: jobs | title: title | url: absolute_url
+  #      location: location.name | posted: updated_at
+  #
+  #  LEVER       GET https://api.lever.co/v0/postings/<slug>?mode=json
+  #      list_path: "" (root array) | title: text | url: hostedUrl
+  #      location: categories.location | posted: createdAt
+  #
+  #  ASHBY       POST https://api.ashbyhq.com/posting-api/job-board/<slug>
+  #      json_body: { } | list_path: jobs | title: title | url: jobUrl
+  #      location: location | posted: publishedAt
+  #
+  #  WORKDAY     POST https://<tenant>.<wdN>.myworkdayjobs.com/wday/cxs/<tenant>/<site>/jobs
+  #      json_body: { limit: 20, offset: 0, searchText: "" }
+  #      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+  #      list_path: jobPostings | title: title | url: externalPath
+  #      location: locationsText | posted: postedOn
+  #      url_prefix: https://<tenant>.<wdN>.myworkdayjobs.com  (externalPath is relative)
+  #
+  #  SMARTRECRUITERS — see the staffing section above (Collabera block).
+
+  # ---- CONFIRMED WORKING (Greenhouse) ----
+  # 84.51° — Kroger's data-science / retail-analytics company, HQ downtown
+  # Cincinnati. Greenhouse board id "8451". ~21/22 roles are Cincinnati, OH.
+  - name: "84.51°"
+    mode: api
+    employer: true
+    search_url: "https://www.8451.com/careers"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/8451/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields:
+        title: "title"
+        location: "location.name"
+        url: "absolute_url"
+        posted: "updated_at"
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ---- DAYTON / OHIO METRO EMPLOYERS (Workday CXS) — verified 2026-06-27 ----
+  # CareSource — Dayton-HQ managed-care company. Workday total ~105; many Ohio +
+  # Remote roles (Ohio-residency-required postings appear as "Remote").
+  - name: "CareSource"
+    ohio_only: true
+    mode: api
+    employer: true
+    search_url: "https://jobs.caresource.com/"
+    api:
+      method: POST
+      url: "https://caresource.wd1.myworkdayjobs.com/wday/cxs/caresource/CareSource/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://caresource.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # AES Corporation — Dayton-HQ global power company. (Workday tenant confirmed but
+  # cxs site name not validated — listed UNVERIFIED in the run notes, not enabled.)
+
+  # Marathon Petroleum — Findlay-HQ refiner. Workday total ~97; OH roles + many remote.
+  - name: "Marathon Petroleum"
+    mode: api
+    employer: true
+    search_url: "https://mpc.wd1.myworkdayjobs.com/MPCCareers"
+    api:
+      method: POST
+      url: "https://mpc.wd1.myworkdayjobs.com/wday/cxs/mpc/MPCCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://mpc.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Findlay", "Remote", "remote"]
+
+  # J.M. Smucker — Orrville-HQ. Workday total ~90; Orrville OH HQ roles.
+  - name: "J.M. Smucker"
+    mode: api
+    employer: true
+    search_url: "https://smucker.wd5.myworkdayjobs.com/US_External_Careers"
+    api:
+      method: POST
+      url: "https://smucker.wd5.myworkdayjobs.com/wday/cxs/smucker/US_External_Careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://smucker.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Orrville", "Remote", "remote"]
+
+  # Goodyear — Akron-HQ tire maker (parent of Cooper Tire, Findlay OH). Workday ~243;
+  # multiple Akron OH plant + corporate roles.
+  - name: "Goodyear"
+    mode: api
+    employer: true
+    search_url: "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers"
+    api:
+      method: POST
+      url: "https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://goodyear.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Findlay", "Remote", "remote"]
+
+  # ProMedica — Toledo-HQ health system. Workday total ~458; heavy Toledo/NW-Ohio.
+  - name: "ProMedica"
+    mode: api
+    employer: true
+    search_url: "https://promedica.wd12.myworkdayjobs.com/External_Careers"
+    api:
+      method: POST
+      url: "https://promedica.wd12.myworkdayjobs.com/wday/cxs/promedica/External_Careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://promedica.wd12.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Toledo", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # Synchrony — Kettering OH operations center (HQ Stamford CT). Workday total ~57;
+  # roles distributed across sites incl. OH.
+  - name: "Synchrony"
+    mode: api
+    employer: true
+    search_url: "https://synchronyfinancial.wd5.myworkdayjobs.com/careers"
+    api:
+      method: POST
+      url: "https://synchronyfinancial.wd5.myworkdayjobs.com/wday/cxs/synchronyfinancial/careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://synchronyfinancial.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Kettering", "Remote", "remote"]
+
+  # ---- OHIO EMPLOYERS (Oracle Cloud Recruiting / hcmRestApi) — verified 2026-06-27 ----
+  # NOTE: requires an Oracle adapter (GET hcmRestApi recruitingCEJobRequisitions;
+  # response items[0].requisitionList.items[]). Marked api_oracle pending adapter.
+  # First Solar — Perrysburg OH HQ/fab. Oracle total ~246; many Perrysburg OH roles.
+  - name: "First Solar"
+    mode: oracle
+    employer: true
+    search_url: "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+    api:
+      method: GET
+      url: "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { Accept: "application/json", REST-Framework-Version: "6", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "items.0.requisitionList.items"
+      url_prefix: "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/"
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Perrysburg", "Toledo", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # Diebold Nixdorf — Canton (North Canton OH) HQ. Oracle total ~214; global but has
+  # Canton OH + US-remote roles. (Oracle adapter required — same as First Solar.)
+  - name: "Diebold Nixdorf"
+    mode: oracle
+    employer: true
+    search_url: "https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs"
+    api:
+      method: GET
+      url: "https://eeug.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { Accept: "application/json", REST-Framework-Version: "6", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "items.0.requisitionList.items"
+      url_prefix: "https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/"
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Canton", "North Canton", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ---- OHIO STAFFING FIRM (Group B, JobDiva) — verified 2026-06-27 ----
+  # Oxford Solutions — Pittsburgh/Ohio IT + engineering staffing. JobDiva portal.
+  - name: "Oxford Solutions"
+    mode: jobdiva
+    search_url: "https://www.oxfordsolutionsinc.com/jobs/"
+    jobdiva:
+      a: "ivjdnwu0r609x50e4thxxkiwyvkswu0a2f9x8iqw7jko9f3twhxazezmpwvj7suj"
+      compid: "0"
+      pages: 3
+    location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Remote", ""]
+
+  # ==================================== OHIO EMPLOYERS — GREENHOUSE / ASHBY / LEVER
+  - name: "Kao USA"
+    mode: api
+    employer: true
+    search_url: "https://boards.greenhouse.io/kao"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/kao/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "AtriCure"
+    mode: api
+    employer: true
+    search_url: "https://boards.greenhouse.io/atricure"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/atricure/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Mason", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Path Robotics"
+    mode: api
+    employer: true
+    search_url: "https://www.path-robotics.com/careers"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/pathrobotics/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Forge Biologics"
+    mode: api
+    employer: true
+    search_url: "https://www.forgebiologics.com/careers"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/forgebiologics/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Branch Insurance"
+    mode: api
+    employer: true
+    search_url: "https://www.ourbranch.com/careers"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/branch/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Axuall"
+    mode: api
+    employer: true
+    search_url: "https://www.axuall.com/careers"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/axuall/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # Astronomer — Cincinnati-founded data-orchestration (Airflow) company. Ashby board.
+  - name: "Astronomer"
+    enabled: false   # Cincinnati-founded but roles now NYC/London; ~0 Ohio/US-remote
+    mode: api
+    employer: true
+    search_url: "https://www.astronomer.io/careers/"
+    api:
+      method: GET
+      url: "https://api.ashbyhq.com/posting-api/job-board/astronomer"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location", url: "jobUrl", posted: "publishedAt" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote", "United States"]
+
+  # Paycor — Cincinnati-HQ HR/payroll software. Lever board (low public volume).
+  - name: "Paycor"
+    enabled: false   # Lever board dead (acquired by Paychex 2025); no working public ATS endpoint
+    mode: api
+    employer: true
+    search_url: "https://jobs.lever.co/paycor"
+    api:
+      method: GET
+      url: "https://api.lever.co/v0/postings/paycor?mode=json"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: ""
+      fields: { title: "text", location: "categories.location", url: "hostedUrl", posted: "createdAt" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # Root Insurance — Columbus insurtech. Rippling ATS (root JSON array, absolute urls).
+  - name: "Root Insurance"
+    mode: api
+    employer: true
+    search_url: "https://inc.joinroot.com/careers/"
+    api:
+      method: GET
+      url: "https://api.rippling.com/platform/api/ats/v1/board/joinroot/jobs"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: ""
+      fields: { title: "name", location: "workLocation.label", url: "url", posted: "" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # =========================================== OHIO EMPLOYERS — WORKDAY (CXS API) ==
+  # Workday externalPath is relative ("/en-US/<site>/job/..."), so url_prefix is the
+  # HOST ONLY — the engine concatenates host + externalPath.
+  - name: "Fifth Third Bank"
+    mode: api
+    employer: true
+    search_url: "https://fifththird.wd5.myworkdayjobs.com/53careers"
+    api:
+      method: POST
+      url: "https://fifththird.wd5.myworkdayjobs.com/wday/cxs/fifththird/53careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 15 }
+      list_path: "jobPostings"
+      url_prefix: "https://fifththird.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Great American Insurance"
+    mode: api
+    employer: true
+    search_url: "https://gaig.wd1.myworkdayjobs.com/GAIG_External"
+    api:
+      method: POST
+      url: "https://gaig.wd1.myworkdayjobs.com/wday/cxs/gaig/GAIG_External/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://gaig.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # Worldpay: locationsText is null on this tenant — location lives in bulletFields[0].
+  - name: "Worldpay"
+    mode: api
+    employer: true
+    search_url: "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site"
+    api:
+      method: POST
+      url: "https://worldpay.wd5.myworkdayjobs.com/wday/cxs/worldpay/Worldpay_External_Careers_Site/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://worldpay.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "bulletFields.0", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Standard Textile"
+    mode: api
+    employer: true
+    search_url: "https://standardtextile.wd5.myworkdayjobs.com/standardtextile"
+    api:
+      method: POST
+      url: "https://standardtextile.wd5.myworkdayjobs.com/wday/cxs/standardtextile/standardtextile/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 5 }
+      list_path: "jobPostings"
+      url_prefix: "https://standardtextile.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Nationwide"
+    mode: api
+    employer: true
+    search_url: "https://jobs.nationwide.com/"
+    api:
+      method: POST
+      url: "https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://nationwide.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "American Electric Power"
+    mode: api
+    employer: true
+    search_url: "https://careers.aep.com/"
+    api:
+      method: POST
+      url: "https://aep.wd1.myworkdayjobs.com/wday/cxs/aep/AEPCareerSite/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://aep.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Cardinal Health"
+    mode: api
+    employer: true
+    search_url: "https://jobs.cardinalhealth.com/"
+    api:
+      method: POST
+      url: "https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/EXT/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://cardinalhealth.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Dublin", "Remote", "remote"]
+
+  - name: "Greif"
+    mode: api
+    employer: true
+    search_url: "https://greif.wd5.myworkdayjobs.com/Greif"
+    api:
+      method: POST
+      url: "https://greif.wd5.myworkdayjobs.com/wday/cxs/greif/Greif/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://greif.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Delaware", "Remote", "remote"]
+
+  - name: "Safelite"
+    mode: api
+    employer: true
+    search_url: "https://www.safelite.com/careers"
+    api:
+      method: POST
+      url: "https://belron.wd3.myworkdayjobs.com/wday/cxs/belron/Safelite_Careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://belron.wd3.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Abercrombie & Fitch"
+    mode: api
+    employer: true
+    search_url: "https://abercrombie.wd108.myworkdayjobs.com/en-US/anf"
+    api:
+      method: POST
+      url: "https://abercrombie.wd108.myworkdayjobs.com/wday/cxs/abercrombie/anf/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://abercrombie.wd108.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "New Albany", "Remote", "remote"]
+
+  - name: "IGS Energy"
+    mode: api
+    employer: true
+    search_url: "https://igsenergy.wd1.myworkdayjobs.com/IGS"
+    api:
+      method: POST
+      url: "https://igsenergy.wd1.myworkdayjobs.com/wday/cxs/igsenergy/IGS/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 5 }
+      list_path: "jobPostings"
+      url_prefix: "https://igsenergy.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Dublin", "Remote", "remote"]
+
+  - name: "CoverMyMeds"
+    mode: api
+    employer: true
+    search_url: "https://mckesson.wd3.myworkdayjobs.com/CoverMyMeds_External_Careers"
+    api:
+      method: POST
+      url: "https://mckesson.wd3.myworkdayjobs.com/wday/cxs/mckesson/CoverMyMeds_External_Careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://mckesson.wd3.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Bread Financial"
+    mode: api
+    employer: true
+    search_url: "https://www.breadfinancial.com/en/who-we-are/careers.html"
+    api:
+      method: POST
+      url: "https://alliancedata.wd5.myworkdayjobs.com/wday/cxs/alliancedata/breadfinancial_US/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://alliancedata.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Cleveland Clinic"
+    mode: api
+    employer: true
+    search_url: "https://jobs.clevelandclinic.org/"
+    api:
+      method: POST
+      url: "https://ccf.wd1.myworkdayjobs.com/wday/cxs/ccf/ClevelandClinicCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://ccf.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "KeyBank"
+    mode: api
+    employer: true
+    search_url: "https://www.key.com/about/careers.html"
+    api:
+      method: POST
+      url: "https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/External_Career_Site/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://keybank.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ===================================== OHIO EMPLOYERS — ORACLE CLOUD RECRUITING ==
+  - name: "Sherwin-Williams"
+    mode: oracle
+    employer: true
+    search_url: "https://jobsearch.sherwin.com/"
+    api:
+      method: GET
+      url: "https://ejhp.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_2,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { Accept: "application/json", REST-Framework-Version: "6", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/"
+      pages: 4
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "FirstEnergy"
+    mode: oracle
+    employer: true
+    search_url: "https://careers.firstenergycorp.com/"
+    api:
+      method: GET
+      url: "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { Accept: "application/json", REST-Framework-Version: "6", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/"
+      pages: 4
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Kroger"
+    mode: oracle
+    employer: true
+    search_url: "https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001"
+    api:
+      method: GET
+      url: "https://eluq.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_2001,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { Accept: "application/json", REST-Framework-Version: "6", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/"
+      pages: 3
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Toledo", "Remote", "remote"]
+
+  # ============================================= OHIO EMPLOYER — PINPOINT ATS ======
+  # Neptune Retail Solutions (absorbed Cincinnati's Ahalogy). Pinpoint board.
+  - name: "Neptune Retail Solutions"
+    mode: api
+    employer: true
+    search_url: "https://neptuneretailsolutions.pinpointhq.com/"
+    api:
+      method: GET
+      url: "https://neptuneretailsolutions.pinpointhq.com/postings.json"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "data"
+      fields: { title: "title", location: "location.name", url: "url", posted: "created_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ============= OHIO EMPLOYERS — WAVE 2 (non-IT cos hiring tech + DOM-cracked) =====
+  # All verified live 2026-06-27. Workday url_prefix = HOST ONLY (externalPath is relative).
+
+  # ---- Workday ----
+  - name: "Procter & Gamble"
+    mode: api
+    employer: true
+    search_url: "https://www.pgcareers.com/global/en/search-results"
+    api:
+      method: POST
+      url: "https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://pg.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Huntington Bank"
+    mode: api
+    employer: true
+    search_url: "https://huntington.wd12.myworkdayjobs.com/HNBcareers"
+    api:
+      method: POST
+      url: "https://huntington.wd12.myworkdayjobs.com/wday/cxs/huntington/HNBcareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://huntington.wd12.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Applied Industrial Technologies"
+    mode: api
+    employer: true
+    search_url: "https://applied.wd501.myworkdayjobs.com/Applied"
+    api:
+      method: POST
+      url: "https://applied.wd501.myworkdayjobs.com/wday/cxs/applied/Applied/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://applied.wd501.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Nordson"
+    mode: api
+    employer: true
+    search_url: "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers"
+    api:
+      method: POST
+      url: "https://nordsonhcm.wd501.myworkdayjobs.com/wday/cxs/nordsonhcm/nordsoncareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://nordsonhcm.wd501.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Cleveland-Cliffs"
+    mode: api
+    employer: true
+    search_url: "https://careers.clevelandcliffs.com/"
+    api:
+      method: POST
+      url: "https://aksteel.wd1.myworkdayjobs.com/wday/cxs/aksteel/careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://aksteel.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Middletown", "Remote", "remote"]
+
+  - name: "Hyster-Yale"
+    mode: api
+    employer: true
+    search_url: "https://hysteryale.wd1.myworkdayjobs.com/Hyster-YaleCareers"
+    api:
+      method: POST
+      url: "https://hysteryale.wd1.myworkdayjobs.com/wday/cxs/hysteryale/Hyster-YaleCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://hysteryale.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Materion"
+    mode: api
+    employer: true
+    search_url: "https://materion.wd5.myworkdayjobs.com/Materion"
+    api:
+      method: POST
+      url: "https://materion.wd5.myworkdayjobs.com/wday/cxs/materion/Materion/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://materion.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cleveland", "Elmore", "Columbus", "Cincinnati", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Cooper Standard"
+    mode: api
+    employer: true
+    search_url: "https://cooperstandard.wd1.myworkdayjobs.com/CooperStandard"
+    api:
+      method: POST
+      url: "https://cooperstandard.wd1.myworkdayjobs.com/wday/cxs/cooperstandard/CooperStandard/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 6 }
+      list_path: "jobPostings"
+      url_prefix: "https://cooperstandard.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Crane Company"
+    mode: api
+    employer: true
+    search_url: "https://cranecompany.wd5.myworkdayjobs.com/Careers"
+    api:
+      method: POST
+      url: "https://cranecompany.wd5.myworkdayjobs.com/wday/cxs/cranecompany/Careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 6 }
+      list_path: "jobPostings"
+      url_prefix: "https://cranecompany.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Scotts Miracle-Gro"
+    mode: api
+    employer: true
+    search_url: "https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal"
+    api:
+      method: POST
+      url: "https://scottsmiraclegro.wd5.myworkdayjobs.com/wday/cxs/scottsmiraclegro/SMGExternal/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://scottsmiraclegro.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Marysville", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Abbott (Columbus)"
+    mode: api
+    employer: true
+    search_url: "https://abbott.wd5.myworkdayjobs.com/abbottcareers2"
+    api:
+      method: POST
+      url: "https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers2/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://abbott.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Columbus", "Remote", "remote"]
+
+  - name: "Nationwide Children's Hospital"
+    ohio_only: true
+    mode: api
+    employer: true
+    search_url: "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers"
+    api:
+      method: POST
+      url: "https://nationwidechildrens.wd5.myworkdayjobs.com/wday/cxs/nationwidechildrens/NCHCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://nationwidechildrens.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "OhioHealth"
+    ohio_only: true
+    mode: api
+    employer: true
+    search_url: "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs"
+    api:
+      method: POST
+      url: "https://ohiohealth.wd5.myworkdayjobs.com/wday/cxs/ohiohealth/OhioHealthJobs/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://ohiohealth.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Mercy Health"
+    ohio_only: true
+    mode: api
+    employer: true
+    search_url: "https://easyservice.wd5.myworkdayjobs.com/MercyHealthCareers"
+    api:
+      method: POST
+      url: "https://easyservice.wd5.myworkdayjobs.com/wday/cxs/easyservice/MercyHealthCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://easyservice.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Youngstown", "Toledo", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Dayton Children's Hospital"
+    ohio_only: true
+    mode: api
+    employer: true
+    search_url: "https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site"
+    api:
+      method: POST
+      url: "https://daytonchildrens.wd1.myworkdayjobs.com/wday/cxs/daytonchildrens/dayton_childrens_career_site/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 6 }
+      list_path: "jobPostings"
+      url_prefix: "https://daytonchildrens.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Dayton", "Kettering", "Columbus", "Cincinnati", "Remote", "remote"]
+
+  - name: "Cincinnati Children's Hospital"
+    ohio_only: true
+    mode: api
+    employer: true
+    search_url: "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens"
+    api:
+      method: POST
+      url: "https://cincinnatichildrens.wd5.myworkdayjobs.com/wday/cxs/cincinnatichildrens/careersatcincinnatichildrens/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://cincinnatichildrens.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Remote", "remote"]
+
+  - name: "Encova Insurance"
+    mode: api
+    employer: true
+    search_url: "https://encova.wd1.myworkdayjobs.com/Search"
+    api:
+      method: POST
+      url: "https://encova.wd1.myworkdayjobs.com/wday/cxs/encova/Search/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 6 }
+      list_path: "jobPostings"
+      url_prefix: "https://encova.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "The Andersons"
+    mode: api
+    employer: true
+    search_url: "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers"
+    api:
+      method: POST
+      url: "https://andersonsinc.wd1.myworkdayjobs.com/wday/cxs/andersonsinc/TheAndersonsCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 6 }
+      list_path: "jobPostings"
+      url_prefix: "https://andersonsinc.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Maumee", "Toledo", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Duke Energy"
+    mode: api
+    employer: true
+    search_url: "https://dukeenergy.wd1.myworkdayjobs.com/Search"
+    api:
+      method: POST
+      url: "https://dukeenergy.wd1.myworkdayjobs.com/wday/cxs/dukeenergy/Search/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://dukeenergy.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Toledo", "Remote", "remote"]
+
+  - name: "AES Ohio"
+    mode: api
+    employer: true
+    search_url: "https://aes.wd1.myworkdayjobs.com/AES_US"
+    api:
+      method: POST
+      url: "https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/AES_US/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 6 }
+      list_path: "jobPostings"
+      url_prefix: "https://aes.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Dayton", "Cincinnati", "Columbus", "Cleveland", "Akron", "Remote", "remote"]
+
+  - name: "GE Aerospace"
+    mode: api
+    employer: true
+    search_url: "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite"
+    api:
+      method: POST
+      url: "https://geaerospace.wd5.myworkdayjobs.com/wday/cxs/geaerospace/GE_ExternalSite/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://geaerospace.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Evendale", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # ---- Oracle Cloud Recruiting ----
+  - name: "Vertiv"
+    mode: oracle
+    employer: true
+    search_url: "https://www.vertiv.com/en-us/about/careers/"
+    api:
+      method: GET
+      url: "https://egup.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { REST-Framework-Version: "6", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/"
+      pages: 4
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Westerville", "Delaware", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Remote", "remote"]
+
+  - name: "Worthington Enterprises"
+    mode: oracle
+    employer: true
+    search_url: "https://www.worthingtonenterprises.com/careers/"
+    api:
+      method: GET
+      url: "https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_2001,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { REST-Framework-Version: "6", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/"
+      pages: 3
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Worthington Steel"
+    mode: oracle
+    employer: true
+    search_url: "https://www.worthingtonsteel.com/careers"
+    api:
+      method: GET
+      url: "https://cbdt.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=WorthingtonSteelCareers,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { REST-Framework-Version: "6", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://cbdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WorthingtonSteelCareers/job/"
+      pages: 3
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cleveland", "Twinsburg", "Cincinnati", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Avient"
+    mode: oracle
+    employer: true
+    search_url: "https://www.avient.com/company/careers"
+    api:
+      method: GET
+      url: "https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { REST-Framework-Version: "6", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Avient/job/"
+      pages: 4
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Avon Lake", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Emerson"
+    mode: oracle
+    employer: true
+    search_url: "https://www.emerson.com/en-us/careers"
+    api:
+      method: GET
+      url: "https://hdjq.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { REST-Framework-Version: "6", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/"
+      pages: 4
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Elyria", "Sidney", "Cincinnati", "Columbus", "Cleveland", "Remote", "remote"]
+
+  - name: "Westfield Insurance"
+    mode: oracle
+    employer: true
+    search_url: "https://www.westfieldinsurance.com/careers/career-opportunities"
+    api:
+      method: GET
+      url: "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { REST-Framework-Version: "6", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/"
+      pages: 3
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Westfield Center", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ---- SmartRecruiters ----
+  - name: "O-I Glass"
+    mode: api
+    employer: true
+    search_url: "https://careers.smartrecruiters.com/O-I/"
+    api:
+      method: GET
+      url: "https://api.smartrecruiters.com/v1/companies/O-I/postings"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { limit: 100, offset: 0 }
+      paginate: { in: params, param: offset, size: 100, max_pages: 3 }
+      list_path: "content"
+      url_prefix: "https://jobs.smartrecruiters.com/O-I"
+      fields: { title: "name", location: ["location.city", "location.region"], url: "id", posted: "releasedDate" }
+    location_filter: ["OH", "Ohio", "Perrysburg", "Zanesville", "Columbus", "Cleveland", "Cincinnati", "Dayton", "Akron", "Remote", "remote"]
+
+  # ---- Phenom (refineSearch widget) ----
+  - name: "STERIS"
+    mode: api
+    employer: true
+    search_url: "https://careers.steris.com/search-results"
+    api:
+      method: POST
+      url: "https://careers.steris.com/widgets"
+      headers: { Content-Type: "application/json", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      json_body: { lang: "en_us", deviceType: "desktop", country: "us", pageName: "search-results", ddoKey: "refineSearch", sortBy: "", subsearch: "", from: 0, jobs: true, counts: true, all_fields: ["category","country","state","city"], size: 100, keywords: "", global: true, selected_fields: {}, locationData: {} }
+      paginate: { in: json_body, param: from, size: 100, max_pages: 6 }
+      list_path: "refineSearch.data.jobs"
+      fields: { title: "title", location: "cityState", url: "applyUrl", posted: "postedDate" }
+    location_filter: ["OH", "Ohio", "Mentor", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ---- iCIMS (server-rendered html via curl_cffi; detail_date backfills location+date) ----
+  - name: "Western & Southern Financial"
+    ohio_only: true
+    mode: html
+    employer: true
+    detail_date: true
+    search_url: "https://careers-westernsouthern.icims.com/jobs/search?ss=1&in_iframe=1"
+    urls:
+      - "https://careers-westernsouthern.icims.com/jobs/search?ss=1&in_iframe=1&pr=0"
+      - "https://careers-westernsouthern.icims.com/jobs/search?ss=1&in_iframe=1&pr=1"
+    url_prefix: "https://careers-westernsouthern.icims.com"
+    selectors:
+      card: "a.iCIMS_Anchor[href*='/jobs/']"
+      title: "h3"
+      link: "a.iCIMS_Anchor[href*='/jobs/']"
+      require_link: true
+    location_filter: ["OH", "Ohio", "Cincinnati", "Columbus", "Cleveland", "Dayton", "Akron", "Remote", "remote", ""]
+
+  - name: "Hyland Software"
+    mode: html
+    employer: true
+    detail_date: true
+    search_url: "https://careers-hyland.icims.com/jobs/search?ss=1&in_iframe=1"
+    urls:
+      - "https://careers-hyland.icims.com/jobs/search?ss=1&in_iframe=1&pr=0"
+      - "https://careers-hyland.icims.com/jobs/search?ss=1&in_iframe=1&pr=1"
+    url_prefix: "https://careers-hyland.icims.com"
+    selectors:
+      card: "a.iCIMS_Anchor[href*='/jobs/']"
+      title: "h3"
+      link: "a.iCIMS_Anchor[href*='/jobs/']"
+      require_link: true
+    location_filter: ["OH", "Ohio", "Westlake", "Cleveland", "Columbus", "Cincinnati", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Kettering Health"
+    ohio_only: true
+    mode: html
+    employer: true
+    detail_date: true
+    search_url: "https://careers-ketteringhealth.icims.com/jobs/search?ss=1&in_iframe=1"
+    urls:
+      - "https://careers-ketteringhealth.icims.com/jobs/search?ss=1&in_iframe=1&pr=0"
+      - "https://careers-ketteringhealth.icims.com/jobs/search?ss=1&in_iframe=1&pr=1"
+    url_prefix: "https://careers-ketteringhealth.icims.com"
+    selectors:
+      card: "a.iCIMS_Anchor[href*='/jobs/']"
+      title: "h3"
+      link: "a.iCIMS_Anchor[href*='/jobs/']"
+      require_link: true
+    location_filter: ["OH", "Ohio", "Dayton", "Kettering", "Cincinnati", "Columbus", "Remote", "remote", ""]
+
+  - name: "Express"
+    mode: html
+    employer: true
+    detail_date: true
+    search_url: "https://careers-express.icims.com/jobs/search?ss=1&in_iframe=1"
+    urls:
+      - "https://careers-express.icims.com/jobs/search?ss=1&in_iframe=1&pr=0"
+      - "https://careers-express.icims.com/jobs/search?ss=1&in_iframe=1&pr=1"
+    url_prefix: "https://careers-express.icims.com"
+    selectors:
+      card: "a.iCIMS_Anchor[href*='/jobs/']"
+      title: "h3"
+      link: "a.iCIMS_Anchor[href*='/jobs/']"
+      require_link: true
+    location_filter: ["OH", "Ohio", "Columbus", "Remote", "remote", ""]
+
+  # ============= OHIO EMPLOYERS — WAVE 3 (Phenom/Eightfold/UKG/Taleo/Rippling) ======
+  # ---- Phenom (refineSearch widget; applyUrl often empty -> build url from jobId) ----
+  - name: "Battelle"
+    mode: api
+    employer: true
+    search_url: "https://jobs.battelle.org/us/en/search-results"
+    api:
+      method: POST
+      url: "https://jobs.battelle.org/widgets"
+      headers: { Content-Type: "application/json", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      json_body: { lang: "en_us", deviceType: "desktop", country: "us", pageName: "search-results", ddoKey: "refineSearch", sortBy: "", subsearch: "", from: 0, jobs: true, counts: true, all_fields: ["category","country","state","city"], size: 100, keywords: "", global: true, selected_fields: {}, locationData: {} }
+      paginate: { in: json_body, param: from, size: 100, max_pages: 3 }
+      list_path: "refineSearch.data.jobs"
+      url_prefix: "https://jobs.battelle.org/us/en/job/"
+      fields: { title: "title", location: "cityState", url: "jobId", posted: "postedDate" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "West Jefferson", "Remote", "remote"]
+
+  - name: "Honda"
+    mode: api
+    employer: true
+    search_url: "https://careers.honda.com/us/en/search-results"
+    api:
+      method: POST
+      url: "https://careers.honda.com/widgets"
+      headers: { Content-Type: "application/json", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      json_body: { lang: "en_us", deviceType: "desktop", country: "us", pageName: "search-results", ddoKey: "refineSearch", sortBy: "", subsearch: "", from: 0, jobs: true, counts: true, all_fields: ["category","country","state","city"], size: 100, keywords: "", global: true, selected_fields: {}, locationData: {} }
+      paginate: { in: json_body, param: from, size: 100, max_pages: 3 }
+      list_path: "refineSearch.data.jobs"
+      url_prefix: "https://careers.honda.com/us/en/job/"
+      fields: { title: "title", location: "cityStateCountry", url: "jobId", posted: "postedDate" }
+    location_filter: ["OH", "Ohio", "Marysville", "Anna", "East Liberty", "Raymond", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Russells Point", "Remote", "remote"]
+
+  # ---- Eightfold (self-hosted PCSX; server-side location=Ohio filter) ----
+  - name: "Whirlpool"
+    mode: api
+    employer: true
+    search_url: "https://jobs.whirlpool.com/careers"
+    api:
+      method: GET
+      url: "https://jobs.whirlpool.com/api/pcsx/search?domain=whirlpool.com&query=&location=Ohio&start=0&num=100&sort_by=relevance"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "data.positions"
+      url_prefix: "https://jobs.whirlpool.com"
+      fields: { title: "name", location: "standardizedLocations", url: "positionUrl", posted: "postedTs" }
+    location_filter: ["OH", "Ohio", "Clyde", "Marion", "Ottawa", "Findlay", "Greenville", "Columbus", "Cleveland", "Toledo", "Remote", "remote"]
+
+  # ---- Workday ----
+  - name: "MRI Software"
+    mode: api
+    employer: true
+    search_url: "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite"
+    api:
+      method: POST
+      url: "https://mrisoftware.wd501.myworkdayjobs.com/wday/cxs/mrisoftware/External_CareerSite/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://mrisoftware.wd501.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Solon", "Cleveland", "Mayfield", "Columbus", "Cincinnati", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "CrossCountry Mortgage"
+    mode: api
+    employer: true
+    search_url: "https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers"
+    api:
+      method: POST
+      url: "https://crosscountrymortgage.wd1.myworkdayjobs.com/wday/cxs/crosscountrymortgage/CCMCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://crosscountrymortgage.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cleveland", "Brecksville", "Mayfield", "Columbus", "Cincinnati", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Lower"
+    mode: api
+    employer: true
+    search_url: "https://lower.wd1.myworkdayjobs.com/lower_external_careers"
+    api:
+      method: POST
+      url: "https://lower.wd1.myworkdayjobs.com/wday/cxs/lower/lower_external_careers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 4 }
+      list_path: "jobPostings"
+      url_prefix: "https://lower.wd1.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "New Albany", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ---- Rippling (root JSON array) ----
+  - name: "Beam Benefits"
+    mode: api
+    employer: true
+    search_url: "https://ats.rippling.com/beam-benefits/jobs"
+    api:
+      method: GET
+      url: "https://api.rippling.com/platform/api/ats/v1/board/beam-benefits/jobs"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: ""
+      fields: { title: "name", location: "workLocation.label", url: "url", posted: "" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  # ---- UKG / UltiPro (POST opportunitySearch; url = OpportunityDetail + Id) ----
+  - name: "Park National Bank"
+    mode: api
+    employer: true
+    search_url: "https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/"
+    api:
+      method: POST
+      url: "https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/JobBoardView/LoadSearchResults"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { opportunitySearch: { Top: 100, Skip: 0, QueryString: "", OrderBy: [], Filters: [] } }
+      list_path: "opportunities"
+      url_prefix: "https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId="
+      fields: { title: "Title", location: "Locations.0.LocalizedDescription", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Newark", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Grange Insurance"
+    mode: api
+    employer: true
+    search_url: "https://recruiting.ultipro.com/GRA1009GMC/JobBoard/59c4f4ab-af79-401b-8093-07af99fb34ac/"
+    api:
+      method: POST
+      url: "https://recruiting.ultipro.com/GRA1009GMC/JobBoard/59c4f4ab-af79-401b-8093-07af99fb34ac/JobBoardView/LoadSearchResults"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { opportunitySearch: { Top: 100, Skip: 0, QueryString: "", OrderBy: [], Filters: [] } }
+      list_path: "opportunities"
+      url_prefix: "https://recruiting.ultipro.com/GRA1009GMC/JobBoard/59c4f4ab-af79-401b-8093-07af99fb34ac/OpportunityDetail?opportunityId="
+      fields: { title: "Title", location: "Locations.0.LocalizedDescription", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Columbus", "Cincinnati", "Cleveland", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Vitamix"
+    mode: api
+    employer: true
+    search_url: "https://recruiting.ultipro.com/VIT1001VITMX/JobBoard/5827fb71-f65a-4534-9d30-4abff4e8a554/"
+    api:
+      method: POST
+      url: "https://recruiting.ultipro.com/VIT1001VITMX/JobBoard/5827fb71-f65a-4534-9d30-4abff4e8a554/JobBoardView/LoadSearchResults"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { opportunitySearch: { Top: 100, Skip: 0, QueryString: "", OrderBy: [], Filters: [] } }
+      list_path: "opportunities"
+      url_prefix: "https://recruiting.ultipro.com/VIT1001VITMX/JobBoard/5827fb71-f65a-4534-9d30-4abff4e8a554/OpportunityDetail?opportunityId="
+      fields: { title: "Title", location: "Locations.0.LocalizedDescription", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Olmsted", "Cleveland", "Columbus", "Cincinnati", "Dayton", "Akron", "Remote", "remote"]
+
+  - name: "Medical Mutual of Ohio"
+    mode: api
+    employer: true
+    ohio_only: true
+    search_url: "https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/"
+    api:
+      method: POST
+      url: "https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/JobBoardView/LoadSearchResults"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { opportunitySearch: { Top: 100, Skip: 0, QueryString: "", OrderBy: [], Filters: [] } }
+      list_path: "opportunities"
+      url_prefix: "https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId="
+      fields: { title: "Title", location: "Locations.0.LocalizedDescription", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Cleveland", "Dublin", "Columbus", "Cincinnati", "Remote", "remote"]
+
+  # ---- Taleo (REST searchjobs; numeric portal id; column-array fields) ----
+  - name: "Cincinnati Insurance"
+    mode: api
+    employer: true
+    search_url: "https://cinfin.taleo.net/careersection/ex/jobsearch.ftl"
+    api:
+      method: POST
+      url: "https://cinfin.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=101430233"
+      headers: { Content-Type: "application/json", Accept: "application/json", tz: "GMT" }
+      json_body: { multilineEnabled: false, sortingSelection: { sortBySelectionParam: "3", ascendingSortingOrder: "false" }, fieldData: { fields: { KEYWORD: "", LOCATION: "" }, valid: true }, filterSelectionParam: { searchFilterSelections: [] }, advancedSearchFiltersSelectionParam: { searchFilterSelections: [] }, pageNo: 1 }
+      list_path: "requisitionList"
+      url_prefix: "https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job="
+      fields: { title: "column.1", location: "column.2", url: "jobId", posted: "column.0" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Fairfield", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+  # ============= OHIO EMPLOYERS — WAVE 3B (SuccessFactors RMK manufacturers) ====
+
+  - name: "Cintas"
+    mode: html
+    employer: true
+    location_from_url: true
+    search_url: "https://careers.cintas.com/search/"
+    urls:
+      - "https://careers.cintas.com/tile-search-results/?q=software&startrow=0"
+      - "https://careers.cintas.com/tile-search-results/?q=data&startrow=0"
+      - "https://careers.cintas.com/tile-search-results/?q=engineer&startrow=0"
+      - "https://careers.cintas.com/tile-search-results/?q=developer&startrow=0"
+    url_prefix: "https://careers.cintas.com"
+    selectors: { card: "li.job-tile", title: "a.jobTitle-link", link: "a.jobTitle-link", require_link: true }
+    location_filter: ["OH", "Ohio", "Remote", "remote"]
+
+  - name: "Lincoln Electric"
+    mode: html
+    employer: true
+    location_from_url: true
+    search_url: "https://jobs.lincolnelectric.com/search/"
+    urls:
+      - "https://jobs.lincolnelectric.com/tile-search-results/?q=software&startrow=0"
+      - "https://jobs.lincolnelectric.com/tile-search-results/?q=data&startrow=0"
+      - "https://jobs.lincolnelectric.com/tile-search-results/?q=engineer&startrow=0"
+      - "https://jobs.lincolnelectric.com/tile-search-results/?q=developer&startrow=0"
+    url_prefix: "https://jobs.lincolnelectric.com"
+    selectors: { card: "li.job-tile", title: "a.jobTitle-link", link: "a.jobTitle-link", require_link: true }
+    location_filter: ["OH", "Ohio", "Remote", "remote"]
+
+  - name: "Owens Corning"
+    mode: html
+    employer: true
+    location_from_url: true
+    search_url: "https://careers.owenscorning.com/search/"
+    urls:
+      - "https://careers.owenscorning.com/tile-search-results/?q=software&startrow=0"
+      - "https://careers.owenscorning.com/tile-search-results/?q=data&startrow=0"
+      - "https://careers.owenscorning.com/tile-search-results/?q=engineer&startrow=0"
+      - "https://careers.owenscorning.com/tile-search-results/?q=developer&startrow=0"
+    url_prefix: "https://careers.owenscorning.com"
+    selectors: { card: "li.job-tile", title: "a.jobTitle-link", link: "a.jobTitle-link", require_link: true }
+    location_filter: ["OH", "Ohio", "Remote", "remote"]
+
+  - name: "Timken"
+    mode: html
+    employer: true
+    location_from_url: true
+    search_url: "https://careers.timken.com/search/"
+    urls:
+      - "https://careers.timken.com/tile-search-results/?q=software&startrow=0"
+      - "https://careers.timken.com/tile-search-results/?q=data&startrow=0"
+      - "https://careers.timken.com/tile-search-results/?q=engineer&startrow=0"
+      - "https://careers.timken.com/tile-search-results/?q=developer&startrow=0"
+    url_prefix: "https://careers.timken.com"
+    selectors: { card: "li.job-tile", title: "a.jobTitle-link", link: "a.jobTitle-link", require_link: true }
+    location_filter: ["OH", "Ohio", "Remote", "remote"]
+
+  - name: "Dana Incorporated"
+    mode: html
+    employer: true
+    location_from_url: true
+    search_url: "https://jobs.dana.com/search/"
+    urls:
+      - "https://jobs.dana.com/tile-search-results/?q=software&startrow=0"
+      - "https://jobs.dana.com/tile-search-results/?q=data&startrow=0"
+      - "https://jobs.dana.com/tile-search-results/?q=engineer&startrow=0"
+      - "https://jobs.dana.com/tile-search-results/?q=developer&startrow=0"
+    url_prefix: "https://jobs.dana.com"
+    selectors: { card: "li.job-tile", title: "a.jobTitle-link", link: "a.jobTitle-link", require_link: true }
+    location_filter: ["OH", "Ohio", "Remote", "remote"]
+
+  - name: "Lubrizol"
+    mode: html
+    employer: true
+    location_from_url: true
+    search_url: "https://jobs.lubrizol.com/search/"
+    urls:
+      - "https://jobs.lubrizol.com/tile-search-results/?q=software&startrow=0"
+      - "https://jobs.lubrizol.com/tile-search-results/?q=data&startrow=0"
+      - "https://jobs.lubrizol.com/tile-search-results/?q=engineer&startrow=0"
+      - "https://jobs.lubrizol.com/tile-search-results/?q=developer&startrow=0"
+    url_prefix: "https://jobs.lubrizol.com"
+    selectors: { card: "li.job-tile", title: "a.jobTitle-link", link: "a.jobTitle-link", require_link: true }
+    location_filter: ["OH", "Ohio", "Remote", "remote"]

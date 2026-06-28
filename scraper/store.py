@@ -1,0 +1,99 @@
+"""JSON storage with dedupe + first-seen tracking."""
+from __future__ import annotations
+
+import hashlib
+import json
+from datetime import datetime, timezone
+from pathlib import Path
+
+DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "jobs.json"
+NEW_JOBS_FILE = Path(__file__).resolve().parent.parent / "data" / "new_jobs.json"
+
+
+def _job_id(job: dict) -> str:
+    """A job's identity is its URL — every firm's job URL carries a unique job id.
+
+    This is what lets us tell a genuinely fresh posting from an old one: a new URL
+    (new id) = a new job, an URL we've seen before = the same (already-tracked) job.
+    Title is NOT identity — two different roles can share a title+location.
+    We normalize (drop #fragment, trailing slash, case) so trivial variants don't
+    fork identity. Falls back to firm|title|location only if a URL is missing.
+    """
+    url = (job.get("url") or "").split("#")[0].rstrip("/").strip().lower()
+    raw = url or f"{job['firm']}|{job['title']}|{job['location']}".lower()
+    return hashlib.sha1(raw.encode()).hexdigest()[:12]
+
+
+def load() -> dict[str, dict]:
+    # Key by the RECOMPUTED id (from URL), not the stored one — this self-migrates
+    # any jobs saved under the old title-based scheme while preserving first_seen.
+    if DATA_FILE.exists():
+        return {_job_id(j): j for j in json.loads(DATA_FILE.read_text()).get("jobs", [])}
+    return {}
+
+
+def merge_and_save(new_jobs: list[dict], refresh_firms: set | None = None) -> dict:
+    """Merge freshly scraped jobs into the store. Returns a small run summary.
+
+    refresh_firms: firms that return their COMPLETE current job set each run — any
+    stored job of theirs not seen this run is dropped (so expired/dead jobs leave
+    the board immediately instead of lingering forever).
+    """
+    existing = load()
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    added = 0
+
+    seen_ids = set()
+    new_records: list[dict] = []          # the jobs that are genuinely new THIS run
+    for job in new_jobs:
+        jid = _job_id(job)
+        seen_ids.add(jid)
+        if jid in existing:
+            existing[jid]["id"] = jid
+            existing[jid]["last_seen"] = now
+            # refresh derived fields so URL-logic changes propagate; never overwrite
+            # a known posted date with an empty one (listing scrapes lack the date)
+            existing[jid]["url"] = job.get("url") or existing[jid].get("url")
+            if job.get("posted"):
+                existing[jid]["posted"] = job["posted"]
+        else:
+            job["id"] = jid
+            job["first_seen"] = now
+            job["last_seen"] = now
+            existing[jid] = job
+            new_records.append(job)
+            added += 1
+
+    # full-refresh firms: drop their stored jobs not seen in this run (expired)
+    removed = 0
+    removed_records: list[dict] = []
+    if refresh_firms:
+        for jid in [k for k, v in existing.items()
+                    if v.get("firm") in refresh_firms and k not in seen_ids]:
+            removed_records.append(existing[jid])
+            del existing[jid]
+            removed += 1
+
+    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "updated": now,
+        "count": len(existing),
+        "jobs": sorted(existing.values(), key=lambda j: j.get("first_seen", ""), reverse=True),
+    }
+    DATA_FILE.write_text(json.dumps(payload, indent=2))
+
+    # Tracking artifact: write the diff for THIS run so a human (or an alert hook)
+    # can see exactly what changed without re-scanning the whole board.
+    diff = {
+        "updated": now,
+        "added": added,
+        "removed": removed,
+        "total": len(existing),
+        "new_jobs": sorted(new_records, key=lambda j: (j.get("firm", ""), j.get("title", ""))),
+        "removed_jobs": [{"firm": j.get("firm"), "title": j.get("title"), "url": j.get("url")}
+                         for j in removed_records],
+    }
+    NEW_JOBS_FILE.write_text(json.dumps(diff, indent=2))
+
+    return {"added": added, "removed": removed, "total": len(existing),
+            "scraped": len(new_jobs), "new_jobs": new_records}

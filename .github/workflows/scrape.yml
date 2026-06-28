@@ -1,0 +1,47 @@
+name: scrape-ohio-jobs
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours, at :17 to avoid GitHub's congested top-of-hour slot
+  workflow_dispatch:          # manual run button
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Scrape
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}   # for Cloudflare-walled firms (Apex)
+        run: python run.py
+
+      - name: Build site + README
+        run: |
+          python build_site.py
+          python build_readme.py
+
+      - name: Commit results
+        run: |
+          git config user.name "ohio-tech-jobs-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/jobs.json docs/ README.md
+          git commit -m "update jobs $(date -u +%FT%TZ)" || { echo "no changes"; exit 0; }
+          # the branch may have moved (manual pushes / overlapping run) — rebase then
+          # push with retries so a transient non-fast-forward doesn't drop the update
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && break
+            echo "push attempt $i failed; retrying"; sleep 5
+          done
