@@ -1,38 +1,3038 @@
 {
-  "updated": "2026-06-28T21:03:43+00:00",
-  "added": 3,
+  "updated": "2026-06-28T21:41:37+00:00",
+  "added": 303,
   "removed": 0,
-  "total": 219,
+  "total": 472,
   "new_jobs": [
     {
-      "firm": "L3Harris",
-      "title": "Lead, Software Engineering",
+      "firm": "84.51\u00b0",
+      "title": "Director Data Science (P2415)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8476911002",
+      "posted": "2026-04-01T13:27:07-04:00",
+      "id": "328a8e37bc58",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "Lead API Platform Engineer (P181)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8426909002",
+      "posted": "2026-04-02T14:43:49-04:00",
+      "id": "857d24ce9441",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "Lead Cloud Engineer (P486)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8503221002",
+      "posted": "2026-04-12T17:45:48-04:00",
+      "id": "8d134e2f369d",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "Lead Data Scientist (P3764)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8497437002",
+      "posted": "2026-04-20T15:43:24-04:00",
+      "id": "4cf3be6b61b9",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "Lead Technical Product Manager (P4552)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8462849002",
+      "posted": "2026-05-13T11:27:33-04:00",
+      "id": "dfdcf3da789e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "Senior Agile Delivery-AI Proprietary Models + AI Hub (P4572)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8481969002",
+      "posted": "2026-04-14T08:56:35-04:00",
+      "id": "71351ad5f134",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "Senior Data Scientist (P1553)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8496709002",
+      "posted": "2026-04-20T09:37:34-04:00",
+      "id": "cac8d319eae5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "Senior Data Scientist Consultant - Agentic Platform (P4339)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8454763002",
+      "posted": "2026-04-07T13:52:40-04:00",
+      "id": "e30eb72d0bba",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "84.51\u00b0",
+      "title": "ServiceNow Team Lead (P929)",
+      "location": "Cincinnati, OH; Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/8451/jobs/8460457002",
+      "posted": "2026-04-01T13:27:07-04:00",
+      "id": "c8f308b5c4c9",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "AES Ohio",
+      "title": "OT Infrastructure & Compliance, Lead Analyst",
+      "location": "US, Dayton, OH",
+      "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/OT-Infrastructure---Compliance--Lead-Analyst_R1063655-1",
+      "posted": "2026-06-18",
+      "id": "dba82c18b83a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "AES Ohio",
+      "title": "Senior Electrical Test Engineer",
+      "location": "US, Dayton, OH",
+      "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Engineer--Electrical-Test_R1062766",
+      "posted": "2026-06-17",
+      "id": "c48079e376bd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Abbott (Columbus)",
+      "title": "Senior Project Leader TPM (Third Party Manufacturing) Quality Assurance - Columbus, OH",
+      "location": "United States - Ohio - Columbus",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Project-Leader-TPM--Third-Party-Manufacturing--Quality-Assurance---Columbus--OH_31153875",
+      "posted": "2026-06-19",
+      "id": "5afa0378b217",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Abercrombie & Fitch",
+      "title": "Analyst, Data Governance - A&F Co.",
+      "location": "Columbus, Ohio",
+      "url": "https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Analyst--Data-Governance---A-F-Co_JR103202",
+      "posted": "2026-06-25",
+      "id": "dec2f1d779ed",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Agile Coach",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/7981",
+      "posted": "2026-04-17",
+      "id": "d9cc3dab599c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Azure Network Engineer",
+      "location": "Columbus, Ohio",
+      "url": "https://agilityconnect.io/jobs/7815",
+      "posted": "2026-02-27",
+      "id": "610f5a9f7210",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Business Systems Analyst III",
+      "location": "OH",
+      "url": "https://agilityconnect.io/jobs/8163",
+      "posted": "2026-06-18",
+      "id": "1f4d2691e7f3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Enterprise Agile Coach",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/8065",
+      "posted": "2026-05-15",
+      "id": "a72dcea10ea6",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "IT Project Manager",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/8099",
+      "posted": "2026-05-22",
+      "id": "51ea8240ca59",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Lead IAM Engineer",
+      "location": "OH",
+      "url": "https://agilityconnect.io/jobs/7819",
+      "posted": "2026-02-27",
+      "id": "6f3507825cb4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Prod Support Engineer",
+      "location": "Columbus, Ohio",
+      "url": "https://agilityconnect.io/jobs/8156",
+      "posted": "2026-06-16",
+      "id": "610d90bd5e7a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "QA Engineer",
+      "location": "Columbus, Ohio",
+      "url": "https://agilityconnect.io/jobs/8100",
+      "posted": "2026-05-28",
+      "id": "bfcb9b531479",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Scrum Master",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/8161",
+      "posted": "2026-06-17",
+      "id": "9b2ad81f4d8b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Scrum Master",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/8115",
+      "posted": "2026-06-03",
+      "id": "42e132a9ffa0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Scrum Master",
+      "location": "New Albany, OH",
+      "url": "https://agilityconnect.io/jobs/7928",
+      "posted": "2026-03-30",
+      "id": "1bccc2fc55db",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Senior Business Analyst - ServiceNow",
+      "location": "Cincinnati, OH",
+      "url": "https://agilityconnect.io/jobs/8159",
+      "posted": "2026-06-16",
+      "id": "f9f46b50337e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Senior Data Engineer",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/7984",
+      "posted": "2026-04-22",
+      "id": "70bdc3b4c435",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Senior Java Developer",
+      "location": "Cincinnati, OH",
+      "url": "https://agilityconnect.io/jobs/8070",
+      "posted": "2026-04-23",
+      "id": "4d0f34e1dde5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Systems Analyst",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/8097",
+      "posted": "2026-05-28",
+      "id": "e6e4b9bf72cd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Technical Product Owner - Domain Services",
+      "location": "Cincinnati, OH",
+      "url": "https://agilityconnect.io/jobs/8141",
+      "posted": "2026-06-10",
+      "id": "65352660cc6f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Agility Connect",
+      "title": "Technical Project Manager AI & Customer Experience",
+      "location": "Columbus, OH",
+      "url": "https://agilityconnect.io/jobs/8126",
+      "posted": "2026-06-08",
+      "id": "805b527f39c3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "American Electric Power",
+      "title": "Senior Staff Engineer \u2013 Enterprise Middleware Platform & Migration Architecture",
+      "location": "Columbus, OH",
+      "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Senior-Staff-Engineer---Enterprise-Middleware-Platform---Migration-Architecture_R16739",
+      "posted": "2026-06-22",
+      "id": "1860d6494775",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "American Electric Power",
+      "title": "Systems Analyst Sr",
+      "location": "Gahanna, OH",
+      "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Solution-Engineer-Sr_R15371",
+      "posted": "2026-06-23",
+      "id": "4445f5375c68",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Apex Systems",
+      "title": "Epic Senior Application Analyst",
+      "location": "Cleveland, OH",
+      "url": "https://www.apexsystems.com/job/3039652_usa/epic-senior-application-analyst",
+      "posted": "2026-06-23",
+      "id": "a4dfb450e6bb",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Apex Systems",
+      "title": "Network Real Estate Specialist / Developer",
+      "location": "Remote, CA",
+      "url": "https://www.apexsystems.com/job/3031695_usa/network-real-estate-specialist--developer",
+      "posted": "2026-04-28",
+      "id": "e6692775c55b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Apex Systems",
+      "title": "Security Software Data Engineer - Venafi and/or CyberArk",
+      "location": "Virtual, OH",
+      "url": "https://www.apexsystems.com/job/3027515_usa/security-software-data-engineer----venafi-andor-cyberark",
+      "posted": "2026-03-25",
+      "id": "bc6fadc28878",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Apex Systems",
+      "title": "Senior Mainframe Developer & Production Support",
+      "location": "Brooklyn, OH",
+      "url": "https://www.apexsystems.com/job/3040002_usa/senior-mainframe-developer--production-support",
+      "posted": "2026-06-26",
+      "id": "08a5dab36204",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Quality Engineering",
+      "location": "Hybrid, IA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32514384#/jobs/32514384",
+      "posted": "2026-06-26",
+      "id": "c8cba97c0c9e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Atlas Air Worldwide",
+      "title": "Aircraft Systems Engineer",
+      "location": "Erlanger, KY, USA",
+      "url": "https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4286343009",
+      "posted": "2026-06-16T12:37:02-04:00",
+      "id": "c583c9d81bc8",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Atlas Air Worldwide",
+      "title": "Powerplant Engineer",
+      "location": "Erlanger, KY, USA",
+      "url": "https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4249933009",
+      "posted": "2026-06-18T14:33:08-04:00",
+      "id": "be98ff70f3f2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Atlas Air Worldwide",
+      "title": "Senior Automation Engineer",
+      "location": "Erlanger, KY, USA; Miami, FL, USA; White Plains, NY, USA",
+      "url": "https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4264689009",
+      "posted": "2026-06-08T16:21:38-04:00",
+      "id": "43bda2608955",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Atlas Air Worldwide",
+      "title": "Senior Powerplant Engineer",
+      "location": "Erlanger, KY, USA",
+      "url": "https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4286224009",
+      "posted": "2026-06-16T14:12:46-04:00",
+      "id": "44e4f470f750",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "AtriCure",
+      "title": "IT Co-op - Fall 2026",
       "location": "Mason, OH",
-      "url": "https://careers.l3harris.com/en/job/mason/lead-software-engineering/4832/94530013536",
+      "url": "https://job-boards.greenhouse.io/atricure/jobs/4260673009",
+      "posted": "2026-06-27T20:46:19-04:00",
+      "id": "f666b16c6314",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "AtriCure",
+      "title": "Principal Design Assurance Quality Engineer",
+      "location": "Mason, OH",
+      "url": "https://job-boards.greenhouse.io/atricure/jobs/4259815009",
+      "posted": "2026-06-23T04:55:37-04:00",
+      "id": "4531b62ce5d3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "AtriCure",
+      "title": "Senior Director, Enterprise Applications & Analytics",
+      "location": "Mason, OH",
+      "url": "https://job-boards.greenhouse.io/atricure/jobs/4278420009",
+      "posted": "2026-06-27T20:50:00-04:00",
+      "id": "2d85f9843561",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "AtriCure",
+      "title": "Staff Design Assurance Quality Engineer",
+      "location": "Mason, OH",
+      "url": "https://job-boards.greenhouse.io/atricure/jobs/4259899009",
+      "posted": "2026-06-27T20:53:56-04:00",
+      "id": "7cbb414cd810",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Early Career Vulnerability Researcher",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76282",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "4c86dc2ec9cd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Junior Vulnerability Researcher",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76251",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "5599e69fa458",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Maritime Systems Engineer",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/75998",
+      "posted": "2023-11-09T14:46:01.000+0000",
+      "id": "235a58535356",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Mid-level Vulnerability Researcher",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76252",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "1d63c949d6bd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Principal Quality Engineer - Nuclear Energy",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76286",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "a155eb538eb0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "RF Test Engineer",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76113",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "392606348d6a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "RMF / Cyber Systems Engineer",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76283",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "7edea4c7602b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Radio Frequency (RF) Systems Engineer",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76307",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "9783584280dd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Reverse Engineer/Vulnerability Research Co-op (Spring 2027)",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76343",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "ab228279bdde",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Senior Vulnerability Researcher",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76230",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "9429cd101b3f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Sr. Network Engineer",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76273",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "bce42d162d85",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Battelle",
+      "title": "Test Engineer (Entry Level) - TSA Acceptance Testing",
+      "location": "Remote, VA",
+      "url": "https://jobs.battelle.org/us/en/job/76243",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "2e3fcc6492de",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Belcan",
+      "title": "L1 Systems Administrator",
+      "location": "Cincinnati, OH",
+      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366027&apply=yes&",
+      "posted": "2026-6-24",
+      "id": "fcfaa0294eb7",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Branch Insurance",
+      "title": "Cloud Operations Engineer",
+      "location": "Remote, US",
+      "url": "https://job-boards.greenhouse.io/branch/jobs/7764056003",
+      "posted": "2026-06-04T16:49:18-04:00",
+      "id": "4a7afaca06e4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Branch Insurance",
+      "title": "Staff Cloud Operations Engineer",
+      "location": "Remote, US",
+      "url": "https://job-boards.greenhouse.io/branch/jobs/7764041003",
+      "posted": "2026-06-04T16:50:02-04:00",
+      "id": "c7378aa66bd3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cardinal Health",
+      "title": "Principal Specialist, Quality Assurance",
+      "location": "OH-Ohio-FIELD",
+      "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-FIELD/Principal-Specialist--Quality-Assurance_20181708-1",
+      "posted": "2026-06-05",
+      "id": "752c3abc249c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cardinal Health",
+      "title": "Senior Engineer, SAP Project Delivery",
+      "location": "OH-Ohio-Work from Home",
+      "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Engineer--SAP-Project-Delivery_20181850",
+      "posted": "2026-06-24",
+      "id": "e5291a6adf12",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "CareSource",
+      "title": "Manager, Information Technology \u2013 Encounters IT (Transformation & Architecture Focus)",
+      "location": "Remote",
+      "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Information-Technology---Encounters-IT--Transformation---Architecture-Focus-_R12962",
+      "posted": "2026-06-26",
+      "id": "496d9ee04404",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Biomedical Informatics - Assistant Professor, Associate Professor, Research",
+      "location": "Exploration Avenue",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Exploration-Avenue/Biomedical-Informatics---Assistant-Professor--Associate-Professor--Research_JR218955",
+      "posted": "2026-05-29",
+      "id": "400a5bf1f4a2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Business Intelligence Analyst I - HealthVine",
+      "location": "Remote",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Business-Intelligence-Analyst-II---HealthVine_JR217109-1",
+      "posted": "2026-06-15",
+      "id": "bd04efa9cbdb",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Business Systems Analyst I (Quality Assurance)",
+      "location": "Remote",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Business-Systems-Analyst-I--Quality-Assurance-_JR220780-1",
+      "posted": "2026-06-04",
+      "id": "b166c00ba1eb",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Business Systems Analyst I - ERP Training Developer",
+      "location": "Remote",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Business-Systems-Analyst-I---ERP-Training-Developer_JR221931",
+      "posted": "2026-06-17",
+      "id": "793110cc35c2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Business Systems Architect - Enterprise Business Applications",
+      "location": "Remote",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Business-Systems-Architect---Enterprise-Business-Apps-QA_JR218769",
+      "posted": "2026-06-18",
+      "id": "199db5390e4a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Information Security Analyst II",
+      "location": "2 Locations",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Information-Security-Analyst-II_JR221009",
+      "posted": "2026-05-29",
+      "id": "2e8acf883224",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Senior Analyst - Business Intelligence",
+      "location": "Burnet Campus",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Senior-Analyst---Business-Intelligence_JR222559",
+      "posted": "2026-06-15",
+      "id": "732d37de99ed",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Senior Business Intelligence Analyst",
+      "location": "Remote",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-Business-Intelligence-Analyst_JR221676-1",
+      "posted": "2026-06-18",
+      "id": "0e202300eceb",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cincinnati Children's Hospital",
+      "title": "Senior EBA Technical Analyst - ServiceNow",
+      "location": "Remote",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EBA-Technical-Analyst---ServiceNow_JR220821",
+      "posted": "2026-05-29",
+      "id": "1c08903f35b5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "IT Manager - Operational Technology",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-IT-Manager-Operational-Technology-OH-45040/1394369200/",
       "posted": "",
-      "id": "bc7249126776",
-      "first_seen": "2026-06-28T21:03:43+00:00",
-      "last_seen": "2026-06-28T21:03:43+00:00"
+      "id": "8a6701b043c9",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "IT SAP Analyst-Level 3-BODS",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-IT-SAP-Analyst-Level-3-BODS-OH-45040/1383541200/",
+      "posted": "",
+      "id": "a1fb347dd706",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "IT SAP Developer-Level 3-Fiori",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-IT-SAP-Developer-Level-3-Fiori-OH-45040/1378037700/",
+      "posted": "",
+      "id": "e4d8cb510ad5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "IT SAP Developer-Level 3-MDG",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-IT-SAP-Developer-Level-3-MDG-OH-45040/1379772500/",
+      "posted": "",
+      "id": "a1f278486b9c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "IT SAP Manager - Data Integrations",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-IT-SAP-Manager-Data-Integrations-OH-45040/1386195000/",
+      "posted": "",
+      "id": "eff095fd71f2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "SAP Basis Administrator-Level 3",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-SAP-Basis-Administrator-Level-3-OH-45040/1402595100/",
+      "posted": "",
+      "id": "2f4db04c93ae",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "SAP Developer-Level 3-Gateway",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-Gateway-OH-45040/1396929300/",
+      "posted": "",
+      "id": "7fda5bc312ab",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "SAP Developer-Level 3-MDG",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-MDG-OH-45040/1397828000/",
+      "posted": "",
+      "id": "b2ec50f5e9f0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cintas",
+      "title": "SAP Security Administrator - Level 2",
+      "location": "OH",
+      "url": "https://careers.cintas.com/job/Mason-SAP-Security-Administrator-Level-2-OH-45040/1373892400/",
+      "posted": "",
+      "id": "e69ef6241573",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cleveland-Cliffs",
+      "title": "Quality Engineer",
+      "location": "Cleveland Works",
+      "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Quality-Engineer_R12595",
+      "posted": "2026-06-16",
+      "id": "54cab9ecf9a6",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Collabera",
+      "title": "Front End Project Manager",
+      "location": "Mason, OH",
+      "url": "https://jobs.smartrecruiters.com/Collabera2/743999657694743",
+      "posted": "2017-08-11T19:38:54.000Z",
+      "id": "3372dad13f1f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Collabera",
+      "title": "IT Technical Writer",
+      "location": "Mason, OH",
+      "url": "https://jobs.smartrecruiters.com/Collabera2/743999652323334",
+      "posted": "2017-06-05T16:32:14.000Z",
+      "id": "b99eab4188a1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Collabera",
+      "title": "Technical/Help Desk Support",
+      "location": "Mason, OH",
+      "url": "https://jobs.smartrecruiters.com/Collabera2/743999655330136",
+      "posted": "2017-07-10T14:51:01.000Z",
+      "id": "cfe3dd625ad1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "CoverMyMeds",
+      "title": "Sr. Director of Data Governance and Operations",
+      "location": "USA, OH, Columbus",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/CoverMyMeds_External_Careers/job/USA-OH-Columbus/Sr-Director-of-Data-Governance-and-Operations_JR0149213",
+      "posted": "2026-06-24",
+      "id": "dea353a5adc6",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Crane Company",
+      "title": "IT Business Systems Analyst",
+      "location": "Cincinnati, Ohio",
+      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/IT-Business-Systems-Analyst_JR100984",
+      "posted": "2026-05-29",
+      "id": "97f1932c57e6",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Crane Company",
+      "title": "IT Service Desk Analyst",
+      "location": "70900-USA7900 VS USA_TWINSBURG-OH",
+      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/IT-Service-Desk-Analyst_JR101087",
+      "posted": "2026-05-29",
+      "id": "56664a8b4312",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Crane Company",
+      "title": "IT Systems Engineer",
+      "location": "70900-USA7900 VS USA_TWINSBURG-OH",
+      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/IT-Systems-Engineer_JR101165",
+      "posted": "2026-05-29",
+      "id": "43b83eda6642",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Crane Company",
+      "title": "Lead Sourcing Specialist - Supplier Quality Engineer",
+      "location": "70900-USA7900 VS USA_TWINSBURG-OH",
+      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/Lead-Sourcing-Specialist---Supplier-Quality-Engineer_JR101541-1",
+      "posted": "2026-05-29",
+      "id": "e4e567c73483",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Crane Company",
+      "title": "Quality Engineer- APQP",
+      "location": "Elyria, Ohio",
+      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Quality-Engineer--APQP_JR101124",
+      "posted": "2026-05-29",
+      "id": "042953d4fbbc",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Crane Company",
+      "title": "Sr Quality Engineer",
+      "location": "Piqua, Ohio",
+      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Sr-Quality-Engineer_JR101837-1",
+      "posted": "2026-06-24",
+      "id": "caa51a5e0179",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "CrossCountry Mortgage",
+      "title": "Loan Support Specialist",
+      "location": "Remote USA",
+      "url": "https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Loan-Support-Specialist_JR02336",
+      "posted": "2026-05-29",
+      "id": "47711acf082c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "SRE Engineer",
+      "location": "Ohio",
+      "url": "https://candidateportal.ceipal.com/job-details/TDPCmFwcqjcYUBeaOxUhNDNYnIpaMwwraqjnujnkzCQ",
+      "posted": "2026-02-17",
+      "id": "95f5eed7a42e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior OMS Developer with Java Backend",
+      "location": "Ohio",
+      "url": "https://candidateportal.ceipal.com/job-details/i04gcLz9tbQIG9I8ZgC3RTBIyeN-uP3rBPqU07XwFCA",
+      "posted": "2026-06-02",
+      "id": "8d6ae6bf64bd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "DHL",
+      "title": "Application Support Engineer",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Application-Support-Engineer-USO-job-Westerville-OH-US-11043240.html",
+      "posted": "2026-07-06T00:00:00.000+0000",
+      "id": "8589d5aa793b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "DHL",
+      "title": "BUIT Project Manager IT",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/BUIT-Project-Manager-IT-USO-job-Westerville-OH-US-11015004.html",
+      "posted": "2026-06-22T00:00:00.000+0000",
+      "id": "cc22c49bab24",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "DHL",
+      "title": "IT Team Lead II",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/IT-Team-Lead-II-USO-job-Westerville-OH-US-11056823.html",
+      "posted": "2026-06-25T00:00:00.000+0000",
+      "id": "3ade928a6b26",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "DHL",
+      "title": "Lead Data Engineer",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Lead-Data-Engineer-USO-job-Westerville-OH-US-10926050.html",
+      "posted": "2026-04-13T00:00:00.000+0000",
+      "id": "c428e740762e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "DHL",
+      "title": "SRD IT Americas",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/SRD-IT-Americas-USO-job-Westerville-OH-US-10712899.html",
+      "posted": "2026-06-04T00:00:00.000+0000",
+      "id": "a17e5f851459",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "DHL",
+      "title": "SRD IT Americas",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/SRD-IT-Americas-USO-job-Westerville-OH-US-10939543.html",
+      "posted": "2026-03-23T00:00:00.000+0000",
+      "id": "f9a3047b1e55",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "DHL",
+      "title": "Sr Application Support Engineer",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Application-Support-Engineer-USO-job-Westerville-OH-US-11052261.html",
+      "posted": "2026-06-19T00:00:00.000+0000",
+      "id": "ef7578036756",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Dana Incorporated",
+      "title": "IT Manager, Enterprise EDI",
+      "location": "OH",
+      "url": "https://jobs.dana.com/job/Maumee-IT-Manager%2C-Enterprise-EDI-OH-43537/1386590800/",
+      "posted": "",
+      "id": "dc7909629b99",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Diebold Nixdorf",
+      "title": "Enterprise Risk Manager",
+      "location": "Remote, United States",
+      "url": "https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19322",
+      "posted": "2026-06-26",
+      "id": "b11f035379a6",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fast Switch",
+      "title": "Workday Security Administrator",
+      "location": "Location: Cleveland, Ohio",
+      "url": "https://fastswitch.com/jobs/workday-security-administrator-61733/",
+      "posted": "2026-06-08",
+      "id": "890011ed8dc2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "Business Controls Senior Associate - IT Risk",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Senior-Associate----IT-Risk_R67062-1",
+      "posted": "2026-05-29",
+      "id": "608584a0862a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "Depositor Services Processing & Support Specialist I",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R69359-1",
+      "posted": "2026-06-24",
+      "id": "de6d867e51ad",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "Depositor Services Processing & Support Specialist I",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R69375",
+      "posted": "2026-06-25",
+      "id": "4bb39ea22997",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "HRIS Analyst (Workday)",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-HRIS-Product-Analyst_R65507",
+      "posted": "2026-06-23",
+      "id": "da9d69021f66",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "IT Audit Project Manager",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Audit-Project-Manager_R68849",
+      "posted": "2026-06-04",
+      "id": "f317653ee97e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "IT Business Controls Associate - Digital Channels",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Business-Controls-Associate---Digital-Channels_R67732-1",
+      "posted": "2026-05-29",
+      "id": "d3f958814095",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "IT Business Controls Manager - Digital Channels",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Business-Controls-Manager---Digital-Channels_R67554",
+      "posted": "2026-05-29",
+      "id": "7676bec2bc19",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "Lockbox Mail Support Specialist Thurs-Sun 7:30pm-6am",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Mail-Support-Specialist-Thurs-Sun-7-30pm-6am_R69798",
+      "posted": "2026-06-23",
+      "id": "79c3274bc654",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "Lockbox Mail Support Specialist Tues-Fri 7:30pm-6am",
+      "location": "Cincinnati, OH",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Mail-Support-Specialist-Tues-Fri-7-30pm-6am_R67939",
+      "posted": "2026-06-24",
+      "id": "ac57d0be773d",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Fifth Third Bank",
+      "title": "Principal Enterprise Security Architect",
+      "location": "Virtual",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal-Enterprise-Security-Architect_R67220-1",
+      "posted": "2026-06-23",
+      "id": "95a08e621d49",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "First Solar",
+      "title": "Analyst (Oracle Plant Maintenance)- IT II",
+      "location": "Perrysburg, OH, United States",
+      "url": "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1023885",
+      "posted": "2026-03-30",
+      "id": "ab02e2e6fa2c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "Application Configuration Analyst - IT Enterprise Application Delivery",
+      "location": "Akron, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104464",
+      "posted": "2026-06-05",
+      "id": "612ec972cf3a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "Asset Management Systems Analyst - Asset & Records Control - Akron FirstEnergy Headquarters",
+      "location": "Akron, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104091",
+      "posted": "2026-04-15",
+      "id": "f1456c2a9dc3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "Cyber and Information Security Analyst - Cyber Security & TSOC",
+      "location": "Wadsworth, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/103435",
+      "posted": "2026-06-01",
+      "id": "fa85042559c1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "Data Analyst",
+      "location": "Akron, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104171",
+      "posted": "2026-04-27",
+      "id": "ff1109dc9b4e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "IT Business Analyst",
+      "location": "Akron, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104377",
+      "posted": "2026-05-28",
+      "id": "ce8447a12eed",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "Network Field Operations Specialist - IT Network Operations",
+      "location": "Wadsworth, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104310",
+      "posted": "2026-05-11",
+      "id": "dbc2020a069c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "Senior Data Analyst",
+      "location": "Akron, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104173",
+      "posted": "2026-04-27",
+      "id": "45030674219b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "Senior PJM Market Policy & Support Specialist",
+      "location": "OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104411",
+      "posted": "2026-05-29",
+      "id": "dd3e5afd65ee",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "FirstEnergy",
+      "title": "TSS Support Engineer",
+      "location": "Akron, OH, United States",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/103325",
+      "posted": "2026-06-23",
+      "id": "f4dd1f723559",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "GE Aerospace",
+      "title": "Executive, Global Security Operations Center (GSOC)",
+      "location": "Evendale",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Executive--Global-Security-Operations-Center--GSOC-_R5036710-1",
+      "posted": "2026-06-25",
+      "id": "15e074d2f0e7",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "GE Aerospace",
+      "title": "Lead Gulfstream Systems Support Engineer",
+      "location": "Remote",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Gulfstream-Systems-Support-Engineer_R5034943-1",
+      "posted": "2026-05-29",
+      "id": "2af43cef8b54",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "GE Aerospace",
+      "title": "Lead Sourcing Specialist - Supplier Quality Engineering",
+      "location": "Evendale",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Sourcing-Specialist---Supplier-Quality-Engineering_R5035310-1",
+      "posted": "2026-05-29",
+      "id": "8362218c865a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "GE Aerospace",
+      "title": "Sr Staff Technical Product Manager - Inbound Logistics",
+      "location": "Remote",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Sr-Staff-Technical-Product-Manager---Inbound-Logistics_R5033682-2",
+      "posted": "2026-05-29",
+      "id": "cf370fda7d6a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "GE Aerospace",
+      "title": "Sr Staff Technical Product Manager - Outbound Logistics",
+      "location": "Remote",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Sr-Staff-Technical-Product-Manager---Outbound-Logistics_R5033686-2",
+      "posted": "2026-05-29",
+      "id": "ed861f4965b5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "GE Aerospace",
+      "title": "Staff Model-Based Systems Engineer",
+      "location": "Evendale",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Model-Based-Systems-Engineer_R5036684",
+      "posted": "2026-06-25",
+      "id": "475320d04060",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "GE Aerospace",
+      "title": "X-Bat Engine Systems Integration Engineer",
+      "location": "Evendale",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/X-Bat-Engine-Systems-Integration-Engineer_R5032014-2",
+      "posted": "2026-05-29",
+      "id": "bca317bec9d2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Givaudan",
+      "title": "Cheminformatics Scientist",
+      "location": "Cincinnati, United States",
+      "url": "https://careers.givaudan.com/us/en/job/117823",
+      "posted": "2026-03-25T13:50:59.000+0000",
+      "id": "bc87b044764a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Goodyear",
+      "title": "Cloud Security & Cyber Risk Consultant",
+      "location": "US OH Akron Corp Hdqtrs",
+      "url": "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers/job/US-OH-Akron-Corp-Hdqtrs/IT-Risk---Security-Consultant_JR-40102640",
+      "posted": "2026-06-05",
+      "id": "2633ea75bad9",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Goodyear",
+      "title": "Technical Project Manager \u2013 Algorithm Applications",
+      "location": "US OH Akron ICA",
+      "url": "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers/job/US-OH-Akron-ICA/Technical-Project-Manager---Algorithm-Applications_JR-40110299",
+      "posted": "2026-06-25",
+      "id": "4cf383fdf224",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "AI / Automation Business Analyst",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/AI---Automation-Business-Analyst_R8944",
+      "posted": "2026-05-29",
+      "id": "3cc654299de4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "AVP/VP of Enterprise Analytics",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/AVP-VP-of-Enterprise-Analytics_R9045",
+      "posted": "2026-05-29",
+      "id": "df5518ced6ee",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "IT Customer Engagement Leader",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Customer-Engagement-Leader_R8245",
+      "posted": "2026-05-29",
+      "id": "e0cb2f907950",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "Product Owner - Advanced Analytics & Research",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Product-Owner---Advanced-Analytics---Research_R8492",
+      "posted": "2026-06-15",
+      "id": "af0c50772f13",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "Senior Business Intelligence Analyst - Great American Risk Solutions",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Business-Intelligence-Analyst---Great-American-Risk-Solutions_R8912",
+      "posted": "2026-05-29",
+      "id": "5e4062285568",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "Senior Enterprise Architect",
+      "location": "Richfield, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Senior-Enterprise-Architect_R9074-2",
+      "posted": "2026-06-02",
+      "id": "f6391e5ea9d7",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "Senior IT Strategic Sourcing Representative - Vendor Management",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-IT-Strategic-Sourcing-Representative---Vendor-Management_R8457",
+      "posted": "2026-05-29",
+      "id": "115265536c8b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "Senior Technical Product Manager",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Product-Manager_R8924",
+      "posted": "2026-05-29",
+      "id": "ecb8794620b6",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Great American Insurance",
+      "title": "Sr. Data Governance Analyst - Business Data & Analytics",
+      "location": "Cincinnati, OH (USA)",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Sr-Data-Governance-Analyst---Business-Data---Analytics_R8946",
+      "posted": "2026-05-29",
+      "id": "60df70d43d42",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Greif",
+      "title": "Corporate IT Support Specialist",
+      "location": "Delaware-OH-Winter Rd",
+      "url": "https://greif.wd5.myworkdayjobs.com/Greif/job/Delaware-OH-Winter-Rd/Corporate-IT-Support-Specialist_034499",
+      "posted": "2026-06-24",
+      "id": "555128dfac73",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "AI Machine Learning Principal Engineer",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/10852",
+      "posted": "2026-04-23T00:00:00.000+0000",
+      "id": "a1cbbfff1941",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Data Management and Analysis Co-op/Intern - Fall 2026",
+      "location": "Marysville, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/10828",
+      "posted": "2026-04-21T00:00:00.000+0000",
+      "id": "3fde2dd8856b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Head of Global IT Sourcing and Vendor Management",
+      "location": "Marysville, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/10922",
+      "posted": "2026-05-01T00:00:00.000+0000",
+      "id": "8a37f5436d20",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "IT Manager Client Engineering and Endpoint Platforms",
+      "location": "Marysville, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/10278",
+      "posted": "2026-06-23T00:00:00.000+0000",
+      "id": "28e576d2c980",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Information Technology (IT) Co-op/Intern - Fall 2026",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/9655",
+      "posted": "2025-12-11T00:00:00.000+0000",
+      "id": "04904053e731",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Safety Software Test Engineer",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/11140",
+      "posted": "2026-05-29T00:00:00.000+0000",
+      "id": "5c944fe48783",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Senior ADAS Test Engineer I",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/11213",
+      "posted": "2026-06-10T00:00:00.000+0000",
+      "id": "5b8c5fca1065",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Senior ADAS Test Engineer I",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/11088",
+      "posted": "2026-05-23T00:00:00.000+0000",
+      "id": "03f44cdc980e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Senior ADAS Test Engineer II",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/11089",
+      "posted": "2026-05-23T00:00:00.000+0000",
+      "id": "2351415f57be",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Senior ADAS Test Engineer II",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/11220",
+      "posted": "2026-06-11T00:00:00.000+0000",
+      "id": "962e407577c4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Senior ADAS Test Engineer II",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/10538",
+      "posted": "2026-06-12T00:00:00.000+0000",
+      "id": "ce006c3a8d93",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Senior Software and Systems Test Engineer I",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/11196",
+      "posted": "2026-06-07T00:00:00.000+0000",
+      "id": "7ce2f3ccfaed",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Technical Project Manager",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/10724",
+      "posted": "2026-06-25T00:00:00.000+0000",
+      "id": "eea49e7a7afd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honda",
+      "title": "Weld Robot Programmer",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/10652",
+      "posted": "2026-04-02T00:00:00.000+0000",
+      "id": "e6fa3f7a7495",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Honeywell",
+      "title": "Lead Quality Engineer",
+      "location": "Columbus, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151350",
+      "posted": "2026-06-25",
+      "id": "90564ef904f4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Huntington Bank",
+      "title": "Business System Analyst Lead",
+      "location": "Columbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-System-Analyst-Lead_R0070192",
+      "posted": "2026-05-29",
+      "id": "57c2185feeaa",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Huntington Bank",
+      "title": "Enterprise Payments Initiatives Manager",
+      "location": "Columbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Enterprise-Payments-Initiatives-Manager_R0073099",
+      "posted": "2026-06-16",
+      "id": "ca1e6e843e85",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Huntington Bank",
+      "title": "IT Tech Analyst",
+      "location": "Columbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Tech-Analyst_R0071578",
+      "posted": "2026-05-29",
+      "id": "35cc0c63905a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Huntington Bank",
+      "title": "Lead QA Test Analyst",
+      "location": "Columbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Lead-QA-Test-Analyst_R0071602-1",
+      "posted": "2026-06-09",
+      "id": "efb52b8ff1e1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Huntington Bank",
+      "title": "QA Automation Analyst",
+      "location": "Columbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Automation-Analyst_R0072927",
+      "posted": "2026-06-15",
+      "id": "3235c1c87471",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Huntington Bank",
+      "title": "QA Testing Analyst - Senior",
+      "location": "Columbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Testing-Analyst---Senior_R0070633",
+      "posted": "2026-05-29",
+      "id": "7bf1bbb32860",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Huntington Bank",
+      "title": "Robotic Process Automation (RPA) Operations IT Specialist",
+      "location": "Columbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Robotic-Process-Automation--RPA--Operations-IT-Specialist_R0065267-1",
+      "posted": "2026-05-29",
+      "id": "2052ed2948e1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "IGS Energy",
+      "title": "IT Product Manager (Solar)",
+      "location": "Ohio Remote",
+      "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/IT-Product-Manager_R6107",
+      "posted": "2026-05-29",
+      "id": "9c93b7ad87ac",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "IGS Energy",
+      "title": "Residential Solar QA & Ops Specialist",
+      "location": "Ohio Remote - Residential Solar",
+      "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote---Residential-Solar/Residential-Solar-QA---Ops-Specialist_R6137",
+      "posted": "2026-06-10",
+      "id": "2b9ee359b491",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "J.M. Smucker",
+      "title": "Director, Managing Counsel-Privacy & Cyber Security",
+      "location": "Orrville, OH",
+      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Director--Managing-Counsel-Privacy---Cyber-Security_115249",
+      "posted": "2026-05-29",
+      "id": "b60c2f7683a9",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "J.M. Smucker",
+      "title": "Plant Systems Engineering Intern, Orrville, OH Fall 2026",
+      "location": "Orrville, OH",
+      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Plant-Systems-Engineering-Intern--Orrville--OH-Fall-2026_115124",
+      "posted": "2026-05-29",
+      "id": "025044325bc8",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "J.M. Smucker",
+      "title": "Quality Assurance Intern, Fall 2026 - Orrville, OH",
+      "location": "Orrville, OH",
+      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Quality-Assurance-Intern--Fall-2026---Orrville--OH_115378",
+      "posted": "2026-06-09",
+      "id": "2301756a694f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "Cloud (IAC) Support Engineer",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Cloud--IAC--Support-Engineer_R-39873",
+      "posted": "2026-05-29",
+      "id": "6c95f3348a9a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "Copilot Infrastructure Enablement Specialist",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Copilot-Enablement-Specialist_R-38999",
+      "posted": "2026-06-02",
+      "id": "41f1e32254f3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "Credit Analyst",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Credit-Analyst_R-38096-1",
+      "posted": "2026-06-18",
+      "id": "e556211b6acf",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "End User Cloud Technology Manager",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/End-User-Cloud-Technology-Manager_R-39934",
+      "posted": "2026-06-02",
+      "id": "1299d899bd00",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "IAM Cloud Governance Engineer",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/IAM-Cloud-Engineer_R-39388",
+      "posted": "2026-06-22",
+      "id": "9722b0781e55",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "IT Associate BA",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/IT-Associate-BA_R-38504",
+      "posted": "2026-06-26",
+      "id": "9a05fed91b42",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "Lead Enterprise Architect - Infrastructure",
+      "location": "4910 Tiedeman Road, Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/Lead-Enterprise-Architect---Infrastructure_R-39458",
+      "posted": "2026-05-29",
+      "id": "b279f946aed0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "Public Key Infrastructure (PKI) Digital Certificate Lifecycle Management Specialist",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Public-Key-Infrastructure--PKI--Digital-Certificate-Lifecycle-Management-Specialist_R-39364",
+      "posted": "2026-06-08",
+      "id": "aa31a09921d5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "Senior Database Administrator (Automation, Cloud & Data Analytics)",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Database-Administrator--Automation--Cloud---Data-Analytics-_R-39961",
+      "posted": "2026-05-29",
+      "id": "7c2abbf10a87",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "KeyBank",
+      "title": "Sr. Data Product Owner, AI Engineering",
+      "location": "Brooklyn, OH",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Sr-Data-Product-Owner--AI-Engineering_R-39805",
+      "posted": "2026-05-29",
+      "id": "d496fb149a9f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "L3Harris",
+      "title": "Senior Specialist, Quality Engineer",
+      "location": "Mason, OH",
+      "url": "https://careers.l3harris.com/en/job/mason/senior-specialist-quality-engineer/4832/95949009952",
+      "posted": "",
+      "id": "ec878027d5d8",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "L3Harris",
+      "title": "Specialist, Production Support Electronic Engineer",
+      "location": "Cincinnati, OH",
+      "url": "https://careers.l3harris.com/en/job/cincinnati/specialist-production-support-electronic-engineer/4832/94464653888",
+      "posted": "",
+      "id": "048b96cb5c70",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Lincoln Electric",
+      "title": "Quality Engineer",
+      "location": "OH",
+      "url": "https://jobs.lincolnelectric.com/job/Cleveland-Quality-Engineer-OH-44117/1404028733/",
+      "posted": "",
+      "id": "9679e31302d0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Lubrizol",
+      "title": "Infrastructure Manager",
+      "location": "OH",
+      "url": "https://jobs.lubrizol.com/job/Wickliffe-Infrastructure-Manager-OH-44092-2298/1371832300/",
+      "posted": "",
+      "id": "8d15a8f17aee",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Marathon Petroleum",
+      "title": "Intern/Co-op - Logistics & Storage Engineering (L&SE) Project Controls (Fall 2026)",
+      "location": "Findlay, Ohio",
+      "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Logistics---Storage-Engineering--L-SE--Project-Controls--Fall-2026-_00020051",
+      "posted": "2026-05-29",
+      "id": "1263bd2cff92",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Materion",
+      "title": "Customer Support Specialist - Manufacturing",
+      "location": "Cleveland, OH",
+      "url": "https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Customer-Support-Specialist---Manufacturing_2026-R8024",
+      "posted": "2026-06-17",
+      "id": "220a45d2ec3c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Materion",
+      "title": "SAP Finance (Record to Report) Architect",
+      "location": "Remote",
+      "url": "https://materion.wd5.myworkdayjobs.com/Materion/job/Remote/Record-to-Report--R2R--SAP-Architect_2026-R7762",
+      "posted": "2026-05-29",
+      "id": "766158f6aabd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Medical Mutual of Ohio",
+      "title": "IT Database Analyst",
+      "location": "Brooklyn OH",
+      "url": "https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=eb5f5ee1-74ff-4235-a582-bdc099eb0db8",
+      "posted": "2026-06-03T18:52:53.896Z",
+      "id": "9b55038fdcf0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
     },
     {
       "firm": "Medpace",
-      "title": "AI Scientist",
+      "title": "Business Intelligence Manager",
       "location": "Cincinnati, Ohio",
-      "url": "https://uscareers-medpace.icims.com/jobs/12097/login",
-      "posted": "2026-06-15T14:17:00+0000",
-      "id": "dc8a5f2b6b68",
-      "first_seen": "2026-06-28T21:03:43+00:00",
-      "last_seen": "2026-06-28T21:03:43+00:00"
+      "url": "https://uscareers-medpace.icims.com/jobs/12572/login",
+      "posted": "2026-06-16T18:22:00+0000",
+      "id": "723b2cf8be8c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
     },
     {
       "firm": "Medpace",
-      "title": "Python Developer - Entry-Experienced",
+      "title": "Business Systems Analyst - Human Resources",
       "location": "Cincinnati, Ohio",
-      "url": "https://uscareers-medpace.icims.com/jobs/12736/login",
-      "posted": "2026-06-16T18:25:00+0000",
-      "id": "8dabaeceb9bd",
-      "first_seen": "2026-06-28T21:03:43+00:00",
-      "last_seen": "2026-06-28T21:03:43+00:00"
+      "url": "https://uscareers-medpace.icims.com/jobs/12213/login",
+      "posted": "2026-06-16T18:22:00+0000",
+      "id": "6d6ba494b569",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Medpace",
+      "title": "Clinical Business Intelligence Analyst",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12731/login",
+      "posted": "2026-06-16T18:22:00+0000",
+      "id": "a93a18fcf2fe",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Medpace",
+      "title": "Experienced Business Systems Analyst - Commercial Operations",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12728/login",
+      "posted": "2026-06-16T18:23:00+0000",
+      "id": "0bcc031c1812",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Medpace",
+      "title": "Junior Business Systems Analyst - Commercial Operations",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12669/login",
+      "posted": "2026-06-16T18:24:00+0000",
+      "id": "2d81cf016126",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Medpace",
+      "title": "Senior Business Intelligence Analyst",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12571/login",
+      "posted": "2026-06-16T18:26:00+0000",
+      "id": "caf76ce0709b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "IT - Manager, Provider Data",
+      "location": "MASON, OH",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28769923#/jobs/28769923",
+      "posted": "2026-06-26",
+      "id": "fcfb88ad4608",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide",
+      "title": "Manager, Software Engineering Product Manager",
+      "location": "Ohio - Columbus, Three Nationwide Plaza",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_098717-1",
+      "posted": "",
+      "id": "7a1d33f81302",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide",
+      "title": "Manager, Software Engineering Product Manager (Annuity Data Platform)",
+      "location": "Ohio - Columbus, Three Nationwide Plaza",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager--Annuity-Data-Platform-_098678-1",
+      "posted": "",
+      "id": "066c0a90ce5b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide",
+      "title": "Specialist, Quality Engineer",
+      "location": "Ohio - Columbus, Three Nationwide Plaza",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Quality-Engineer_098241",
+      "posted": "",
+      "id": "feb975bc5399",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide",
+      "title": "Sr Analyst, Quality Engineer - TOSCA",
+      "location": "Ohio - Columbus, Three Nationwide Plaza",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Analyst--Quality-Engineer---TOSCA_098859",
+      "posted": "",
+      "id": "85541a0e7571",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "Bioinformatics Analyst II - Lung Regeneration Research",
+      "location": "Main Campus, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Bioinformatics-Analyst-II---Lung-Regeneration-Research_R-22090",
+      "posted": "2026-05-29",
+      "id": "a419d08de0be",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "IGM Bioinformatics Scientist Senior",
+      "location": "Main Campus, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Bioinformatics-Scientist-Senior_R-25802-2",
+      "posted": "2026-05-29",
+      "id": "0d2e55a0e76e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "IS Epic Application Coordinator - Grand Central and Prelude",
+      "location": "431 S 18th St, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Application-Coordinator---Grand-Central-and-Prelude_R-24429-1",
+      "posted": "2026-05-29",
+      "id": "e146143f531a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "IS Epic Database Administrator - Systems Administration",
+      "location": "431 S 18th St, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Database-Administrator---Systems-Administration_R-24954",
+      "posted": "2026-05-29",
+      "id": "76bd827c9b4f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "IS Epic Senior Application Analyst - Epic Ambulatory",
+      "location": "431 S 18th St, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Senior-Application-Analyst---Clinical-Improvement_R-25603-2",
+      "posted": "2026-05-29",
+      "id": "7aa5d984b8e1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "IS Systems Analyst I - The Center for Family Safety and Healing",
+      "location": "Main Campus, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IS-Systems-Analyst-I---The-Center-for-Family-Safety-and-Healing_R-25797",
+      "posted": "2026-06-04",
+      "id": "c5785dac619a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "IS Systems Analyst Senior - Epic Analytics",
+      "location": "431 S 18th St, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Systems-Analyst-Senior---Epic-Analytics_R-26419-1",
+      "posted": "2026-06-17",
+      "id": "1c8f0ef0c7e8",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "IS Systems Analyst Senior IS E-Chart 1",
+      "location": "431 S 18th St, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Systems-Analyst-Senior-IS-E-Chart-1_2024-53632-2",
+      "posted": "2026-05-29",
+      "id": "e2bb6294f642",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Nationwide Children's Hospital",
+      "title": "Manager Telecommunications- Converged Network Svcs",
+      "location": "Main Campus, Columbus, OH",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Manager-Telecommunications--Converged-Network-Svcs_R-23914-1",
+      "posted": "2026-05-29",
+      "id": "052f58e812b3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Next Step Systems",
+      "title": "Business Systems Analyst with SQL Experience \u2013 Work From Home",
+      "location": "New Orleans, LA, USA (Remote)",
+      "url": "https://www.nextstepsystems.com/job/business-systems-analyst-work-from-home/",
+      "posted": "2026-06-01",
+      "id": "dca5a80d72d5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Next Step Systems",
+      "title": "Senior Business Systems Analyst with SQL Experience \u2013 Work From Home",
+      "location": "New Orleans, LA, USA (Remote)",
+      "url": "https://www.nextstepsystems.com/job/senior-business-systems-analyst-work-from-home/",
+      "posted": "2026-06-01",
+      "id": "29e20201d8fe",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Njoyn (CGI)",
+      "title": "D365 Finance & Operations Functional Consultant",
+      "location": "Remote, United States",
+      "url": "https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0126-2209&BRID=1266108&lang=1",
+      "posted": "2026-06-26",
+      "id": "c11555bd2508",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Njoyn (CGI)",
+      "title": "Microsoft Dynamics 365 Functional Consultant (D365 F&SCM)",
+      "location": "Remote, United States",
+      "url": "https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0426-1947&BRID=1294180&lang=1",
+      "posted": "2026-06-26",
+      "id": "7e3950b3fe89",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "O-I Glass",
+      "title": "SAP BASIS Administrator",
+      "location": "Perrysburg, OH",
+      "url": "https://jobs.smartrecruiters.com/O-I/744000123421609",
+      "posted": "2026-04-28T10:33:58.995Z",
+      "id": "938f97a46c30",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Director, IT Endpoint Engineering",
+      "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Director--IT-Endpoint-Engineering_JR149719-1",
+      "posted": "2026-05-29",
+      "id": "f286c2985107",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Director, IT Infrastructure Operations",
+      "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Director--IT-Infrastructure-Operations_JR149718",
+      "posted": "2026-06-18",
+      "id": "1a0e51c5d39a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Domain Architect - Cybersecurity",
+      "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Domain-Architect---Cybersecurity_JR153154",
+      "posted": "2026-06-24",
+      "id": "8147f9b88f02",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Epic Senior Systems Analyst",
+      "location": "WORK AT HOME - OHIO",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst_JR145978-1",
+      "posted": "2026-05-29",
+      "id": "79d1e67cc2fd",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Epic Senior Systems Analyst - Beacon/ Research",
+      "location": "WORK AT HOME - OHIO",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Ambulatory_JR151466",
+      "posted": "2026-06-03",
+      "id": "3ec2167df086",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Epic Sr Systems Analyst - Link, Care Everywhere, Compass Rose",
+      "location": "WORK AT HOME - OHIO",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Population-Health-Analyst_JR152402",
+      "posted": "2026-06-11",
+      "id": "9bed0217ba56",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "IT Program Manager, Care Sites Portfolio",
+      "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/IT-Program-Manager--Care-Sites-Portfolio_JR150344",
+      "posted": "2026-05-29",
+      "id": "9a3a32f7baf1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Manager - IT Training",
+      "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Manager---IT-Training_JR152069",
+      "posted": "2026-06-12",
+      "id": "5abab9227720",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Senior Director of Epic Optimization & Transformation",
+      "location": "BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/BLOM-ADMINISTRATIVE-CAMPUS/Senior-Director-of-Epic-Optimization---Transformation_JR150306-1",
+      "posted": "2026-06-02",
+      "id": "e693efff224e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "System Director Clinical Informatics (RN)",
+      "location": "BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/BLOM-ADMINISTRATIVE-CAMPUS/System-Director-Clinical-Informatics--RN-_JR147833",
+      "posted": "2026-05-29",
+      "id": "ac7b197a7de4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "OhioHealth",
+      "title": "Systems Analyst - UKG Workforce Management",
+      "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
+      "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Systems-Analyst---UKG-Workforce-Management_JR152829",
+      "posted": "2026-06-23",
+      "id": "e939524d6a5b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Owens Corning",
+      "title": "Product Owner Lead - Finished Goods",
+      "location": "OH",
+      "url": "https://careers.owenscorning.com/job/Toledo-Product-Owner-Lead-Finished-Goods-OH-43659-0001/1386424400/",
+      "posted": "",
+      "id": "95ce6ce92555",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Machine Learning Engineer, Robot Learning",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8116143002?gh_jid=8116143002",
+      "posted": "2026-04-28T15:59:57-04:00",
+      "id": "e7e3dba3a832",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Machine Learning Engineer, Robot Learning, Loco-Manipulation",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8501710002?gh_jid=8501710002",
+      "posted": "2026-04-28T15:51:45-04:00",
+      "id": "f748819fef50",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Robotic Operations Support Specialist",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8506286002?gh_jid=8506286002",
+      "posted": "2026-04-28T16:32:53-04:00",
+      "id": "9531ac6131db",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Robotic Operations Support Specialist, 3rd shift",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8562755002?gh_jid=8562755002",
+      "posted": "2026-05-29T14:28:39-04:00",
+      "id": "2b56216d0186",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Robotic Operations Support Specialist, weekend shift",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8284423002?gh_jid=8284423002",
+      "posted": "2026-05-01T11:02:04-04:00",
+      "id": "60aeeda431d3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation",
+      "location": "Columbus, Ohio or Remote",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002",
+      "posted": "2026-04-28T15:41:18-04:00",
+      "id": "8595644f132c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Senior Machine Learning Engineer, Neural Simulators",
+      "location": "Columbus, Ohio or Remote",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8355707002?gh_jid=8355707002",
+      "posted": "2026-04-28T15:41:46-04:00",
+      "id": "a082ee0f1b8d",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Senior Software Engineer",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8340766002?gh_jid=8340766002",
+      "posted": "2026-04-28T15:42:32-04:00",
+      "id": "1b003f563d3e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Senior Software Engineer - Robotics, Perception (C++, Python)",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8499243002?gh_jid=8499243002",
+      "posted": "2026-04-28T15:43:07-04:00",
+      "id": "adba95b71218",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Software Engineer \u2013 AI & ML Infrastructure",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8500567002?gh_jid=8500567002",
+      "posted": "2026-04-28T15:45:14-04:00",
+      "id": "b5502d116c2c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Path Robotics",
+      "title": "Software Engineer \u2013 Robotics & Systems",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8500622002?gh_jid=8500622002",
+      "posted": "2026-04-28T15:46:38-04:00",
+      "id": "265c5280f9c5",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Procter & Gamble",
+      "title": "Command Center QA Specialist",
+      "location": "CINCINNATI GENERAL OFFICES",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Command-Center-QA-Specialist_R000151465",
+      "posted": "2026-06-02",
+      "id": "b7d40751c1ec",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Procter & Gamble",
+      "title": "Senior Communications Manager, Information Security & Technology",
+      "location": "CINCINNATI GENERAL OFFICES",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-Communications-Manager--Information-Security---Technology_R000151336-1",
+      "posted": "2026-05-29",
+      "id": "8427232a54d4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Procter & Gamble",
+      "title": "Senior Manager, Master Data Management",
+      "location": "CINCINNATI GENERAL OFFICES",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-Manager--Master-Data-Management_R000151318",
+      "posted": "2026-06-16",
+      "id": "c8377ed71f47",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Cincinnati, 04951",
+      "url": "https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen",
+      "posted": "2026-06-24",
+      "id": "e7edb11a5da0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Sr Qa Analyst",
+      "location": "Cincinnati, 01300",
+      "url": "https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen",
+      "posted": "2026-06-26",
+      "id": "e74bc23fdef6",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Russell Tobin",
+      "title": "IT Desktop Tech, II/ Desktop Support Tech",
+      "location": "Zanesville, OH",
+      "url": "https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28756872#/jobs/28756872",
+      "posted": "2026-06-24",
+      "id": "c950ad8cd501",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Russell Tobin",
+      "title": "Technical Product Support Specialist (AI Platform)",
+      "location": "Remote, CA",
+      "url": "https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28584283#/jobs/28584283",
+      "posted": "2026-06-09",
+      "id": "ced53742cfc3",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Customer Repair Support Specialist I",
+      "location": "Cincinnati, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=54833&jobPipeline=PhenomCareerSite",
+      "posted": "2026-06-23T00:00:00.000+0000",
+      "id": "19062e48b854",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Director, IT Back Office Applications",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=51742&jobPipeline=PhenomCareerSite",
+      "posted": "2026-04-01T00:00:00.000+0000",
+      "id": "7703064ad317",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Lead Cloud Software Engineer - Connected Healthcare",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53410&jobPipeline=PhenomCareerSite",
+      "posted": "2026-04-08T00:00:00.000+0000",
+      "id": "7dc38d0ffedb",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Manager, Customer Technical Support",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53610&jobPipeline=PhenomCareerSite",
+      "posted": "2026-04-09T00:00:00.000+0000",
+      "id": "8d5e1b505f1a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Quality Engineer I",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=54808&jobPipeline=PhenomCareerSite",
+      "posted": "2026-06-17T00:00:00.000+0000",
+      "id": "156fb3a1fcf2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Quality Engineer II",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=54647&jobPipeline=PhenomCareerSite",
+      "posted": "2026-06-26T00:00:00.000+0000",
+      "id": "766028816c3f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Senior Director, IT Infrastructure & Operations",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=51964&jobPipeline=PhenomCareerSite",
+      "posted": "2026-03-16T00:00:00.000+0000",
+      "id": "2338c5cca8b0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Senior ERP Financial Systems Analyst",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=52911&jobPipeline=PhenomCareerSite",
+      "posted": "2026-05-07T00:00:00.000+0000",
+      "id": "bc316b71e651",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Senior Manager of Operations Data Governance",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=54810&jobPipeline=PhenomCareerSite",
+      "posted": "2026-06-17T00:00:00.000+0000",
+      "id": "d0680bdfcfca",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Senior Manager, Software Engineering",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53669&jobPipeline=PhenomCareerSite",
+      "posted": "2026-04-08T00:00:00.000+0000",
+      "id": "5acb451f42f9",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Senior Manager, Test Engineering",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53694&jobPipeline=PhenomCareerSite",
+      "posted": "2026-04-22T00:00:00.000+0000",
+      "id": "36d4f9f72509",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "STERIS",
+      "title": "Senior Software Engineer",
+      "location": "Mentor, Ohio",
+      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53208&jobPipeline=PhenomCareerSite",
+      "posted": "2026-04-08T00:00:00.000+0000",
+      "id": "f6858c83eaa9",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Safelite",
+      "title": "Senior Business Intelligence Engineering and Data Manager",
+      "location": "COLUMBUS, OH",
+      "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Business-Intelligence-Engineering-and-Data-Manager_JR70687",
+      "posted": "2026-05-29",
+      "id": "b5fb261fe848",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Safelite",
+      "title": "Senior HR Systems Analyst",
+      "location": "COLUMBUS, OH",
+      "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-HR-Systems-Analyst_JR70852",
+      "posted": "2026-06-12",
+      "id": "bb5ff8166916",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Sherwin-Williams",
+      "title": "IT Audit Manager",
+      "location": "Cleveland, OH, United States",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2613502",
+      "posted": "2026-06-25",
+      "id": "31bb9026574a",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Sherwin-Williams",
+      "title": "IT Digital Product Manager \u2013Supply Chain Accounting",
+      "location": "Cleveland, OH, United States",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616062",
+      "posted": "2026-06-26",
+      "id": "bc958c8f42da",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Sherwin-Williams",
+      "title": "Lead Product Manager - Enterprise Data & Insights",
+      "location": "Cleveland, OH, United States",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2615726",
+      "posted": "2026-06-26",
+      "id": "d15eb175c15e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Sherwin-Williams",
+      "title": "Lead Product Manager - Enterprise Data & Insights",
+      "location": "Cleveland, OH, United States",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2615533",
+      "posted": "2026-06-25",
+      "id": "f47b70ca6a81",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Sherwin-Williams",
+      "title": "Senior Director, Cybersecurity Architecture",
+      "location": "Cleveland, OH, United States",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2613785",
+      "posted": "2026-06-25",
+      "id": "c50ac783028c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "St. Elizabeth Healthcare",
+      "title": "Senior IS Application Coordinator- Epic Ambulatory",
+      "location": "Crestview Hills, Kentucky",
+      "url": "https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Senior-IS-Application-Coordinator--Epic-Ambulatory_JR312049",
+      "posted": "2026-06-05",
+      "id": "33d73cc53f73",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Standard Textile",
+      "title": "Quality Engineer - Rotational Development Program",
+      "location": "Cincinnati, OH",
+      "url": "https://standardtextile.wd5.myworkdayjobs.com/standardtextile/job/Cincinnati-OH/Quality-Engineer---Rotational-Development-Program_R3127",
+      "posted": "2026-06-19",
+      "id": "313eed2dd05e",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Strategic Staffing Solutions",
+      "title": "German Speaking Service Desk Specialist",
+      "location": "Riga, hybrid",
+      "url": "https://jobs.strategicstaff.com/jobs/german-speaking-service-desk-specialist-170357/",
+      "posted": "2026-06-17",
+      "id": "b38b143f5e22",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Strategic Staffing Solutions",
+      "title": "It Execution Governance Analyst",
+      "location": "Remote",
+      "url": "https://jobs.strategicstaff.com/jobs/it-execution-governance-analyst-170365/",
+      "posted": "2026-06-17",
+      "id": "85a646a9d583",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Audit Technician",
+      "location": "New Albany, Ohio",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006111269/Audit-Technician",
+      "posted": "2026-06-23T15:30:31.811+0000",
+      "id": "9764636fc71b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Audit Technician",
+      "location": "New Albany, Ohio",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006114185/Audit-Technician",
+      "posted": "2026-06-24T17:16:11.584+0000",
+      "id": "fd99327be2fe",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Audit Technician",
+      "location": "New Albany, Ohio",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006112201/Audit-Technician",
+      "posted": "2026-06-23T19:48:30.838+0000",
+      "id": "dab3d4ad5f9f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Data Center Audit Technician",
+      "location": "New Albany, Ohio",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006113299/Data-Center-Audit-Technician",
+      "posted": "2026-06-24T12:57:37.382+0000",
+      "id": "bae68478fb4c",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Data Governance Engineer/Microsoft Purview",
+      "location": "Cincinnati, Ohio",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006115849/Data-Governance-Engineer-Microsoft-Purview",
+      "posted": "2026-06-25T13:56:42.700+0000",
+      "id": "b180205bfb4d",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Field Quality Engineer - Telecom & ISP - NIGHTS/WEEKENDS",
+      "location": "New Albany, Ohio",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006114755/Field-Quality-Engineer-Telecom-ISP-NIGHTS-WEEKENDS",
+      "posted": "2026-06-24T19:56:54.039+0000",
+      "id": "52bf74972ee4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Field Quality Supervisor - Telecom & OSP - New Albany",
+      "location": "New Albany, Ohio",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006097139/Field-Quality-Supervisor-Telecom-OSP-New-Albany",
+      "posted": "2026-06-16T18:34:43.317+0000",
+      "id": "5bd904f0bfb1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "Practice Support Analyst",
+      "location": "Anywhere",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7534#/jobs/7534",
+      "posted": "",
+      "id": "b5a58c650301",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "The Andersons",
+      "title": "Senior SAP SD/MM Systems Analyst",
+      "location": "Maumee, OH",
+      "url": "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Senior-Analyst--SAP-SD-MM_R12226",
+      "posted": "2026-06-18",
+      "id": "05768993a634",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "The Andersons",
+      "title": "Solution Integration Architect",
+      "location": "Maumee, OH",
+      "url": "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Solution-Integration-Architect_R12195",
+      "posted": "2026-05-29",
+      "id": "57d09cb53915",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vaco",
+      "title": "Director Of Information Technology",
+      "location": "Blue Ash, Ohio",
+      "url": "https://jobs.vaco.com/job/17628/director_of_information_technology/en",
+      "posted": "2026-06-04",
+      "id": "862afbaf76ab",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vaco",
+      "title": "It Operations Manager",
+      "location": "Mason, Ohio",
+      "url": "https://jobs.vaco.com/job/17519/it_operations_manager/en",
+      "posted": "2026-06-01",
+      "id": "5bc74f219d8b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vaco",
+      "title": "Senior Sql Developer Dba",
+      "location": "Worthington, Ohio",
+      "url": "https://jobs.vaco.com/job/17942/senior_sql_developer_dba/en",
+      "posted": "2026-06-15",
+      "id": "5176724872f1",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vaco",
+      "title": "Windows System Administrator",
+      "location": "Cincinnati, Ohio",
+      "url": "https://jobs.vaco.com/job/18290/windows_system_administrator/en",
+      "posted": "2026-06-25",
+      "id": "074fe136b2b2",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vernovis",
+      "title": "Business Analyst - SAP FICO",
+      "location": "Cincinnati,",
+      "url": "https://vernovis.com/blog/jobs/11786/",
+      "posted": "",
+      "id": "8072087f5907",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vernovis",
+      "title": "Cisco Network Engineer",
+      "location": "Cincinnati,",
+      "url": "https://vernovis.com/blog/jobs/11980/",
+      "posted": "",
+      "id": "9e32bd864662",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vernovis",
+      "title": "Data Integration Test Engineer",
+      "location": "Cincinnati,",
+      "url": "https://vernovis.com/blog/jobs/11687/",
+      "posted": "",
+      "id": "d767ac1eb484",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vernovis",
+      "title": "Microsoft Dynamics Business Central ERP Analyst",
+      "location": "Cincinnati,",
+      "url": "https://vernovis.com/blog/jobs/11758/",
+      "posted": "",
+      "id": "f853315e1f81",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vernovis",
+      "title": "Product Owner",
+      "location": "Cincinnati,",
+      "url": "https://vernovis.com/blog/jobs/11973/",
+      "posted": "",
+      "id": "a79892b2ccfb",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vernovis",
+      "title": "Senior Mainframe System Administrator",
+      "location": "Cincinnati,",
+      "url": "https://vernovis.com/blog/jobs/11835/",
+      "posted": "",
+      "id": "ec6da0706dda",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vernovis",
+      "title": "ServiceNow Configuration Management Database (CMDB) Analyst III",
+      "location": "Cincinnati,",
+      "url": "https://vernovis.com/blog/jobs/11424/",
+      "posted": "",
+      "id": "00ed98f7b625",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vertiv",
+      "title": "IT End User Services Analyst",
+      "location": "Westerville, OH, United States",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275695",
+      "posted": "2026-06-25",
+      "id": "7693d871afff",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vertiv",
+      "title": "IT End User Services Analyst",
+      "location": "Ironton, OH, United States",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275696",
+      "posted": "2026-06-25",
+      "id": "7421529586b0",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vertiv",
+      "title": "Senior Business Analyst \u2013 Data Management",
+      "location": "Westerville, OH, United States",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272820",
+      "posted": "2026-06-24",
+      "id": "e5cff123fc55",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vertiv",
+      "title": "Sr. Manager Global Master Data Management",
+      "location": "Westerville, OH, United States",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275395",
+      "posted": "2026-06-25",
+      "id": "90775d06c4d4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Vertiv",
+      "title": "Sr. Manager Global Master Data Management",
+      "location": "Westerville, OH, United States",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272805",
+      "posted": "2026-06-24",
+      "id": "b5eef4daeb75",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "AI Engineer",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11651",
+      "posted": "2026-02-05",
+      "id": "e04b91905708",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "Data Governance Lead",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11888",
+      "posted": "2026-06-16",
+      "id": "ccd5eb589b3b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "Head of Enterprise Architecture",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11854",
+      "posted": "2026-05-18",
+      "id": "214e68f14ba4",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "Head of Enterprise Risk Management",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11792",
+      "posted": "2026-04-01",
+      "id": "5d54f53cf933",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "Information Security Architect",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11491",
+      "posted": "2026-03-06",
+      "id": "aca1b17a955d",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "Information Security Engineer",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11788",
+      "posted": "2026-04-01",
+      "id": "4c2ac6bf4c8f",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "Senior DevOps Engineer",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11776",
+      "posted": "2026-03-23",
+      "id": "827d70df76fe",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Westfield Insurance",
+      "title": "Underwriting Practices and Quality Assurance Senior Consultant",
+      "location": "Westfield Center, OH, United States",
+      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11837",
+      "posted": "2026-05-20",
+      "id": "466b70b2b91b",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
+    },
+    {
+      "firm": "Worldpay",
+      "title": "ServiceNow Product Owner",
+      "location": "CINCINNATI, OHIO",
+      "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/ServiceNow-Product-Owner_JR0609978",
+      "posted": "",
+      "id": "09ec638ff796",
+      "first_seen": "2026-06-28T21:41:37+00:00",
+      "last_seen": "2026-06-28T21:41:37+00:00"
     }
   ],
   "removed_jobs": []
