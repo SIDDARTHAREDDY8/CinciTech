@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-28T20:08:07+00:00",
-  "count": 216,
+  "updated": "2026-06-28T21:03:43+00:00",
+  "count": 219,
   "jobs": [
+    {
+      "firm": "Medpace",
+      "title": "Python Developer - Entry-Experienced",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12736/login",
+      "posted": "2026-06-16T18:25:00+0000",
+      "id": "8dabaeceb9bd",
+      "first_seen": "2026-06-28T21:03:43+00:00",
+      "last_seen": "2026-06-28T21:03:43+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Medpace",
+      "title": "AI Scientist",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12097/login",
+      "posted": "2026-06-15T14:17:00+0000",
+      "id": "dc8a5f2b6b68",
+      "first_seen": "2026-06-28T21:03:43+00:00",
+      "last_seen": "2026-06-28T21:03:43+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "L3Harris",
+      "title": "Lead, Software Engineering",
+      "location": "Mason, OH",
+      "url": "https://careers.l3harris.com/en/job/mason/lead-software-engineering/4832/94530013536",
+      "posted": "",
+      "id": "bc7249126776",
+      "first_seen": "2026-06-28T21:03:43+00:00",
+      "last_seen": "2026-06-28T21:03:43+00:00",
+      "readme_posted": true
+    },
     {
       "firm": "Honeywell",
       "title": "Application Engineer I",

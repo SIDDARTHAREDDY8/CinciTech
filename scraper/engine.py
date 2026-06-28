@@ -149,15 +149,22 @@ def _collect_api(firm: dict, http, api: dict, base_override: dict | None) -> lis
                 break
         return jobs
 
+    # offset pagination. `step` is how much the param advances per page (=size by
+    # default, i.e. a row offset); set step:1 + start:1 for 1-indexed PAGE-NUMBER
+    # params (e.g. Phenom `?page=1,2,3`). `page_size` is the rows expected per page
+    # used only for the early-stop check.
     size = pg.get("size", 50)
+    step = pg.get("step", size)
+    start = pg.get("start", 0)
+    page_size = pg.get("page_size", size)
     jobs: list[dict] = []
     for page in range(pg.get("max_pages", 5)):
-        ovs = [_offset(pg, page * size)]
+        ovs = [_offset(pg, start + page * step)]
         if base_override:
             ovs.append(base_override)
         page_jobs, _ = _fetch_page(firm, http, api, ovs)
         jobs.extend(page_jobs)
-        if len(page_jobs) < size:
+        if len(page_jobs) < page_size:
             break  # last page reached
     return jobs
 
@@ -296,9 +303,22 @@ def scrape_html(firm: dict, http) -> list[dict]:
 
     firm['url'] (single) or firm['urls'] (list, e.g. several search-term queries)
     — results from all urls are merged and de-duplicated by job URL.
+
+    Offset pagination: set firm['url_template'] with a {offset} placeholder and
+    firm['paginate'] = {param(unused), start, size, max_pages}; we walk offsets
+    start, start+size, … until a page yields no new jobs or max_pages is hit
+    (Avvature/PeopleSoft `?jobOffset=N`, SuccessFactors `?startrow=N`, etc.).
     """
     h = firm.get("http", {})
-    urls = firm.get("urls") or [firm["url"]]
+    tmpl = firm.get("url_template")
+    pg = firm.get("paginate")
+    if tmpl and pg:
+        urls = [tmpl.format(offset=pg.get("start", 0) + i * pg.get("size", 10))
+                for i in range(pg.get("max_pages", 10))]
+        stop_when_empty = True
+    else:
+        urls = firm.get("urls") or [firm["url"]]
+        stop_when_empty = False
     seen, jobs = set(), []
     for u in urls:
         try:
@@ -306,11 +326,15 @@ def scrape_html(firm: dict, http) -> list[dict]:
             resp.raise_for_status()
         except Exception:
             continue
+        new = 0
         for job in _parse_cards(resp.text, firm):
             if job["url"] in seen:
                 continue
             seen.add(job["url"])
             jobs.append(job)
+            new += 1
+        if stop_when_empty and new == 0:
+            break  # reached the end of the paginated result set
     return jobs
 
 

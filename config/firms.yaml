@@ -2292,3 +2292,158 @@ firms:
       url_prefix: "https://recruiting.ultipro.com/VER1029VERST/JobBoard/287eabe5-fc1d-4aae-9289-b84db68b9b09/OpportunityDetail?opportunityId="
       fields: { title: "Title", location: "Locations.0.LocalizedDescription", url: "Id", posted: "PostedDate" }
     location_filter: ["KY", "Kentucky", "Covington", "Newport", "Florence", "Erlanger", "Hebron", "OH", "Ohio", "Cincinnati", "Remote", "remote"]
+
+  # ============ DOM-TIER CRACKED (hidden APIs / server-rendered) — Greater Cincy =====
+  # Medpace — Cincinnati CRO (Phenom JSON API; jobs[].data.*)
+  - name: "Medpace"
+    mode: api
+    employer: true
+    search_url: "https://careers.medpace.com/jobs"
+    api:
+      method: GET
+      url: "https://careers.medpace.com/api/jobs"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { sortBy: "relevance", descending: "false", internal: "false" }
+      paginate: { in: params, param: page, start: 1, step: 1, page_size: 10, max_pages: 10 }
+      list_path: "jobs"
+      fields: { title: "data.title", location: "data.full_location", url: "data.apply_url", posted: "data.posted_date" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Mason", "West Chester", "Milford", "Hamilton", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # EssilorLuxottica — Mason OH eyewear (same Phenom JSON API)
+  - name: "EssilorLuxottica"
+    mode: api
+    employer: true
+    search_url: "https://jobs.essilorluxottica.com/search/"
+    api:
+      method: GET
+      url: "https://jobs.essilorluxottica.com/api/jobs"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { sortBy: "relevance", descending: "false", internal: "false" }
+      paginate: { in: params, param: page, start: 1, step: 1, page_size: 10, max_pages: 12 }
+      list_path: "jobs"
+      fields: { title: "data.title", location: "data.full_location", url: "data.apply_url", posted: "data.posted_date" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Mason", "West Chester", "Milford", "Monroe", "Hamilton", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # 80 Acres Farms — Hamilton OH agtech (ADP WorkforceNow public API)
+  - name: "80 Acres Farms"
+    mode: api
+    employer: true
+    search_url: "https://www.80acresfarms.com/careers"
+    api:
+      method: GET
+      url: "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      params: { cid: "e3f7ddd0-3b05-44b2-8172-16d19c7f63cb", lang: "en_US", "$top": "50" }
+      paginate: { in: params, param: "$skip", start: 0, step: 19, page_size: 19, max_pages: 4 }
+      list_path: "jobRequisitions"
+      url_prefix: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e3f7ddd0-3b05-44b2-8172-16d19c7f63cb&ccId=19000101_000001&lang=en_US&jobId="
+      fields: { title: "requisitionTitle", location: "requisitionLocations.0.nameCode.shortName", url: "itemID", posted: "postDate" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Hamilton", "Mason", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # Levi Strauss — Hebron/Erlanger KY distribution (Workday; location in bulletFields[1])
+  - name: "Levi Strauss"
+    mode: api
+    employer: true
+    search_url: "https://levistraussandco.wd5.myworkdayjobs.com/External"
+    api:
+      method: POST
+      url: "https://levistraussandco.wd5.myworkdayjobs.com/wday/cxs/levistraussandco/External/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 10 }
+      list_path: "jobPostings"
+      url_prefix: "https://levistraussandco.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "bulletFields.1", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "KY", "Kentucky", "Hebron", "Erlanger", "Florence", "Covington", "Remote", "remote"]
+
+  # Atlas Air — Erlanger KY cargo airline (Greenhouse)
+  - name: "Atlas Air Worldwide"
+    mode: api
+    employer: true
+    search_url: "https://www.atlasairworldwide.com/careers/job-board/"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/atlasair/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "KY", "Kentucky", "Erlanger", "Hebron", "Florence", "Covington", "Remote", "remote"]
+
+  # Total Quality Logistics — West Chester OH 3PL (Avature, server-rendered; jobOffset step 6)
+  - name: "Total Quality Logistics"
+    mode: html
+    employer: true
+    search_url: "https://careers.tql.com/en_US/TQLexternalcareers/SearchJobs/"
+    url_template: "https://careers.tql.com/en_US/TQLexternalcareers/SearchJobs/?jobOffset={offset}"
+    paginate: { start: 0, size: 6, max_pages: 22 }
+    selectors:
+      card: "article.article--result"
+      title: "h3.article__header__text__title a"
+      location: "span.list-item-location"
+      link: "h3.article__header__text__title a"
+      require_link: true
+    location_filter: ["OH", "Ohio", "Cincinnati", "West Chester", "Mason", "Milford", "Hamilton", "KY", "Kentucky", "Covington", "Florence", "Remote", "remote"]
+
+  # L'Oréal — Florence KY plant + DC (Avature; KY-plant facet)
+  - name: "L'Oreal (Florence KY)"
+    mode: html
+    employer: true
+    search_url: "https://careers.loreal.com/en_US/jobs/SearchJobs/?3_284_3=62923006"
+    urls:
+      - "https://careers.loreal.com/en_US/jobs/SearchJobs/?3_284_3=62923006&jobOffset=0"
+      - "https://careers.loreal.com/en_US/jobs/SearchJobs/?3_284_3=62923006&jobOffset=20"
+    selectors:
+      card: "article.article--result"
+      title: "h3.article__header__text__title a"
+      location: ".article__header__text__subtitle span"
+      link: "h3.article__header__text__title a"
+      require_link: true
+    location_filter: ["KY", "Kentucky", "Florence", "Walton", "OH", "Ohio", "Cincinnati", "Covington", "Remote", "remote"]
+
+  # L3Harris — Mason OH defense-tech (TalentBrew/Radancy, server-rendered; path search)
+  - name: "L3Harris"
+    mode: html
+    employer: true
+    search_url: "https://careers.l3harris.com/en/search-jobs"
+    urls:
+      - "https://careers.l3harris.com/en/search-jobs/Mason%2C%20OH%2C%20United%20States/4832/1"
+      - "https://careers.l3harris.com/en/search-jobs/Mason%2C%20OH%2C%20United%20States/4832/2"
+      - "https://careers.l3harris.com/en/search-jobs/Cincinnati%2C%20OH%2C%20United%20States/4832/1"
+    url_prefix: "https://careers.l3harris.com"
+    selectors:
+      card: "section#search-results-list li"
+      title: "h2"
+      location: "span.job-location"
+      link: "a"
+      require_link: true
+    location_filter: ["OH", "Ohio", "Cincinnati", "Mason", "West Chester", "Remote", "remote"]
+
+  # Festo — Mason OH automation (SAP SuccessFactors; server-rendered, Mason-filtered)
+  - name: "Festo"
+    mode: html
+    employer: true
+    search_url: "https://jobs.festo.com/search/?createNewAlert=false&q=&locationsearch=Mason"
+    url: "https://jobs.festo.com/search/?createNewAlert=false&q=&locationsearch=Mason"
+    url_prefix: "https://jobs.festo.com"
+    selectors:
+      card: "tr.data-row"
+      title: "a.jobTitle-link"
+      location: "span.jobLocation"
+      link: "a.jobTitle-link"
+      require_link: true
+    location_filter: ["Mason", "45039", "OH", "Ohio", "Cincinnati", "Remote", "remote"]
+
+  # Mitsubishi Electric Automotive America — Mason OH (SAP SuccessFactors)
+  - name: "Mitsubishi Electric Automotive"
+    mode: html
+    employer: true
+    search_url: "https://careers.meaa-mea.com/search/?createNewAlert=false&q=&locationsearch=Mason"
+    url: "https://careers.meaa-mea.com/search/?createNewAlert=false&q=&locationsearch=Mason"
+    url_prefix: "https://careers.meaa-mea.com"
+    selectors:
+      card: "tr.data-row"
+      title: "a.jobTitle-link"
+      location: "span.jobLocation"
+      link: "a.jobTitle-link"
+      require_link: true
+    location_filter: ["Mason", "OH", "Ohio", "Cincinnati", "Remote", "remote"]

@@ -1,88 +1,38 @@
 {
-  "updated": "2026-06-28T20:08:07+00:00",
-  "added": 8,
+  "updated": "2026-06-28T21:03:43+00:00",
+  "added": 3,
   "removed": 0,
-  "total": 216,
+  "total": 219,
   "new_jobs": [
     {
-      "firm": "DHL",
-      "title": "Business Data Analyst II",
-      "location": "Westerville, Ohio",
-      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Business-Data-Analyst-II-USN--job-Westerville-OH-US-11043312.html",
-      "posted": "2026-06-11T00:00:00.000+0000",
-      "id": "5803306e09d7",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
+      "firm": "L3Harris",
+      "title": "Lead, Software Engineering",
+      "location": "Mason, OH",
+      "url": "https://careers.l3harris.com/en/job/mason/lead-software-engineering/4832/94530013536",
+      "posted": "",
+      "id": "bc7249126776",
+      "first_seen": "2026-06-28T21:03:43+00:00",
+      "last_seen": "2026-06-28T21:03:43+00:00"
     },
     {
-      "firm": "DHL",
-      "title": "Lead Data Engineer",
-      "location": "Westerville, Ohio",
-      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Lead-Data-Engineer-USO-job-Westerville-OH-US-10926050.html",
-      "posted": "2026-04-13T00:00:00.000+0000",
-      "id": "c428e740762e",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
+      "firm": "Medpace",
+      "title": "AI Scientist",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12097/login",
+      "posted": "2026-06-15T14:17:00+0000",
+      "id": "dc8a5f2b6b68",
+      "first_seen": "2026-06-28T21:03:43+00:00",
+      "last_seen": "2026-06-28T21:03:43+00:00"
     },
     {
-      "firm": "DHL",
-      "title": "Sr Business Data Analyst",
-      "location": "Westerville, Ohio",
-      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11043295.html",
-      "posted": "2026-06-11T00:00:00.000+0000",
-      "id": "be4101581313",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
-    },
-    {
-      "firm": "Honeywell",
-      "title": "Advanced Application Engineer",
-      "location": "Mason, OH, United States",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151141",
-      "posted": "2026-06-23",
-      "id": "b1036096627f",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
-    },
-    {
-      "firm": "Honeywell",
-      "title": "Application Engineer I",
-      "location": "Cincinnati, OH, United States",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151142",
-      "posted": "2026-06-25",
-      "id": "3ee196157813",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
-    },
-    {
-      "firm": "Honeywell",
-      "title": "Application Engineer I",
-      "location": "Mason, OH, United States",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151139",
-      "posted": "2026-06-23",
-      "id": "f04a483a0664",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
-    },
-    {
-      "firm": "Honeywell",
-      "title": "Mods & Upgrades Software Engineer I",
-      "location": "Mason, OH, United States",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150935",
-      "posted": "2026-06-23",
-      "id": "81de9171e656",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
-    },
-    {
-      "firm": "RxVantage",
-      "title": "Senior Full Stack Engineer - Team Lead",
-      "location": "Remote",
-      "url": "https://www.rxvantage.com/company/careers/jobs?gh_jid=5997473004",
-      "posted": "2026-05-15T19:39:39-04:00",
-      "id": "5b509b7a2789",
-      "first_seen": "2026-06-28T20:08:07+00:00",
-      "last_seen": "2026-06-28T20:08:07+00:00"
+      "firm": "Medpace",
+      "title": "Python Developer - Entry-Experienced",
+      "location": "Cincinnati, Ohio",
+      "url": "https://uscareers-medpace.icims.com/jobs/12736/login",
+      "posted": "2026-06-16T18:25:00+0000",
+      "id": "8dabaeceb9bd",
+      "first_seen": "2026-06-28T21:03:43+00:00",
+      "last_seen": "2026-06-28T21:03:43+00:00"
     }
   ],
   "removed_jobs": []

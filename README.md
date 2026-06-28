@@ -56,23 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 216 tracked total · updated `2026-06-28T20:08:07+00:00`
+### 🆕 3 new roles this update · 219 tracked total · updated `2026-06-28T21:03:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honeywell | 4 |
-| DHL | 2 |
-| RxVantage | 1 |
+| Medpace | 2 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Application Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151142) | Honeywell | Cincinnati, OH, United States | 2026-06-28 |
-| [Mods & Upgrades Software Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150935) | Honeywell | Mason, OH, United States | 2026-06-28 |
-| [Application Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151139) | Honeywell | Mason, OH, United States | 2026-06-28 |
-| [Advanced Application Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151141) | Honeywell | Mason, OH, United States | 2026-06-28 |
-| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11043295.html) | DHL | Westerville, Ohio | 2026-06-28 |
-| [Business Data Analyst II](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Business-Data-Analyst-II-USN--job-Westerville-OH-US-11043312.html) | DHL | Westerville, Ohio | 2026-06-28 |
-| [Senior Full Stack Engineer - Team Lead](https://www.rxvantage.com/company/careers/jobs?gh_jid=5997473004) | RxVantage | Remote | 2026-06-28 |
+| [Python Developer - Entry-Experienced](https://uscareers-medpace.icims.com/jobs/12736/login) | Medpace | Cincinnati, Ohio | 2026-06-28 |
+| [AI Scientist](https://uscareers-medpace.icims.com/jobs/12097/login) | Medpace | Cincinnati, Ohio | 2026-06-28 |
+| [Lead, Software Engineering](https://careers.l3harris.com/en/job/mason/lead-software-engineering/4832/94530013536) | L3Harris | Mason, OH | 2026-06-28 |
 <!-- JOBS:END -->
 
 ## How it works
