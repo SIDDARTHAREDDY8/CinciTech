@@ -113,6 +113,17 @@
       <option value="toledo">Toledo</option>
       <option value="remote">Remote</option>
     </select>
+    <select id="cat">
+      <option value="">All tech roles</option>
+      <option value="coredev">★ Software · Data · AI (core dev)</option>
+      <option value="software">Software / Full-stack / Dev</option>
+      <option value="data">Data (engineer / analyst / scientist)</option>
+      <option value="ai">AI / ML</option>
+      <option value="cloud">Cloud / DevOps / SRE</option>
+      <option value="security">Security</option>
+      <option value="qa">QA / Test</option>
+      <option value="itops">IT / Support / Infra / ERP</option>
+    </select>
     <select id="kind">
       <option value="">All employers</option>
       <option value="emp">Direct employers</option>
@@ -154,7 +165,7 @@ const $ = id => document.getElementById(id);
     new Date(t).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}) + ' ET';
 })();
 const listEl=$('list'), emptyEl=$('empty'), countEl=$('count');
-const q=$('q'), locSel=$('loc'), kindSel=$('kind'), firmSel=$('firm'), fresh=$('fresh');
+const q=$('q'), locSel=$('loc'), kindSel=$('kind'), firmSel=$('firm'), fresh=$('fresh'), catSel=$('cat');
 
 function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 // Some ATSs (Taleo) hand us the location as a JSON-array string like ["OH-Fairfield"];
@@ -174,6 +185,18 @@ function ageLabel(d){
   if(d<7) return Math.floor(d)+'d ago'; if(d<14) return '1w ago';
   if(d<31) return Math.floor(d/7)+'w ago'; return Math.floor(d/30)+'mo ago';
 }
+// Classify a job by title into a role family. Order matters: AI before Data before
+// Software (so "AI Engineer" isn't caught as generic dev), specialized IT last.
+function category(t){
+  const s=(t||'').toLowerCase();
+  if(/data scientist|machine learning|\bml\b|ml engineer|ai engineer|\bai\b|artificial intelligence|deep learning|\bnlp\b|\bllm\b|genai|generative ai|computer vision|mlops|applied scientist|ai\/ml|ml\/ai/.test(s)) return 'ai';
+  if(/data engineer|data analyst|data analytics|analytics engineer|data architect|database engineer|\bbi\b|business intelligence|\betl\b|data warehouse|big data|data scien|data governance|data management/.test(s)) return 'data';
+  if(/software|full[ -]?stack|developer|programmer|front[ -]?end|back[ -]?end|web (developer|engineer)|mobile (developer|engineer)|\bios\b|android|embedded|firmware|\bsde\b|\bswe\b|application (engineer|developer|architect)|api engineer|game develop|software architect/.test(s)) return 'software';
+  if(/devops|site reliability|\bsre\b|platform engineer|cloud (engineer|architect)|infrastructure engineer|kubernetes/.test(s)) return 'cloud';
+  if(/security|cyber|soc analyst|\biam\b|\bgrc\b|penetration|vulnerability|infosec/.test(s)) return 'security';
+  if(/\bqa\b|quality assurance|test engineer|\bsdet\b|test automation|tester|quality engineer|test analyst/.test(s)) return 'qa';
+  return 'itops';   // help desk, network, sysadmin, ERP, Epic/health-IT, IT PM/BA, etc.
+}
 function metro(loc){
   const l=(loc||'').toLowerCase();
   if(/remote|hybrid|virtual|anywhere|telework/.test(l)) return 'remote';
@@ -192,11 +215,14 @@ function monogram(name){return (name||'?').replace(/[^A-Za-z0-9]/g,'').slice(0,2
 
 function render(){
   const term=q.value.toLowerCase().trim();
-  const loc=locSel.value, kind=kindSel.value, firm=firmSel.value, fo=fresh.checked;
+  const loc=locSel.value, kind=kindSel.value, firm=firmSel.value, fo=fresh.checked, cat=catSel.value;
+  const catOK=j=>{ if(!cat) return true; const c=category(j.title);
+                   return cat==='coredev' ? (c==='software'||c==='data'||c==='ai') : c===cat; };
   const rows=JOBS.filter(j=>
     (!firm || j.firm===firm) &&
     (!kind || (KIND[j.firm]||'staff')===kind) &&
     (!loc || metro(j.location)===loc) &&
+    catOK(j) &&
     (!term || (j.title+' '+j.firm+' '+(j.location||'')).toLowerCase().includes(term)) &&
     (!fo || ageDays(j)<=7)
   ).sort((a,b)=>ageDays(a)-ageDays(b));
@@ -213,13 +239,15 @@ function render(){
     const lc = cleanLoc(j.location);
     const locChip = lc ? `<span class="chip">📍 ${esc(lc)}</span>` : '';
     const newChip = isNew ? '<span class="chip new">● NEW</span>' : '';
+    const CATLBL={software:'💻 Software',data:'📊 Data',ai:'🤖 AI/ML',cloud:'☁️ Cloud/DevOps',security:'🔒 Security',qa:'🧪 QA',itops:'🛠️ IT/Infra'};
+    const catChip = `<span class="chip">${CATLBL[category(j.title)]||'🛠️ IT'}</span>`;
     const al=ageLabel(d);
     return `<div class="card">
       <div class="logo" style="background:${color(j.firm)}">${esc(monogram(j.firm))}</div>
       <div class="body">
         <h3 class="ttl">${esc(j.title)}</h3>
         <div class="co">${esc(j.firm)}</div>
-        <div class="metarow">${newChip}${locChip}${kindChip}</div>
+        <div class="metarow">${newChip}${catChip}${locChip}${kindChip}</div>
       </div>
       <div class="right">
         ${al?`<span class="posted">${al}</span>`:''}
@@ -230,7 +258,7 @@ function render(){
 }
 // "new today" headline number
 $('newcount').textContent = JOBS.filter(j=>ageDays(j)<1).length;
-[q,locSel,kindSel,firmSel,fresh].forEach(el=>el.addEventListener('input',render));
+[q,locSel,kindSel,firmSel,fresh,catSel].forEach(el=>el.addEventListener('input',render));
 render();
 </script>
 </body>
