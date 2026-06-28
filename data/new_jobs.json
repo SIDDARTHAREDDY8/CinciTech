@@ -1,295 +1,89 @@
 {
-  "updated": "2026-06-28T19:21:11+00:00",
-  "added": 28,
-  "removed": 1,
-  "total": 217,
+  "updated": "2026-06-28T20:08:07+00:00",
+  "added": 8,
+  "removed": 0,
+  "total": 216,
   "new_jobs": [
     {
-      "firm": "84.51\u00b0",
-      "title": "Director Data Science (P2415)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8476911002",
-      "posted": "2026-04-01T13:27:07-04:00",
-      "id": "328a8e37bc58",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "DHL",
+      "title": "Business Data Analyst II",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Business-Data-Analyst-II-USN--job-Westerville-OH-US-11043312.html",
+      "posted": "2026-06-11T00:00:00.000+0000",
+      "id": "5803306e09d7",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     },
     {
-      "firm": "84.51\u00b0",
-      "title": "Lead API Platform Engineer (P181)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8426909002",
-      "posted": "2026-04-02T14:43:49-04:00",
-      "id": "857d24ce9441",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "DHL",
+      "title": "Lead Data Engineer",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Lead-Data-Engineer-USO-job-Westerville-OH-US-10926050.html",
+      "posted": "2026-04-13T00:00:00.000+0000",
+      "id": "c428e740762e",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     },
     {
-      "firm": "84.51\u00b0",
-      "title": "Lead Cloud Engineer (P486)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8503221002",
-      "posted": "2026-04-12T17:45:48-04:00",
-      "id": "8d134e2f369d",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "DHL",
+      "title": "Sr Business Data Analyst",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11043295.html",
+      "posted": "2026-06-11T00:00:00.000+0000",
+      "id": "be4101581313",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     },
     {
-      "firm": "84.51\u00b0",
-      "title": "Lead Data Scientist (P3764)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8497437002",
-      "posted": "2026-04-20T15:43:24-04:00",
-      "id": "4cf3be6b61b9",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "Honeywell",
+      "title": "Advanced Application Engineer",
+      "location": "Mason, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151141",
+      "posted": "2026-06-23",
+      "id": "b1036096627f",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     },
     {
-      "firm": "84.51\u00b0",
-      "title": "Senior Agile Delivery-AI Proprietary Models + AI Hub (P4572)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8481969002",
-      "posted": "2026-04-14T08:56:35-04:00",
-      "id": "71351ad5f134",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "Honeywell",
+      "title": "Application Engineer I",
+      "location": "Cincinnati, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151142",
+      "posted": "2026-06-25",
+      "id": "3ee196157813",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     },
     {
-      "firm": "84.51\u00b0",
-      "title": "Senior Data Scientist (P1553)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8496709002",
-      "posted": "2026-04-20T09:37:34-04:00",
-      "id": "cac8d319eae5",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "Honeywell",
+      "title": "Application Engineer I",
+      "location": "Mason, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151139",
+      "posted": "2026-06-23",
+      "id": "f04a483a0664",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     },
     {
-      "firm": "84.51\u00b0",
-      "title": "Senior Data Scientist Consultant - Agentic Platform (P4339)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8454763002",
-      "posted": "2026-04-07T13:52:40-04:00",
-      "id": "e30eb72d0bba",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "Honeywell",
+      "title": "Mods & Upgrades Software Engineer I",
+      "location": "Mason, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150935",
+      "posted": "2026-06-23",
+      "id": "81de9171e656",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     },
     {
-      "firm": "Agility Connect",
-      "title": "Senior Data Engineer",
-      "location": "Columbus, OH",
-      "url": "https://agilityconnect.io/jobs/7984",
-      "posted": "2026-04-22",
-      "id": "70bdc3b4c435",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Agility Connect",
-      "title": "Senior Java Developer",
-      "location": "Cincinnati, OH",
-      "url": "https://agilityconnect.io/jobs/8070",
-      "posted": "2026-04-23",
-      "id": "4d0f34e1dde5",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Apex Systems",
-      "title": "Network Real Estate Specialist / Developer",
-      "location": "Remote, CA",
-      "url": "https://www.apexsystems.com/job/3031695_usa/network-real-estate-specialist--developer",
-      "posted": "2026-04-28",
-      "id": "e6692775c55b",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Apex Systems",
-      "title": "Security Software Data Engineer - Venafi and/or CyberArk",
-      "location": "Virtual, OH",
-      "url": "https://www.apexsystems.com/job/3027515_usa/security-software-data-engineer----venafi-andor-cyberark",
-      "posted": "2026-03-25",
-      "id": "bc6fadc28878",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Belcan",
-      "title": "SMT (Surface Mount Technology) Technician/Programmer",
-      "location": "Middletown, OH",
-      "url": "https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365732&apply=yes&",
-      "posted": "2026-6-12",
-      "id": "15e66f205c71",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Cynet Systems",
-      "title": "SRE Engineer",
-      "location": "Ohio",
-      "url": "https://candidateportal.ceipal.com/job-details/FqWFK9811iKb4F9oQmXS8YqxAlmuAzc47JufO5FXGIY",
-      "posted": "2026-02-17",
-      "id": "4dd8a4dadda5",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Cynet Systems",
-      "title": "Senior OMS Developer with Java Backend",
-      "location": "Ohio",
-      "url": "https://candidateportal.ceipal.com/job-details/ftJX6WfchzSKLmaocI2nRWBdxRsBMhBPVnUue9fGr8I",
-      "posted": "2026-06-02",
-      "id": "34a61f556e9b",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "FirstEnergy",
-      "title": "Data Analyst",
-      "location": "Akron, OH, United States",
-      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104171",
-      "posted": "2026-04-27",
-      "id": "ff1109dc9b4e",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "FirstEnergy",
-      "title": "Senior Data Analyst",
-      "location": "Akron, OH, United States",
-      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104173",
-      "posted": "2026-04-27",
-      "id": "45030674219b",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Honda",
-      "title": "AI Machine Learning Principal Engineer",
-      "location": "Raymond, Ohio, United States",
-      "url": "https://careers.honda.com/us/en/job/10852",
-      "posted": "2026-04-23T00:00:00.000+0000",
-      "id": "a1cbbfff1941",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Honda",
-      "title": "Weld Robot Programmer",
-      "location": "Raymond, Ohio, United States",
-      "url": "https://careers.honda.com/us/en/job/10652",
-      "posted": "2026-04-02T00:00:00.000+0000",
-      "id": "e6fa3f7a7495",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Nationwide",
-      "title": "AVP, Software Engineering Leader",
-      "location": "Ohio - Columbus, Three Nationwide Plaza",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/AVP--Software-Engineering-Leader_098912",
-      "posted": "",
-      "id": "fcd3dca60cab",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Nationwide",
-      "title": "Consultant, Software Engineer - Angular and .Net",
-      "location": "Ohio - Columbus, Three Nationwide Plaza",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Angular-and-Net_098686",
-      "posted": "",
-      "id": "2ddfef867d3c",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Nationwide",
-      "title": "Sr Engineer, Software Engineer - Retirement Solutions - Java/Angular",
-      "location": "Ohio - Columbus, Three Nationwide Plaza",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Retirement-Solutions---Java-Angular_098759",
-      "posted": "",
-      "id": "53695f04355b",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Pinnacle Group",
-      "title": "AI Technical Analyst",
-      "location": "Remote US",
-      "url": "https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-US/AI-Technical-Analyst_JR1129",
-      "posted": "2026-06-08",
-      "id": "ef275371900f",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "STERIS",
-      "title": "Lead Cloud Software Engineer - Connected Healthcare",
-      "location": "Mentor, Ohio",
-      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53410&jobPipeline=PhenomCareerSite",
-      "posted": "2026-04-08T00:00:00.000+0000",
-      "id": "7dc38d0ffedb",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "STERIS",
-      "title": "Senior Manager, Software Engineering",
-      "location": "Mentor, Ohio",
-      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53669&jobPipeline=PhenomCareerSite",
-      "posted": "2026-04-08T00:00:00.000+0000",
-      "id": "5acb451f42f9",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "STERIS",
-      "title": "Senior Software Engineer",
-      "location": "Mentor, Ohio",
-      "url": "https://career4preview.sapsf.com/career?company=steriscorpT1&lang=en_US&career_ns=job_application&career_job_req_id=53208&jobPipeline=PhenomCareerSite",
-      "posted": "2026-04-08T00:00:00.000+0000",
-      "id": "f6858c83eaa9",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Westfield Insurance",
-      "title": "AI Engineer",
-      "location": "Westfield Center, OH, United States",
-      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11651",
-      "posted": "2026-02-05",
-      "id": "e04b91905708",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Westfield Insurance",
-      "title": "Information Security Engineer",
-      "location": "Westfield Center, OH, United States",
-      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11788",
-      "posted": "2026-04-01",
-      "id": "4c2ac6bf4c8f",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
-    },
-    {
-      "firm": "Westfield Insurance",
-      "title": "Senior DevOps Engineer",
-      "location": "Westfield Center, OH, United States",
-      "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11776",
-      "posted": "2026-03-23",
-      "id": "827d70df76fe",
-      "first_seen": "2026-06-28T19:21:11+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00"
+      "firm": "RxVantage",
+      "title": "Senior Full Stack Engineer - Team Lead",
+      "location": "Remote",
+      "url": "https://www.rxvantage.com/company/careers/jobs?gh_jid=5997473004",
+      "posted": "2026-05-15T19:39:39-04:00",
+      "id": "5b509b7a2789",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00"
     }
   ],
-  "removed_jobs": [
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "url": "https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen"
-    }
-  ]
+  "removed_jobs": []
 }

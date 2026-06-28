@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-28T19:21:11+00:00",
-  "count": 217,
+  "updated": "2026-06-28T20:08:07+00:00",
+  "count": 216,
   "jobs": [
+    {
+      "firm": "Honeywell",
+      "title": "Application Engineer I",
+      "location": "Cincinnati, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151142",
+      "posted": "2026-06-25",
+      "id": "3ee196157813",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Honeywell",
+      "title": "Mods & Upgrades Software Engineer I",
+      "location": "Mason, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150935",
+      "posted": "2026-06-23",
+      "id": "81de9171e656",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Honeywell",
+      "title": "Application Engineer I",
+      "location": "Mason, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151139",
+      "posted": "2026-06-23",
+      "id": "f04a483a0664",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Honeywell",
+      "title": "Advanced Application Engineer",
+      "location": "Mason, OH, United States",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151141",
+      "posted": "2026-06-23",
+      "id": "b1036096627f",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "DHL",
+      "title": "Sr Business Data Analyst",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11043295.html",
+      "posted": "2026-06-11T00:00:00.000+0000",
+      "id": "be4101581313",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "DHL",
+      "title": "Business Data Analyst II",
+      "location": "Westerville, Ohio",
+      "url": "https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Business-Data-Analyst-II-USN--job-Westerville-OH-US-11043312.html",
+      "posted": "2026-06-11T00:00:00.000+0000",
+      "id": "5803306e09d7",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "RxVantage",
+      "title": "Senior Full Stack Engineer - Team Lead",
+      "location": "Remote",
+      "url": "https://www.rxvantage.com/company/careers/jobs?gh_jid=5997473004",
+      "posted": "2026-05-15T19:39:39-04:00",
+      "id": "5b509b7a2789",
+      "first_seen": "2026-06-28T20:08:07+00:00",
+      "last_seen": "2026-06-28T20:08:07+00:00",
+      "readme_posted": true
+    },
     {
       "firm": "Cynet Systems",
       "title": "Senior OMS Developer with Java Backend",
@@ -1434,61 +1511,6 @@
     },
     {
       "firm": "Path Robotics",
-      "title": "Machine Learning Engineer, Robot Learning",
-      "location": "Columbus, Ohio",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8116143002?gh_jid=8116143002",
-      "posted": "2026-04-28T15:59:57-04:00",
-      "id": "e7e3dba3a832",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
-      "title": "Machine Learning Engineer, Robot Learning, Loco-Manipulation",
-      "location": "Columbus, Ohio",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8501710002?gh_jid=8501710002",
-      "posted": "2026-04-28T15:51:45-04:00",
-      "id": "f748819fef50",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
-      "title": "Senior Machine Learning Engineer, Neural Simulators",
-      "location": "Columbus, Ohio or Remote",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8355707002?gh_jid=8355707002",
-      "posted": "2026-04-28T15:41:46-04:00",
-      "id": "a082ee0f1b8d",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
-      "title": "Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation",
-      "location": "Columbus, Ohio or Remote",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002",
-      "posted": "2026-04-28T15:41:18-04:00",
-      "id": "8595644f132c",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
-      "title": "Senior Software Engineer",
-      "location": "Columbus, Ohio",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8340766002?gh_jid=8340766002",
-      "posted": "2026-04-28T15:42:32-04:00",
-      "id": "1b003f563d3e",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
       "title": "Senior Software Engineer, Machine Learning",
       "location": "Columbus, Ohio",
       "url": "https://boards.greenhouse.io/pathrobotics/jobs/8562325002?gh_jid=8562325002",
@@ -1505,39 +1527,6 @@
       "url": "https://boards.greenhouse.io/pathrobotics/jobs/8540826002?gh_jid=8540826002",
       "posted": "2026-06-03T15:04:01-04:00",
       "id": "1da1ba98b6fd",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
-      "title": "Senior Software Engineer - Robotics, Perception (C++, Python)",
-      "location": "Columbus, Ohio",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8499243002?gh_jid=8499243002",
-      "posted": "2026-04-28T15:43:07-04:00",
-      "id": "adba95b71218",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
-      "title": "Software Engineer \u2013 AI & ML Infrastructure",
-      "location": "Columbus, Ohio",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8500567002?gh_jid=8500567002",
-      "posted": "2026-04-28T15:45:14-04:00",
-      "id": "b5502d116c2c",
-      "first_seen": "2026-06-27T23:54:48+00:00",
-      "last_seen": "2026-06-28T19:21:11+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Path Robotics",
-      "title": "Software Engineer \u2013 Robotics & Systems",
-      "location": "Columbus, Ohio",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8500622002?gh_jid=8500622002",
-      "posted": "2026-04-28T15:46:38-04:00",
-      "id": "265c5280f9c5",
       "first_seen": "2026-06-27T23:54:48+00:00",
       "last_seen": "2026-06-28T19:21:11+00:00",
       "readme_posted": true

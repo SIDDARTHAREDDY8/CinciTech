@@ -2171,3 +2171,124 @@ firms:
     url_prefix: "https://jobs.lubrizol.com"
     selectors: { card: "li.job-tile", title: "a.jobTitle-link", link: "a.jobTitle-link", require_link: true }
     location_filter: ["OH", "Ohio", "Remote", "remote"]
+
+  # =============== GREATER CINCINNATI — EXURBS (West Chester/Mason) + NORTHERN KY ===
+  # Honeywell Intelligrated — Mason OH warehouse-automation (Oracle, Honeywell tenant)
+  - name: "Honeywell"
+    mode: oracle
+    employer: true
+    search_url: "https://careers.honeywell.com/"
+    api:
+      method: GET
+      url: "https://ibqbjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=50,sortBy=POSTING_DATES_DESC"
+      headers: { Accept: "application/json", REST-Framework-Version: "6", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      url_prefix: "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/"
+      pages: 5
+      fields: { title: "Title", location: "PrimaryLocation", url: "Id", posted: "PostedDate" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Mason", "West Chester", "Milford", "Hamilton", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # Cengage Group — edtech, Mason/Cincinnati (Workday)
+  - name: "Cengage Group"
+    mode: api
+    employer: true
+    search_url: "https://cengage.wd5.myworkdayjobs.com/CengageNorthAmericaCareers"
+    api:
+      method: POST
+      url: "https://cengage.wd5.myworkdayjobs.com/wday/cxs/cengage/CengageNorthAmericaCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 6 }
+      list_path: "jobPostings"
+      url_prefix: "https://cengage.wd5.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Mason", "West Chester", "Milford", "Hamilton", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # Givaudan — flavors/fragrances, big Cincinnati site (Phenom; url from jobId)
+  - name: "Givaudan"
+    mode: api
+    employer: true
+    search_url: "https://careers.givaudan.com/"
+    api:
+      method: POST
+      url: "https://careers.givaudan.com/widgets"
+      headers: { Content-Type: "application/json", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      json_body: { lang: "en_us", deviceType: "desktop", country: "us", pageName: "search-results", ddoKey: "refineSearch", sortBy: "", subsearch: "", from: 0, jobs: true, counts: true, all_fields: ["category","country","state","city"], size: 100, keywords: "", global: true, selected_fields: {}, locationData: {} }
+      paginate: { in: json_body, param: from, size: 100, max_pages: 3 }
+      list_path: "refineSearch.data.jobs"
+      url_prefix: "https://careers.givaudan.com/us/en/job/"
+      fields: { title: "title", location: "cityStateCountry", url: "jobId", posted: "postedDate" }
+    location_filter: ["OH", "Ohio", "Cincinnati", "Mason", "West Chester", "Milford", "Hamilton", "Columbus", "Cleveland", "Dayton", "Remote", "remote"]
+
+  # Fidelity Investments — major dev/IT hub in Covington KY (Workday on myworkdaysite)
+  - name: "Fidelity Investments"
+    mode: api
+    employer: true
+    search_url: "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers"
+    api:
+      method: POST
+      url: "https://wd1.myworkdaysite.com/wday/cxs/fmr/FidelityCareers/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["KY", "Kentucky", "Covington", "Newport", "Florence", "Erlanger", "Hebron", "OH", "Ohio", "Cincinnati", "Remote", "remote"]
+
+  # St. Elizabeth Healthcare — NKY hospital system, Edgewood/Crestview Hills KY (Workday)
+  - name: "St. Elizabeth Healthcare"
+    mode: api
+    employer: true
+    search_url: "https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite"
+    api:
+      method: POST
+      url: "https://stelizabeth.wd115.myworkdayjobs.com/wday/cxs/stelizabeth/StElizabethExternalCareerSite/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 8 }
+      list_path: "jobPostings"
+      url_prefix: "https://stelizabeth.wd115.myworkdayjobs.com"
+      fields: { title: "title", location: "locationsText", url: "externalPath", posted: "postedOn" }
+    location_filter: ["KY", "Kentucky", "Covington", "Newport", "Florence", "Erlanger", "Hebron", "Edgewood", "Crestview", "OH", "Ohio", "Cincinnati", "Remote", "remote"]
+
+  # DHL — CVG air hub, Hebron/Erlanger KY (Phenom; applyUrl absolute)
+  - name: "DHL"
+    mode: api
+    employer: true
+    search_url: "https://careers.dhl.com/global/en/search-results"
+    api:
+      method: POST
+      url: "https://careers.dhl.com/widgets"
+      headers: { Content-Type: "application/json", Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      json_body: { lang: "en_us", deviceType: "desktop", country: "us", pageName: "search-results", ddoKey: "refineSearch", sortBy: "", subsearch: "", from: 0, jobs: true, counts: true, all_fields: ["category","country","state","city"], size: 100, keywords: "", global: true, selected_fields: {}, locationData: {} }
+      paginate: { in: json_body, param: from, size: 100, max_pages: 3 }
+      list_path: "refineSearch.data.jobs"
+      fields: { title: "title", location: "cityState", url: "applyUrl", posted: "postedDate" }
+    location_filter: ["KY", "Kentucky", "Covington", "Newport", "Florence", "Erlanger", "Hebron", "OH", "Ohio", "Cincinnati", "Remote", "remote"]
+
+  # RxVantage — Covington KY HQ healthtech (Greenhouse)
+  - name: "RxVantage"
+    mode: api
+    employer: true
+    search_url: "https://www.rxvantage.com/company/careers/jobs"
+    api:
+      method: GET
+      url: "https://boards-api.greenhouse.io/v1/boards/rxvantage/jobs?content=true"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 OhioTechJobs" }
+      list_path: "jobs"
+      fields: { title: "title", location: "location.name", url: "absolute_url", posted: "updated_at" }
+    location_filter: ["KY", "Kentucky", "Covington", "OH", "Ohio", "Cincinnati", "Remote", "remote"]
+
+  # Verst Logistics — Hebron KY HQ 3PL (UKG/UltiPro)
+  - name: "Verst Logistics"
+    mode: api
+    employer: true
+    search_url: "https://recruiting.ultipro.com/VER1029VERST/JobBoard/287eabe5-fc1d-4aae-9289-b84db68b9b09/"
+    api:
+      method: POST
+      url: "https://recruiting.ultipro.com/VER1029VERST/JobBoard/287eabe5-fc1d-4aae-9289-b84db68b9b09/JobBoardView/LoadSearchResults"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { opportunitySearch: { Top: 100, Skip: 0, QueryString: "", OrderBy: [], Filters: [] } }
+      list_path: "opportunities"
+      url_prefix: "https://recruiting.ultipro.com/VER1029VERST/JobBoard/287eabe5-fc1d-4aae-9289-b84db68b9b09/OpportunityDetail?opportunityId="
+      fields: { title: "Title", location: "Locations.0.LocalizedDescription", url: "Id", posted: "PostedDate" }
+    location_filter: ["KY", "Kentucky", "Covington", "Newport", "Florence", "Erlanger", "Hebron", "OH", "Ohio", "Cincinnati", "Remote", "remote"]

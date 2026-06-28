@@ -169,9 +169,17 @@ def _offset(pg: dict, value: int) -> dict:
 
 def _workday_base(cxs_url: str):
     """For a Workday CXS endpoint .../wday/cxs/<tenant>/<site>/jobs return the public
-    base 'https://<host>/<site>' (job links live at <base>/job/...). Else None."""
-    m = re.search(r"(https://[^/]+)/wday/cxs/[^/]+/([^/]+)/jobs", cxs_url or "")
-    return f"{m.group(1)}/{m.group(2)}" if m else None
+    base (job links live at <base>/job/...). Two host shapes:
+      <tenant>.myworkdayjobs.com  -> https://<host>/<site>
+      wdN.myworkdaysite.com       -> https://<host>/recruiting/<tenant>/<site>
+    """
+    m = re.search(r"(https://[^/]+)/wday/cxs/([^/]+)/([^/]+)/jobs", cxs_url or "")
+    if not m:
+        return None
+    host, tenant, site = m.group(1), m.group(2), m.group(3)
+    if "myworkdaysite.com" in host:
+        return f"{host}/recruiting/{tenant}/{site}"
+    return f"{host}/{site}"
 
 
 def _join_url(base: str, tail: str) -> str:

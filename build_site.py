@@ -120,7 +120,7 @@ TEMPLATE = r"""<!doctype html>
     </div>
     <select id="loc">
       <option value="">All Ohio + remote</option>
-      <option value="cincinnati">Cincinnati</option>
+      <option value="cincinnati">Cincinnati + N. Kentucky</option>
       <option value="columbus">Columbus</option>
       <option value="cleveland">Cleveland</option>
       <option value="dayton">Dayton</option>
@@ -192,7 +192,8 @@ function ageLabel(d){
 function metro(loc){
   const l=(loc||'').toLowerCase();
   if(/remote|hybrid|virtual|anywhere|telework/.test(l)) return 'remote';
-  if(l.includes('cincinnati')||l.includes('blue ash')||l.includes('mason')||l.includes('evendale')||l.includes('fairfield')||l.includes('west chester')||l.includes('norwood')||l.includes('sharonville')) return 'cincinnati';
+  // Greater Cincinnati = city + OH exurbs (West Chester/Mason/Milford…) + Northern KY
+  if(l.includes('cincinnati')||l.includes('blue ash')||l.includes('mason')||l.includes('evendale')||l.includes('fairfield')||l.includes('west chester')||l.includes('norwood')||l.includes('sharonville')||l.includes('milford')||l.includes('loveland')||l.includes('montgomery')||l.includes('springdale')||l.includes('liberty township')||l.includes('hamilton')||l.includes('middletown')||l.includes('lebanon')||l.includes('springboro')||l.includes('batavia')||((/\bky\b|kentucky/.test(l))&&(l.includes('newport')||l.includes('covington')||l.includes('florence')||l.includes('erlanger')||l.includes('hebron')||l.includes('edgewood')||l.includes('fort mitchell')||l.includes('crestview')||l.includes('fort thomas')||l.includes('wilder')||l.includes('bellevue')||l.includes('boone')||l.includes('kenton')||l.includes('campbell')))) return 'cincinnati';
   if(l.includes('columbus')||l.includes('dublin')||l.includes('westerville')||l.includes('new albany')||l.includes('hilliard')||l.includes('marysville')||l.includes('grove city')||l.includes('gahanna')||l.includes('powell')||l.includes('worthington')||l.includes('reynoldsburg')) return 'columbus';
   if(l.includes('cleveland')||l.includes('westlake')||l.includes('solon')||l.includes('mentor')||l.includes('beachwood')||l.includes('independence')||l.includes('brooklyn')||l.includes('avon')||l.includes('elyria')||l.includes('wickliffe')) return 'cleveland';
   if(l.includes('dayton')||l.includes('kettering')||l.includes('beavercreek')||l.includes('miamisburg')||l.includes('springfield')) return 'dayton';

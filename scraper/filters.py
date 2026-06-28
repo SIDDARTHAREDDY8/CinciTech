@@ -144,6 +144,29 @@ REMOTE_TOKENS = ("remote", "hybrid", "virtual", "anywhere", "work from home", "w
 # (the Ohio employers) already carry their specific Ohio cities and take precedence.
 OHIO_DEFAULT = ["ohio", "cincinnati", ", oh", " oh ", "oh-", "(oh)", "oh,"]
 
+# Greater Cincinnati spills across the river into NORTHERN KENTUCKY (Newport,
+# Covington, Florence, Erlanger, Hebron, the CVG-airport corridor) — that's the same
+# metro / commute, so those jobs are in scope. We only accept these specific NKY
+# cities AND require a KY signal, so "Newport, RI" / "Florence, SC" / "Covington, GA"
+# don't sneak in. (All of Kentucky is NOT in scope — Louisville/Lexington are far.)
+NKY_CITIES = (
+    "newport", "covington", "florence", "erlanger", "hebron", "edgewood",
+    "fort mitchell", "ft mitchell", "crestview hills", "fort wright", "ft wright",
+    "wilder", "bellevue", "fort thomas", "ft thomas", "highland heights",
+    "cold spring", "alexandria", "villa hills", "taylor mill", "elsmere",
+    "park hills", "southgate", "ludlow", "boone county", "kenton county",
+    "campbell county", "northern kentucky", "n. kentucky",
+)
+
+
+def _is_nky(loc: str) -> bool:
+    """True only for Northern Kentucky (Greater Cincinnati) — a known NKY city AND a
+    Kentucky signal, so far-away same-named cities in other states are excluded."""
+    l = loc.lower()
+    if not re.search(r"\bky\b|kentucky", l):
+        return False
+    return any(c in l for c in NKY_CITIES)
+
 # Several firms were configured for a US-wide board, so their location_filter lists
 # contain broad tokens ("United States", "USA", "US", "") that match any US job (and
 # "" matches everything). On an OHIO board those must be ignored, or every national
@@ -182,6 +205,8 @@ def keep_location(location: str, firm: dict) -> bool:
         return True                       # OH-only employer, facility-named location
     loc = location.lower()
     if any(w in loc for w in REMOTE_TOKENS):
+        return True
+    if _is_nky(loc):                      # Greater Cincinnati = Ohio + Northern KY
         return True
     allowed = [a for a in (firm.get("location_filter") or []) if a.strip().lower() not in _BROAD_TOKENS]
     if not allowed:
