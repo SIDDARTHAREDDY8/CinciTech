@@ -56,9 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **212** roles open total · updated `2026-06-28T17:08:07+00:00`
+### 🆕 6 new roles this update · 217 tracked total · updated `2026-06-28T19:21:11+00:00`
 
-Nothing new since the last run — [browse all 212 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Nationwide | 3 |
+| Cynet Systems | 1 |
+| Pinnacle Group | 1 |
+| Belcan | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/ftJX6WfchzSKLmaocI2nRWBdxRsBMhBPVnUue9fGr8I) | Cynet Systems | Ohio | 2026-06-28 |
+| [AI Technical Analyst](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-US/AI-Technical-Analyst_JR1129) | Pinnacle Group | Remote US | 2026-06-28 |
+| [SMT (Surface Mount Technology) Technician/Programmer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365732&apply=yes&) | Belcan | Middletown, OH | 2026-06-28 |
+| [AVP, Software Engineering Leader](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/AVP--Software-Engineering-Leader_098912) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-06-28 |
+| [Consultant, Software Engineer - Angular and .Net](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Angular-and-Net_098686) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-06-28 |
+| [Sr Engineer, Software Engineer - Retirement Solutions - Java/Angular](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Retirement-Solutions---Java-Angular_098759) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-06-28 |
 <!-- JOBS:END -->
 
 ## How it works

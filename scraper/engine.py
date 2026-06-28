@@ -237,10 +237,18 @@ def _fetch_page(firm: dict, http, api: dict, override=None):
             if base:
                 url = _join_url(base, url)
         url = _apply_url_transforms(str(url), item, api)
+        location = _location(item, fields.get("location", ""))
+        if not location:
+            # Workday fallback: many tenants leave locationsText null and put the
+            # primary location in bulletFields[0] (e.g. "Ohio - Columbus, One
+            # Nationwide Plaza"). Recover it so the job isn't dropped as unknown.
+            bf = item.get("bulletFields")
+            if isinstance(bf, list) and bf and isinstance(bf[0], str):
+                location = _clean(bf[0])
         jobs.append({
             "firm": firm["name"],
             "title": title,
-            "location": _location(item, fields.get("location", "")),
+            "location": location,
             "url": url,
             "posted": _clean(str(_dig(item, fields.get("posted", "")))),
         })
