@@ -56,20 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 480 tracked total · updated `2026-06-29T11:28:07+00:00`
+### 🆕 6 new roles this update · 484 tracked total · updated `2026-06-29T14:14:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Strategic Staffing Solutions | 1 |
+| Insight Global | 2 |
+| Fifth Third Bank | 2 |
 | Cynet Systems | 1 |
+| Westfield Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-29 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-29 |
-| [Mid Platform Engineering Troubleshooting Lithuania 12 Months](https://jobs.strategicstaff.com/jobs/mid-platform-engineering-troubleshooting-lithuania-12-months-170359/) | Strategic Staffing Solutions | Vilnius, Hybrid | 2026-06-29 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/Slq4DaTxkh1mfYSLEokvUjSLnwlMVgZCCPzWTTBBkeY) | Cynet Systems | Ohio | 2026-06-29 |
+| [SQL Database Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/sql-database-developer/job-546332/) | Insight Global | Cleveland, OH | 2026-06-29 |
+| [Sr. Data Scientist](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/sr-data-scientist/job-545485/) | Insight Global | Columbus, OH | 2026-06-29 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/rXfiKX0mZPoV2yANrctQOJsxBKQCMcf_6QUSmdO4-Vs) | Cynet Systems | Ohio | 2026-06-29 |
+| [Lead Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Platform-Engineer_R68032-1) | Fifth Third Bank | Cincinnati, OH | 2026-06-29 |
+| [Enterprise Process Optimization Advisor](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Process-Optimization-Advisor_R68000-1) | Fifth Third Bank | Cincinnati, OH | 2026-06-29 |
+| [IT GRC Lead Analyst](https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11894) | Westfield Insurance | Westfield Center, OH, United States | 2026-06-29 |
 <!-- JOBS:END -->
 
 ## How it works
