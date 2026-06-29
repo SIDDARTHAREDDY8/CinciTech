@@ -56,24 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 477 tracked total · updated `2026-06-29T05:16:34+00:00`
+### 🆕 1 new roles this update · 476 tracked total · updated `2026-06-29T08:28:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 1 |
-| Nationwide | 1 |
-| Lubrizol | 1 |
-| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-29 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-29 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/9FDj06RKGw84Dc8Wb5jUnmuMDg0CZbB_4QvN8KT4vX0) | Cynet Systems | Ohio | 2026-06-29 |
-| [Specialist, Software Engineer (Test Automation Developer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Specialist--Software-Engineer--Test-Automation-Developer-_098957) | Nationwide | Ohio - Columbus Metro | 2026-06-29 |
-| [Security Engineer](https://jobs.lubrizol.com/job/Wickliffe-Security-Engineer-OH-44092-2298/1393159800/) | Lubrizol | OH | 2026-06-29 |
-| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/96649735600) | L3Harris | Remote | 2026-06-29 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/ujBUNGAaESYOEjSJl-k6VoxLb4sQTKGtUk9ksDUYGTs) | Cynet Systems | Ohio | 2026-06-29 |
 <!-- JOBS:END -->
 
 ## How it works
