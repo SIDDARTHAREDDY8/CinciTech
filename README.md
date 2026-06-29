@@ -56,36 +56,33 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 505 tracked total · updated `2026-06-29T19:32:04+00:00`
+### 🆕 11 new roles this update · 515 tracked total · updated `2026-06-29T22:10:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| STERIS | 12 |
+| Robert Half | 2 |
+| Cynet Systems | 2 |
+| TEKsystems | 1 |
 | Insight Global | 1 |
-| Strategic Staffing Solutions | 1 |
-| Cynet Systems | 1 |
-| OhioHealth | 1 |
-| Battelle | 1 |
+| Motion Recruitment | 1 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Fifth Third Bank | 1 |
+| American Electric Power | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Cybersecurity Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/parma/cybersecurity-engineer/job-546511/) | Insight Global | Parma, OH | 2026-06-29 |
-| [Sap Finance App Engineer Jva And Pa](https://jobs.strategicstaff.com/jobs/sap-finance-app-engineer-jva-and-pa-170377/) | Strategic Staffing Solutions | Remote | 2026-06-29 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/N22IS4kjXr1KwRsMvnUoB5LhufWVLDiVDZVD797Mk-w) | Cynet Systems | Ohio | 2026-06-29 |
-| [Sr. Advisor, Enterprise Risk Management](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/BLOM-ADMINISTRATIVE-CAMPUS/Sr-Advisor--Enterprise-Risk-Management_JR149070) | OhioHealth | BLOM ADMINISTRATIVE CAMPUS | 2026-06-29 |
-| [Customer Repair Support Specialist I](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54833&jobPipeline=PhenomCareerSite) | STERIS | Cincinnati, Ohio | 2026-06-29 |
-| [Software Engineer II](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55006&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Manager, Product & Platform Cybersecurity Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53422&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Senior Manager of Operations Data Governance](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54810&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Cybersecurity Application Engineer II](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53528&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Senior ERP Financial Systems Analyst](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=52911&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Quality Engineer II](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54647&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Enterprise Data Modeler / Data Architect](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=51962&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Software Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54839&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Senior Software Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54869&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Senior Software Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54840&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Quality Engineer I](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54808&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
-| [Software Engineer](https://jobs.battelle.org/us/en/job/76185) | Battelle | Columbus, OH | 2026-06-29 |
+| [Data Center Audit Technician](https://careers.teksystems.com/us/en/job/JP-006123750/Data-Center-Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-06-29 |
+| [Full Stack Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/full-stack-developer/job-546339/) | Insight Global | Cleveland, OH | 2026-06-29 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-29 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-29 |
+| [Information Security Engineer - Findings Management Engineer](https://motionrecruitment.com/tech-jobs/remote/contract/information-security-engineer-findings-management-engineer/877460) | Motion Recruitment | Remote, NC | 2026-06-29 |
+| [ServiceNow Engineering Manager](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32522464#/jobs/32522464) | Artech | Remote | 2026-06-29 |
+| [IT Project Manager (Medicare / Medicaid)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28781065#/jobs/28781065) | Mindlance | Remote, AR | 2026-06-29 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/wCQC2rVAxZ3JrcnxnjI1Ser2joholiCkRZxSPJ5-V08) | Cynet Systems | Ohio | 2026-06-29 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/hHeAzqsAdoRNtIwGTD8FdISaDCqiRdwoTCAhNAi5nZY) | Cynet Systems | Ohio | 2026-06-29 |
+| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R70053) | Fifth Third Bank | Cincinnati, OH | 2026-06-29 |
+| [Smallworld GIS Developer Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Smallworld-GIS-Developer-Principal_R15500) | American Electric Power | Gahanna, OH | 2026-06-29 |
 <!-- JOBS:END -->
 
 ## How it works
