@@ -56,24 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 490 tracked total · updated `2026-06-29T16:53:19+00:00`
+### 🆕 17 new roles this update · 505 tracked total · updated `2026-06-29T19:32:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Artech | 1 |
+| STERIS | 12 |
+| Insight Global | 1 |
+| Strategic Staffing Solutions | 1 |
 | Cynet Systems | 1 |
-| KeyBank | 1 |
-| Festo | 1 |
+| OhioHealth | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-29 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-29 |
-| [Senior Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32520611#/jobs/32520611) | Artech | Remote | 2026-06-29 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/1RBpii-f_Ol_QWPJJtD6dTSoGRLMggwjsBoDtjDrSmw) | Cynet Systems | Ohio | 2026-06-29 |
-| [Mainframe Developer](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Remote-United-States/Sr-Software-Engineer_R-40149-1) | KeyBank | Remote, United States | 2026-06-29 |
-| [IT Logistics Automation Specialist](https://jobs.festo.com/job/Mason-IT-Logistics-Automation-Specialist-IL-45039/1374261533/) | Festo | Mason, US, 45039 +1 more… | 2026-06-29 |
+| [Cybersecurity Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/parma/cybersecurity-engineer/job-546511/) | Insight Global | Parma, OH | 2026-06-29 |
+| [Sap Finance App Engineer Jva And Pa](https://jobs.strategicstaff.com/jobs/sap-finance-app-engineer-jva-and-pa-170377/) | Strategic Staffing Solutions | Remote | 2026-06-29 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/N22IS4kjXr1KwRsMvnUoB5LhufWVLDiVDZVD797Mk-w) | Cynet Systems | Ohio | 2026-06-29 |
+| [Sr. Advisor, Enterprise Risk Management](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/BLOM-ADMINISTRATIVE-CAMPUS/Sr-Advisor--Enterprise-Risk-Management_JR149070) | OhioHealth | BLOM ADMINISTRATIVE CAMPUS | 2026-06-29 |
+| [Customer Repair Support Specialist I](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54833&jobPipeline=PhenomCareerSite) | STERIS | Cincinnati, Ohio | 2026-06-29 |
+| [Software Engineer II](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55006&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Manager, Product & Platform Cybersecurity Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53422&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Senior Manager of Operations Data Governance](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54810&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Cybersecurity Application Engineer II](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53528&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Senior ERP Financial Systems Analyst](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=52911&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Quality Engineer II](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54647&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Enterprise Data Modeler / Data Architect](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=51962&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Software Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54839&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Senior Software Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54869&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Senior Software Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54840&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Quality Engineer I](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54808&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-06-29 |
+| [Software Engineer](https://jobs.battelle.org/us/en/job/76185) | Battelle | Columbus, OH | 2026-06-29 |
 <!-- JOBS:END -->
 
 ## How it works
