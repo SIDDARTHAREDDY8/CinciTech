@@ -56,9 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **472** roles open total · updated `2026-06-28T21:41:37+00:00`
+### 🆕 2 new roles this update · 471 tracked total · updated `2026-06-29T01:46:58+00:00`
 
-Nothing new since the last run — [browse all 472 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Cynet Systems | 1 |
+| DHL | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/r3FgxqrJsWyCIDhpfeqhVYo9umuYGDaQOAPy4BTpwL0) | Cynet Systems | Ohio | 2026-06-29 |
+| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-Marengo-OH-US-11039097.html) | DHL | Marengo, Ohio | 2026-06-29 |
 <!-- JOBS:END -->
 
 ## How it works
