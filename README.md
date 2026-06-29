@@ -56,15 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 476 tracked total · updated `2026-06-29T08:28:01+00:00`
+### 🆕 4 new roles this update · 480 tracked total · updated `2026-06-29T11:28:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
+| Strategic Staffing Solutions | 1 |
 | Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/ujBUNGAaESYOEjSJl-k6VoxLb4sQTKGtUk9ksDUYGTs) | Cynet Systems | Ohio | 2026-06-29 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-29 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-29 |
+| [Mid Platform Engineering Troubleshooting Lithuania 12 Months](https://jobs.strategicstaff.com/jobs/mid-platform-engineering-troubleshooting-lithuania-12-months-170359/) | Strategic Staffing Solutions | Vilnius, Hybrid | 2026-06-29 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/Slq4DaTxkh1mfYSLEokvUjSLnwlMVgZCCPzWTTBBkeY) | Cynet Systems | Ohio | 2026-06-29 |
 <!-- JOBS:END -->
 
 ## How it works
