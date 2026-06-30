@@ -56,21 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 521 tracked total · updated `2026-06-30T05:09:03+00:00`
+### 🆕 2 new roles this update · 521 tracked total · updated `2026-06-30T08:02:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 2 |
-| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-30 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-30 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/ZXZsHgdY13MQV8TOCAmB2XtntVNL5suUomQUTYrAXQI) | Cynet Systems | Ohio | 2026-06-30 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/IDQFskbiiHa_y3fr_Og9_s6ZJDd9QVXetnnesGhCxc4) | Cynet Systems | Ohio | 2026-06-30 |
-| [Senior Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/senior-associate-quality-engineering/4832/95388160432) | L3Harris | Cincinnati, OH | 2026-06-30 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/dFn0ORilxdnB_Ik-D6Mw2Q1F_H8z-QOd0ZX08iOeFcQ) | Cynet Systems | Ohio | 2026-06-30 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/eh4CIpQ8H0Bwb8XQbKmMGPxZf0VSOsAiNuk95zl-nWY) | Cynet Systems | Ohio | 2026-06-30 |
 <!-- JOBS:END -->
 
 ## How it works
