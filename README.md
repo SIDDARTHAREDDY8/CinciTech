@@ -56,20 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 516 tracked total · updated `2026-06-30T01:43:58+00:00`
+### 🆕 5 new roles this update · 521 tracked total · updated `2026-06-30T05:09:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Crane Company | 1 |
-| Honda | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/b9ABiDtXua_u4WPh20ziMzczyEQOdIFRGwOX9yK4erM) | Cynet Systems | Ohio | 2026-06-30 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/ejKC0oPTcZ2TCFmux_vN8Xpyz4b0cMoD_XVbCeAQ_eg) | Cynet Systems | Ohio | 2026-06-30 |
-| [Quality Engineer](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Quality-Engineer_JR101962) | Crane Company | Elyria, Ohio | 2026-06-30 |
-| [Information Technology (IT) Co-op/Intern - Fall 2026](https://careers.honda.com/us/en/job/9655) | Honda | Raymond, Ohio, United States | 2026-06-30 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-30 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-30 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/ZXZsHgdY13MQV8TOCAmB2XtntVNL5suUomQUTYrAXQI) | Cynet Systems | Ohio | 2026-06-30 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/IDQFskbiiHa_y3fr_Og9_s6ZJDd9QVXetnnesGhCxc4) | Cynet Systems | Ohio | 2026-06-30 |
+| [Senior Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/senior-associate-quality-engineering/4832/95388160432) | L3Harris | Cincinnati, OH | 2026-06-30 |
 <!-- JOBS:END -->
 
 ## How it works
