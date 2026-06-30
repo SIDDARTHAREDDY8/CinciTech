@@ -56,19 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 525 tracked total · updated `2026-06-30T10:54:46+00:00`
+### 🆕 10 new roles this update · 533 tracked total · updated `2026-06-30T13:22:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| Insight Global | 2 |
 | Cynet Systems | 2 |
+| Agility Connect | 2 |
+| American Electric Power | 1 |
+| Sherwin-Williams | 1 |
+| Honda | 1 |
+| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-30 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-30 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/P_q7shpyHgdQCpNqIfsjU5DUcfT3-5723nCr9H519_4) | Cynet Systems | Ohio | 2026-06-30 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/YwLHd-diZSw6paH6CWib282xdmnZuxLiBpjpl5Z4gAQ) | Cynet Systems | Ohio | 2026-06-30 |
+| [Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/software-engineer/job-546648/) | Insight Global | Columbus, OH | 2026-06-30 |
+| [Senior Application Developer, Full Stack ? AWCS](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/senior-application-developer-full-stack-awcs/job-546605/) | Insight Global | Cleveland, OH | 2026-06-30 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/Us92hO4r-SKxd8V1YMwrsOoLIJHU1QdGn_Yo5tfzco0) | Cynet Systems | Ohio | 2026-06-30 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/ASoTcLs1IMhIW--I-jgiYFe2WYmX1_53XjcGZ-VypOs) | Cynet Systems | Ohio | 2026-06-30 |
+| [Data Engineer - DataStage ETL I](https://agilityconnect.io/jobs/8186) | Agility Connect | Cincinnati, OH | 2026-06-30 |
+| [Software Engineer](https://agilityconnect.io/jobs/8183) | Agility Connect | Columbus, OH | 2026-06-30 |
+| [Architect Sr - ServiceNow & Platform Architecture](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Architect-Sr---ServiceNow---Platform-Architecture_R15267-1) | American Electric Power | Columbus, OH | 2026-06-30 |
+| [Senior Finance Analyst, Business Intelligence, Enterprise Financial Services CoE](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2614557) | Sherwin-Williams | Cleveland, OH, United States | 2026-06-30 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-06-30 |
+| [Application Engineering Technician](https://jobs.lincolnelectric.com/job/Cleveland-Application-Engineering-Technician-OH-44117/1408907733/) | Lincoln Electric | OH | 2026-06-30 |
 <!-- JOBS:END -->
 
 ## How it works
