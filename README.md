@@ -56,30 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 533 tracked total · updated `2026-06-30T13:22:01+00:00`
+### 🆕 14 new roles this update · 547 tracked total · updated `2026-06-30T16:39:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Insight Global | 2 |
-| Cynet Systems | 2 |
-| Agility Connect | 2 |
+| Robert Half | 2 |
+| KeyBank | 2 |
+| Apex Systems | 1 |
+| Artech | 1 |
+| Cynet Systems | 1 |
+| Fifth Third Bank | 1 |
+| Worldpay | 1 |
 | American Electric Power | 1 |
-| Sherwin-Williams | 1 |
-| Honda | 1 |
-| Lincoln Electric | 1 |
+| Huntington Bank | 1 |
+| Battelle | 1 |
+| Cintas | 1 |
+| Honeywell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/software-engineer/job-546648/) | Insight Global | Columbus, OH | 2026-06-30 |
-| [Senior Application Developer, Full Stack ? AWCS](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/senior-application-developer-full-stack-awcs/job-546605/) | Insight Global | Cleveland, OH | 2026-06-30 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/Us92hO4r-SKxd8V1YMwrsOoLIJHU1QdGn_Yo5tfzco0) | Cynet Systems | Ohio | 2026-06-30 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/ASoTcLs1IMhIW--I-jgiYFe2WYmX1_53XjcGZ-VypOs) | Cynet Systems | Ohio | 2026-06-30 |
-| [Data Engineer - DataStage ETL I](https://agilityconnect.io/jobs/8186) | Agility Connect | Cincinnati, OH | 2026-06-30 |
-| [Software Engineer](https://agilityconnect.io/jobs/8183) | Agility Connect | Columbus, OH | 2026-06-30 |
-| [Architect Sr - ServiceNow & Platform Architecture](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Architect-Sr---ServiceNow---Platform-Architecture_R15267-1) | American Electric Power | Columbus, OH | 2026-06-30 |
-| [Senior Finance Analyst, Business Intelligence, Enterprise Financial Services CoE](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2614557) | Sherwin-Williams | Cleveland, OH, United States | 2026-06-30 |
-| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-06-30 |
-| [Application Engineering Technician](https://jobs.lincolnelectric.com/job/Cleveland-Application-Engineering-Technician-OH-44117/1408907733/) | Lincoln Electric | OH | 2026-06-30 |
+| [Data Analyst II](https://www.apexsystems.com/job/3040443_usa/data-analyst-ii) | Apex Systems | Remote, NY | 2026-06-30 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-30 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-30 |
+| [PLC control engineer -- Automation engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32527202#/jobs/32527202) | Artech | Mason, OH | 2026-06-30 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/wZGFrdqQ-EAg-OK0JU_6tmItgl4K9SWNRzmWQKA9IIQ) | Cynet Systems | Ohio | 2026-06-30 |
+| [Senior Platform Engineer - Fixed Income and Equity](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Platform-Engineer---Fixed-Income-and-Equity_R69220-1) | Fifth Third Bank | Cincinnati, OH | 2026-06-30 |
+| [AI Strategist and Execution Analyst](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/AI-Strategist-and-Execution-Analyst_JR0610343) | Worldpay | CINCINNATI, OHIO | 2026-06-30 |
+| [Infrastructure Engineer – Enterprise Technology & Operations](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Infrastructure-Engineer---Enterprise-Technology---Operations_R16951) | American Electric Power | New Albany, OH | 2026-06-30 |
+| [Business Technology Manager, Enterprise Data and Information Services](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Business-Technology-Manager--Enterprise-Data-and-Information-Services_R-40494-1) | KeyBank | Brooklyn, OH | 2026-06-30 |
+| [Quality Assurance Test Lead](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quality-Assurance-Test-Lead_R-40579) | KeyBank | Brooklyn, OH | 2026-06-30 |
+| [IT Business Analyst 3](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Business-Analyst-3_R0073454) | Huntington Bank | Columbus, OH | 2026-06-30 |
+| [Software Engineer/RF Engineer](https://jobs.battelle.org/us/en/job/76112) | Battelle | Columbus, OH | 2026-06-30 |
+| [Systems Engineer Level 1 - Endpoint](https://careers.cintas.com/job/Mason-Systems-Engineer-Level-1-Endpoint-OH-45040/1404439200/) | Cintas | OH | 2026-06-30 |
+| [Application Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151340) | Honeywell | Mason, OH, United States | 2026-06-30 |
 <!-- JOBS:END -->
 
 ## How it works
