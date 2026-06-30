@@ -56,16 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 521 tracked total · updated `2026-06-30T08:02:25+00:00`
+### 🆕 4 new roles this update · 525 tracked total · updated `2026-06-30T10:54:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/dFn0ORilxdnB_Ik-D6Mw2Q1F_H8z-QOd0ZX08iOeFcQ) | Cynet Systems | Ohio | 2026-06-30 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/eh4CIpQ8H0Bwb8XQbKmMGPxZf0VSOsAiNuk95zl-nWY) | Cynet Systems | Ohio | 2026-06-30 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-06-30 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-06-30 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/P_q7shpyHgdQCpNqIfsjU5DUcfT3-5723nCr9H519_4) | Cynet Systems | Ohio | 2026-06-30 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/YwLHd-diZSw6paH6CWib282xdmnZuxLiBpjpl5Z4gAQ) | Cynet Systems | Ohio | 2026-06-30 |
 <!-- JOBS:END -->
 
 ## How it works
