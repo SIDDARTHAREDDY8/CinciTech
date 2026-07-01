@@ -56,36 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 558 tracked total · updated `2026-06-30T19:19:48+00:00`
+### 🆕 9 new roles this update · 565 tracked total · updated `2026-07-01T01:53:33+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Sherwin-Williams | 3 |
-| TEKsystems | 2 |
+| Robert Half | 2 |
+| Battelle | 2 |
 | Cynet Systems | 1 |
-| Njoyn (CGI) | 1 |
-| Fifth Third Bank | 1 |
+| 84.51° | 1 |
 | Worldpay | 1 |
-| KeyBank | 1 |
-| OhioHealth | 1 |
-| Honda | 1 |
-| Honeywell | 1 |
+| Huntington Bank | 1 |
+| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [OFS Developer - 100% Remote](https://careers.teksystems.com/us/en/job/JP-006126098/OFS-Developer-100-Remote) | TEKsystems | Columbus, Ohio | 2026-06-30 |
-| [IT Support Technician](https://careers.teksystems.com/us/en/job/JP-006125416/IT-Support-Technician) | TEKsystems | Erlanger, Kentucky | 2026-06-30 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/_fcxWwMZRkHHKjtQCpV8Scp6oMFn_-25U-fC4p90dpg) | Cynet Systems | Ohio | 2026-06-30 |
-| [Lead AWS AI Platform Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-2681&BRID=1312730&lang=1) | Njoyn (CGI) | Cincinnati, United States | 2026-06-30 |
-| [Lead Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Product-Owner_R69936) | Fifth Third Bank | Cincinnati, OH | 2026-06-30 |
-| [Payment Optimization Data Scientist II](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Payment-Optimization-Data-Scientist-II_JR0610621) | Worldpay | CINCINNATI, OHIO | 2026-06-30 |
-| [Program Manager, Enterprise Data and Information Services](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Program-Manager--Enterprise-Data-and-Information-Services_R-40515) | KeyBank | Brooklyn, OH | 2026-06-30 |
-| [Ignition Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616273) | Sherwin-Williams | Cleveland, OH, United States | 2026-06-30 |
-| [B2B/EDI Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616274) | Sherwin-Williams | Cleveland, OH, United States | 2026-06-30 |
-| [Ignition Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616293) | Sherwin-Williams | Cleveland, OH, United States | 2026-06-30 |
-| [Associate IT Project Manager](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Associate-IT-Project-Manager_JR152727-1) | OhioHealth | WORK AT HOME - OHIO | 2026-06-30 |
-| [Senior AWS Cloud Data Engineer I](https://careers.honda.com/us/en/job/10756) | Honda | Marysville, Ohio, United States | 2026-06-30 |
-| [Application Engineer II](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151354) | Honeywell | Mason, OH, United States | 2026-06-30 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-01 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-01 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/DlwuKdRjCK1E0hAvVOYjp5gwJetU5Y0OX7nRxsClGlA) | Cynet Systems | Ohio | 2026-07-01 |
+| [Data Architect (P4642)](https://job-boards.greenhouse.io/8451/jobs/8614576002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-01 |
+| [Senior Cloud Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-Cloud-Engineer_JR0610623) | Worldpay | CINCINNATI, OHIO | 2026-07-01 |
+| [Business Intelligence Solution Engineer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Intelligence-Solution-Engineer_R0070848) | Huntington Bank | Columbus, OH | 2026-07-01 |
+| [Master Data Management Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275928) | Vertiv | Westerville, OH, United States | 2026-07-01 |
+| [Senior Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76351) | Battelle | Columbus, OH | 2026-07-01 |
+| [Manager, Information Technology - End User Support](https://jobs.battelle.org/us/en/job/76350) | Battelle | Columbus, OH | 2026-07-01 |
 <!-- JOBS:END -->
 
 ## How it works
