@@ -56,29 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 565 tracked total · updated `2026-07-01T01:53:33+00:00`
+### 🆕 3 new roles this update · 566 tracked total · updated `2026-07-01T05:16:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Battelle | 2 |
 | Cynet Systems | 1 |
-| 84.51° | 1 |
-| Worldpay | 1 |
-| Huntington Bank | 1 |
-| Vertiv | 1 |
+| Nationwide | 1 |
+| Givaudan | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-01 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-01 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/DlwuKdRjCK1E0hAvVOYjp5gwJetU5Y0OX7nRxsClGlA) | Cynet Systems | Ohio | 2026-07-01 |
-| [Data Architect (P4642)](https://job-boards.greenhouse.io/8451/jobs/8614576002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-01 |
-| [Senior Cloud Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-Cloud-Engineer_JR0610623) | Worldpay | CINCINNATI, OHIO | 2026-07-01 |
-| [Business Intelligence Solution Engineer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Intelligence-Solution-Engineer_R0070848) | Huntington Bank | Columbus, OH | 2026-07-01 |
-| [Master Data Management Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275928) | Vertiv | Westerville, OH, United States | 2026-07-01 |
-| [Senior Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76351) | Battelle | Columbus, OH | 2026-07-01 |
-| [Manager, Information Technology - End User Support](https://jobs.battelle.org/us/en/job/76350) | Battelle | Columbus, OH | 2026-07-01 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/tULMnzLB19nFtbXvQF4PBDDsCxrtoFv1z7hGSX5C9Y4) | Cynet Systems | Ohio | 2026-07-01 |
+| [Sr Engineer, Software Engineer - Test Automation Developer (Playwright)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Sr-Engineer--Software-Engineer---Test-Automation-Developer--Playwright-_098745-1) | Nationwide | Ohio - Columbus Metro | 2026-07-01 |
+| [Group Leader - Sweet Goods](https://careers.givaudan.com/us/en/job/119189) | Givaudan | Cincinnati, United States | 2026-07-01 |
 <!-- JOBS:END -->
 
 ## How it works
