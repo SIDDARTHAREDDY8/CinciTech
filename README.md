@@ -56,25 +56,34 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 582 tracked total · updated `2026-07-01T16:32:17+00:00`
+### 🆕 13 new roles this update · 595 tracked total · updated `2026-07-01T19:21:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Strategic Staffing Solutions | 2 |
-| Mindlance | 2 |
+| TEKsystems | 3 |
+| Robert Half | 2 |
+| Artech | 2 |
+| Honeywell | 2 |
 | Cynet Systems | 1 |
-| Great American Insurance | 1 |
-| Sherwin-Williams | 1 |
+| American Electric Power | 1 |
+| Kroger | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer Customer Success Analytics](https://jobs.strategicstaff.com/jobs/data-engineer-customer-success-analytics-170305/) | Strategic Staffing Solutions | Hybrid, Costa Rica | 2026-07-01 |
-| [Software Engineer Integration Development S4Hana](https://jobs.strategicstaff.com/jobs/software-engineer-integration-development-s4hana-170376/) | Strategic Staffing Solutions | Remote | 2026-07-01 |
-| [AI Governance Coordinator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28789785#/jobs/28789785) | Mindlance | Remote, MD | 2026-07-01 |
-| [AI Platform Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28789748#/jobs/28789748) | Mindlance | Remote, MD | 2026-07-01 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/kCEjnSPPe2dh6NeG50jgAWd5oaS-fmsgnNH2qyqVBKE) | Cynet Systems | Ohio | 2026-07-01 |
-| [Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Manager_R9189) | Great American Insurance | Cincinnati, OH (USA) | 2026-07-01 |
-| [Full Stack Application Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616376) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-01 |
+| [Cloud Security Engineer](https://careers.teksystems.com/us/en/job/JP-006129172/Cloud-Security-Engineer) | TEKsystems | Cleveland, Ohio | 2026-07-01 |
+| [Cloud Security Engineer](https://careers.teksystems.com/us/en/job/JP-006129177/Cloud-Security-Engineer) | TEKsystems | Cleveland, Ohio | 2026-07-01 |
+| [Systems Engineer](https://careers.teksystems.com/us/en/job/JP-006129131/Systems-Engineer) | TEKsystems | Erlanger, Kentucky | 2026-07-01 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-01 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-01 |
+| [Senior AI Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32535152#/jobs/32535152) | Artech | Strongsville, OH | 2026-07-01 |
+| [SAP Hana Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32534654#/jobs/32534654) | Artech | Remote, NY | 2026-07-01 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/Y5UnqHLs_ks4wEeE96ACbZQM0zQ8tKHNx2amUnzU1I8) | Cynet Systems | Ohio | 2026-07-01 |
+| [Cyber Cloud Solution Engineer Lead/Staff](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cyber-Cloud-Solution-Engineer-Lead-Staff_R16636) | American Electric Power | Columbus, OH | 2026-07-01 |
+| [KTD/SENIOR INFRASTRUCTURE ENGINEER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/205018) | Kroger | Blue Ash, OH, United States | 2026-07-01 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-01 |
+| [Software Engineer II](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/150937) | Honeywell | Mason, OH, United States | 2026-07-01 |
+| [IT Analyst II](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151445) | Honeywell | Mason, OH, United States | 2026-07-01 |
 <!-- JOBS:END -->
 
 ## How it works
