@@ -56,17 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 574 tracked total · updated `2026-07-01T10:57:03+00:00`
+### 🆕 5 new roles this update · 579 tracked total · updated `2026-07-01T13:37:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
+| Insight Global | 1 |
 | Cynet Systems | 1 |
-| Honda | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/vZfZnA8x1v4JoQ15MpYV6ZsO1BfeWGTTydJw5kpw3Z8) | Cynet Systems | Ohio | 2026-07-01 |
-| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-01 |
+| [Senior Application Developer, Full Stack MES](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/senior-application-developer-full-stack-mes/job-546602/) | Insight Global | Cleveland, OH | 2026-07-01 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-01 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-01 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/xVbz5pXvPeS1dt3O4yHUrCqZ48hNCNRIGnlIdJLlDSI) | Cynet Systems | Ohio | 2026-07-01 |
+| [Lead Agilist - AI Governance](https://agilityconnect.io/jobs/8189) | Agility Connect | Cincinnati, OH | 2026-07-01 |
 <!-- JOBS:END -->
 
 ## How it works
