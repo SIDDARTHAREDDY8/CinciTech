@@ -56,25 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 574 tracked total · updated `2026-07-01T08:10:08+00:00`
+### 🆕 2 new roles this update · 574 tracked total · updated `2026-07-01T10:57:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Robert Half | 2 |
-| Insight Global | 1 |
 | Cynet Systems | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack Engineer (Frontend Focused)](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/full-stack-engineer-frontend-focused-/job-547228/) | Insight Global | Columbus, OH | 2026-07-01 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-01 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-01 |
-| [Software Engineering - Software Engineer V](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32531489#/jobs/32531489) | Artech | Remote Location, CA | 2026-07-01 |
-| [Full Stack Developer Contractor: 3-5 years (Intermediate)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32530828#/jobs/32530828) | Artech | Cincinnati, OH | 2026-07-01 |
-| [ISU Reporting Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32530281#/jobs/32530281) | Artech | Columbus, OH | 2026-07-01 |
-| [ISU C4C Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32530192#/jobs/32530192) | Artech | Columbus, OH | 2026-07-01 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/yXDEz9BDCsvF1778z-1hyS5llbFlYTfmtufDO92jLEA) | Cynet Systems | Ohio | 2026-07-01 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/vZfZnA8x1v4JoQ15MpYV6ZsO1BfeWGTTydJw5kpw3Z8) | Cynet Systems | Ohio | 2026-07-01 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-01 |
 <!-- JOBS:END -->
 
 ## How it works
