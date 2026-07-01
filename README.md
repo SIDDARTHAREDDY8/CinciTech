@@ -56,22 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 579 tracked total · updated `2026-07-01T13:37:54+00:00`
+### 🆕 7 new roles this update · 582 tracked total · updated `2026-07-01T16:32:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Insight Global | 1 |
+| Strategic Staffing Solutions | 2 |
+| Mindlance | 2 |
 | Cynet Systems | 1 |
-| Agility Connect | 1 |
+| Great American Insurance | 1 |
+| Sherwin-Williams | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Application Developer, Full Stack MES](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/senior-application-developer-full-stack-mes/job-546602/) | Insight Global | Cleveland, OH | 2026-07-01 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-01 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-01 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/xVbz5pXvPeS1dt3O4yHUrCqZ48hNCNRIGnlIdJLlDSI) | Cynet Systems | Ohio | 2026-07-01 |
-| [Lead Agilist - AI Governance](https://agilityconnect.io/jobs/8189) | Agility Connect | Cincinnati, OH | 2026-07-01 |
+| [Data Engineer Customer Success Analytics](https://jobs.strategicstaff.com/jobs/data-engineer-customer-success-analytics-170305/) | Strategic Staffing Solutions | Hybrid, Costa Rica | 2026-07-01 |
+| [Software Engineer Integration Development S4Hana](https://jobs.strategicstaff.com/jobs/software-engineer-integration-development-s4hana-170376/) | Strategic Staffing Solutions | Remote | 2026-07-01 |
+| [AI Governance Coordinator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28789785#/jobs/28789785) | Mindlance | Remote, MD | 2026-07-01 |
+| [AI Platform Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28789748#/jobs/28789748) | Mindlance | Remote, MD | 2026-07-01 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/kCEjnSPPe2dh6NeG50jgAWd5oaS-fmsgnNH2qyqVBKE) | Cynet Systems | Ohio | 2026-07-01 |
+| [Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Manager_R9189) | Great American Insurance | Cincinnati, OH (USA) | 2026-07-01 |
+| [Full Stack Application Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616376) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-01 |
 <!-- JOBS:END -->
 
 ## How it works
