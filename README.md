@@ -56,26 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 619 tracked total · updated `2026-07-02T14:52:54+00:00`
+### 🆕 9 new roles this update · 628 tracked total · updated `2026-07-02T17:27:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 5 |
-| Apex Systems | 2 |
-| TEKsystems | 1 |
+| Artech | 2 |
+| Robert Half | 1 |
+| ASK Consulting | 1 |
 | Cynet Systems | 1 |
+| Branch Insurance | 1 |
+| American Electric Power | 1 |
+| Sherwin-Williams | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Systems Engineer](https://careers.teksystems.com/us/en/job/JP-006130879/Systems-Engineer) | TEKsystems | Erlanger, Kentucky | 2026-07-02 |
-| [Database Developer](https://www.apexsystems.com/job/3040454_usa/database-developer) | Apex Systems | Cleveland, OH | 2026-07-02 |
-| [Full Stack Developer](https://www.apexsystems.com/job/3040455_usa/full-stack-developer) | Apex Systems | Cleveland, OH | 2026-07-02 |
-| [Sr. Security Analyst/SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538535#/jobs/32538535) | Artech | Cleveland, OH | 2026-07-02 |
-| [Oracle CRM developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538503#/jobs/32538503) | Artech | Cleveland, OH | 2026-07-02 |
-| [Data QA Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538500#/jobs/32538500) | Artech | Cleveland, OH | 2026-07-02 |
-| [Security Support Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538530#/jobs/32538530) | Artech | Cleveland, OH | 2026-07-02 |
-| [TOSCA Tester](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32537969#/jobs/32537969) | Artech | Columbus, OH | 2026-07-02 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/_fUFJQEl-UqgzcX5DrWKQYuS2kbAdstyNVf71Kf9DM8) | Cynet Systems | Ohio | 2026-07-02 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-02 |
+| [Oracle Core Financials/Oracle Financial Solutions Architect](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125572/Oracle Core Financials/Oracle Financial Solutions Architect) | ASK Consulting | Remote, CA, Remote | 2026-07-02 |
+| [SAP COPA Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32540816#/jobs/32540816) | Artech | Columbus, OH | 2026-07-02 |
+| [Healthcare QA Test Lead – Facets Claims & EDI](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32540243#/jobs/32540243) | Artech | Cincinnati, OH | 2026-07-02 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/MRJ0WLaQtctjTE3CRMKxLdjqW_FrFvm8spOYFKbbtkM) | Cynet Systems | Ohio | 2026-07-02 |
+| [Enterprise Support Specialist](https://job-boards.greenhouse.io/branch/jobs/7792430003) | Branch Insurance | Remote (domestic USA) | 2026-07-02 |
+| [Advanced AI Architect](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Advanced-AI-Architect_R14757) | American Electric Power | Columbus, OH | 2026-07-02 |
+| [Full Stack Application Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616409) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-02 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-02 |
 <!-- JOBS:END -->
 
 ## How it works
