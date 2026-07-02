@@ -56,18 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 603 tracked total · updated `2026-07-02T01:50:01+00:00`
+### 🆕 4 new roles this update · 605 tracked total · updated `2026-07-02T07:17:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 1 |
+| Nationwide | 1 |
+| Honda | 1 |
+| 80 Acres Farms | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-02 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-02 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/Yvygappm0VoezMJI8diJBvuWlevHDAMvuGdQ1WxNTGE) | Cynet Systems | Ohio | 2026-07-02 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/TNJ1ygpXp3iLxEH8Oomr7fnot6kdgQc1w-J05mXrRfM) | Cynet Systems | Ohio | 2026-07-02 |
+| [Specialist, Software Engineer - Life New Business Production Support (Java)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Specialist--Software-Engineer---Life-New-Business-Production-Support--Java-_098918) | Nationwide | Ohio | 2026-07-02 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-02 |
+| [Shipping & Receiving Clerk - Fulfillment](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e3f7ddd0-3b05-44b2-8172-16d19c7f63cb&ccId=19000101_000001&lang=en_US&jobId=9206786348584_1) | 80 Acres Farms | Florence, KY, US | 2026-07-02 |
 <!-- JOBS:END -->
 
 ## How it works
