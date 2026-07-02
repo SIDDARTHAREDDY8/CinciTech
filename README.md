@@ -56,30 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 628 tracked total · updated `2026-07-02T17:27:02+00:00`
+### 🆕 10 new roles this update · 636 tracked total · updated `2026-07-02T20:17:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Artech | 2 |
-| Robert Half | 1 |
-| ASK Consulting | 1 |
+| Apex Systems | 1 |
 | Cynet Systems | 1 |
-| Branch Insurance | 1 |
+| 84.51° | 1 |
+| Fifth Third Bank | 1 |
 | American Electric Power | 1 |
-| Sherwin-Williams | 1 |
-| Honda | 1 |
+| Abercrombie & Fitch | 1 |
+| Park National Bank | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-02 |
-| [Oracle Core Financials/Oracle Financial Solutions Architect](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125572/Oracle Core Financials/Oracle Financial Solutions Architect) | ASK Consulting | Remote, CA, Remote | 2026-07-02 |
-| [SAP COPA Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32540816#/jobs/32540816) | Artech | Columbus, OH | 2026-07-02 |
-| [Healthcare QA Test Lead – Facets Claims & EDI](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32540243#/jobs/32540243) | Artech | Cincinnati, OH | 2026-07-02 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/MRJ0WLaQtctjTE3CRMKxLdjqW_FrFvm8spOYFKbbtkM) | Cynet Systems | Ohio | 2026-07-02 |
-| [Enterprise Support Specialist](https://job-boards.greenhouse.io/branch/jobs/7792430003) | Branch Insurance | Remote (domestic USA) | 2026-07-02 |
-| [Advanced AI Architect](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Advanced-AI-Architect_R14757) | American Electric Power | Columbus, OH | 2026-07-02 |
-| [Full Stack Application Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616409) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-02 |
-| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-02 |
+| [Software Engineer - Mobile Android Client III](https://www.apexsystems.com/job/3040758_usa/software-engineer---mobile-android-client-iii) | Apex Systems | Cincinnati, OH | 2026-07-02 |
+| [ArcGIS Consultant / Developer/administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32539427#/jobs/32539427) | Artech | Remote, NY | 2026-07-02 |
+| [Lead MuleSoft Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32540965#/jobs/32540965) | Artech | Remote | 2026-07-02 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/xWzeDkdcPqi0Y1U9XaT_1Ac4X9ony40H5KU4KyGFNuw) | Cynet Systems | Ohio | 2026-07-02 |
+| [Director, Software Engineering (P4474)](https://job-boards.greenhouse.io/8451/jobs/8618229002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-02 |
+| [Information Security Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Information-Security-Engineer_R69856) | Fifth Third Bank | Virtual | 2026-07-02 |
+| [Telecom Consultant Asscociate - Asset Monetization Planner](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Telecom-Consultant-Asscociate---Asset-Monetization-Planner_R14690) | American Electric Power | Gahanna, OH | 2026-07-02 |
+| [Performance Test Engineer (Remote)](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Performance-Test-Engineer--Remote-_JR103237) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-02 |
+| [ServiceNow Developer](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=699910ab-ba7d-459f-a3cc-a6674772c217) | Park National Bank | CEN Newark Alford Bldg | 2026-07-02 |
+| [Clinical Informatics Manager](https://uscareers-medpace.icims.com/jobs/12842/login) | Medpace | Cincinnati, Ohio | 2026-07-02 |
 <!-- JOBS:END -->
 
 ## How it works
