@@ -56,25 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 613 tracked total · updated `2026-07-02T12:03:47+00:00`
+### 🆕 9 new roles this update · 619 tracked total · updated `2026-07-02T14:52:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 4 |
-| Robert Half | 2 |
-| Vaco | 1 |
+| Artech | 5 |
+| Apex Systems | 2 |
+| TEKsystems | 1 |
 | Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-02 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-02 |
-| [It Operations Manager](https://jobs.vaco.com/job/18438/it_operations_manager/en) | Vaco | Mason, Ohio | 2026-07-02 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/VsvNf6oyhngxI2WSCIDxN3lJt7yY845_Fol6NOHEzvA) | Cynet Systems | Ohio | 2026-07-02 |
-| [Data Engineer](https://agilityconnect.io/jobs/8196) | Agility Connect | Columbus, OH | 2026-07-02 |
-| [Senior Product Owner](https://agilityconnect.io/jobs/8200) | Agility Connect | Cincinnati, OH | 2026-07-02 |
-| [Software Engineer - Mobile Android Client](https://agilityconnect.io/jobs/8199) | Agility Connect | Cincinnati, OH | 2026-07-02 |
-| [Principal Software Engineer](https://agilityconnect.io/jobs/8198) | Agility Connect | Cincinnati, OH | 2026-07-02 |
+| [Systems Engineer](https://careers.teksystems.com/us/en/job/JP-006130879/Systems-Engineer) | TEKsystems | Erlanger, Kentucky | 2026-07-02 |
+| [Database Developer](https://www.apexsystems.com/job/3040454_usa/database-developer) | Apex Systems | Cleveland, OH | 2026-07-02 |
+| [Full Stack Developer](https://www.apexsystems.com/job/3040455_usa/full-stack-developer) | Apex Systems | Cleveland, OH | 2026-07-02 |
+| [Sr. Security Analyst/SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538535#/jobs/32538535) | Artech | Cleveland, OH | 2026-07-02 |
+| [Oracle CRM developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538503#/jobs/32538503) | Artech | Cleveland, OH | 2026-07-02 |
+| [Data QA Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538500#/jobs/32538500) | Artech | Cleveland, OH | 2026-07-02 |
+| [Security Support Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32538530#/jobs/32538530) | Artech | Cleveland, OH | 2026-07-02 |
+| [TOSCA Tester](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32537969#/jobs/32537969) | Artech | Columbus, OH | 2026-07-02 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/_fUFJQEl-UqgzcX5DrWKQYuS2kbAdstyNVf71Kf9DM8) | Cynet Systems | Ohio | 2026-07-02 |
 <!-- JOBS:END -->
 
 ## How it works
