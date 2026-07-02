@@ -56,29 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 601 tracked total · updated `2026-07-01T22:12:03+00:00`
+### 🆕 3 new roles this update · 603 tracked total · updated `2026-07-02T01:50:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
-| Artech | 1 |
-| Mindlance | 1 |
+| Robert Half | 2 |
 | Cynet Systems | 1 |
-| Worldpay | 1 |
-| American Electric Power | 1 |
-| Huntington Bank | 1 |
-| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr IBM ODM Developer - Onsite 5 Days](https://careers.teksystems.com/us/en/job/JP-006130062/Sr-IBM-ODM-Developer-Onsite-5-Days) | TEKsystems | Cleveland, Ohio | 2026-07-01 |
-| [ServiceNow PSDS](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32536075#/jobs/32536075) | Artech | Remote, NY | 2026-07-01 |
-| [Data Analytics & Engineering - Data Scientist V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28790701#/jobs/28790701) | Mindlance | Remote, CA | 2026-07-01 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/wxf8jj1UA7uRLGpUfmrbIEoobrTTayH2epU4v-JYyd4) | Cynet Systems | Ohio | 2026-07-01 |
-| [Software Engineer II - Java/Spring Boot (Microservice Systems)(Open)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Software-Engineer-II---Java-Spring-Boot--Microservice-Systems--Open-_JR0610648) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-07-01 |
-| [Telecomms Apprentice I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Lima-OH/Telecomms-Apprentice-I_R16855) | American Electric Power | Lima, OH | 2026-07-01 |
-| [AI Senior Project Manager](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/AI-Senior-Project-Manager_R0073484) | Huntington Bank | Columbus, OH | 2026-07-01 |
-| [Cyber Research Scientist (Early Career)](https://jobs.battelle.org/us/en/job/76355) | Battelle | Columbus, OH | 2026-07-01 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-02 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/software-engineer/04951-0013451013-usen) | Robert Half | Cincinnati, 04951 | 2026-07-02 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/Yvygappm0VoezMJI8diJBvuWlevHDAMvuGdQ1WxNTGE) | Cynet Systems | Ohio | 2026-07-02 |
 <!-- JOBS:END -->
 
 ## How it works
