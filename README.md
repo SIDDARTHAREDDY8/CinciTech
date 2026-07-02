@@ -56,32 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 636 tracked total · updated `2026-07-02T20:17:32+00:00`
+### 🆕 11 new roles this update · 647 tracked total · updated `2026-07-02T22:44:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
-| Apex Systems | 1 |
+| Gina's Tech Jobs | 3 |
+| Next Step Systems | 3 |
+| Robert Half | 1 |
+| Mindlance | 1 |
 | Cynet Systems | 1 |
-| 84.51° | 1 |
-| Fifth Third Bank | 1 |
-| American Electric Power | 1 |
-| Abercrombie & Fitch | 1 |
-| Park National Bank | 1 |
-| Medpace | 1 |
+| Kao USA | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer - Mobile Android Client III](https://www.apexsystems.com/job/3040758_usa/software-engineer---mobile-android-client-iii) | Apex Systems | Cincinnati, OH | 2026-07-02 |
-| [ArcGIS Consultant / Developer/administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32539427#/jobs/32539427) | Artech | Remote, NY | 2026-07-02 |
-| [Lead MuleSoft Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32540965#/jobs/32540965) | Artech | Remote | 2026-07-02 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/xWzeDkdcPqi0Y1U9XaT_1Ac4X9ony40H5KU4KyGFNuw) | Cynet Systems | Ohio | 2026-07-02 |
-| [Director, Software Engineering (P4474)](https://job-boards.greenhouse.io/8451/jobs/8618229002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-02 |
-| [Information Security Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Information-Security-Engineer_R69856) | Fifth Third Bank | Virtual | 2026-07-02 |
-| [Telecom Consultant Asscociate - Asset Monetization Planner](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Telecom-Consultant-Asscociate---Asset-Monetization-Planner_R14690) | American Electric Power | Gahanna, OH | 2026-07-02 |
-| [Performance Test Engineer (Remote)](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Performance-Test-Engineer--Remote-_JR103237) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-02 |
-| [ServiceNow Developer](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=699910ab-ba7d-459f-a3cc-a6674772c217) | Park National Bank | CEN Newark Alford Bldg | 2026-07-02 |
-| [Clinical Informatics Manager](https://uscareers-medpace.icims.com/jobs/12842/login) | Medpace | Cincinnati, Ohio | 2026-07-02 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-02 |
+| [Client Account Support Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28802023#/jobs/28802023) | Mindlance | Remote, IL | 2026-07-02 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/5nBktI8IiAXa4iclY7tgXsn2rKLYljlPadKywEQ5iE4) | Cynet Systems | Ohio | 2026-07-02 |
+| [Applied AI Engineer, Work From Home](https://www.ginastechjobs.com/job/applied-ai-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-02 |
+| [Android Software Engineer, Work From Home](https://www.ginastechjobs.com/job/android-software-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-02 |
+| [AI Backend Engineer, Work From Home](https://www.ginastechjobs.com/job/ai-backend-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-02 |
+| [Applied AI Engineer, Work From Home](https://www.nextstepsystems.com/job/applied-ai-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-02 |
+| [Android Software Engineer, Work From Home](https://www.nextstepsystems.com/job/android-software-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-02 |
+| [AI Backend Engineer, Work From Home](https://www.nextstepsystems.com/job/ai-backend-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-02 |
+| [Architect, SAP ERP](https://kao.voyse.io/gh-job/4693574006?gh_jid=4693574006) | Kao USA | Cincinnati | 2026-07-02 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-02 |
 <!-- JOBS:END -->
 
 ## How it works
