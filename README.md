@@ -56,20 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 658 tracked total · updated `2026-07-03T20:07:30+00:00`
+### 🆕 1 new roles this update · 658 tracked total · updated `2026-07-03T22:42:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 2 |
 | Cynet Systems | 1 |
-| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/py6i_RvF0taeHvBoOvJq42_SLAf0P6U1l8bbzX6tHXE) | Cynet Systems | Ohio | 2026-07-03 |
-| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275415) | Vertiv | Delaware, OH, United States | 2026-07-03 |
-| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-03 |
-| [Senior Software and System Test Engineer I](https://careers.honda.com/us/en/job/10859) | Honda | Marysville, Ohio, United States | 2026-07-03 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/Z_2bF2XM379ZvyzqLBkKQoM3Nxd5XYcLkRSs3za8xUg) | Cynet Systems | Ohio | 2026-07-03 |
 <!-- JOBS:END -->
 
 ## How it works
