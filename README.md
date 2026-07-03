@@ -56,19 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 654 tracked total · updated `2026-07-03T17:03:14+00:00`
+### 🆕 4 new roles this update · 658 tracked total · updated `2026-07-03T20:07:30+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Honda | 2 |
 | Cynet Systems | 1 |
-| Njoyn (CGI) | 1 |
-| Medical Mutual of Ohio | 1 |
+| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/KfRCzyNsVjTqeusnPSshV1Iqw_66jm_K4P91K_JO8fY) | Cynet Systems | Ohio | 2026-07-03 |
-| [Tier 2 Help Desk Specialist - Part-Time (Weekend Night Shift)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0094&BRID=1313735&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-03 |
-| [Senior Financial Information Systems Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=2de74c5e-4301-4aab-aca3-ec449fc5ae79) | Medical Mutual of Ohio | Brooklyn OH | 2026-07-03 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/py6i_RvF0taeHvBoOvJq42_SLAf0P6U1l8bbzX6tHXE) | Cynet Systems | Ohio | 2026-07-03 |
+| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275415) | Vertiv | Delaware, OH, United States | 2026-07-03 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-03 |
+| [Senior Software and System Test Engineer I](https://careers.honda.com/us/en/job/10859) | Honda | Marysville, Ohio, United States | 2026-07-03 |
 <!-- JOBS:END -->
 
 ## How it works
