@@ -56,19 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 651 tracked total · updated `2026-07-03T14:55:00+00:00`
+### 🆕 3 new roles this update · 654 tracked total · updated `2026-07-03T17:03:14+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
-| Fifth Third Bank | 1 |
-| AES Ohio | 1 |
+| Njoyn (CGI) | 1 |
+| Medical Mutual of Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/oYb6ZK_Wn5ICzR7hOd3cUi5XSMMawhLvUQR_33V19T0) | Cynet Systems | Ohio | 2026-07-03 |
-| [Product Line Manager – Payment Rails & Infrastructure](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Product-Line-Manager---Payment-Rails---Infrastructure_R61963-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-03 |
-| [Administrative Support Analyst](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Administrative-Support-Analyst_R1063910) | AES Ohio | US, Dayton, OH | 2026-07-03 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/KfRCzyNsVjTqeusnPSshV1Iqw_66jm_K4P91K_JO8fY) | Cynet Systems | Ohio | 2026-07-03 |
+| [Tier 2 Help Desk Specialist - Part-Time (Weekend Night Shift)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0094&BRID=1313735&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-03 |
+| [Senior Financial Information Systems Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=2de74c5e-4301-4aab-aca3-ec449fc5ae79) | Medical Mutual of Ohio | Brooklyn OH | 2026-07-03 |
 <!-- JOBS:END -->
 
 ## How it works
