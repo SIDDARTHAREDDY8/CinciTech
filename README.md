@@ -56,15 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 648 tracked total · updated `2026-07-03T10:08:31+00:00`
+### 🆕 3 new roles this update · 651 tracked total · updated `2026-07-03T14:55:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
+| Fifth Third Bank | 1 |
+| AES Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/wgAQK7YJXcRx-OHDTfZMevJL0FFPUkF4AoH3BaO7e04) | Cynet Systems | Ohio | 2026-07-03 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/oYb6ZK_Wn5ICzR7hOd3cUi5XSMMawhLvUQR_33V19T0) | Cynet Systems | Ohio | 2026-07-03 |
+| [Product Line Manager – Payment Rails & Infrastructure](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Product-Line-Manager---Payment-Rails---Infrastructure_R61963-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-03 |
+| [Administrative Support Analyst](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Administrative-Support-Analyst_R1063910) | AES Ohio | US, Dayton, OH | 2026-07-03 |
 <!-- JOBS:END -->
 
 ## How it works
