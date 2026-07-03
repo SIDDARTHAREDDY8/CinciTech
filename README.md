@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 647 tracked total · updated `2026-07-03T04:33:29+00:00`
+### 🆕 1 new roles this update · 648 tracked total · updated `2026-07-03T10:08:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
-| American Electric Power | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/0vwSRxuOsHOhRw78u2s3cf5DK8jZ1IL8IU2UNd0bdAQ) | Cynet Systems | Ohio | 2026-07-03 |
-| [Telecom Technician C](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Newark-OH/Telecom-Technician-C_R16767) | American Electric Power | Newark, OH | 2026-07-03 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/wgAQK7YJXcRx-OHDTfZMevJL0FFPUkF4AoH3BaO7e04) | Cynet Systems | Ohio | 2026-07-03 |
 <!-- JOBS:END -->
 
 ## How it works
