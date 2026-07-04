@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 661 tracked total · updated `2026-07-04T14:18:57+00:00`
+### 🆕 1 new roles this update · 662 tracked total · updated `2026-07-04T16:36:44+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
-| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/5xGAsoHSXoe1E2RMM3hFPxFdRXqcfqycE385VOZjrlA) | Cynet Systems | Ohio | 2026-07-04 |
-| [Software Engineer - Java Developer III](https://agilityconnect.io/jobs/8202) | Agility Connect | Cincinnati, OH | 2026-07-04 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/cdI_0H_X7nGCPXjqpXCamvOEXdb3V-Wz15HVGTw7Bpk) | Cynet Systems | Ohio | 2026-07-04 |
 <!-- JOBS:END -->
 
 ## How it works
