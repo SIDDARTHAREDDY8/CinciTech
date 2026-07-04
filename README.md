@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 658 tracked total · updated `2026-07-03T22:42:08+00:00`
+### 🆕 2 new roles this update · 658 tracked total · updated `2026-07-04T04:21:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/Z_2bF2XM379ZvyzqLBkKQoM3Nxd5XYcLkRSs3za8xUg) | Cynet Systems | Ohio | 2026-07-03 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/8PR8Ta1uHP4m5OmBylHUgC4ubNTwidfSAdeY4X5nsw4) | Cynet Systems | Ohio | 2026-07-04 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-04 |
 <!-- JOBS:END -->
 
 ## How it works
