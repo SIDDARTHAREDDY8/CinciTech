@@ -56,7 +56,7 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 658 tracked total · updated `2026-07-04T09:11:03+00:00`
+### 🆕 1 new roles this update · 659 tracked total · updated `2026-07-04T11:21:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
@@ -64,7 +64,7 @@ parts that matter. Rooting for you. 💚
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/WkXetYPyHVtHnLa_MG2sHg0KGk-4FgvlWf_lxvLscYg) | Cynet Systems | Ohio | 2026-07-04 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/UsRgWKdB7s22-Cbw052DIGDVKzGXKKmnHINiMAXPEPo) | Cynet Systems | Ohio | 2026-07-04 |
 <!-- JOBS:END -->
 
 ## How it works
