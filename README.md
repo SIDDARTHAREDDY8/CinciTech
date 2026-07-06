@@ -56,27 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 731 tracked total · updated `2026-07-06T20:39:31+00:00`
+### 🆕 4 new roles this update · 735 tracked total · updated `2026-07-06T23:05:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 1 |
 | Artech | 1 |
 | Mindlance | 1 |
-| Belcan | 1 |
-| Kroger | 1 |
-| GE Aerospace | 1 |
-| Cintas | 1 |
+| Great American Insurance | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Java Backend Services Developer V](https://www.apexsystems.com/job/3041159_usa/java-backend-services-developer-v) | Apex Systems | Virtual, IL | 2026-07-06 |
-| [Java FSD + Reactjs Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32550329#/jobs/32550329) | Artech | Remote | 2026-07-06 |
-| [IT - Analyst/Developer - Generic 3](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28811907#/jobs/28811907) | Mindlance | Remote, FL | 2026-07-06 |
-| [Desktop Analyst 1- Helpdesk](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365405&apply=yes&) | Belcan | Cincinnati, OH | 2026-07-06 |
-| [KTD/ADVANCED SOFTWARE ENGINEER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/205023) | Kroger | Blue Ash, OH, United States | 2026-07-06 |
-| [Systems Engineering Section Leader - Small UAV Engines Development](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Systems-Engineering-Section-Leader---Small-UAV-Engines-Development_R5034359-2) | GE Aerospace | Evendale | 2026-07-06 |
-| [SAP Security Administrator-Level 3](https://careers.cintas.com/job/Mason-SAP-Security-Administrator-Level-3-OH-45040/1406027800/) | Cintas | OH | 2026-07-06 |
+| [SAP ISU DM Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32550960#/jobs/32550960) | Artech | Columbus, OH | 2026-07-06 |
+| [Data Analytics & Engineering - Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28811844#/jobs/28811844) | Mindlance | Remote, CA | 2026-07-06 |
+| [Senior Business Analyst — Enterprise Content Management (ECM)](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Business-Analyst---Enterprise-Content-Management--ECM-_R9172) | Great American Insurance | Cincinnati, OH (USA) | 2026-07-06 |
+| [Global Security Operations Center Operator](https://jobs.battelle.org/us/en/job/76356) | Battelle | Columbus, OH | 2026-07-06 |
 <!-- JOBS:END -->
 
 ## How it works
