@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 670 tracked total · updated `2026-07-05T22:36:30+00:00`
+### 🆕 2 new roles this update · 672 tracked total · updated `2026-07-06T04:56:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/3JWCmmNahhwKu9Z6rL8JHUa42NVjt6HMf_ZMTUUdISU) | Cynet Systems | Ohio | 2026-07-05 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/HfMiasPfgDzVkUR0r1xko2UpxRB0biMI-UUySGMuR_I) | Cynet Systems | Ohio | 2026-07-06 |
+| [Consultant, Digital Product Owner (PL)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Digital-Product-Owner--PL-_099035) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-06 |
 <!-- JOBS:END -->
 
 ## How it works
