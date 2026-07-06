@@ -56,73 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 50 new roles this update · 724 tracked total · updated `2026-07-06T16:20:38+00:00`
+### 🆕 7 new roles this update · 731 tracked total · updated `2026-07-06T20:39:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 37 |
-| Insight Global | 2 |
-| Artech | 2 |
-| Gina's Tech Jobs | 2 |
-| Next Step Systems | 2 |
-| Cynet Systems | 1 |
-| Fast Switch | 1 |
-| 84.51° | 1 |
-| Nationwide | 1 |
-| Honda | 1 |
+| Apex Systems | 1 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Belcan | 1 |
+| Kroger | 1 |
+| GE Aerospace | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Mobile Automation Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/mobile-automation-engineer/job-548177/) | Insight Global | Columbus, OH | 2026-07-06 |
-| [Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/software-engineer/job-547845/) | Insight Global | Columbus, OH | 2026-07-06 |
-| [Junior AI Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32548025#/jobs/32548025) | Artech | Strongsville, OH | 2026-07-06 |
-| [Oracle EPM EPBCS Data Integration & AI Agent Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32547023#/jobs/32547023) | Artech | REMOTE | 2026-07-06 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/xngm35FTY7s4jgfb0jxxGJVZO7GWHh5xdkTwj6tCi9E) | Cynet Systems | Ohio | 2026-07-06 |
-| [Principal Machine Learning Engineer, Work From Home](https://www.ginastechjobs.com/job/principal-machine-learning-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-06 |
-| [Member of Technical Staff, Machine Learning, Work From Home](https://www.ginastechjobs.com/job/member-of-technical-staff-machine-learning-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-06 |
-| [Principal Machine Learning Engineer, Work From Home](https://www.nextstepsystems.com/job/principal-machine-learning-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-06 |
-| [Member of Technical Staff, Machine Learning, Work From Home](https://www.nextstepsystems.com/job/member-of-technical-staff-machine-learning-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-06 |
-| [MainFrame Developer](https://fastswitch.com/jobs/mainframe-developer-61760/) | Fast Switch | Location: Cleveland, Ohio | 2026-07-06 |
-| [Senior Data Engineer (P1692)](https://job-boards.greenhouse.io/8451/jobs/8620974002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-06 |
-| [Sr Engineer, Software Engineer (Full Stack)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Full-Stack-_098913-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-06 |
-| [IT Governance and Risk Analyst](https://careers.honda.com/us/en/job/10481) | Honda | Marysville, Ohio, United States | 2026-07-06 |
-| [SAS Programmer - Experienced](https://uscareers-medpace.icims.com/jobs/11882/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [SAS Programmer - Entry Level](https://uscareers-medpace.icims.com/jobs/11881/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Feasibility Informatics Internship/Co-Op Spring 2027](https://uscareers-medpace.icims.com/jobs/12803/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Feasibility Informatics Analyst](https://uscareers-medpace.icims.com/jobs/12699/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Feasibility Informatics Internship/Co-Op Fall 2026](https://uscareers-medpace.icims.com/jobs/12566/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [SAS Programmer - Advanced Degrees](https://uscareers-medpace.icims.com/jobs/11879/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Clinical Informatics Intern - Spring 2027](https://uscareers-medpace.icims.com/jobs/12801/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Data Engineer (AI) - Cincinnati](https://uscareers-medpace.icims.com/jobs/12786/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Clinical Informatics Intern - Fall 2026](https://uscareers-medpace.icims.com/jobs/12448/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Clinical Informatics Analyst](https://uscareers-medpace.icims.com/jobs/12446/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [AI Project Manager](https://uscareers-medpace.icims.com/jobs/12764/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [AI Engineering Intern - Fall 2026](https://uscareers-medpace.icims.com/jobs/12729/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Systems Engineer (Azure Cloud Engineer)](https://uscareers-medpace.icims.com/jobs/12284/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Software QA Test Engineer Intern - Fall 2026](https://uscareers-medpace.icims.com/jobs/12802/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [ServiceNow Platform Engineer](https://uscareers-medpace.icims.com/jobs/12281/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Software Engineer](https://uscareers-medpace.icims.com/jobs/12287/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Software Development Engineer in Test (SDET)](https://uscareers-medpace.icims.com/jobs/12282/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Network Information Security Engineer](https://uscareers-medpace.icims.com/jobs/12276/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Manager, Infrastructure (Endpoint Engineering)](https://uscareers-medpace.icims.com/jobs/12273/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Senior Data Engineer](https://uscareers-medpace.icims.com/jobs/12453/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [QA Software Testing Manager](https://uscareers-medpace.icims.com/jobs/12277/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Junior Network Engineer](https://uscareers-medpace.icims.com/jobs/12666/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Junior Software Engineer](https://uscareers-medpace.icims.com/jobs/12385/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Lead Software Engineer](https://uscareers-medpace.icims.com/jobs/12288/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Lead/Principal Software QA Test Engineer](https://uscareers-medpace.icims.com/jobs/12271/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Junior QA Test Engineer](https://uscareers-medpace.icims.com/jobs/12268/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Information Security Analyst](https://uscareers-medpace.icims.com/jobs/12762/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [IT Infrastructure Intern- Fall 2026](https://uscareers-medpace.icims.com/jobs/12787/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Information Security Intern- Fall 2026](https://uscareers-medpace.icims.com/jobs/12772/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Junior Data Engineer](https://uscareers-medpace.icims.com/jobs/12454/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Dynamics 365 Developer](https://uscareers-medpace.icims.com/jobs/12451/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Clinical Application Support](https://uscareers-medpace.icims.com/jobs/12774/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Data Engineer Intern - Fall 2026](https://uscareers-medpace.icims.com/jobs/12767/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Business Intelligence Analyst - Data Engineering](https://uscareers-medpace.icims.com/jobs/12564/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Data Engineer](https://uscareers-medpace.icims.com/jobs/12470/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [DevOps Engineer](https://uscareers-medpace.icims.com/jobs/12452/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
-| [Application Architect](https://uscareers-medpace.icims.com/jobs/12291/login) | Medpace | Cincinnati, Ohio | 2026-07-06 |
+| [Java Backend Services Developer V](https://www.apexsystems.com/job/3041159_usa/java-backend-services-developer-v) | Apex Systems | Virtual, IL | 2026-07-06 |
+| [Java FSD + Reactjs Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32550329#/jobs/32550329) | Artech | Remote | 2026-07-06 |
+| [IT - Analyst/Developer - Generic 3](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28811907#/jobs/28811907) | Mindlance | Remote, FL | 2026-07-06 |
+| [Desktop Analyst 1- Helpdesk](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365405&apply=yes&) | Belcan | Cincinnati, OH | 2026-07-06 |
+| [KTD/ADVANCED SOFTWARE ENGINEER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/205023) | Kroger | Blue Ash, OH, United States | 2026-07-06 |
+| [Systems Engineering Section Leader - Small UAV Engines Development](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Systems-Engineering-Section-Leader---Small-UAV-Engines-Development_R5034359-2) | GE Aerospace | Evendale | 2026-07-06 |
+| [SAP Security Administrator-Level 3](https://careers.cintas.com/job/Mason-SAP-Security-Administrator-Level-3-OH-45040/1406027800/) | Cintas | OH | 2026-07-06 |
 <!-- JOBS:END -->
 
 ## How it works
