@@ -56,17 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 672 tracked total · updated `2026-07-06T04:56:54+00:00`
+### 🆕 2 new roles this update · 674 tracked total · updated `2026-07-06T11:26:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Russell Tobin | 1 |
 | Cynet Systems | 1 |
-| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/HfMiasPfgDzVkUR0r1xko2UpxRB0biMI-UUySGMuR_I) | Cynet Systems | Ohio | 2026-07-06 |
-| [Consultant, Digital Product Owner (PL)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Digital-Product-Owner--PL-_099035) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-06 |
+| [Software Developer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28668197#/jobs/28668197) | Russell Tobin | REMOTE | 2026-07-06 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/HkJ_B1Mpr9PKldXJIa87Jkxf_S35t4Zi_MS-dOr1t60) | Cynet Systems | Ohio | 2026-07-06 |
 <!-- JOBS:END -->
 
 ## How it works
