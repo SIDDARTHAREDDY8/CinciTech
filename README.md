@@ -56,29 +56,35 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 756 tracked total · updated `2026-07-07T17:47:34+00:00`
+### 🆕 12 new roles this update · 768 tracked total · updated `2026-07-07T20:36:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| DHL | 3 |
+| Next Step Systems | 3 |
+| Russell Tobin | 1 |
 | Artech | 1 |
-| Diebold Nixdorf | 1 |
-| Cardinal Health | 1 |
-| KeyBank | 1 |
-| Honda | 1 |
-| Medpace | 1 |
+| Vernovis | 1 |
+| CareSource | 1 |
+| Root Insurance | 1 |
+| Great American Insurance | 1 |
+| Worldpay | 1 |
+| STERIS | 1 |
+| Lubrizol | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior KONG & AI Gateway Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32554588#/jobs/32554588) | Artech | Remote | 2026-07-07 |
-| [Associate Firmware Engineer](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19501) | Diebold Nixdorf | North Canton, OH, United States | 2026-07-07 |
-| [Project Manager, IT Program and Project Management](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Project-Manager--IT-Program-and-Project-Management_20183516) | Cardinal Health | OH-Ohio-Work from Home | 2026-07-07 |
-| [Software Development Engineer in Test](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Development-Engineer-in-Test_R-40581) | KeyBank | Brooklyn, OH | 2026-07-07 |
-| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-07 |
-| [Area Quality Assurance Manager](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Area-QA-Manager-USN-job-Canal-Winchester-OH-US-11066605.html) | DHL | Canal Winchester, Ohio | 2026-07-07 |
-| [Global QA and Regulatory Assurance Mgr](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Global-QA-and-Regulatory-Assurance-Mgr-USN-job-Westerville-OH-US-11066892.html) | DHL | Westerville, Ohio | 2026-07-07 |
-| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11066048.html) | DHL | Westerville, Ohio | 2026-07-07 |
-| [Clinical Business Intelligence Internship - Spring 2026](https://uscareers-medpace.icims.com/jobs/12845/login) | Medpace | Cincinnati, Ohio | 2026-07-07 |
+| [Staff Software Engineer, Configuration & Experimentation Infrastructure](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28818842#/jobs/28818842) | Russell Tobin | Remote, CA | 2026-07-07 |
+| [Devops (OSI/AspenTech/Emerson Monarch products (ADMS) - Remote - 6+ Months](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32553778#/jobs/32553778) | Artech | Remote, NY | 2026-07-07 |
+| [Staff Machine Learning Engineer, Work From Home](https://www.nextstepsystems.com/job/staff-machine-learning-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-07 |
+| [Senior Machine Learning Engineer, Work From Home](https://www.nextstepsystems.com/job/senior-machine-learning-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-07 |
+| [Machine Learning Technical Lead, Work From Home](https://www.nextstepsystems.com/job/machine-learning-technical-lead-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-07 |
+| [ERP Applications Manager](https://vernovis.com/blog/jobs/12005/) | Vernovis | Cincinnati, | 2026-07-07 |
+| [Senior Director, Clinical Data Governance and Integration](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Senior-Director--Clinical-Data-Governance-and-Integration_R12620) | CareSource | Remote | 2026-07-07 |
+| [Staff Data Engineer, Financial Data Operations](https://ats.rippling.com/joinroot/jobs/1c80913f-cca4-479e-99b5-15e5f6312e1b) | Root Insurance | Remote (United States) | 2026-07-07 |
+| [Workday Financial Systems Analyst](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Workday-Financial-Systems-Analyst_R9195-1) | Great American Insurance | Cincinnati, OH (USA) | 2026-07-07 |
+| [Senior DevOps Cloud Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-DevOps-Cloud-Engineer_JR0609751) | Worldpay | CINCINNATI, OHIO | 2026-07-07 |
+| [Senior IT Internal Auditor](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55093&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-07-07 |
+| [IT Category Manager - Software & SaaS](https://jobs.lubrizol.com/job/Wickliffe-IT-Category-Manager-Software-&-SaaS-OH-44092-2298/1384114200/) | Lubrizol | OH | 2026-07-07 |
 <!-- JOBS:END -->
 
 ## How it works
