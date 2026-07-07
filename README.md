@@ -56,21 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 735 tracked total · updated `2026-07-06T23:05:29+00:00`
+### 🆕 2 new roles this update · 735 tracked total · updated `2026-07-07T04:42:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 1 |
-| Mindlance | 1 |
-| Great American Insurance | 1 |
-| Battelle | 1 |
+| Vaco | 1 |
+| Compunnel | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP ISU DM Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32550960#/jobs/32550960) | Artech | Columbus, OH | 2026-07-06 |
-| [Data Analytics & Engineering - Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28811844#/jobs/28811844) | Mindlance | Remote, CA | 2026-07-06 |
-| [Senior Business Analyst — Enterprise Content Management (ECM)](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Business-Analyst---Enterprise-Content-Management--ECM-_R9172) | Great American Insurance | Cincinnati, OH (USA) | 2026-07-06 |
-| [Global Security Operations Center Operator](https://jobs.battelle.org/us/en/job/76356) | Battelle | Columbus, OH | 2026-07-06 |
+| [Full Stack Engineer](https://jobs.vaco.com/job/18512/full_stack_engineer/en) | Vaco | Monroe, Ohio | 2026-07-07 |
+| [Senior Systems Analyst](https://jobs.compunnel.com/jobs/5825985) | Compunnel | Covington, Kentucky, United States | 2026-07-07 |
 <!-- JOBS:END -->
 
 ## How it works
