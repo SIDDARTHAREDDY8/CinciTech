@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 735 tracked total · updated `2026-07-07T04:42:28+00:00`
+### 🆕 1 new roles this update · 736 tracked total · updated `2026-07-07T10:23:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vaco | 1 |
-| Compunnel | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack Engineer](https://jobs.vaco.com/job/18512/full_stack_engineer/en) | Vaco | Monroe, Ohio | 2026-07-07 |
-| [Senior Systems Analyst](https://jobs.compunnel.com/jobs/5825985) | Compunnel | Covington, Kentucky, United States | 2026-07-07 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-07 |
 <!-- JOBS:END -->
 
 ## How it works
