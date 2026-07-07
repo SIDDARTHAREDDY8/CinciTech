@@ -56,33 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 747 tracked total · updated `2026-07-07T15:42:35+00:00`
+### 🆕 9 new roles this update · 756 tracked total · updated `2026-07-07T17:47:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 4 |
-| Sherwin-Williams | 2 |
-| TEKsystems | 1 |
-| Apex Systems | 1 |
-| 84.51° | 1 |
-| Worldpay | 1 |
-| Vertiv | 1 |
-| L3Harris | 1 |
+| DHL | 3 |
+| Artech | 1 |
+| Diebold Nixdorf | 1 |
+| Cardinal Health | 1 |
+| KeyBank | 1 |
+| Honda | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack Java Developer](https://careers.teksystems.com/us/en/job/JP-006138605/Full-Stack-Java-Developer) | TEKsystems | Columbus, Ohio | 2026-07-07 |
-| [Azure DevOps Engineer](https://www.apexsystems.com/job/3040929_usa/azure-devops-engineer) | Apex Systems | Findlay, OH | 2026-07-07 |
-| [Lead Data Engineer (P4519)](https://job-boards.greenhouse.io/8451/jobs/8618304002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-07 |
-| [Technical Support Representative Specialist](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Technical-Support-Representative-Specialist_JR0610474) | Worldpay | CINCINNATI, OHIO | 2026-07-07 |
-| [Back-End Application Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616797) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-07 |
-| [Senior Digital Analytics Engineer - Customer Experience](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616901) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-07 |
-| [Product Manager Data Center Infrastructure North America](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272896) | Vertiv | Columbus, OH, United States | 2026-07-07 |
-| [Software Engineer – Medical Imaging](https://uscareers-medpace.icims.com/jobs/11967/login) | Medpace | Cincinnati, Ohio | 2026-07-07 |
-| [Scientific Technical Writer](https://uscareers-medpace.icims.com/jobs/11955/login) | Medpace | Cincinnati, Ohio | 2026-07-07 |
-| [Clinical Database Programmer-Reference Laboratory](https://uscareers-medpace.icims.com/jobs/12809/login) | Medpace | Cincinnati, Ohio | 2026-07-07 |
-| [Business Systems Analyst - Imaging](https://uscareers-medpace.icims.com/jobs/11961/login) | Medpace | Cincinnati, Ohio | 2026-07-07 |
-| [Senior Specialist, Data Architect](https://careers.l3harris.com/en/job/united-states/senior-specialist-data-architect/4832/97472217120) | L3Harris | Remote | 2026-07-07 |
+| [Senior KONG & AI Gateway Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32554588#/jobs/32554588) | Artech | Remote | 2026-07-07 |
+| [Associate Firmware Engineer](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19501) | Diebold Nixdorf | North Canton, OH, United States | 2026-07-07 |
+| [Project Manager, IT Program and Project Management](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Project-Manager--IT-Program-and-Project-Management_20183516) | Cardinal Health | OH-Ohio-Work from Home | 2026-07-07 |
+| [Software Development Engineer in Test](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Development-Engineer-in-Test_R-40581) | KeyBank | Brooklyn, OH | 2026-07-07 |
+| [Manager, Data Analytics & BI](https://careers.honda.com/us/en/job/10899) | Honda | Marysville, Ohio, United States | 2026-07-07 |
+| [Area Quality Assurance Manager](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Area-QA-Manager-USN-job-Canal-Winchester-OH-US-11066605.html) | DHL | Canal Winchester, Ohio | 2026-07-07 |
+| [Global QA and Regulatory Assurance Mgr](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Global-QA-and-Regulatory-Assurance-Mgr-USN-job-Westerville-OH-US-11066892.html) | DHL | Westerville, Ohio | 2026-07-07 |
+| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11066048.html) | DHL | Westerville, Ohio | 2026-07-07 |
+| [Clinical Business Intelligence Internship - Spring 2026](https://uscareers-medpace.icims.com/jobs/12845/login) | Medpace | Cincinnati, Ohio | 2026-07-07 |
 <!-- JOBS:END -->
 
 ## How it works
