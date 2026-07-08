@@ -56,19 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 792 tracked total · updated `2026-07-08T17:13:02+00:00`
+### 🆕 7 new roles this update · 797 tracked total · updated `2026-07-08T20:17:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Strategic Staffing Solutions | 1 |
-| Cynet Systems | 1 |
-| KeyBank | 1 |
+| Cynet Systems | 2 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Fast Switch | 1 |
+| Honda | 1 |
+| Park National Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Mid Data Engineer Krakow Based](https://jobs.strategicstaff.com/jobs/mid-data-engineer-krakow-based-170303/) | Strategic Staffing Solutions | Cracow, Hybrid | 2026-07-08 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/qgv6WrC06TI4nWQvAAVX-YXqzDRbaU9_aU1rKQ4EggM) | Cynet Systems | Ohio | 2026-07-08 |
-| [IT Senior Data Quality Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/IT-Senior-Data-Quality-Analyst_R-38171) | KeyBank | Brooklyn, OH | 2026-07-08 |
+| [Factory Automation Engineer I - PLC](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32564778#/jobs/32564778) | Artech | Hybrid, GA | 2026-07-08 |
+| [IT - Compliance Administrator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28824365#/jobs/28824365) | Mindlance | MASON, OH | 2026-07-08 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/tgG8cxDZxukJRN482Wfv-wWjk33XBc0SHgvmIzEOk0A) | Cynet Systems | Ohio | 2026-07-08 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/hS7UCl2Vam8xjhPYvU5RubKUHzx01c17NHH56yO3kC0) | Cynet Systems | Ohio | 2026-07-08 |
+| [Senior Software engineer – Generative AI](https://fastswitch.com/jobs/senior-software-engineer-generative-ai-61765/) | Fast Switch | Location: Overland Park, Ohio | 2026-07-08 |
+| [Connected Vehicle Systems Engineer (Networking and OTA)](https://careers.honda.com/us/en/job/11023) | Honda | Raymond, Ohio, United States | 2026-07-08 |
+| [Cloud Endpoint Engineer](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=2a1b9d15-a531-4cf3-8137-a7f49c8f3b77) | Park National Bank | CEN Newark Alford Bldg | 2026-07-08 |
 <!-- JOBS:END -->
 
 ## How it works
