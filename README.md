@@ -56,16 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 772 tracked total · updated `2026-07-08T09:09:20+00:00`
+### 🆕 7 new roles this update · 779 tracked total · updated `2026-07-08T11:38:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| L3Harris | 2 |
+| Gina's Tech Jobs | 4 |
+| Agility Connect | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT Trade Compliance Systems Analyst](https://careers.l3harris.com/en/job/united-states/it-trade-compliance-systems-analyst/4832/97501308672) | L3Harris | Remote | 2026-07-08 |
-| [Specialist, Supply Chain Analyst (PeopleSoft)](https://careers.l3harris.com/en/job/united-states/specialist-supply-chain-analyst-peoplesoft/4832/97494269536) | L3Harris | Remote | 2026-07-08 |
+| [Mobile Product Owner](https://agilityconnect.io/jobs/8205) | Agility Connect | Columbus, Ohio | 2026-07-08 |
+| [Senior Java Developer](https://agilityconnect.io/jobs/8207) | Agility Connect | Cincinnati, OH | 2026-07-08 |
+| [IAM Mainframe Engineer](https://agilityconnect.io/jobs/8206) | Agility Connect | OH | 2026-07-08 |
+| [Technical Product Manager of Artificial Intelligence (AI) Systems, Work From Home](https://www.ginastechjobs.com/job/technical-product-manager-of-artificial-intelligence-ai-systems-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
+| [Staff Machine Learning Engineer, Work From Home](https://www.ginastechjobs.com/job/staff-machine-learning-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
+| [Senior Machine Learning Engineer, Work From Home](https://www.ginastechjobs.com/job/senior-machine-learning-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
+| [Machine Learning Technical Lead, Work From Home](https://www.ginastechjobs.com/job/machine-learning-technical-lead-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
 <!-- JOBS:END -->
 
 ## How it works
