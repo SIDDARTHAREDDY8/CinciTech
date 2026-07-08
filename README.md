@@ -56,22 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 779 tracked total · updated `2026-07-08T11:38:16+00:00`
+### 🆕 10 new roles this update · 789 tracked total · updated `2026-07-08T15:02:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Gina's Tech Jobs | 4 |
-| Agility Connect | 3 |
+| Kroger | 3 |
+| Apex Systems | 1 |
+| Artech | 1 |
+| Belcan | 1 |
+| Goodyear | 1 |
+| American Electric Power | 1 |
+| Sherwin-Williams | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Mobile Product Owner](https://agilityconnect.io/jobs/8205) | Agility Connect | Columbus, Ohio | 2026-07-08 |
-| [Senior Java Developer](https://agilityconnect.io/jobs/8207) | Agility Connect | Cincinnati, OH | 2026-07-08 |
-| [IAM Mainframe Engineer](https://agilityconnect.io/jobs/8206) | Agility Connect | OH | 2026-07-08 |
-| [Technical Product Manager of Artificial Intelligence (AI) Systems, Work From Home](https://www.ginastechjobs.com/job/technical-product-manager-of-artificial-intelligence-ai-systems-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
-| [Staff Machine Learning Engineer, Work From Home](https://www.ginastechjobs.com/job/staff-machine-learning-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
-| [Senior Machine Learning Engineer, Work From Home](https://www.ginastechjobs.com/job/senior-machine-learning-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
-| [Machine Learning Technical Lead, Work From Home](https://www.ginastechjobs.com/job/machine-learning-technical-lead-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-08 |
+| [Security Software Data Engineer III](https://www.apexsystems.com/job/3041304_usa/security-software-data-engineer-iii) | Apex Systems | Virtual, OH | 2026-07-08 |
+| [SAP ISU Billing Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32562379#/jobs/32562379) | Artech | Columbus, OH | 2026-07-08 |
+| [L3 Linux Systems Administrator](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366253&apply=yes&) | Belcan | Cincinnati, OH | 2026-07-08 |
+| [Legal Counsel, Information Technology](https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers/job/US-OH-Akron-Corp-Hdqtrs/Legal-Counsel--Information-Technology_JR-40101254-1) | Goodyear | US OH Akron Corp Hdqtrs | 2026-07-08 |
+| [AI Security Operations Analyst](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/AI-Security-Operations-Analyst_R16968-1) | American Electric Power | Columbus, OH | 2026-07-08 |
+| [IT Digital Delivery Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616804) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-08 |
+| [KTD/SENIOR ADVANCED SOFTWARE ENGINEERING MANAGER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/205020) | Kroger | Blue Ash, OH, United States | 2026-07-08 |
+| [Software Engineering Manager](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/206927) | Kroger | Blue Ash, OH, United States | 2026-07-08 |
+| [Enterprise Technical Specialist](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/206975) | Kroger | Cincinnati, OH, United States | 2026-07-08 |
+| [IT - Developer I - III (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=166308) | Cincinnati Insurance | ["Remote"] | 2026-07-08 |
 <!-- JOBS:END -->
 
 ## How it works
