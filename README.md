@@ -56,31 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 789 tracked total · updated `2026-07-08T15:02:58+00:00`
+### 🆕 3 new roles this update · 792 tracked total · updated `2026-07-08T17:13:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kroger | 3 |
-| Apex Systems | 1 |
-| Artech | 1 |
-| Belcan | 1 |
-| Goodyear | 1 |
-| American Electric Power | 1 |
-| Sherwin-Williams | 1 |
-| Cincinnati Insurance | 1 |
+| Strategic Staffing Solutions | 1 |
+| Cynet Systems | 1 |
+| KeyBank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Software Data Engineer III](https://www.apexsystems.com/job/3041304_usa/security-software-data-engineer-iii) | Apex Systems | Virtual, OH | 2026-07-08 |
-| [SAP ISU Billing Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32562379#/jobs/32562379) | Artech | Columbus, OH | 2026-07-08 |
-| [L3 Linux Systems Administrator](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366253&apply=yes&) | Belcan | Cincinnati, OH | 2026-07-08 |
-| [Legal Counsel, Information Technology](https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers/job/US-OH-Akron-Corp-Hdqtrs/Legal-Counsel--Information-Technology_JR-40101254-1) | Goodyear | US OH Akron Corp Hdqtrs | 2026-07-08 |
-| [AI Security Operations Analyst](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/AI-Security-Operations-Analyst_R16968-1) | American Electric Power | Columbus, OH | 2026-07-08 |
-| [IT Digital Delivery Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616804) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-08 |
-| [KTD/SENIOR ADVANCED SOFTWARE ENGINEERING MANAGER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/205020) | Kroger | Blue Ash, OH, United States | 2026-07-08 |
-| [Software Engineering Manager](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/206927) | Kroger | Blue Ash, OH, United States | 2026-07-08 |
-| [Enterprise Technical Specialist](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/206975) | Kroger | Cincinnati, OH, United States | 2026-07-08 |
-| [IT - Developer I - III (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=166308) | Cincinnati Insurance | ["Remote"] | 2026-07-08 |
+| [Mid Data Engineer Krakow Based](https://jobs.strategicstaff.com/jobs/mid-data-engineer-krakow-based-170303/) | Strategic Staffing Solutions | Cracow, Hybrid | 2026-07-08 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/qgv6WrC06TI4nWQvAAVX-YXqzDRbaU9_aU1rKQ4EggM) | Cynet Systems | Ohio | 2026-07-08 |
+| [IT Senior Data Quality Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/IT-Senior-Data-Quality-Analyst_R-38171) | KeyBank | Brooklyn, OH | 2026-07-08 |
 <!-- JOBS:END -->
 
 ## How it works
