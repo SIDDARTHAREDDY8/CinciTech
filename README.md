@@ -56,15 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 769 tracked total · updated `2026-07-07T22:54:37+00:00`
+### 🆕 2 new roles this update · 770 tracked total · updated `2026-07-08T04:15:24+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Next Step Systems | 1 |
+| Battelle | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Technical Product Manager of Artificial Intelligence (AI) Systems, Work From Home](https://www.nextstepsystems.com/job/technical-product-manager-of-artificial-intelligence-ai-systems-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-07 |
+| [Junior Embedded Systems Developer](https://jobs.battelle.org/us/en/job/76361) | Battelle | Columbus, OH | 2026-07-08 |
+| [Embedded Systems Developer, Cyber Research](https://jobs.battelle.org/us/en/job/76362) | Battelle | Columbus, OH | 2026-07-08 |
 <!-- JOBS:END -->
 
 ## How it works
