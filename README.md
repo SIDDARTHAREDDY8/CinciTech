@@ -56,16 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 770 tracked total · updated `2026-07-08T04:15:24+00:00`
+### 🆕 2 new roles this update · 772 tracked total · updated `2026-07-08T09:09:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 2 |
+| L3Harris | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Junior Embedded Systems Developer](https://jobs.battelle.org/us/en/job/76361) | Battelle | Columbus, OH | 2026-07-08 |
-| [Embedded Systems Developer, Cyber Research](https://jobs.battelle.org/us/en/job/76362) | Battelle | Columbus, OH | 2026-07-08 |
+| [IT Trade Compliance Systems Analyst](https://careers.l3harris.com/en/job/united-states/it-trade-compliance-systems-analyst/4832/97501308672) | L3Harris | Remote | 2026-07-08 |
+| [Specialist, Supply Chain Analyst (PeopleSoft)](https://careers.l3harris.com/en/job/united-states/specialist-supply-chain-analyst-peoplesoft/4832/97494269536) | L3Harris | Remote | 2026-07-08 |
 <!-- JOBS:END -->
 
 ## How it works
