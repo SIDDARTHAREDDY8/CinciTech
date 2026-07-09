@@ -56,22 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 807 tracked total · updated `2026-07-09T04:45:56+00:00`
+### 🆕 3 new roles this update · 810 tracked total · updated `2026-07-09T10:19:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Vaco | 1 |
-| Nationwide | 1 |
-| Cincinnati Insurance | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Quality Assurance Manager](https://jobs.vaco.com/job/18639/quality_assurance_manager/en) | Vaco | Delaware, Ohio | 2026-07-09 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/4-msJoCJZa5betISpS76CtVXf_cBzpmyBiAj3E9IOhA) | Cynet Systems | Ohio | 2026-07-09 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/R0m4fIV2Xq6KFCBDwJ97vL2j8zOw4uDQGlc8KL8kirY) | Cynet Systems | Ohio | 2026-07-09 |
-| [Specialist, Technology Engineer (Azure Infrastructure Engineer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Technology-Engineer--Azure-Infrastructure-Engineer-_099045) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-09 |
-| [Commercial Lines - Quality Assurance Specialist I - III](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=166368) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-07-09 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/5ibJG8E8mz4MC5HrfjorxdnXDxQ2CWnPQUKQ6vZpeoo) | Cynet Systems | Ohio | 2026-07-09 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/AcK22FNuE0GU0GRofIKgYtMsY2PFjgfZbXgvURhjZCE) | Cynet Systems | Ohio | 2026-07-09 |
+| [IT Global Trade Systems Analyst](https://careers.l3harris.com/en/job/united-states/it-global-trade-systems-analyst/4832/97501308672) | L3Harris | Remote | 2026-07-09 |
 <!-- JOBS:END -->
 
 ## How it works
