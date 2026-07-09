@@ -56,42 +56,48 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 18 new roles this update · 828 tracked total · updated `2026-07-09T15:51:51+00:00`
+### 🆕 22 new roles this update · 848 tracked total · updated `2026-07-09T20:25:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 5 |
-| Robert Half | 2 |
-| Artech | 2 |
+| Gina's Tech Jobs | 5 |
+| Next Step Systems | 5 |
 | Cynet Systems | 2 |
-| TEKsystems | 1 |
-| Nationwide | 1 |
-| American Electric Power | 1 |
+| Mindlance | 1 |
+| Fifth Third Bank | 1 |
+| Worldpay | 1 |
+| Sherwin-Williams | 1 |
+| Cincinnati Children's Hospital | 1 |
+| Worthington Steel | 1 |
 | Honda | 1 |
-| Whirlpool | 1 |
+| CrossCountry Mortgage | 1 |
+| Lincoln Electric | 1 |
 | L3Harris | 1 |
-| Festo | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Audit Technician](https://careers.teksystems.com/us/en/job/JP-006144204/Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-07-09 |
-| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-09 |
-| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-09 |
-| [SAP Concur Travel Management](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32569097#/jobs/32569097) | Artech | REMOTE | 2026-07-09 |
-| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32568688#/jobs/32568688) | Artech | Remote | 2026-07-09 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/AfP3EnTHx7Yq2ejSiC1Qic9Y8AUUFEYpVglPDfXz8OU) | Cynet Systems | Ohio | 2026-07-09 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/0H1kjyRUmI46de1LI93RB4Bo1la5hrXXEFQJb72o4tY) | Cynet Systems | Ohio | 2026-07-09 |
-| [Cybersecurity Project Manager](https://agilityconnect.io/jobs/8213) | Agility Connect | Cincinnati, OH | 2026-07-09 |
-| [QA Testing Analyst](https://agilityconnect.io/jobs/8211) | Agility Connect | OH | 2026-07-09 |
-| [Senior Data Engineer](https://agilityconnect.io/jobs/8215) | Agility Connect | Cincinnati, OH | 2026-07-09 |
-| [Senior Platform Engineer](https://agilityconnect.io/jobs/8214) | Agility Connect | Cincinnati, OH | 2026-07-09 |
-| [Senior QA/Release Manager](https://agilityconnect.io/jobs/8212) | Agility Connect | Cincinnati, OH | 2026-07-09 |
-| [Director, Solutions Architect - Excess & Surplus](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Solutions-Architect---Excess---Surplus_099042-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-09 |
-| [Infrastructure Engineer Prin](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Prin_R14056) | American Electric Power | Gahanna, OH | 2026-07-09 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/11240) | Honda | Anna, Ohio, United States | 2026-07-09 |
-| [Quality Engineering Technician](https://jobs.whirlpool.com/careers/job/34401428456) | Whirlpool | Findlay, OH, US | 2026-07-09 |
-| [Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/associate-quality-engineering/4832/97563771088) | L3Harris | Cincinnati, OH | 2026-07-09 |
-| [Test Engineer](https://jobs.festo.com/job/Mason-Test-Engineer-IL-45039/1413346233/) | Festo | Mason, US, 45039 | 2026-07-09 |
+| [Automation Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28827073#/jobs/28827073) | Mindlance | Remote (CST, EST), TX | 2026-07-09 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/qHpGEvUxntfoQT9SRjQaoi3_OcDcQjwpHRFaSD8JTVM) | Cynet Systems | Ohio | 2026-07-09 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/dAoS8oHELzdC55tV3VELxC4x5NqOHgMS6xVaDi8_D4A) | Cynet Systems | Ohio | 2026-07-09 |
+| [VP of Engineering Applications, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/vp-of-engineering-applications-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Technical Lead, Applications, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/technical-lead-applications-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Senior Engineer, Internal Tools, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/senior-engineer-internal-tools-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Head of Internal Tools Engineering, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/head-of-internal-tools-engineering-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Chief Technology Officer (CTO), Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/chief-technology-officer-cto-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [VP of Engineering Applications, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/vp-of-engineering-applications-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Technical Lead, Applications, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/technical-lead-applications-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Senior Engineer, Internal Tools, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/senior-engineer-internal-tools-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Head of Internal Tools Engineering, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/head-of-internal-tools-engineering-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [Chief Technology Officer (CTO), Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/chief-technology-officer-cto-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-07-09 |
+| [IT Portfolio Analyst - Finance Team](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Portfolio-Analyst---Finance-Team_R70233-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-09 |
+| [Quality Assurance Analyst I](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Quality-Assurance-Analyst-I_JR0610205) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-07-09 |
+| [Back End Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617172) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-09 |
+| [Senior Data Science Analyst - Learning Health Networks](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Senior-Data-Science-Analyst---Learning-Health-Networks_JR222190-1) | Cincinnati Children's Hospital | Offices at Vernon Place | 2026-07-09 |
+| [Developer – Oracle E-Business Suite Supply Chain Management](https://cbdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WorthingtonSteelCareers/job/43119) | Worthington Steel | Columbus, OH, United States | 2026-07-09 |
+| [Head of Global IT Sourcing and Vendor Management](https://careers.honda.com/us/en/job/10922) | Honda | Marysville, Ohio, United States | 2026-07-09 |
+| [Sr. Software Engineer](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Sr-Software-Engineer_JR03023) | CrossCountry Mortgage | Remote USA | 2026-07-09 |
+| [Senior Supplier Quality Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Senior-Supplier-Quality-Engineer-OH-44117/1413512633/) | Lincoln Electric | OH | 2026-07-09 |
+| [Lead, Software Engineering](https://careers.l3harris.com/en/job/mason/lead-software-engineering/4832/97569050064) | L3Harris | Mason, OH | 2026-07-09 |
 <!-- JOBS:END -->
 
 ## How it works
