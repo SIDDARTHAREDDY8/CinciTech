@@ -56,18 +56,42 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 810 tracked total · updated `2026-07-09T10:19:50+00:00`
+### 🆕 18 new roles this update · 828 tracked total · updated `2026-07-09T15:51:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 5 |
+| Robert Half | 2 |
+| Artech | 2 |
 | Cynet Systems | 2 |
+| TEKsystems | 1 |
+| Nationwide | 1 |
+| American Electric Power | 1 |
+| Honda | 1 |
+| Whirlpool | 1 |
 | L3Harris | 1 |
+| Festo | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/5ibJG8E8mz4MC5HrfjorxdnXDxQ2CWnPQUKQ6vZpeoo) | Cynet Systems | Ohio | 2026-07-09 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/AcK22FNuE0GU0GRofIKgYtMsY2PFjgfZbXgvURhjZCE) | Cynet Systems | Ohio | 2026-07-09 |
-| [IT Global Trade Systems Analyst](https://careers.l3harris.com/en/job/united-states/it-global-trade-systems-analyst/4832/97501308672) | L3Harris | Remote | 2026-07-09 |
+| [Audit Technician](https://careers.teksystems.com/us/en/job/JP-006144204/Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-07-09 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-09 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-09 |
+| [SAP Concur Travel Management](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32569097#/jobs/32569097) | Artech | REMOTE | 2026-07-09 |
+| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32568688#/jobs/32568688) | Artech | Remote | 2026-07-09 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/AfP3EnTHx7Yq2ejSiC1Qic9Y8AUUFEYpVglPDfXz8OU) | Cynet Systems | Ohio | 2026-07-09 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/0H1kjyRUmI46de1LI93RB4Bo1la5hrXXEFQJb72o4tY) | Cynet Systems | Ohio | 2026-07-09 |
+| [Cybersecurity Project Manager](https://agilityconnect.io/jobs/8213) | Agility Connect | Cincinnati, OH | 2026-07-09 |
+| [QA Testing Analyst](https://agilityconnect.io/jobs/8211) | Agility Connect | OH | 2026-07-09 |
+| [Senior Data Engineer](https://agilityconnect.io/jobs/8215) | Agility Connect | Cincinnati, OH | 2026-07-09 |
+| [Senior Platform Engineer](https://agilityconnect.io/jobs/8214) | Agility Connect | Cincinnati, OH | 2026-07-09 |
+| [Senior QA/Release Manager](https://agilityconnect.io/jobs/8212) | Agility Connect | Cincinnati, OH | 2026-07-09 |
+| [Director, Solutions Architect - Excess & Surplus](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Solutions-Architect---Excess---Surplus_099042-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-09 |
+| [Infrastructure Engineer Prin](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Prin_R14056) | American Electric Power | Gahanna, OH | 2026-07-09 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/11240) | Honda | Anna, Ohio, United States | 2026-07-09 |
+| [Quality Engineering Technician](https://jobs.whirlpool.com/careers/job/34401428456) | Whirlpool | Findlay, OH, US | 2026-07-09 |
+| [Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/associate-quality-engineering/4832/97563771088) | L3Harris | Cincinnati, OH | 2026-07-09 |
+| [Test Engineer](https://jobs.festo.com/job/Mason-Test-Engineer-IL-45039/1413346233/) | Festo | Mason, US, 45039 | 2026-07-09 |
 <!-- JOBS:END -->
 
 ## How it works
