@@ -56,22 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 802 tracked total · updated `2026-07-08T22:40:07+00:00`
+### 🆕 5 new roles this update · 807 tracked total · updated `2026-07-09T04:45:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Artech | 1 |
-| Fifth Third Bank | 1 |
-| Cincinnati Children's Hospital | 1 |
+| Vaco | 1 |
+| Nationwide | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior D365 finance functional consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32566123#/jobs/32566123) | Artech | Remote | 2026-07-08 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/1GOc4Vuy7nLsVnR0DbJ8XWBOljPDAv589CRc7GxtWoA) | Cynet Systems | Ohio | 2026-07-08 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/CoUsXKWNADkYnHUipT0tx1ksMSYwDuQuzJKeMVzkAVk) | Cynet Systems | Ohio | 2026-07-08 |
-| [Senior Backend Java Developer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Backend-Java-Developer_R70066-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-08 |
-| [Application Developer I, Power Platform](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Application-Developer-I--Power-Platform_JR222607) | Cincinnati Children's Hospital | Offices at Vernon Place | 2026-07-08 |
+| [Quality Assurance Manager](https://jobs.vaco.com/job/18639/quality_assurance_manager/en) | Vaco | Delaware, Ohio | 2026-07-09 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/4-msJoCJZa5betISpS76CtVXf_cBzpmyBiAj3E9IOhA) | Cynet Systems | Ohio | 2026-07-09 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/R0m4fIV2Xq6KFCBDwJ97vL2j8zOw4uDQGlc8KL8kirY) | Cynet Systems | Ohio | 2026-07-09 |
+| [Specialist, Technology Engineer (Azure Infrastructure Engineer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Technology-Engineer--Azure-Infrastructure-Engineer-_099045) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-09 |
+| [Commercial Lines - Quality Assurance Specialist I - III](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=166368) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-07-09 |
 <!-- JOBS:END -->
 
 ## How it works
