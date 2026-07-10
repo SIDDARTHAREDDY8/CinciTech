@@ -56,29 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 858 tracked total · updated `2026-07-09T23:01:23+00:00`
+### 🆕 3 new roles this update · 859 tracked total · updated `2026-07-10T04:46:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 2 |
-| Robert Half | 2 |
-| Artech | 2 |
 | Cynet Systems | 2 |
-| Path Robotics | 1 |
-| Fifth Third Bank | 1 |
+| Artech | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Full Sack & GenAI Developer](https://www.apexsystems.com/job/3037537_usa/senior-full-sack--genai-developer) | Apex Systems | Brooklyn, OH | 2026-07-09 |
-| [Senior Data Engineer & Analytics Developer](https://www.apexsystems.com/job/3037535_usa/senior-data-engineer--analytics-developer) | Apex Systems | Brooklyn, OH | 2026-07-09 |
-| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-09 |
-| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-09 |
-| [Technical Project/Program Management - Technical Program Manager V](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32572812#/jobs/32572812) | Artech | Remote, CA | 2026-07-09 |
-| [Java Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32572261#/jobs/32572261) | Artech | Remote | 2026-07-09 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/O04BnWj0OWcAhPG78ys13rUX5wa1M_B-tO7B8TKC1ww) | Cynet Systems | Ohio | 2026-07-09 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/lwv-oisEFon1EblpIR1QX9YLyHpyaSro8XjewT7tgbs) | Cynet Systems | Ohio | 2026-07-09 |
-| [Robotics Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8627330002?gh_jid=8627330002) | Path Robotics | Columbus, Ohio | 2026-07-09 |
-| [Lead Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Platform-Engineer_R70389-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-09 |
+| [Desktop Support-I](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32573001#/jobs/32573001) | Artech | Remote, CA | 2026-07-10 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/Ncx18RVVJolD15wUyAUJDntvQJXQ7cN-iPFepFEGHLQ) | Cynet Systems | Ohio | 2026-07-10 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/NYH08KwyIvJ5o-tD-H5bxCRYKiklWjZ218d7B7jRNvI) | Cynet Systems | Ohio | 2026-07-10 |
 <!-- JOBS:END -->
 
 ## How it works
