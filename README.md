@@ -56,31 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 872 tracked total · updated `2026-07-10T15:30:50+00:00`
+### 🆕 11 new roles this update · 883 tracked total · updated `2026-07-10T17:31:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 4 |
 | Cynet Systems | 3 |
-| Insight Global | 2 |
-| Cintas | 2 |
-| Mindlance | 1 |
-| Worldpay | 1 |
-| Nationwide | 1 |
-| Sherwin-Williams | 1 |
+| Apex Systems | 1 |
+| Vernovis | 1 |
+| Cintas | 1 |
+| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/new-bremen/data-engineer/job-550082/) | Insight Global | New Bremen, OH | 2026-07-10 |
-| [Senior Data Solutions Architect](https://jobs.insightglobal.com/jobs/find_a_job/ohio/new-bremen/senior-data-solutions-architect/job-550092/) | Insight Global | New Bremen, OH | 2026-07-10 |
-| [IT Project Manager](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28836247#/jobs/28836247) | Mindlance | Remote, AR | 2026-07-10 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/o-TVvQsH7EwctUnqWrAAdutgd1Au24eFb4iV1VdW7og) | Cynet Systems | Ohio | 2026-07-10 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/OylMNEyNeDddTc9axsAipurlII0_XAt2JaWILL3ybPM) | Cynet Systems | Ohio | 2026-07-10 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/WFQGNrv7T6YsTmlW_nQPwqXG8em0yRJ8Qs-3RHsxaEA) | Cynet Systems | Ohio | 2026-07-10 |
-| [System Support Analyst II](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/System-Support-Analyst-II_JR0610356) | Worldpay | CINCINNATI, OHIO | 2026-07-10 |
-| [Sr. Consultant, Software Engineer \| Engineering Strategy & Modernization Lead](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineer---Engineering-Strategy---Modernization-Lead_098984) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-10 |
-| [Performance and Quality Assurance Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617170) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-10 |
-| [SAP Developer - Level 3 - Integrations / WebMethods](https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-Integrations-WebMethods-OH-45040/1407558000/) | Cintas | OH | 2026-07-10 |
-| [SAP Security Administrator - Level 2](https://careers.cintas.com/job/Mason-SAP-Security-Administrator-Level-2-OH-45040/1407580700/) | Cintas | OH | 2026-07-10 |
+| [IT Infrastructure Architect / Network Engineer](https://www.apexsystems.com/job/3037261_usa/it-infrastructure-architect--network-engineer) | Apex Systems | Findlay, OH | 2026-07-10 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-10 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-10 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-10 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-10 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/XUojkCoIJO_xYMcJbOI7WWHv-ZtQ9eih2_nM-VWjfoc) | Cynet Systems | Ohio | 2026-07-10 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/nU3TrTCsDs-deKe0VKCNkDXLsfy2oE7Cq7w1KxGVUqU) | Cynet Systems | Ohio | 2026-07-10 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/0ijuP67K3sST77PGeSesNajquR4LMtUDG8N21cP36BU) | Cynet Systems | Ohio | 2026-07-10 |
+| [Epic Beaker Technical Analyst](https://vernovis.com/blog/jobs/12018/) | Vernovis | Cincinnati, | 2026-07-10 |
+| [SAP Functional Analyst-Level 3-Service Management](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-3-Service-Management-OH-45040/1407651600/) | Cintas | OH | 2026-07-10 |
+| [Automation Engineering Technician - Robot Programming](https://jobs.lincolnelectric.com/job/Fort-Loramie-Automation-Engineering-Technician-Robot-Programming-OH-45845/1413953933/) | Lincoln Electric | OH | 2026-07-10 |
 <!-- JOBS:END -->
 
 ## How it works
