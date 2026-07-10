@@ -56,18 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 859 tracked total · updated `2026-07-10T04:46:25+00:00`
+### 🆕 4 new roles this update · 863 tracked total · updated `2026-07-10T10:21:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Artech | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support-I](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32573001#/jobs/32573001) | Artech | Remote, CA | 2026-07-10 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/Ncx18RVVJolD15wUyAUJDntvQJXQ7cN-iPFepFEGHLQ) | Cynet Systems | Ohio | 2026-07-10 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/NYH08KwyIvJ5o-tD-H5bxCRYKiklWjZ218d7B7jRNvI) | Cynet Systems | Ohio | 2026-07-10 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-10 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-10 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/nzhhcebhzWNZExF1GEW-UtQCaob04fvk7LmcDOmsLD8) | Cynet Systems | Ohio | 2026-07-10 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/NXwcZv7YZpF0jiUC-kE2Eg6_rQMNOGkuCUyLQCq8Ugk) | Cynet Systems | Ohio | 2026-07-10 |
 <!-- JOBS:END -->
 
 ## How it works
