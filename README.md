@@ -56,30 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 883 tracked total · updated `2026-07-10T17:31:28+00:00`
+### 🆕 9 new roles this update · 888 tracked total · updated `2026-07-10T20:18:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
 | Cynet Systems | 3 |
-| Apex Systems | 1 |
-| Vernovis | 1 |
-| Cintas | 1 |
-| Lincoln Electric | 1 |
+| 84.51° | 1 |
+| American Electric Power | 1 |
+| FirstEnergy | 1 |
+| Dayton Children's Hospital | 1 |
+| STERIS | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT Infrastructure Architect / Network Engineer](https://www.apexsystems.com/job/3037261_usa/it-infrastructure-architect--network-engineer) | Apex Systems | Findlay, OH | 2026-07-10 |
-| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-10 |
-| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-10 |
-| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-10 |
-| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-10 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/XUojkCoIJO_xYMcJbOI7WWHv-ZtQ9eih2_nM-VWjfoc) | Cynet Systems | Ohio | 2026-07-10 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/nU3TrTCsDs-deKe0VKCNkDXLsfy2oE7Cq7w1KxGVUqU) | Cynet Systems | Ohio | 2026-07-10 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/0ijuP67K3sST77PGeSesNajquR4LMtUDG8N21cP36BU) | Cynet Systems | Ohio | 2026-07-10 |
-| [Epic Beaker Technical Analyst](https://vernovis.com/blog/jobs/12018/) | Vernovis | Cincinnati, | 2026-07-10 |
-| [SAP Functional Analyst-Level 3-Service Management](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-3-Service-Management-OH-45040/1407651600/) | Cintas | OH | 2026-07-10 |
-| [Automation Engineering Technician - Robot Programming](https://jobs.lincolnelectric.com/job/Fort-Loramie-Automation-Engineering-Technician-Robot-Programming-OH-45845/1413953933/) | Lincoln Electric | OH | 2026-07-10 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/vt68H0ppcNJz55hGrAiuDNBoLbmU-001kobmx5qvghw) | Cynet Systems | Ohio | 2026-07-10 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/QzdOMva11HoVYbArDMTm3rdZMfuJCuSzFxVz-YrnlS8) | Cynet Systems | Ohio | 2026-07-10 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/khNIXwC4rzmnnEKaMaly0kI8h04mLVufWPrm7o-D6RU) | Cynet Systems | Ohio | 2026-07-10 |
+| [Lead Data Scientist (P3764)](https://job-boards.greenhouse.io/8451/jobs/8618262002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-10 |
+| [ITSM ServiceNow Discovery Process Owner](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Tech-Business-Analyst-Prin_R14828) | American Electric Power | Columbus, OH | 2026-07-10 |
+| [Cyber and Information Security Analyst - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/103436) | FirstEnergy | Akron, OH, United States | 2026-07-10 |
+| [Manager, Health Information Management](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Manager--Health-Information-Management_R22389-1) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-07-10 |
+| [Senior Systems Engineer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=54985&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-07-10 |
+| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/11734) | Honda | East Liberty, Ohio, United States | 2026-07-10 |
 <!-- JOBS:END -->
 
 ## How it works
