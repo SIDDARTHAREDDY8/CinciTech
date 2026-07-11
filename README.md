@@ -56,17 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 899 tracked total · updated `2026-07-11T11:00:12+00:00`
+### 🆕 13 new roles this update · 912 tracked total · updated `2026-07-11T14:15:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 5 |
+| Robert Half | 4 |
 | Cynet Systems | 3 |
+| TEKsystems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/11hAY-dTLE78mdHIC4zDYckKjuEFcKAelXt_u3QpedE) | Cynet Systems | Ohio | 2026-07-11 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/tbOw09aoiHIaGnPvKKYBFbFa5DaB5FCvTFv0DClM02E) | Cynet Systems | Ohio | 2026-07-11 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/oB9Syt1XZ4CgdrmHObbYLBiqplinMwZF-HngbzYPE8Q) | Cynet Systems | Ohio | 2026-07-11 |
+| [Senior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006150529/Senior-Data-Engineer) | TEKsystems | Beachwood, Ohio | 2026-07-11 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-11 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-11 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-11 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-11 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/IXBcp2mhGPVrVq91tiWvTZz2r0eKjQu8zjuBMCzgpDk) | Cynet Systems | Ohio | 2026-07-11 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/eyt_NIUakI8caKoXVPldqnrhJE3Fih0leY8zJQ3k-uQ) | Cynet Systems | Ohio | 2026-07-11 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/QqZR-upXtYmQcpVQBZzZXmw9WTPjrk1dXFjYiUzJrm4) | Cynet Systems | Ohio | 2026-07-11 |
+| [Programmer/Analyst IV](https://agilityconnect.io/jobs/8219) | Agility Connect | OH | 2026-07-11 |
+| [Sr Network/Cyber Security Engineer](https://agilityconnect.io/jobs/8217) | Agility Connect | Columbus, OH | 2026-07-11 |
+| [Automation Engineer](https://agilityconnect.io/jobs/8218) | Agility Connect | OH | 2026-07-11 |
+| [Practice Lead - Data, AI](https://agilityconnect.io/jobs/8221) | Agility Connect | OH | 2026-07-11 |
+| [Practice Lead - Software Engineering](https://agilityconnect.io/jobs/8220) | Agility Connect | OH | 2026-07-11 |
 <!-- JOBS:END -->
 
 ## How it works
