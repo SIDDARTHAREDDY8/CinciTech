@@ -56,17 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 911 tracked total · updated `2026-07-11T16:35:59+00:00`
+### 🆕 8 new roles this update · 919 tracked total · updated `2026-07-11T19:51:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 4 |
 | Cynet Systems | 3 |
+| Nesco Resource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/Jq5-1BeLrlmkAgDNbsausodCIPnEUUuxicijxzyCZM4) | Cynet Systems | Ohio | 2026-07-11 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/DVdD2YRGBJKEKDAvvjZ2b1ccvwduszyURzx_8Gr6TWg) | Cynet Systems | Ohio | 2026-07-11 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/NMkc3WDHSqULALqXwOWXSJ9Gjo9GYSWAjNljUPJ-mGo) | Cynet Systems | Ohio | 2026-07-11 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-11 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-11 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-11 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-11 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/iAoA_BtP6RskViujvGHTLkZl6xFe0_UldgdRhlgpvGw) | Cynet Systems | Ohio | 2026-07-11 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/BEFVsRtbyu1ken2RMhr1VxT_KWDFVAstfFI_S6Z_t6U) | Cynet Systems | Ohio | 2026-07-11 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/pNu0gwxBi1PgiZUKsMF0JwWThRUEqLSfCIkalVTB9_0) | Cynet Systems | Ohio | 2026-07-11 |
+| [Parts Puller – Production Support \| Mentor Area \| Full-Time](https://www.nescoresource.com/job-details/parts-puller-%E2%80%93-production-support-mentor-area-full-time-in-light-industrial-jobs-1632351) | Nesco Resource | Painesville, OH | 2026-07-11 |
 <!-- JOBS:END -->
 
 ## How it works
