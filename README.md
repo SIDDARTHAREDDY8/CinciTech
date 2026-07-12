@@ -56,17 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 929 tracked total · updated `2026-07-12T14:22:04+00:00`
+### 🆕 7 new roles this update · 936 tracked total · updated `2026-07-12T16:34:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 4 |
 | Cynet Systems | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/s0OcWR0rwcj8FxrVjd84Dczy4gzgtUdub8IZb9_qaZk) | Cynet Systems | Ohio | 2026-07-12 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/IcJ_cmYbOmmkEu5nE7eyVuQXURx2rDB71xGC9TtjGgw) | Cynet Systems | Ohio | 2026-07-12 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/M7xwkD6Gd5uD7jVXMQdivsALRQeuWHLGjH3j1Reybtk) | Cynet Systems | Ohio | 2026-07-12 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-12 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-12 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-12 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-12 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/EYM50U64a6A0LKX4ULjdpLzOFv8ZXjO8Xwaa1drVAMo) | Cynet Systems | Ohio | 2026-07-12 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/F9MHw8IDTXqTk6iOu3oqPbFt3Eb4z-vclYalOrkGzJM) | Cynet Systems | Ohio | 2026-07-12 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/afJWf1rGstrZY0it5iFLMG1uribRZAhi7X0IVW_IXiI) | Cynet Systems | Ohio | 2026-07-12 |
 <!-- JOBS:END -->
 
 ## How it works
