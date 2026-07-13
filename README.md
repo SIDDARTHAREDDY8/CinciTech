@@ -56,39 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 978 tracked total · updated `2026-07-13T17:49:16+00:00`
+### 🆕 6 new roles this update · 980 tracked total · updated `2026-07-13T20:16:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| Cynet Systems | 3 |
-| CareSource | 3 |
-| Mindlance | 2 |
-| Vernovis | 1 |
+| TEKsystems | 1 |
+| Insight Global | 1 |
+| Cynet Systems | 1 |
 | 84.51° | 1 |
-| Branch Insurance | 1 |
-| Fifth Third Bank | 1 |
-| Worldpay | 1 |
+| Lincoln Electric | 1 |
+| DHL | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-13 |
-| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
-| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
-| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
-| [Sr. BI and Data Analyst (HEDIS and Healthcare data)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28843797#/jobs/28843797) | Mindlance | Remote, AR | 2026-07-13 |
-| [Full-Stack Developer (.net + java)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28843172#/jobs/28843172) | Mindlance | Remote, NY | 2026-07-13 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/tRb3XoSubGO0p4dmysugg9GTrVkjalWYQM0_BPorlzA) | Cynet Systems | Ohio | 2026-07-13 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/cyikt2v4yQdboplP-RZRN5f07testkLUozoCEHT8TzE) | Cynet Systems | Ohio | 2026-07-13 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/jW6ZZ2iA1_ckyvlrfnxfzLFhgf5GyihN7977L0APOJw) | Cynet Systems | Ohio | 2026-07-13 |
-| [Information Technology Business Analyst](https://vernovis.com/blog/jobs/12020/) | Vernovis | Cincinnati, | 2026-07-13 |
-| [Lead Product Manager - APPLIED AI (P4560)](https://job-boards.greenhouse.io/8451/jobs/8631401002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-13 |
-| [ServiceNow Developer IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/ServiceNow-Developer-IV_R13120-1) | CareSource | Remote | 2026-07-13 |
-| [Data Scientist II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-II_R13108) | CareSource | Remote | 2026-07-13 |
-| [Information Security GRC Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-III_R13134) | CareSource | Remote | 2026-07-13 |
-| [Software Engineer 3, iOS](https://job-boards.greenhouse.io/branch/jobs/7802967003) | Branch Insurance | Remote, US | 2026-07-13 |
-| [Lockbox Support Specialist Mon/Tues 10am-8:30pm & Sat/Sun 7am-5:30pm](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Support-Specialist-Mon-Tues-10am-8-30pm---Sat-Sun-7am-5-30pm_R70027-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-13 |
-| [Principal Data Scientist](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Principal-Data-Scientist_JR0610119) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-07-13 |
+| [Network Engineer V (Program Deployment Lead – Data Center Infrastructure)](https://careers.teksystems.com/us/en/job/JP-006152748/Network-Engineer-V-Program-Deployment-Lead-Data-Center-Infrastructure) | TEKsystems | New Albany, Ohio | 2026-07-13 |
+| [Data Integration & API Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/data-integration-api-engineer/job-551323/) | Insight Global | Columbus, OH | 2026-07-13 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/T1ZnLoHG6ilOs3M_hU6iE-rwHaEKLQ9DyojlLBuJ9t0) | Cynet Systems | Ohio | 2026-07-13 |
+| [Lead Product Manager - AI Gateway (P4552)](https://job-boards.greenhouse.io/8451/jobs/8631714002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-13 |
+| [Applications Engineer](https://jobs.lincolnelectric.com/job/Fort-Loramie-Applications-Engineer-OH-45845/1413990333/) | Lincoln Electric | OH | 2026-07-13 |
+| [IT Delivery Specialist](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/IT-Delivery-Specialist-USO-job-Westerville-OH-US-11070374.html) | DHL | Westerville, Ohio | 2026-07-13 |
 <!-- JOBS:END -->
 
 ## How it works
