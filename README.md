@@ -56,25 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 980 tracked total · updated `2026-07-13T20:16:19+00:00`
+### 🆕 12 new roles this update · 992 tracked total · updated `2026-07-13T22:33:14+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
-| Insight Global | 1 |
-| Cynet Systems | 1 |
-| 84.51° | 1 |
-| Lincoln Electric | 1 |
-| DHL | 1 |
+| Robert Half | 4 |
+| ASK Consulting | 2 |
+| Cynet Systems | 2 |
+| CareSource | 2 |
+| First Solar | 1 |
+| Path Robotics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Network Engineer V (Program Deployment Lead – Data Center Infrastructure)](https://careers.teksystems.com/us/en/job/JP-006152748/Network-Engineer-V-Program-Deployment-Lead-Data-Center-Infrastructure) | TEKsystems | New Albany, Ohio | 2026-07-13 |
-| [Data Integration & API Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/data-integration-api-engineer/job-551323/) | Insight Global | Columbus, OH | 2026-07-13 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/T1ZnLoHG6ilOs3M_hU6iE-rwHaEKLQ9DyojlLBuJ9t0) | Cynet Systems | Ohio | 2026-07-13 |
-| [Lead Product Manager - AI Gateway (P4552)](https://job-boards.greenhouse.io/8451/jobs/8631714002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-13 |
-| [Applications Engineer](https://jobs.lincolnelectric.com/job/Fort-Loramie-Applications-Engineer-OH-45845/1413990333/) | Lincoln Electric | OH | 2026-07-13 |
-| [IT Delivery Specialist](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/IT-Delivery-Specialist-USO-job-Westerville-OH-US-11070374.html) | DHL | Westerville, Ohio | 2026-07-13 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-13 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [NON IT Customer Support/Account Representative (Bulk 8)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125888/NON IT Customer Support/Account Representative (Bulk 8)) | ASK Consulting | Columbus, OH, 43219 | 2026-07-13 |
+| [NON IT Finance Support Mid Level (Bulk 15)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125886/NON IT Finance Support Mid Level (Bulk 15)) | ASK Consulting | Columbus, OH, 43219 | 2026-07-13 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/9Jsvt9geBGj88UNvp3N2ZquY6pb-ZLum8K2oNfdX3m4) | Cynet Systems | Ohio | 2026-07-13 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/CLU-sW8D-Ko8o17WAtqxfwWZ1rQSBbtIAHxa-AEb6Oo) | Cynet Systems | Ohio | 2026-07-13 |
+| [Application Developer II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Dayton-OH/Application-Developer-II_R13195) | CareSource | Dayton, OH | 2026-07-13 |
+| [Operations Data Visualization and Analytics Engineer IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Dayton-OH/Operations-Data-Visualization-and-Analytics-Engineer-IV_R13194) | CareSource | Dayton, OH | 2026-07-13 |
+| [AI Intern (Fall 2026)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025125) | First Solar | Perrysburg, OH, United States | 2026-07-13 |
+| [Senior Machine Learning Engineer - Reinforcement Learning](https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002) | Path Robotics | Columbus, Ohio or Remote | 2026-07-13 |
 <!-- JOBS:END -->
 
 ## How it works
