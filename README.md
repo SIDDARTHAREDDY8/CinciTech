@@ -56,43 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 19 new roles this update · 961 tracked total · updated `2026-07-13T15:40:09+00:00`
+### 🆕 17 new roles this update · 978 tracked total · updated `2026-07-13T17:49:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 4 |
-| Path Robotics | 3 |
-| Safelite | 3 |
-| Huntington Bank | 2 |
-| Insight Global | 1 |
-| Artech | 1 |
-| Belcan | 1 |
-| Sherwin-Williams | 1 |
-| Cincinnati Children's Hospital | 1 |
-| The Andersons | 1 |
-| Cintas | 1 |
+| Robert Half | 4 |
+| Cynet Systems | 3 |
+| CareSource | 3 |
+| Mindlance | 2 |
+| Vernovis | 1 |
+| 84.51° | 1 |
+| Branch Insurance | 1 |
+| Fifth Third Bank | 1 |
+| Worldpay | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Front End Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cincinnati/sr-front-end-developer/job-550816/) | Insight Global | Cincinnati, OH | 2026-07-13 |
-| [Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32689338#/jobs/32689338) | Artech | Cleveland, OH | 2026-07-13 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/6H9lFF6GBcFrbwfMC2yWqlOlpIr-fJWqfOPSOvYYSeA) | Cynet Systems | Ohio | 2026-07-13 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/dHCU_wiVdfqA9ITixvgximj9BCPKlkksfINNvPCXS1o) | Cynet Systems | Ohio | 2026-07-13 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/N5nrhWkVPUbSK0dkPgonkBK7qKLPvXI33JuNcZdYSeI) | Cynet Systems | Ohio | 2026-07-13 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/HbvO2ccom-yg8zBC4YIdGIm_2pnbbXyF0_PKUCmP5Ag) | Cynet Systems | Ohio | 2026-07-13 |
-| [ServiceNow Developer/Administrator](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366406&apply=yes&) | Belcan | Cincinnati, OH | 2026-07-13 |
-| [Machine Learning Engineer, Robot Learning, Loco-Manipulation](https://boards.greenhouse.io/pathrobotics/jobs/8501710002?gh_jid=8501710002) | Path Robotics | Columbus, Ohio | 2026-07-13 |
-| [Robotic Operations Support Specialist, 3rd shift](https://boards.greenhouse.io/pathrobotics/jobs/8631229002?gh_jid=8631229002) | Path Robotics | Columbus, Ohio | 2026-07-13 |
-| [Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation](https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002) | Path Robotics | Columbus, Ohio or Remote | 2026-07-13 |
-| [Senior Data Engineer](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Data-Engineer_JR72360) | Safelite | COLUMBUS, OH | 2026-07-13 |
-| [Manager of Data Engineering](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Mgr-Data-Engineering_JR72337) | Safelite | COLUMBUS, OH | 2026-07-13 |
-| [Senior Business Intelligence Engineer](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Business-Intelligence-Engineer_JR72259) | Safelite | COLUMBUS, OH | 2026-07-13 |
-| [Lead Platform Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2615468) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-13 |
-| [Lead SRE and Vulnerability Engineer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Lead-SRE-and-Vulnerability-Engineer_R0073303) | Huntington Bank | Columbus, OH | 2026-07-13 |
-| [Programmer/Analyst Sr](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-Sr_R0073795) | Huntington Bank | Columbus, OH | 2026-07-13 |
-| [Senior EMR Analyst - Epic Home Care](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EMR-Analyst---Epic-Home-Care_JR222874) | Cincinnati Children's Hospital | Remote | 2026-07-13 |
-| [IT Systems Administrator](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/IT-Systems-Administrator_R12342) | The Andersons | Maumee, OH | 2026-07-13 |
-| [Systems Administrator-Level 2-Operational Technology](https://careers.cintas.com/job/Mason-Systems-Administrator-Level-2-Operational-Technology-OH-45040/1408130600/) | Cintas | OH | 2026-07-13 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-13 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Sr. BI and Data Analyst (HEDIS and Healthcare data)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28843797#/jobs/28843797) | Mindlance | Remote, AR | 2026-07-13 |
+| [Full-Stack Developer (.net + java)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28843172#/jobs/28843172) | Mindlance | Remote, NY | 2026-07-13 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/tRb3XoSubGO0p4dmysugg9GTrVkjalWYQM0_BPorlzA) | Cynet Systems | Ohio | 2026-07-13 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/cyikt2v4yQdboplP-RZRN5f07testkLUozoCEHT8TzE) | Cynet Systems | Ohio | 2026-07-13 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/jW6ZZ2iA1_ckyvlrfnxfzLFhgf5GyihN7977L0APOJw) | Cynet Systems | Ohio | 2026-07-13 |
+| [Information Technology Business Analyst](https://vernovis.com/blog/jobs/12020/) | Vernovis | Cincinnati, | 2026-07-13 |
+| [Lead Product Manager - APPLIED AI (P4560)](https://job-boards.greenhouse.io/8451/jobs/8631401002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-13 |
+| [ServiceNow Developer IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/ServiceNow-Developer-IV_R13120-1) | CareSource | Remote | 2026-07-13 |
+| [Data Scientist II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-II_R13108) | CareSource | Remote | 2026-07-13 |
+| [Information Security GRC Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-III_R13134) | CareSource | Remote | 2026-07-13 |
+| [Software Engineer 3, iOS](https://job-boards.greenhouse.io/branch/jobs/7802967003) | Branch Insurance | Remote, US | 2026-07-13 |
+| [Lockbox Support Specialist Mon/Tues 10am-8:30pm & Sat/Sun 7am-5:30pm](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Support-Specialist-Mon-Tues-10am-8-30pm---Sat-Sun-7am-5-30pm_R70027-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-13 |
+| [Principal Data Scientist](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Principal-Data-Scientist_JR0610119) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-07-13 |
 <!-- JOBS:END -->
 
 ## How it works
