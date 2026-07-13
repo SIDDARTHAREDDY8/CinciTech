@@ -56,17 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 938 tracked total · updated `2026-07-13T04:18:01+00:00`
+### 🆕 8 new roles this update · 946 tracked total · updated `2026-07-13T10:14:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 4 |
 | Cynet Systems | 3 |
+| Vaco | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/6sRfVz1kM8WMjnfZJqXVu6JAlI4ngImhzKKvX8PbpvY) | Cynet Systems | Ohio | 2026-07-13 |
-| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/9qLqc-_KCAPESUxfgWAmTE8E_B_rKdP8Vfyy_sPQ17k) | Cynet Systems | Ohio | 2026-07-13 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/zxJ1lyWk_WAQr2SwXn79AR3eKZ5jYeab8p4gxj11TPg) | Cynet Systems | Ohio | 2026-07-13 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-13 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
+| [Tagging And Metadata Analyst Streaming Platform French Speaking](https://jobs.vaco.com/job/13671/tagging_and_metadata_analyst_streaming_platform_french_speaking/en) | Vaco | Moraga, Ohio | 2026-07-13 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/0FWhneOGNj3i7z6HcDPxGdVU6Yu4DMraaAPS74baSlY) | Cynet Systems | Ohio | 2026-07-13 |
+| [IT - Compliance Administrator](https://candidateportal.ceipal.com/job-details/Ap_IkAG5xwGaENQKCiNHnH_T2vd0ypMub4GEu3flkIQ) | Cynet Systems | Ohio | 2026-07-13 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/dOTt234qo_4iUxbxT6lW3PalTVHFvXsWmnQsLzm6cF8) | Cynet Systems | Ohio | 2026-07-13 |
 <!-- JOBS:END -->
 
 ## How it works
