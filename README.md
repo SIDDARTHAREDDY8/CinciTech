@@ -56,32 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1023 tracked total · updated `2026-07-14T20:11:45+00:00`
+### 🆕 9 new roles this update · 1030 tracked total · updated `2026-07-14T22:42:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Cynet Systems | 2 |
-| Vertiv | 2 |
-| Apex Systems | 1 |
-| First Solar | 1 |
-| Path Robotics | 1 |
-| Kroger | 1 |
-| Dana Incorporated | 1 |
+| Artech | 2 |
+| L3Harris | 2 |
+| Russell Tobin | 1 |
+| Cynet Systems | 1 |
+| Fifth Third Bank | 1 |
+| STERIS | 1 |
+| DHL | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Intelligent Automation Engineer - RPA Automation](https://www.apexsystems.com/job/3042267_usa/intelligent-automation-engineer---rpa-automation) | Apex Systems | Brooklyn, OH | 2026-07-14 |
-| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-14 |
-| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/KwExrgO9Hswy5Fluq4QLRfcuglD41oa2tvOA_aNRvuY) | Cynet Systems | Ohio | 2026-07-14 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/ShAUveqyf3MwM68qeq0zLoiKPhiZ3pfIlGtqA-7Q9bc) | Cynet Systems | Ohio | 2026-07-14 |
-| [Software Engineer Intern (1st Shift)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025137) | First Solar | Perrysburg, OH, United States | 2026-07-14 |
-| [Software Engineer, C++/Robotics](https://boards.greenhouse.io/pathrobotics/jobs/8633387002?gh_jid=8633387002) | Path Robotics | Columbus, Ohio | 2026-07-14 |
-| [Senior Advanced Solutions Architect - Data Platforms](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/208119) | Kroger | Blue Ash, OH, United States | 2026-07-14 |
-| [AI Insights & Governance Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275898) | Vertiv | Westerville, OH, United States | 2026-07-14 |
-| [Monitoring Technical Support Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276722) | Vertiv | Westerville, OH, United States | 2026-07-14 |
-| [NVH Test Engineer](https://jobs.dana.com/job/Maumee-NVH-Test-Engineer-OH-43537/1408762400/) | Dana Incorporated | OH | 2026-07-14 |
+| [Desktop Support-I](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28857122#/jobs/28857122) | Russell Tobin | USA, Remote | 2026-07-14 |
+| [Power Platform Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32700020#/jobs/32700020) | Artech | Remote, NY | 2026-07-14 |
+| [SharePoint Migration Lead / SharePoint Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32700011#/jobs/32700011) | Artech | Remote, NY | 2026-07-14 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/RpV--H66g3e3qMNeLUKiih14W_DH4UbP9SbLa3lEyI0) | Cynet Systems | Ohio | 2026-07-14 |
+| [Finance Technology Lead Data Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Finance-Technology-Lead-Data-Engineer_R66410-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-14 |
+| [Senior Manager, Software Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53669&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-07-14 |
+| [Director IT](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Director-IT-USO--job-Westerville-OH-US-11073285.html) | DHL | Westerville, Ohio | 2026-07-14 |
+| [Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/associate-quality-engineering/4832/97798350624) | L3Harris | Cincinnati, OH | 2026-07-14 |
+| [Lead, Systems Engineering](https://careers.l3harris.com/en/job/united-states/lead-systems-engineering/4832/97798350496) | L3Harris | Remote | 2026-07-14 |
 <!-- JOBS:END -->
 
 ## How it works
