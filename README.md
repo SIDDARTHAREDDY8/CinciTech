@@ -56,16 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 997 tracked total · updated `2026-07-14T11:18:40+00:00`
+### 🆕 11 new roles this update · 1008 tracked total · updated `2026-07-14T14:37:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 4 |
 | Cynet Systems | 2 |
+| Cincinnati Children's Hospital | 2 |
+| Agility Connect | 1 |
+| FirstEnergy | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/K1G-jNMSmxAY0AvRNaGVcRS8Y2an_S9Omv_xPSmdngI) | Cynet Systems | Ohio | 2026-07-14 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/l11udleKwnzU9-7kBuHboS7v25uB-_aeqbMRRm4dy4g) | Cynet Systems | Ohio | 2026-07-14 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-14 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/DauJAEehAXAxvu0smg_QKu2zzHlL8Y6KTktpku6FL7w) | Cynet Systems | Ohio | 2026-07-14 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/vjJDErHjsQBxTRm86sZwYWucy_bYlFQ5BILAGmq8PPc) | Cynet Systems | Ohio | 2026-07-14 |
+| [Principal AI Enablement & Delivery Operations](https://agilityconnect.io/jobs/8227) | Agility Connect | Columbus, Ohio | 2026-07-14 |
+| [Developer - IT Enterprise Analytics & Integrations](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104744) | FirstEnergy | Akron, OH, United States | 2026-07-14 |
+| [Student II - Software Engineering](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223359) | Cincinnati Children's Hospital | Remote | 2026-07-14 |
+| [Student II - Software Engineering](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223357) | Cincinnati Children's Hospital | Remote | 2026-07-14 |
+| [Internal Audit - Associate Internal Auditor - Data Analytics Focus](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=166668) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-07-14 |
 <!-- JOBS:END -->
 
 ## How it works
