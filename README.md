@@ -56,27 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1012 tracked total · updated `2026-07-14T17:00:01+00:00`
+### 🆕 11 new roles this update · 1023 tracked total · updated `2026-07-14T20:11:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Fifth Third Bank | 2 |
-| Brooksource | 1 |
-| Nationwide | 1 |
-| American Electric Power | 1 |
-| Medpace | 1 |
+| Vertiv | 2 |
+| Apex Systems | 1 |
+| First Solar | 1 |
+| Path Robotics | 1 |
+| Kroger | 1 |
+| Dana Incorporated | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/ushLPt6Wb-hTjeI6Zqz8UnyyRNX9aPXPJABduJVRszU) | Cynet Systems | Ohio | 2026-07-14 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/R8ulXaEsQqdlA_2yq_BDnKg_Q01ym1B8gAv93utAgag) | Cynet Systems | Ohio | 2026-07-14 |
-| [Scrum Master – Customer Data](https://jobs.brooksource.com/jobs/job/a1wcv000000otj3eai-scrum-master-customer-data-remote-wisconsin/) | Brooksource | Remote, Wisconsin | 2026-07-14 |
-| [AI Engineer - Automated Channels Transformation](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/AI-Engineer---Automated-Channels-Transformation_R70497) | Fifth Third Bank | Cincinnati, OH | 2026-07-14 |
-| [Financial Data Analyst – Business Intelligence](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Data-Scientist_R66349) | Fifth Third Bank | Cincinnati, OH | 2026-07-14 |
-| [Consultant, Software Engineer (Technical Consultant)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--Technical-Consultant-_098701-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-14 |
-| [Architect Principal - Infrastructure](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Architect-Principal---Infrastructure_R17071) | American Electric Power | Gahanna, OH | 2026-07-14 |
-| [AI & Data Careers Event](https://uscareers-medpace.icims.com/jobs/12853/login) | Medpace | Cincinnati, Ohio | 2026-07-14 |
+| [Intelligent Automation Engineer - RPA Automation](https://www.apexsystems.com/job/3042267_usa/intelligent-automation-engineer---rpa-automation) | Apex Systems | Brooklyn, OH | 2026-07-14 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-14 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/KwExrgO9Hswy5Fluq4QLRfcuglD41oa2tvOA_aNRvuY) | Cynet Systems | Ohio | 2026-07-14 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/ShAUveqyf3MwM68qeq0zLoiKPhiZ3pfIlGtqA-7Q9bc) | Cynet Systems | Ohio | 2026-07-14 |
+| [Software Engineer Intern (1st Shift)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025137) | First Solar | Perrysburg, OH, United States | 2026-07-14 |
+| [Software Engineer, C++/Robotics](https://boards.greenhouse.io/pathrobotics/jobs/8633387002?gh_jid=8633387002) | Path Robotics | Columbus, Ohio | 2026-07-14 |
+| [Senior Advanced Solutions Architect - Data Platforms](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/208119) | Kroger | Blue Ash, OH, United States | 2026-07-14 |
+| [AI Insights & Governance Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275898) | Vertiv | Westerville, OH, United States | 2026-07-14 |
+| [Monitoring Technical Support Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276722) | Vertiv | Westerville, OH, United States | 2026-07-14 |
+| [NVH Test Engineer](https://jobs.dana.com/job/Maumee-NVH-Test-Engineer-OH-43537/1408762400/) | Dana Incorporated | OH | 2026-07-14 |
 <!-- JOBS:END -->
 
 ## How it works
