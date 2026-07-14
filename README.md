@@ -56,18 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 990 tracked total · updated `2026-07-14T03:57:29+00:00`
+### 🆕 9 new roles this update · 999 tracked total · updated `2026-07-14T08:59:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 4 |
 | Cynet Systems | 2 |
-| Net2Source | 1 |
+| Njoyn (CGI) | 2 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Engineer - Quality Assurance (Expert Level)](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=28845637#/jobs/28845637) | Net2Source | Hebron, KY | 2026-07-14 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/7JvFS3MYiIQqzeMCfBQ7z1Eq62XBp-KvnXzcGUhEoBk) | Cynet Systems | Ohio | 2026-07-14 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/C4VfizZRySVuHE-qx5epgpBngOg_jV228SIx8VnDDHY) | Cynet Systems | Ohio | 2026-07-14 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-14 |
+| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
+| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-14 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/8y1RFVr4E_V8_6UCBwzSiXdq7KeeFz-ZSb7UtxE4Gms) | Cynet Systems | Ohio | 2026-07-14 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/EwJTEucqbpE78EUFsnu3J9jSg2HVZxQViMEN5mIAH_I) | Cynet Systems | Ohio | 2026-07-14 |
+| [Interface Developer (Pentaho & Enterprise Integrations)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1080&BRID=1316216&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-14 |
+| [Power BI Report Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1081&BRID=1316215&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-14 |
+| [Manager, Technology Engineer Manager (Database Platform Engineering)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Technology-Engineer-Manager--Database-Platform-Engineering-_099059) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-14 |
 <!-- JOBS:END -->
 
 ## How it works
