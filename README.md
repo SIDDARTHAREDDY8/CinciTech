@@ -56,31 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 992 tracked total · updated `2026-07-13T22:33:14+00:00`
+### 🆕 3 new roles this update · 990 tracked total · updated `2026-07-14T03:57:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| ASK Consulting | 2 |
 | Cynet Systems | 2 |
-| CareSource | 2 |
-| First Solar | 1 |
-| Path Robotics | 1 |
+| Net2Source | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-13 |
-| [It Engineering Manager](https://www.roberthalf.com/us/en/job/remote-oh/it-engineering-manager/02940-0013457542-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
-| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
-| [Senior It Platform Systems Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/senior-it-platform-systems-engineer/02940-0013459847-usen) | Robert Half | Cincinnati, 02940 | 2026-07-13 |
-| [NON IT Customer Support/Account Representative (Bulk 8)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125888/NON IT Customer Support/Account Representative (Bulk 8)) | ASK Consulting | Columbus, OH, 43219 | 2026-07-13 |
-| [NON IT Finance Support Mid Level (Bulk 15)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125886/NON IT Finance Support Mid Level (Bulk 15)) | ASK Consulting | Columbus, OH, 43219 | 2026-07-13 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/9Jsvt9geBGj88UNvp3N2ZquY6pb-ZLum8K2oNfdX3m4) | Cynet Systems | Ohio | 2026-07-13 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/CLU-sW8D-Ko8o17WAtqxfwWZ1rQSBbtIAHxa-AEb6Oo) | Cynet Systems | Ohio | 2026-07-13 |
-| [Application Developer II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Dayton-OH/Application-Developer-II_R13195) | CareSource | Dayton, OH | 2026-07-13 |
-| [Operations Data Visualization and Analytics Engineer IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Dayton-OH/Operations-Data-Visualization-and-Analytics-Engineer-IV_R13194) | CareSource | Dayton, OH | 2026-07-13 |
-| [AI Intern (Fall 2026)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025125) | First Solar | Perrysburg, OH, United States | 2026-07-13 |
-| [Senior Machine Learning Engineer - Reinforcement Learning](https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002) | Path Robotics | Columbus, Ohio or Remote | 2026-07-13 |
+| [Engineer - Quality Assurance (Expert Level)](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=28845637#/jobs/28845637) | Net2Source | Hebron, KY | 2026-07-14 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/7JvFS3MYiIQqzeMCfBQ7z1Eq62XBp-KvnXzcGUhEoBk) | Cynet Systems | Ohio | 2026-07-14 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/C4VfizZRySVuHE-qx5epgpBngOg_jV228SIx8VnDDHY) | Cynet Systems | Ohio | 2026-07-14 |
 <!-- JOBS:END -->
 
 ## How it works
