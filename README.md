@@ -56,29 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1030 tracked total · updated `2026-07-14T22:42:28+00:00`
+### 🆕 6 new roles this update · 1035 tracked total · updated `2026-07-15T04:00:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
-| L3Harris | 2 |
-| Russell Tobin | 1 |
-| Cynet Systems | 1 |
-| Fifth Third Bank | 1 |
-| STERIS | 1 |
-| DHL | 1 |
+| Robert Half | 2 |
+| Cynet Systems | 2 |
+| Vaco | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support-I](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28857122#/jobs/28857122) | Russell Tobin | USA, Remote | 2026-07-14 |
-| [Power Platform Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32700020#/jobs/32700020) | Artech | Remote, NY | 2026-07-14 |
-| [SharePoint Migration Lead / SharePoint Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32700011#/jobs/32700011) | Artech | Remote, NY | 2026-07-14 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/RpV--H66g3e3qMNeLUKiih14W_DH4UbP9SbLa3lEyI0) | Cynet Systems | Ohio | 2026-07-14 |
-| [Finance Technology Lead Data Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Finance-Technology-Lead-Data-Engineer_R66410-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-14 |
-| [Senior Manager, Software Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53669&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-07-14 |
-| [Director IT](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Director-IT-USO--job-Westerville-OH-US-11073285.html) | DHL | Westerville, Ohio | 2026-07-14 |
-| [Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/associate-quality-engineering/4832/97798350624) | L3Harris | Cincinnati, OH | 2026-07-14 |
-| [Lead, Systems Engineering](https://careers.l3harris.com/en/job/united-states/lead-systems-engineering/4832/97798350496) | L3Harris | Remote | 2026-07-14 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-15 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-15 |
+| [Quality Assurance Manager](https://jobs.vaco.com/job/18778/quality_assurance_manager/en) | Vaco | Delaware, Ohio | 2026-07-15 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/4GtI7Vm7F0od_WycFPlBXOSescabmZZurofD6TGForg) | Cynet Systems | Ohio | 2026-07-15 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/_p_d8m069A6FLwSoLHKl_MqlfxGhRtZu0f-eZNJmGbI) | Cynet Systems | Ohio | 2026-07-15 |
+| [Sr GoLang(GO) Software Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1280&BRID=1316840&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-15 |
 <!-- JOBS:END -->
 
 ## How it works
