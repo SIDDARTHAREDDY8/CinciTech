@@ -56,39 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 1058 tracked total · updated `2026-07-15T17:22:33+00:00`
+### 🆕 11 new roles this update · 1069 tracked total · updated `2026-07-15T19:59:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| Nationwide | 2 |
-| Honda | 2 |
-| Artech | 1 |
-| Mindlance | 1 |
-| Fifth Third Bank | 1 |
-| Cleveland Clinic | 1 |
-| Kroger | 1 |
-| Cleveland-Cliffs | 1 |
+| Nesco Resource | 1 |
+| Path Robotics | 1 |
+| Worldpay | 1 |
+| Nationwide | 1 |
 | Vertiv | 1 |
+| CrossCountry Mortgage | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer, Embedded OS](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32703517#/jobs/32703517) | Artech | Hybrid, NC | 2026-07-15 |
-| [Intelligent Automation Engineer - RPA Automation Anywhere](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28859340#/jobs/28859340) | Mindlance | Brooklyn, OH | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/eBCp2VnPpRTCd9szbVsgrYKjEV5krVra9uLivf2Jy7c) | Cynet Systems | Ohio | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/5oSQqGw8yAD5kloU5fo7Ik0A2r-qSM2hmtnnspoNUAA) | Cynet Systems | Ohio | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/UqCFNYeg13ocCHimTQYinbX9bDBe0jOwEZh7pj9YMZg) | Cynet Systems | Ohio | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/yjV2NwClcXXrTtaSh8aWyiMguBf_AOYfEMUPAyPa8RE) | Cynet Systems | Ohio | 2026-07-15 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/5Vxg_QQpicVPFmesw4UotYYFEm2Rg80VGPmiEVYzXSM) | Cynet Systems | Ohio | 2026-07-15 |
-| [Enterprise Process Optimization Manager](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Process-Optimization-Manager_R70422-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-15 |
-| [Sr Engineer, Software Engineer - Angular and Java](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Angular-and-Java_099093-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-15 |
-| [Sr Engineer, Software Engineer - Snowflake and Oracle (2 to 5 years experience)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Sr-Engineer--Software-Engineer---Snowflake-and-Oracle--2-to-5-years-experience-_099088) | Nationwide | Ohio - Columbus Metro | 2026-07-15 |
-| [Research Systems Analyst III](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Systems-Analyst-II_331515-1) | Cleveland Clinic | Remote Location | 2026-07-15 |
-| [M365 Copilot Advanced Solutions Architect](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/208925) | Kroger | Blue Ash, OH, United States | 2026-07-15 |
-| [Quality Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Quality-Engineer_R13080) | Cleveland-Cliffs | Cleveland Works | 2026-07-15 |
-| [Manager, Firmware Engineering](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276958) | Vertiv | Delaware, OH, United States | 2026-07-15 |
-| [IT Infrastructure Engineer](https://careers.honda.com/us/en/job/11726) | Honda | Marysville, Ohio, United States | 2026-07-15 |
-| [SAP Basis Architect](https://careers.honda.com/us/en/job/11665) | Honda | Marysville, Ohio, United States | 2026-07-15 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/0bvIgTtVPgT_b1JQeWYglZU9hqCUvIIlQPMGp4cyk84) | Cynet Systems | Ohio | 2026-07-15 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Z8sxWEShGv-PLgjjY50HV__7ftqxqQqkRRw9Cx7sMw8) | Cynet Systems | Ohio | 2026-07-15 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/m_x8QEF74A_PfjVeWNnh9bEF2FejKAowiAY2EjvfTHQ) | Cynet Systems | Ohio | 2026-07-15 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vbQlJGUtr-oXbHoh9yUL3T8avnlhKSHTvG56yNvdnPk) | Cynet Systems | Ohio | 2026-07-15 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/F8khkji6H3Y0yDutf9h1SQUNt3lJ5Zt6A7qcE0-ZlU8) | Cynet Systems | Ohio | 2026-07-15 |
+| [CMM Programmer - 2nd Shift](https://www.nescoresource.com/job-details/cmm-programmer-2nd-shift-in-engineering-jobs-1642898) | Nesco Resource | Erlanger, KY | 2026-07-15 |
+| [Software Engineer, Frontend](https://boards.greenhouse.io/pathrobotics/jobs/8635244002?gh_jid=8635244002) | Path Robotics | Columbus, Ohio | 2026-07-15 |
+| [Senior Software Engineer - Backend (.Net)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-Software-Engineer---Backend--Net-_JR0610434-1) | Worldpay | CINCINNATI, OHIO | 2026-07-15 |
+| [Sr Engineer, Software Engineer - Java/Angular (2 - 5 years' experience)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Java-Angular--2---5-years--experience-_099086) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-15 |
+| [IT End User Services Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276638) | Vertiv | Westerville, OH, United States | 2026-07-15 |
+| [IT Infrastructure Manager](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/IT-Infrastructure-Manager_JR03159) | CrossCountry Mortgage | Remote USA | 2026-07-15 |
 <!-- JOBS:END -->
 
 ## How it works
