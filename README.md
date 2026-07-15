@@ -56,18 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1036 tracked total · updated `2026-07-15T09:02:29+00:00`
+### 🆕 4 new roles this update · 1040 tracked total · updated `2026-07-15T11:27:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/cnUcucK5mA8It14_oYqJF-GZiT4q6Wt1LRPw7KtdMJE) | Cynet Systems | Ohio | 2026-07-15 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/d62UsnUdluW3XGYJYvObxdp12owzR-344NK0a_1v_jo) | Cynet Systems | Ohio | 2026-07-15 |
-| [Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---Test-Automation-Developer--Ruby---Playwright-_099150) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-15 |
+| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-15 |
+| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-15 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/qAjhUe5AFdrbuomUaTfzAo1YdOiKIhIx6IwHeQtCuFU) | Cynet Systems | Ohio | 2026-07-15 |
+| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/IZ0mmhwLZO0e38c632pdxRjcQtZdQF1Lu9lHI0SGi-0) | Cynet Systems | Ohio | 2026-07-15 |
 <!-- JOBS:END -->
 
 ## How it works
