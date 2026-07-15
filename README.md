@@ -56,19 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1040 tracked total · updated `2026-07-15T11:27:03+00:00`
+### 🆕 4 new roles this update · 1042 tracked total · updated `2026-07-15T14:40:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Cynet Systems | 2 |
+| Artech | 1 |
+| Cynet Systems | 1 |
+| Agility Connect | 1 |
+| Path Robotics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Solutions Architect](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-solutions-architect/04130-0013455969-usen) | Robert Half | Cincinnati, 04130 | 2026-07-15 |
-| [Ms Dynamics Crm Ce Technofunctional Sr Consultant](https://www.roberthalf.com/us/en/job/new-york-ny/ms-dynamics-crm-ce-technofunctional-sr-consultant/02940-0013463294-usen) | Robert Half | Cincinnati, 02940 | 2026-07-15 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/qAjhUe5AFdrbuomUaTfzAo1YdOiKIhIx6IwHeQtCuFU) | Cynet Systems | Ohio | 2026-07-15 |
-| [Desktop Support Technician](https://candidateportal.ceipal.com/job-details/IZ0mmhwLZO0e38c632pdxRjcQtZdQF1Lu9lHI0SGi-0) | Cynet Systems | Ohio | 2026-07-15 |
+| [Information Technology - Operations - Technical Operations Engineer (Azure)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32701434#/jobs/32701434) | Artech | Remote, GA | 2026-07-15 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/IgUyhRXnA9VvfEeUITS4ZetJA4Wlmf7rFL-3F5ltQRc) | Cynet Systems | Ohio | 2026-07-15 |
+| [Programmer/Analyst: IV](https://agilityconnect.io/jobs/8231) | Agility Connect | OH | 2026-07-15 |
+| [Machine Learning Engineer, Robot Learning](https://boards.greenhouse.io/pathrobotics/jobs/8116143002?gh_jid=8116143002) | Path Robotics | Columbus, Ohio | 2026-07-15 |
 <!-- JOBS:END -->
 
 ## How it works
