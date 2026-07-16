@@ -56,21 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1097 tracked total · updated `2026-07-16T11:26:13+00:00`
+### 🆕 12 new roles this update · 1109 tracked total · updated `2026-07-16T14:46:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| DHL | 1 |
+| Battelle | 3 |
+| TEKsystems | 1 |
+| Mindlance | 1 |
+| Agility Connect | 1 |
+| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/S9ZCD_9-XULEI7oraZ3kOvTZoMyS8mf08ZFcvqPlOGA) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/7HWICqDoOjP-B7I6gNqaVgZGwuPdHL-OuYV-bAYygag) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/5wbL8dwqrv2ZCKsHBtOTCD59eghVKw6_X32sz9ZcP8U) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/aiOjTL8g5yuC4cdhOEc1zVEtw5hurppdfL7ii2hpfjQ) | Cynet Systems | Ohio | 2026-07-16 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/iwoQL06D8oBFzx8krk18Q6ApoeODKXpv_9lSzefX-7M) | Cynet Systems | Ohio | 2026-07-16 |
-| [Director of Security Operations NA](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Director-of-Security-Operations-NA-USO-job-Westerville-OH-US-11075506.html) | DHL | Westerville, Ohio | 2026-07-16 |
+| [Data Center Audit Technician](https://careers.teksystems.com/us/en/job/JP-006160123/Data-Center-Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-07-16 |
+| [IT Project Manager](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28867792#/jobs/28867792) | Mindlance | Remote, AR | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/WkkZ4o--hXobAlsUb5HAVYdVqo90HWhZZ1EVg3Fnfn4) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/OkyolErNAFDu78oyt7wA0O5wbyovxnjEXq8mb7GXLLg) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/fRBIrChQ1z2Gvmf7cjawxSgsKCUsD3q8iF44fLyOVPw) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/fbzd9KnI8HWtoEhq-lIL0XR5NSTvanpNOg8zqveFRDo) | Cynet Systems | Ohio | 2026-07-16 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/EDxBOMEfqD8usMxy_b_l8JkYBYLQSxZTcvi21PlVJ5A) | Cynet Systems | Ohio | 2026-07-16 |
+| [Software Developer](https://agilityconnect.io/jobs/8232) | Agility Connect | Columbus, OH | 2026-07-16 |
+| [Quality Engineer I](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55279&jobPipeline=PhenomCareerSite) | STERIS | Mentor, OH, Ohio | 2026-07-16 |
+| [Mid-level Data Scientist](https://jobs.battelle.org/us/en/job/76372) | Battelle | Columbus, OH | 2026-07-16 |
+| [Network Systems Administrator](https://jobs.battelle.org/us/en/job/76370) | Battelle | Columbus, OH | 2026-07-16 |
+| [Data Science AI/ML Co-op (Fall 2026)](https://jobs.battelle.org/us/en/job/76368) | Battelle | Columbus, OH | 2026-07-16 |
 <!-- JOBS:END -->
 
 ## How it works
