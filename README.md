@@ -56,35 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1123 tracked total · updated `2026-07-16T17:10:56+00:00`
+### 🆕 11 new roles this update · 1134 tracked total · updated `2026-07-16T19:57:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| Mindlance | 2 |
-| CareSource | 2 |
-| Apex Systems | 1 |
-| Huntington Bank | 1 |
-| Vertiv | 1 |
-| STERIS | 1 |
-| Festo | 1 |
+| Medpace | 2 |
+| Artech | 1 |
+| Fifth Third Bank | 1 |
+| Honeywell | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Full Sack & GenAI Developer](https://www.apexsystems.com/job/3042589_usa/senior-full-sack--genai-developer) | Apex Systems | Brooklyn, OH | 2026-07-16 |
-| [IT Project Manager](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28868453#/jobs/28868453) | Mindlance | Remote, AR | 2026-07-16 |
-| [Senior Mainframe Developer & Production support](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28861613#/jobs/28861613) | Mindlance | Brooklyn, OH | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/XNzS7dGftGLtR4NJrYExpfTBpAFVQWAGQroVMGhVslM) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/7-8R1nSqIBgMEEGqMOqGABGY1UauicELxrmSMxhTyGc) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/aljqh6TfjuKNgweR-wxVWGd8gv6ETUOU2CG21PZSh70) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/yU-EYQXUecK7xO4St3lPBn1A4IOOVR8NCwCgpFU6dT0) | Cynet Systems | Ohio | 2026-07-16 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/CnKP_QaEshOgggYxmihMB7C7v9et7AY-zC0NHafOub4) | Cynet Systems | Ohio | 2026-07-16 |
-| [Claims AI Business Analyst IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Claims-AI-Business-Analyst-IV_R13236) | CareSource | Remote | 2026-07-16 |
-| [Network Engineer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Dayton-OH/Network-Engineer-III_R13162) | CareSource | Dayton, OH | 2026-07-16 |
-| [EDW Application Architect](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/EDW-Application-Architect_R0073544-1) | Huntington Bank | Columbus, OH | 2026-07-16 |
-| [Sr. Director, Information Technology Program Delivery & PMO](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277157) | Vertiv | Westerville, OH, United States | 2026-07-16 |
-| [VHP Application Engineer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55041&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-07-16 |
-| [Quality Engineer](https://jobs.festo.com/job/Mason-Quality-Engineer-IL-45039/1415913233/) | Festo | Mason, US, 45039 | 2026-07-16 |
+| [Sr. Storage Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32711470#/jobs/32711470) | Artech | Cincinnati, OH | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/kx6yEsMxsCRBhSIHDML2FQURmMZKlx7Vq_kY_Y9yK-g) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/nhLC2Y9xW3CdYvFheHptWyMp1N9-JGCYfOf07ijTYUM) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/z7cZSLJfyOJmqAcGKozhNS3isLxvvziNivvOahB02tY) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/4-6e0LKjgdDa0TIF5fDAP9ro4Pc9dJD8nDI544zYnV8) | Cynet Systems | Ohio | 2026-07-16 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/7rzXJOAgwqGJF7kS9qhMcw1qvQ3LJBODmY2EYEoObW8) | Cynet Systems | Ohio | 2026-07-16 |
+| [Principal Product Owner - Commercial Digital](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal-Product-Owner---Commercial-Digital_R70629) | Fifth Third Bank | Virtual | 2026-07-16 |
+| [Software Engineer II - SRE](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153436) | Honeywell | Hamilton, NJ, United States | 2026-07-16 |
+| [Clinical Database Programmer](https://uscareers-medpace.icims.com/jobs/12462/login) | Medpace | Cincinnati, Ohio | 2026-07-16 |
+| [Clinical Data Coder](https://uscareers-medpace.icims.com/jobs/12770/login) | Medpace | Cincinnati, Ohio | 2026-07-16 |
+| [Lead, Data Engineer](https://careers.l3harris.com/en/job/united-states/lead-data-engineer/4832/97880113552) | L3Harris | Remote | 2026-07-16 |
 <!-- JOBS:END -->
 
 ## How it works
