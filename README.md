@@ -56,30 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1134 tracked total · updated `2026-07-16T19:57:22+00:00`
+### 🆕 8 new roles this update · 1142 tracked total · updated `2026-07-16T22:36:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| Medpace | 2 |
 | Artech | 1 |
 | Fifth Third Bank | 1 |
-| Honeywell | 1 |
-| L3Harris | 1 |
+| CrossCountry Mortgage | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr. Storage Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32711470#/jobs/32711470) | Artech | Cincinnati, OH | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/kx6yEsMxsCRBhSIHDML2FQURmMZKlx7Vq_kY_Y9yK-g) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/nhLC2Y9xW3CdYvFheHptWyMp1N9-JGCYfOf07ijTYUM) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/z7cZSLJfyOJmqAcGKozhNS3isLxvvziNivvOahB02tY) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/4-6e0LKjgdDa0TIF5fDAP9ro4Pc9dJD8nDI544zYnV8) | Cynet Systems | Ohio | 2026-07-16 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/7rzXJOAgwqGJF7kS9qhMcw1qvQ3LJBODmY2EYEoObW8) | Cynet Systems | Ohio | 2026-07-16 |
-| [Principal Product Owner - Commercial Digital](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal-Product-Owner---Commercial-Digital_R70629) | Fifth Third Bank | Virtual | 2026-07-16 |
-| [Software Engineer II - SRE](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153436) | Honeywell | Hamilton, NJ, United States | 2026-07-16 |
-| [Clinical Database Programmer](https://uscareers-medpace.icims.com/jobs/12462/login) | Medpace | Cincinnati, Ohio | 2026-07-16 |
-| [Clinical Data Coder](https://uscareers-medpace.icims.com/jobs/12770/login) | Medpace | Cincinnati, Ohio | 2026-07-16 |
-| [Lead, Data Engineer](https://careers.l3harris.com/en/job/united-states/lead-data-engineer/4832/97880113552) | L3Harris | Remote | 2026-07-16 |
+| [Information Technology - ERP Consultant - Oracle (Core HR and Onboarding)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32713197#/jobs/32713197) | Artech | Remote, GA | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/jGjfAJEm1RnhFioQiPyW_9c9jmE-n0S_AItD4URkvGM) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/M3sWTNBG-33AJ0B9Da3NCfxolCVLDfIKW3tpmXo3zUU) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vWbxc9iYUy3IaEkCtk3I-ptmiZDxRr9JnlUlrNbWcRQ) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/T0x-kxQwrNrAgL0trf_uP9Q19kSvKNNzZTGDCxHy8r8) | Cynet Systems | Ohio | 2026-07-16 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/YbHnSt-Oq-YQkzwBQ8h030oMx_gByfZp5mIIxTrCagM) | Cynet Systems | Ohio | 2026-07-16 |
+| [Enterprise Process Optimization Manager](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Process-Optimization-Manager_R70697) | Fifth Third Bank | Cincinnati, OH | 2026-07-16 |
+| [Encompass Software Engineer](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Encompass-Software-Engineer_JR03213) | CrossCountry Mortgage | Remote USA | 2026-07-16 |
 <!-- JOBS:END -->
 
 ## How it works
