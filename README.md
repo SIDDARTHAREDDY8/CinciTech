@@ -56,21 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1084 tracked total · updated `2026-07-16T04:02:16+00:00`
+### 🆕 7 new roles this update · 1091 tracked total · updated `2026-07-16T09:00:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| Mindlance | 1 |
+| Nationwide | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Full Sack & GenAI Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28859803#/jobs/28859803) | Mindlance | Brooklyn, OH | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/3owfW49P5m9I3RaBSJWopl3ZwRdlT3bLOItlO9lxgI4) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/qxbyfT7Cb_3dsRskU1jGnL-8kvc00EPAvwW5NCHWY3s) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/MRF8WRpdo-dP9SusvCgfDKHxPnkwht-dVMF7TKzmm_g) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/BILnub-Wgns89ZZGTrBqJTpu1M2CXweWs75lzpoA2Lk) | Cynet Systems | Ohio | 2026-07-16 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/fpkJdqrgAPNv_hJkE-9T98rTvW_m3Nm3cItBFSbxPy4) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/xgywzozW16fvw2m2AgjO7iR9xzFoCcbiQhA0usczj74) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/A3TLgAWPUKKt1rAhM7EGiodAAZMKUFc9IihgWy2S4RI) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/lcZFzSwmDev4fKkUeCXEgvTD8NHbOhzndQn-INQKSBI) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Jpb2L_It3dzHCTRv1GXD_ijYztgAtrDXuCFfPGfEUSQ) | Cynet Systems | Ohio | 2026-07-16 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/LAHXg74vZ4HLHgVvnBp7cIfq5DPZKByGjPuZnl_DYIo) | Cynet Systems | Ohio | 2026-07-16 |
+| [Specialist, Software Engineer - Infrastructure/Platform Engineer - ETL Pipelines](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---Infrastructure-Platform-Engineer---ETL-Pipelines_099009) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-16 |
+| [Specialist, Data Engineer Test Lead - ETL, Python, Perl](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Engineer-Test-Lead---ETL--Python--Perl_099010) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-16 |
 <!-- JOBS:END -->
 
 ## How it works
