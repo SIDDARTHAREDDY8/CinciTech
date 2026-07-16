@@ -56,28 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1079 tracked total · updated `2026-07-15T22:47:56+00:00`
+### 🆕 6 new roles this update · 1084 tracked total · updated `2026-07-16T04:02:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| Path Robotics | 2 |
-| Russell Tobin | 1 |
-| Artech | 1 |
-| Great American Insurance | 1 |
+| Mindlance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP SuccessFactors Employee Central (EC) Resource](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28839165#/jobs/28839165) | Russell Tobin | Remote, GA | 2026-07-15 |
-| [Senior .NET Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32706652#/jobs/32706652) | Artech | REMOTE | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/4t4_-4zbLj062piCwg2WKWDvyNRLnz6NSmjBP7FlBgU) | Cynet Systems | Ohio | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/CTaFts1MdnQvFDewL-GiMjb2t3yHf6Z7eh4ovtCRqbQ) | Cynet Systems | Ohio | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/QwvfUX7XxeOC7SeWRvfVqAsfqNDMrkSoKtZtThdvqcE) | Cynet Systems | Ohio | 2026-07-15 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/mg9mUrPNIT4VzKNFGrlx6GIneI38TaM3XlEGbN1Epz8) | Cynet Systems | Ohio | 2026-07-15 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/u0unvNBzsY0eWVZ-5WcwLHQU65aosGV_of0b8tt9tsY) | Cynet Systems | Ohio | 2026-07-15 |
-| [Senior Software Engineer, Sensors & Embodied Intelligence](https://boards.greenhouse.io/pathrobotics/jobs/8635735002?gh_jid=8635735002) | Path Robotics | Columbus, Ohio | 2026-07-15 |
-| [Software Engineer, C#](https://boards.greenhouse.io/pathrobotics/jobs/8635262002?gh_jid=8635262002) | Path Robotics | Columbus, Ohio | 2026-07-15 |
-| [SR Application Engineer -Hybrid/Remote](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/SR-Application-Engineer--Hybrid-Remote_R9053) | Great American Insurance | Richfield, OH (USA) | 2026-07-15 |
+| [Senior Full Sack & GenAI Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28859803#/jobs/28859803) | Mindlance | Brooklyn, OH | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/3owfW49P5m9I3RaBSJWopl3ZwRdlT3bLOItlO9lxgI4) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/qxbyfT7Cb_3dsRskU1jGnL-8kvc00EPAvwW5NCHWY3s) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/MRF8WRpdo-dP9SusvCgfDKHxPnkwht-dVMF7TKzmm_g) | Cynet Systems | Ohio | 2026-07-16 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/BILnub-Wgns89ZZGTrBqJTpu1M2CXweWs75lzpoA2Lk) | Cynet Systems | Ohio | 2026-07-16 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/fpkJdqrgAPNv_hJkE-9T98rTvW_m3Nm3cItBFSbxPy4) | Cynet Systems | Ohio | 2026-07-16 |
 <!-- JOBS:END -->
 
 ## How it works
