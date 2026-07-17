@@ -56,23 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1149 tracked total · updated `2026-07-17T04:03:42+00:00`
+### 🆕 8 new roles this update · 1157 tracked total · updated `2026-07-17T08:58:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| Artech | 1 |
-| Honda | 1 |
+| Nationwide | 1 |
+| Vertiv | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Cloud DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32713148#/jobs/32713148) | Artech | Cleveland, OH | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/4mbMmAEA2zt03OHyG0rv3X4IsUkMfX30dn-qpaewkv4) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/V3VwL6C66pi91Mjrb8w3xogIYQUnra2mjqH2SToT7fI) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/HtTN8wpaYO734cDrTvbXv30R1C_muGaq-eujFi76y48) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/7o2bWYcBzco043o6srF66Np419olrIXN7lN5iSReUjU) | Cynet Systems | Ohio | 2026-07-17 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/rx5hHDBYqLFIRpVGXgxEJvVzNRB8en_bTPgbdhbDE7M) | Cynet Systems | Ohio | 2026-07-17 |
-| [Principal Vehicle Platform Engineer - Fleet-as-a-Service (FaaS) Program](https://careers.honda.com/us/en/job/11865) | Honda | Marysville, Ohio, United States | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/hfKlYmQWDFfbzIu3W5OJc0R-JSTe4SFl3gfC1iPu1rQ) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/kIdg_DVoGkpIuAMJHlVHUgIooBHXkT82-hLHhMxYRUk) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/UMYKzet7WXvA57M642ehMdtPRxCVMj2jCOcwfU4vmK0) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/CA9pXsW6-CQFwm7AJEiXqcE72vn8vLxCMCeDeTT_0fM) | Cynet Systems | Ohio | 2026-07-17 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/jFkJrxQFBddnkK-Y2pPmkU2JlkcVT0kIeoeZcdFXnvE) | Cynet Systems | Ohio | 2026-07-17 |
+| [Specialist, Data Governance Advisor](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Governance-Advisor_099048) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-17 |
+| [Quality Engineer Business Systems & Audits](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272093) | Vertiv | Westerville, OH, United States | 2026-07-17 |
+| [Technical Support Associate](https://careers.cintas.com/job/Mason-Technical-Support-Associate-OH-45040/1399321300/) | Cintas | OH | 2026-07-17 |
 <!-- JOBS:END -->
 
 ## How it works
