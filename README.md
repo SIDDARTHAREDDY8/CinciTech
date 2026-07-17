@@ -56,30 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1177 tracked total · updated `2026-07-17T14:34:46+00:00`
+### 🆕 7 new roles this update · 1184 tracked total · updated `2026-07-17T17:04:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 6 |
-| Artech | 3 |
-| TEKsystems | 1 |
-| FirstEnergy | 1 |
-| O-I Glass | 1 |
+| CareSource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Audit Technician](https://careers.teksystems.com/us/en/job/JP-006162300/Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-07-17 |
-| [Information Technology - Application Development - Software Developer - Java](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32715403#/jobs/32715403) | Artech | Remote, NY | 2026-07-17 |
-| [Quality Engineer - Automation - Multiple Locations - Long Term](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32710469#/jobs/32710469) | Artech | Columbus, OH | 2026-07-17 |
-| [Quality Engineer - Automation - Multiple Locations - Long Term](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32711052#/jobs/32711052) | Artech | Columbus, OH | 2026-07-17 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/puWmx3R3HbNhZM4VUaOonW52QSL8HEBYXBt57XJpe9Y) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/0AMtB25s6XPbYFTawKA43TW5IU0D3r3a6y_9LKt2qHQ) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/f0Ut7LAujb9VbuvGQx03E_v306ZGsIGAGqduUXZFCyE) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/8Grhaeh4evC07EfpQ8BFlWD-Gmf8v2IsrzJHdq8pRnU) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6NCOLV5uhA0yZXi756Reiu1furO4Vu36loPR__yE9JM) | Cynet Systems | Ohio | 2026-07-17 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/oxC2ZRb2ily8LseTRuvH4xJqu45ElPE_K77zBK4_xKQ) | Cynet Systems | Ohio | 2026-07-17 |
-| [Cyber and Information Security Analyst - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104067) | FirstEnergy | Akron, OH, United States | 2026-07-17 |
-| [SAP BASIS Administrator - Advanced](https://jobs.smartrecruiters.com/O-I/744000138332019) | O-I Glass | Perrysburg, OH | 2026-07-17 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/LdU-0phcw-aco1n5Y4wopRFXbrXqcbulSzjyAk2cORY) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/67GjzKqcCghVUV88Z2fwdU0bxMLtvgnFWMInT4GfkCA) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/kHg9GTKVlWbB7PiaOoN9MBpvdCbj-Bj4Wv4_JA4XIiI) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/AflZ3QN6LbSTCxkw62guxS6POlC8xuF2lMcpDU_92A0) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/E4s1ekwfgZvJp-5G7tbIrctZjx-Gh_1B5GOcRNKCWRk) | Cynet Systems | Ohio | 2026-07-17 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/b2ON7cAvWtI2dfD99pTyDXTO-IaL6iwYjgVT7P-Wt50) | Cynet Systems | Ohio | 2026-07-17 |
+| [LTSS & Dual Eligible Program Report Developer IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/LTSS---Dual-Eligible-Program-Report-Developer-IV_R12401) | CareSource | Remote | 2026-07-17 |
 <!-- JOBS:END -->
 
 ## How it works
