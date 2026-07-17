@@ -56,36 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1197 tracked total · updated `2026-07-17T19:54:37+00:00`
+### 🆕 6 new roles this update · 1203 tracked total · updated `2026-07-17T22:30:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 3 |
-| Artech | 2 |
-| Kforce | 1 |
-| Russell Tobin | 1 |
-| Mindlance | 1 |
-| 84.51° | 1 |
-| American Electric Power | 1 |
-| Huntington Bank | 1 |
-| Nationwide Children's Hospital | 1 |
-| Honda | 1 |
+| Axuall | 1 |
+| Fifth Third Bank | 1 |
+| Cleveland Clinic | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst - Records Management](http://www.kforce.com/Jobs/1696~TVF~2182718T1~99/) | Kforce | Columbus, OH | 2026-07-17 |
-| [Data Analyst III](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28904322#/jobs/28904322) | Russell Tobin | Remote Location, CA | 2026-07-17 |
-| [Senior Computer Systems Engineer/Architect (Virtual Machine Engineer)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32717020#/jobs/32717020) | Artech | Remote Work with occasional need to work onsite in DC Washington, or Ashburn, VA, DC | 2026-07-17 |
-| [Graph Data Engineer / SPARQL Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32717243#/jobs/32717243) | Artech | REMOTE | 2026-07-17 |
-| [Data Analytics & Engineering - Data Analyst III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28904301#/jobs/28904301) | Mindlance | Remote, CA | 2026-07-17 |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6Rujc_cz5rKIFzTglZILPVRjlZ2BZt_B-H5ZNXjJH_c) | Cynet Systems | Ohio | 2026-07-17 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/URlk2_NDWRUtwyjXvIYLxaQG0AnUa0GnkpuP4ZIa3JA) | Cynet Systems | Ohio | 2026-07-17 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/_mJsydr6pYPnaXkfjxEOjOWbV7VR5f1bllH2GUGomjg) | Cynet Systems | Ohio | 2026-07-17 |
-| [Lead AI/ML Engineer (P4645)](https://job-boards.greenhouse.io/8451/jobs/8638989002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-17 |
-| [Telecom Engineer Senior/Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Telecom-Engineer-Senior-Principal_R16747) | American Electric Power | Gahanna, OH | 2026-07-17 |
-| [Senior Application Architect - Test Data Management](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Application-Architect---Test-Data-Management_R0073872) | Huntington Bank | Columbus, OH | 2026-07-17 |
-| [Epic Application Coordinator - Laboratory I.S.](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Epic-Application-Coordinator---Laboratory-IS_R-26961-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-17 |
-| [Principal Data and Ontology Architect - AI Enablement](https://careers.honda.com/us/en/job/11476) | Honda | Marysville, Ohio, United States | 2026-07-17 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/U5zYbxw_emne1N6FyA09_d80jCMDX9UxSMYQ8_lYul8) | Cynet Systems | Ohio | 2026-07-17 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/C-wwWNbjhK4yMpxi-JnpjumlAg5rE34UyEPiZY0dykg) | Cynet Systems | Ohio | 2026-07-17 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/hUZKUa7h4Ruxr-4T3qrwDXeYvUnvUvgf_38SvXvMGbE) | Cynet Systems | Ohio | 2026-07-17 |
+| [Support Specialist](https://job-boards.greenhouse.io/axuall/jobs/4716401005) | Axuall | Remote - US | 2026-07-17 |
+| [Lead Information Security Engineer - Vulnerability Management](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Information-Security-Engineer---Vulnerability-Management_R70618-1) | Fifth Third Bank | Virtual | 2026-07-17 |
+| [Senior Data Developer](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Senior-Data-Developer_341303) | Cleveland Clinic | Remote Location | 2026-07-17 |
 <!-- JOBS:END -->
 
 ## How it works
