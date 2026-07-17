@@ -56,25 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1157 tracked total · updated `2026-07-17T08:58:08+00:00`
+### 🆕 8 new roles this update · 1165 tracked total · updated `2026-07-17T11:33:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
-| Nationwide | 1 |
-| Vertiv | 1 |
-| Cintas | 1 |
+| Agility Connect | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/hfKlYmQWDFfbzIu3W5OJc0R-JSTe4SFl3gfC1iPu1rQ) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/kIdg_DVoGkpIuAMJHlVHUgIooBHXkT82-hLHhMxYRUk) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/UMYKzet7WXvA57M642ehMdtPRxCVMj2jCOcwfU4vmK0) | Cynet Systems | Ohio | 2026-07-17 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/CA9pXsW6-CQFwm7AJEiXqcE72vn8vLxCMCeDeTT_0fM) | Cynet Systems | Ohio | 2026-07-17 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/jFkJrxQFBddnkK-Y2pPmkU2JlkcVT0kIeoeZcdFXnvE) | Cynet Systems | Ohio | 2026-07-17 |
-| [Specialist, Data Governance Advisor](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Governance-Advisor_099048) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-17 |
-| [Quality Engineer Business Systems & Audits](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272093) | Vertiv | Westerville, OH, United States | 2026-07-17 |
-| [Technical Support Associate](https://careers.cintas.com/job/Mason-Technical-Support-Associate-OH-45040/1399321300/) | Cintas | OH | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/sZCWFF4C-dQGx95Hq1TFObZ8t8HfTgHCEh2BA1X59fo) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/fX0mdixT7NVErGwE7nH62AxWAAYBSuG3yLmK9rV35co) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/pAojWqKcNIFgtl1Wk_hQRKRFMfL3CZtBlrQvhGoD8G8) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/x6qQsal6OlrVV7YQZ8hgtB8Dmct70s65Lo-TALdFMbE) | Cynet Systems | Ohio | 2026-07-17 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/Vopz86inavwp7iz4LM2HOWAsKppaXzrw9C71oGEWA-s) | Cynet Systems | Ohio | 2026-07-17 |
+| [Programmer/Analyst: IV](https://agilityconnect.io/jobs/8238) | Agility Connect | OH | 2026-07-17 |
+| [Senior SDET](https://agilityconnect.io/jobs/8239) | Agility Connect | Cincinnati, OH | 2026-07-17 |
+| [Backend Engineer](https://agilityconnect.io/jobs/8237) | Agility Connect | Cincinnati, OH | 2026-07-17 |
 <!-- JOBS:END -->
 
 ## How it works
