@@ -56,25 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1142 tracked total · updated `2026-07-16T22:36:15+00:00`
+### 🆕 7 new roles this update · 1149 tracked total · updated `2026-07-17T04:03:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 5 |
 | Artech | 1 |
-| Fifth Third Bank | 1 |
-| CrossCountry Mortgage | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - ERP Consultant - Oracle (Core HR and Onboarding)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32713197#/jobs/32713197) | Artech | Remote, GA | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/jGjfAJEm1RnhFioQiPyW_9c9jmE-n0S_AItD4URkvGM) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/M3sWTNBG-33AJ0B9Da3NCfxolCVLDfIKW3tpmXo3zUU) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vWbxc9iYUy3IaEkCtk3I-ptmiZDxRr9JnlUlrNbWcRQ) | Cynet Systems | Ohio | 2026-07-16 |
-| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/T0x-kxQwrNrAgL0trf_uP9Q19kSvKNNzZTGDCxHy8r8) | Cynet Systems | Ohio | 2026-07-16 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/YbHnSt-Oq-YQkzwBQ8h030oMx_gByfZp5mIIxTrCagM) | Cynet Systems | Ohio | 2026-07-16 |
-| [Enterprise Process Optimization Manager](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Process-Optimization-Manager_R70697) | Fifth Third Bank | Cincinnati, OH | 2026-07-16 |
-| [Encompass Software Engineer](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Encompass-Software-Engineer_JR03213) | CrossCountry Mortgage | Remote USA | 2026-07-16 |
+| [Cloud DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32713148#/jobs/32713148) | Artech | Cleveland, OH | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/4mbMmAEA2zt03OHyG0rv3X4IsUkMfX30dn-qpaewkv4) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/V3VwL6C66pi91Mjrb8w3xogIYQUnra2mjqH2SToT7fI) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/HtTN8wpaYO734cDrTvbXv30R1C_muGaq-eujFi76y48) | Cynet Systems | Ohio | 2026-07-17 |
+| [Manual Tester - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/7o2bWYcBzco043o6srF66Np419olrIXN7lN5iSReUjU) | Cynet Systems | Ohio | 2026-07-17 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/rx5hHDBYqLFIRpVGXgxEJvVzNRB8en_bTPgbdhbDE7M) | Cynet Systems | Ohio | 2026-07-17 |
+| [Principal Vehicle Platform Engineer - Fleet-as-a-Service (FaaS) Program](https://careers.honda.com/us/en/job/11865) | Honda | Marysville, Ohio, United States | 2026-07-17 |
 <!-- JOBS:END -->
 
 ## How it works
