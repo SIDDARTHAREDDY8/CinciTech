@@ -56,23 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1203 tracked total · updated `2026-07-17T22:30:39+00:00`
+### 🆕 4 new roles this update · 1205 tracked total · updated `2026-07-18T03:59:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 3 |
-| Axuall | 1 |
-| Fifth Third Bank | 1 |
-| Cleveland Clinic | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/U5zYbxw_emne1N6FyA09_d80jCMDX9UxSMYQ8_lYul8) | Cynet Systems | Ohio | 2026-07-17 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/C-wwWNbjhK4yMpxi-JnpjumlAg5rE34UyEPiZY0dykg) | Cynet Systems | Ohio | 2026-07-17 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/hUZKUa7h4Ruxr-4T3qrwDXeYvUnvUvgf_38SvXvMGbE) | Cynet Systems | Ohio | 2026-07-17 |
-| [Support Specialist](https://job-boards.greenhouse.io/axuall/jobs/4716401005) | Axuall | Remote - US | 2026-07-17 |
-| [Lead Information Security Engineer - Vulnerability Management](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Information-Security-Engineer---Vulnerability-Management_R70618-1) | Fifth Third Bank | Virtual | 2026-07-17 |
-| [Senior Data Developer](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Senior-Data-Developer_341303) | Cleveland Clinic | Remote Location | 2026-07-17 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/mniyoY86UTSk1ZfYH15hjFHndGRD84p8GgO_--tc1G8) | Cynet Systems | Ohio | 2026-07-18 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/pYREsSC4M_IlTzmst5PewiOucUDLVyh1-OtoeHBjwpk) | Cynet Systems | Ohio | 2026-07-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/GEqwPSMmpKEnjZ2tkJVhhxMpK-3Dx2BFIaw41FqNJHg) | Cynet Systems | Ohio | 2026-07-18 |
+| [Senior Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/senior-associate-quality-engineering/4832/97941069008) | L3Harris | Cincinnati, OH | 2026-07-18 |
 <!-- JOBS:END -->
 
 ## How it works
