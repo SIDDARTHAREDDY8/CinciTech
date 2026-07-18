@@ -56,17 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1208 tracked total · updated `2026-07-18T08:17:40+00:00`
+### 🆕 4 new roles this update · 1212 tracked total · updated `2026-07-18T11:02:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 3 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ewJ2ORSu_s4mheA10L4tnzXZksuqXmJFNukX4R8hSTE) | Cynet Systems | Ohio | 2026-07-18 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/yBBrhRYq06s53GtP80Ov8gwIlzWL9cMPuQPOycsBvLU) | Cynet Systems | Ohio | 2026-07-18 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/KB3kqy8vjxjDBYvZUWONi8tpIgEd1nL2h1frzpR18_g) | Cynet Systems | Ohio | 2026-07-18 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/pjlqwa8dfmFIU0837OpXRN56I9L01vVyFY-gF6fs_js) | Cynet Systems | Ohio | 2026-07-18 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1FRWk3WxaaYXAdapcAbpqXdTMh8Y-LVECAps6jX2xRc) | Cynet Systems | Ohio | 2026-07-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/oLipPY0_hhnJTVRJGFWt3iVeKJxC1_8qUmImkKwnQvc) | Cynet Systems | Ohio | 2026-07-18 |
+| [Specialist Software Engineer, Digital Assistants](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist-Software-Engineer--Digital-Assistants_099253) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-18 |
 <!-- JOBS:END -->
 
 ## How it works
