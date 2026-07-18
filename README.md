@@ -56,19 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1212 tracked total · updated `2026-07-18T11:02:58+00:00`
+### 🆕 8 new roles this update · 1220 tracked total · updated `2026-07-18T14:09:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 5 |
 | Cynet Systems | 3 |
-| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/pjlqwa8dfmFIU0837OpXRN56I9L01vVyFY-gF6fs_js) | Cynet Systems | Ohio | 2026-07-18 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1FRWk3WxaaYXAdapcAbpqXdTMh8Y-LVECAps6jX2xRc) | Cynet Systems | Ohio | 2026-07-18 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/oLipPY0_hhnJTVRJGFWt3iVeKJxC1_8qUmImkKwnQvc) | Cynet Systems | Ohio | 2026-07-18 |
-| [Specialist Software Engineer, Digital Assistants](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist-Software-Engineer--Digital-Assistants_099253) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-18 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/TfwdcgFGjjdtV8vv_FRsdsk9JaXsGfUDpyVouqhYLVQ) | Cynet Systems | Ohio | 2026-07-18 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1W5B_pX-2qwx7-3erWSvlUEfshanxZ7sSkJYsIUa-3Q) | Cynet Systems | Ohio | 2026-07-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/5ck_zRIG1ZCgf8tfe0Qe-PmQ2XLHF6LYEZyZv2b0_hI) | Cynet Systems | Ohio | 2026-07-18 |
+| [IAM App Onboarding Developer](https://agilityconnect.io/jobs/8246) | Agility Connect | OH | 2026-07-18 |
+| [IAM PAM Analyst](https://agilityconnect.io/jobs/8243) | Agility Connect | OH | 2026-07-18 |
+| [IAM PAM Tech BSA](https://agilityconnect.io/jobs/8245) | Agility Connect | OH | 2026-07-18 |
+| [IAM PAM Tech BSA](https://agilityconnect.io/jobs/8244) | Agility Connect | OH | 2026-07-18 |
+| [IAM SoD Analyst](https://agilityconnect.io/jobs/8242) | Agility Connect | OH | 2026-07-18 |
 <!-- JOBS:END -->
 
 ## How it works
