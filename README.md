@@ -56,23 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1220 tracked total · updated `2026-07-18T14:09:52+00:00`
+### 🆕 3 new roles this update · 1223 tracked total · updated `2026-07-18T16:27:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 5 |
 | Cynet Systems | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/TfwdcgFGjjdtV8vv_FRsdsk9JaXsGfUDpyVouqhYLVQ) | Cynet Systems | Ohio | 2026-07-18 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1W5B_pX-2qwx7-3erWSvlUEfshanxZ7sSkJYsIUa-3Q) | Cynet Systems | Ohio | 2026-07-18 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/5ck_zRIG1ZCgf8tfe0Qe-PmQ2XLHF6LYEZyZv2b0_hI) | Cynet Systems | Ohio | 2026-07-18 |
-| [IAM App Onboarding Developer](https://agilityconnect.io/jobs/8246) | Agility Connect | OH | 2026-07-18 |
-| [IAM PAM Analyst](https://agilityconnect.io/jobs/8243) | Agility Connect | OH | 2026-07-18 |
-| [IAM PAM Tech BSA](https://agilityconnect.io/jobs/8245) | Agility Connect | OH | 2026-07-18 |
-| [IAM PAM Tech BSA](https://agilityconnect.io/jobs/8244) | Agility Connect | OH | 2026-07-18 |
-| [IAM SoD Analyst](https://agilityconnect.io/jobs/8242) | Agility Connect | OH | 2026-07-18 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/W2Uvwi3FxKEWRYH6XAMmAoACbxG0CmLUkGwrgl1e5QU) | Cynet Systems | Ohio | 2026-07-18 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/-NPrVX7axb4ZNmK0sPZvoRQZC-YrVCn1qP5lUxr53Yk) | Cynet Systems | Ohio | 2026-07-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/xyMM_pshtGPmX62LMDX90FhhIqAUyg-9j5_gRZ4hvJY) | Cynet Systems | Ohio | 2026-07-18 |
 <!-- JOBS:END -->
 
 ## How it works
