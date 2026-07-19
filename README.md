@@ -56,7 +56,7 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1247 tracked total · updated `2026-07-19T19:48:14+00:00`
+### 🆕 3 new roles this update · 1250 tracked total · updated `2026-07-19T22:26:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
@@ -64,9 +64,9 @@ parts that matter. Rooting for you. 💚
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/rg9mofFTvqjP038FnRZ17u8SZeeSucTM_V4X7wFsWuc) | Cynet Systems | Ohio | 2026-07-19 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/C_EXCW68QQ50mBtVa2h-icY68nYnluWFkdfssR3odHY) | Cynet Systems | Ohio | 2026-07-19 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/FOLgVCp7g12b-tKZi0Wbm5bgEvAvWPBAQtjDttrYGJA) | Cynet Systems | Ohio | 2026-07-19 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/KaH8xS4ucy256JC_T2rwbLE9UrdFiiAKUFaL7PZ4ay0) | Cynet Systems | Ohio | 2026-07-19 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1l2PiZt2GVj3RgYwWTBWM-D6CkL9IVcZ4glaAytEFSI) | Cynet Systems | Ohio | 2026-07-19 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/LsdKAWsYhO39qrtadHy-lcuZG-aX0SpsoUY1fXympwM) | Cynet Systems | Ohio | 2026-07-19 |
 <!-- JOBS:END -->
 
 ## How it works
