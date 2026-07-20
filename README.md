@@ -56,32 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1265 tracked total · updated `2026-07-20T14:58:34+00:00`
+### 🆕 4 new roles this update · 1269 tracked total · updated `2026-07-20T17:12:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 3 |
-| Insight Global | 2 |
-| Apex Systems | 1 |
-| First Solar | 1 |
-| FirstEnergy | 1 |
-| Kroger | 1 |
-| Worthington Steel | 1 |
-| Hyland Software | 1 |
+| Vertiv | 3 |
+| Strategic Staffing Solutions | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Jr AI Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/jr-ai-engineer/job-553338/) | Insight Global | Columbus, OH | 2026-07-20 |
-| [Sr AI Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/sr-ai-engineer/job-553340/) | Insight Global | Columbus, OH | 2026-07-20 |
-| [Platform Security Engineer](https://www.apexsystems.com/job/3032171_usa/platform-security-engineer) | Apex Systems | Cincinnati, OH | 2026-07-20 |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/SewivUrzbhdnOzfxzaKoeEYTrmjxZ07cunx2fgCWY-E) | Cynet Systems | Ohio | 2026-07-20 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/KCpFGcvHrZoJUuL7ecDhEd6IzdOfCguXJR9D9u6w6H8) | Cynet Systems | Ohio | 2026-07-20 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/PEFDPA5HJ2hsuBWcNhx7DrLvH_lb0oVqX419STmeUR4) | Cynet Systems | Ohio | 2026-07-20 |
-| [Specialist- Workforce Intelligence and AI](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025214) | First Solar | Perrysburg, OH, United States | 2026-07-20 |
-| [Application Configuration Analyst - IT Transmission Systems & Compliance](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104800) | FirstEnergy | Akron, OH, United States | 2026-07-20 |
-| [MFG PLANT QA SUPERVISOR](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/194909) | Kroger | Springdale, OH, United States | 2026-07-20 |
-| [Senior Financial Systems Analyst](https://cbdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WorthingtonSteelCareers/job/43113) | Worthington Steel | Columbus, OH, United States | 2026-07-20 |
-| [Senior Technical Product Manager, Cloud Platform](https://careers-hyland.icims.com/jobs/14244/senior-technical-product-manager%2c-cloud-platform/job?in_iframe=1) | Hyland Software | Westlake, UNAVAILABLE | 2026-07-20 |
+| [Ruby On Rails Developer 6 Months](https://jobs.strategicstaff.com/jobs/ruby-on-rails-developer-6-months-170445/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-07-20 |
+| [Electrical Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260680) | Vertiv | Delaware, OH, United States | 2026-07-20 |
+| [Electrical Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260592) | Vertiv | Delaware, OH, United States | 2026-07-20 |
+| [Electrical Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260681) | Vertiv | Delaware, OH, United States | 2026-07-20 |
 <!-- JOBS:END -->
 
 ## How it works
