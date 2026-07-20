@@ -56,19 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1269 tracked total · updated `2026-07-20T17:12:21+00:00`
+### 🆕 13 new roles this update · 1282 tracked total · updated `2026-07-20T20:20:41+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 3 |
-| Strategic Staffing Solutions | 1 |
+| Cynet Systems | 2 |
+| Battelle | 2 |
+| L3Harris | 2 |
+| Artech | 1 |
+| Fifth Third Bank | 1 |
+| Worldpay | 1 |
+| Abercrombie & Fitch | 1 |
+| KeyBank | 1 |
+| Nationwide Children's Hospital | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Ruby On Rails Developer 6 Months](https://jobs.strategicstaff.com/jobs/ruby-on-rails-developer-6-months-170445/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-07-20 |
-| [Electrical Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260680) | Vertiv | Delaware, OH, United States | 2026-07-20 |
-| [Electrical Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260592) | Vertiv | Delaware, OH, United States | 2026-07-20 |
-| [Electrical Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260681) | Vertiv | Delaware, OH, United States | 2026-07-20 |
+| [Senior Application Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32725080#/jobs/32725080) | Artech | Remote, NY | 2026-07-20 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/YJSgoy3KLdlkdEIGlu1lIk1WiEnXUlK8h4N4Q56PVo4) | Cynet Systems | Ohio | 2026-07-20 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/iK0qaa3AKUpKpbehmPIFW1MLptaWXEJg0Q-a0ZP5rTI) | Cynet Systems | Ohio | 2026-07-20 |
+| [Principal Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Product-Owner_R69891-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-20 |
+| [IAM Authentication & User Experience Lead](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/IAM-Authentication---User-Experience-Lead_JR0610415) | Worldpay | CINCINNATI, OHIO | 2026-07-20 |
+| [IT Business Analyst](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Senior-IT-Business-Analyst_JR103346) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-20 |
+| [Senior Manager - Enterprise Servicing Business Technology](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Manager---Enterprise-Servicing-Business-Technology_R-41010) | KeyBank | Brooklyn, OH | 2026-07-20 |
+| [IGM Bioinformatics Scientist II](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Bioinformatics-Scientist-II_R-27006-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-20 |
+| [Quality Engineer](https://jobs.battelle.org/us/en/job/76381) | Battelle | Columbus, OH | 2026-07-20 |
+| [Mid-level Linux Infrastructure Administrator](https://jobs.battelle.org/us/en/job/76380) | Battelle | Columbus, OH | 2026-07-20 |
+| [Data Analyst I](https://careers.cintas.com/job/Mason-Data-Analyst-I-OH-45040/1410667700/) | Cintas | OH | 2026-07-20 |
+| [Associate, Software Engineer](https://careers.l3harris.com/en/job/mason/associate-software-engineer/4832/98052334576) | L3Harris | Mason, OH | 2026-07-20 |
+| [Specialist, Quality Engineer](https://careers.l3harris.com/en/job/cincinnati/specialist-quality-engineer/4832/98057907696) | L3Harris | Cincinnati, OH | 2026-07-20 |
 <!-- JOBS:END -->
 
 ## How it works
