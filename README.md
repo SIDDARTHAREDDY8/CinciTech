@@ -56,19 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1250 tracked total · updated `2026-07-20T04:25:12+00:00`
+### 🆕 4 new roles this update · 1254 tracked total · updated `2026-07-20T09:53:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 2 |
-| Nationwide | 2 |
+| Cynet Systems | 3 |
+| Safelite | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/xzhG56mEHUdkaaUonMzYrrpymAUblPp3ga5AE0-uAQM) | Cynet Systems | Ohio | 2026-07-20 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/aur104YvwtIZ1wjX5WV4tzt_GVEZn4BUHcn-hZYCnP0) | Cynet Systems | Ohio | 2026-07-20 |
-| [Specialist, Software Engineer \| Full Stack (Java/Angular)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---Full-Stack--Java-Angular-_099261) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-20 |
-| [Consultant, Software Engineer \| App Suite Technical Lead.](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---App-Suite-Technical-Lead_099262) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-20 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/8_94dq5OZjTtynplNtl7HgKiH2LKbmA2CAa2Fwu0zqQ) | Cynet Systems | Ohio | 2026-07-20 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/PexwXN6yuD-bwxnX6VuGuWA9d2M_DY3qQEh3vdOu_4w) | Cynet Systems | Ohio | 2026-07-20 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/UUDPh2NIeDNXZ14uzm6MofL-la-0XaaGu-ypubZzhGM) | Cynet Systems | Ohio | 2026-07-20 |
+| [Product Director, AI & Agentic](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/US---REMOTE/Product-Director--AI---Agentic_JR72620) | Safelite | US - REMOTE | 2026-07-20 |
 <!-- JOBS:END -->
 
 ## How it works
