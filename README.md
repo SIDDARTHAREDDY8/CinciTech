@@ -56,36 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1282 tracked total · updated `2026-07-20T20:20:41+00:00`
+### 🆕 10 new roles this update · 1292 tracked total · updated `2026-07-20T22:38:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Russell Tobin | 2 |
 | Cynet Systems | 2 |
-| Battelle | 2 |
-| L3Harris | 2 |
+| Insight Global | 1 |
 | Artech | 1 |
 | Fifth Third Bank | 1 |
-| Worldpay | 1 |
-| Abercrombie & Fitch | 1 |
+| American Electric Power | 1 |
 | KeyBank | 1 |
-| Nationwide Children's Hospital | 1 |
-| Cintas | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Application Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32725080#/jobs/32725080) | Artech | Remote, NY | 2026-07-20 |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/YJSgoy3KLdlkdEIGlu1lIk1WiEnXUlK8h4N4Q56PVo4) | Cynet Systems | Ohio | 2026-07-20 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/iK0qaa3AKUpKpbehmPIFW1MLptaWXEJg0Q-a0ZP5rTI) | Cynet Systems | Ohio | 2026-07-20 |
-| [Principal Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Product-Owner_R69891-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-20 |
-| [IAM Authentication & User Experience Lead](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/IAM-Authentication---User-Experience-Lead_JR0610415) | Worldpay | CINCINNATI, OHIO | 2026-07-20 |
-| [IT Business Analyst](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Senior-IT-Business-Analyst_JR103346) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-20 |
-| [Senior Manager - Enterprise Servicing Business Technology](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Manager---Enterprise-Servicing-Business-Technology_R-41010) | KeyBank | Brooklyn, OH | 2026-07-20 |
-| [IGM Bioinformatics Scientist II](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Bioinformatics-Scientist-II_R-27006-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-20 |
-| [Quality Engineer](https://jobs.battelle.org/us/en/job/76381) | Battelle | Columbus, OH | 2026-07-20 |
-| [Mid-level Linux Infrastructure Administrator](https://jobs.battelle.org/us/en/job/76380) | Battelle | Columbus, OH | 2026-07-20 |
-| [Data Analyst I](https://careers.cintas.com/job/Mason-Data-Analyst-I-OH-45040/1410667700/) | Cintas | OH | 2026-07-20 |
-| [Associate, Software Engineer](https://careers.l3harris.com/en/job/mason/associate-software-engineer/4832/98052334576) | L3Harris | Mason, OH | 2026-07-20 |
-| [Specialist, Quality Engineer](https://careers.l3harris.com/en/job/cincinnati/specialist-quality-engineer/4832/98057907696) | L3Harris | Cincinnati, OH | 2026-07-20 |
+| [Data and AI Platform Manager](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/data-and-ai-platform-manager/job-554234/) | Insight Global | Columbus, OH | 2026-07-20 |
+| [Solutions Architect](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28913756#/jobs/28913756) | Russell Tobin | REMOTE | 2026-07-20 |
+| [ERP Consultant - Oracle](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28885292#/jobs/28885292) | Russell Tobin | REMOTE | 2026-07-20 |
+| [Information Technology - Operations - IT Project Manager (SAP)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723668#/jobs/32723668) | Artech | Remote, NC | 2026-07-20 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/a1iC9U0v-B9ZWTev7OxknJ6SLSCl4Tj7I0NZ1lxRhMQ) | Cynet Systems | Ohio | 2026-07-20 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/QmLJ1uTueg4m3p6Vu0Vmt6DSfFeQN2oHJcfRsZL2sfU) | Cynet Systems | Ohio | 2026-07-20 |
+| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R70596) | Fifth Third Bank | Cincinnati, OH | 2026-07-20 |
+| [Davis-Bacon Act (DBA) Federal Labor Compliance Lead](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Davis-Bacon-Act--DBA--Federal-Labor-Compliance-Lead_R17484) | American Electric Power | Columbus, OH | 2026-07-20 |
+| [Software Engineer - Azure GenAI](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Engineer---Azure-GenAI_R-39676) | KeyBank | Brooklyn, OH | 2026-07-20 |
+| [Senior ADAS Hardware Test Engineer I](https://careers.honda.com/us/en/job/11896) | Honda | Raymond, Ohio, United States | 2026-07-20 |
 <!-- JOBS:END -->
 
 ## How it works
