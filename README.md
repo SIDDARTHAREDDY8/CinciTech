@@ -56,18 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1304 tracked total · updated `2026-07-21T17:07:04+00:00`
+### 🆕 9 new roles this update · 1313 tracked total · updated `2026-07-21T20:10:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Scotts Miracle-Gro | 2 |
-| Fifth Third Bank | 1 |
+| Nordson | 2 |
+| Insight Global | 1 |
+| Belcan | 1 |
+| Cardinal Health | 1 |
+| Worthington Enterprises | 1 |
+| Avient | 1 |
+| Honda | 1 |
+| Honeywell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Credit Lead](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cleveland-OH/Senior-Credit-Lead_R70886) | Fifth Third Bank | Cleveland, OH | 2026-07-21 |
-| [Supply Chain Planning-Architect, SAP Process Enablement](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Supply-Chain-Planning-Architect--SAP-Process-Enablement_R26173) | Scotts Miracle-Gro | Marysville, OH | 2026-07-21 |
-| [Lead, Master Data Management and Governance Lead](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Lead--Master-Data-Management-and-Governance-Lead_R26124) | Scotts Miracle-Gro | Marysville, OH | 2026-07-21 |
+| [System Security Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/dayton/system-security-engineer/job-554115/) | Insight Global | Dayton, OH | 2026-07-21 |
+| [L3 Systems Administrator](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366618&apply=yes&) | Belcan | Cincinnati, OH | 2026-07-21 |
+| [Software Engineer, Commercial Technologies (Specialty Networks)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Software-Engineer--Commercial-Technologies--Specialty-Networks-_20183991) | Cardinal Health | OH-Ohio-Work from Home | 2026-07-21 |
+| [Document Control Associate (Quality Engineering)](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Dayton/Document-Control-Associate--Quality-Engineering-_REQ52009) | Nordson | USA - Ohio - Dayton | 2026-07-21 |
+| [Identity and Access Management Architect](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Amherst/Identity-and-Access-Management-Architect_REQ51358) | Nordson | USA - Ohio - Amherst | 2026-07-21 |
+| [Sr. Product Support Engineer](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43288) | Worthington Enterprises | Columbus, OH, United States | 2026-07-21 |
+| [SAP Business Integration Lead](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Avient/job/40001170) | Avient | Avon Lake, OH, United States | 2026-07-21 |
+| [ADAS Test Engineer](https://careers.honda.com/us/en/job/10584) | Honda | Raymond, Ohio, United States | 2026-07-21 |
+| [Application Programmer (Niagara Systems)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153806) | Honeywell | Independence, OH, United States | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
