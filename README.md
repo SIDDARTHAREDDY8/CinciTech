@@ -56,30 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1313 tracked total · updated `2026-07-21T20:10:34+00:00`
+### 🆕 5 new roles this update · 1318 tracked total · updated `2026-07-21T22:39:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nordson | 2 |
-| Insight Global | 1 |
-| Belcan | 1 |
-| Cardinal Health | 1 |
-| Worthington Enterprises | 1 |
-| Avient | 1 |
-| Honda | 1 |
-| Honeywell | 1 |
+| Artech | 2 |
+| KeyBank | 1 |
+| Huntington Bank | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [System Security Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/dayton/system-security-engineer/job-554115/) | Insight Global | Dayton, OH | 2026-07-21 |
-| [L3 Systems Administrator](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366618&apply=yes&) | Belcan | Cincinnati, OH | 2026-07-21 |
-| [Software Engineer, Commercial Technologies (Specialty Networks)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Software-Engineer--Commercial-Technologies--Specialty-Networks-_20183991) | Cardinal Health | OH-Ohio-Work from Home | 2026-07-21 |
-| [Document Control Associate (Quality Engineering)](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Dayton/Document-Control-Associate--Quality-Engineering-_REQ52009) | Nordson | USA - Ohio - Dayton | 2026-07-21 |
-| [Identity and Access Management Architect](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Amherst/Identity-and-Access-Management-Architect_REQ51358) | Nordson | USA - Ohio - Amherst | 2026-07-21 |
-| [Sr. Product Support Engineer](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43288) | Worthington Enterprises | Columbus, OH, United States | 2026-07-21 |
-| [SAP Business Integration Lead](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Avient/job/40001170) | Avient | Avon Lake, OH, United States | 2026-07-21 |
-| [ADAS Test Engineer](https://careers.honda.com/us/en/job/10584) | Honda | Raymond, Ohio, United States | 2026-07-21 |
-| [Application Programmer (Niagara Systems)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153806) | Honeywell | Independence, OH, United States | 2026-07-21 |
+| [Technical Program Manager – Fraud Technology](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734835#/jobs/32734835) | Artech | Cleveland, OH | 2026-07-21 |
+| [Sr. Security Analyst/SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32732315#/jobs/32732315) | Artech | Cleveland, OH | 2026-07-21 |
+| [AI Risk Lead](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/AI-Risk-Lead_R-40809) | KeyBank | Brooklyn, OH | 2026-07-21 |
+| [Cybersecurity Vulnerability Management Analyst - Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Cybersecurity-Vulnerability-Management-Analyst---Senior_R0074134) | Huntington Bank | Columbus, OH | 2026-07-21 |
+| [Junior Data Governance Analyst](https://uscareers-medpace.icims.com/jobs/12873/login) | Medpace | Cincinnati, Ohio | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
