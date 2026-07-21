@@ -56,17 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1301 tracked total · updated `2026-07-21T14:43:58+00:00`
+### 🆕 3 new roles this update · 1304 tracked total · updated `2026-07-21T17:07:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kroger | 1 |
-| St. Elizabeth Healthcare | 1 |
+| Scotts Miracle-Gro | 2 |
+| Fifth Third Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SENIOR ADVANCED SOFTWARE ENGINEERING MANAGER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210252) | Kroger | Blue Ash, OH, United States | 2026-07-21 |
-| [Peer Support Specialist](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Edgewood-Kentucky/Peer-Support-Specialist_JR312879) | St. Elizabeth Healthcare | Edgewood, Kentucky | 2026-07-21 |
+| [Senior Credit Lead](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cleveland-OH/Senior-Credit-Lead_R70886) | Fifth Third Bank | Cleveland, OH | 2026-07-21 |
+| [Supply Chain Planning-Architect, SAP Process Enablement](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Supply-Chain-Planning-Architect--SAP-Process-Enablement_R26173) | Scotts Miracle-Gro | Marysville, OH | 2026-07-21 |
+| [Lead, Master Data Management and Governance Lead](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Lead--Master-Data-Management-and-Governance-Lead_R26124) | Scotts Miracle-Gro | Marysville, OH | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
