@@ -56,31 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1292 tracked total · updated `2026-07-20T22:38:56+00:00`
+### 🆕 4 new roles this update · 1295 tracked total · updated `2026-07-21T04:09:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Russell Tobin | 2 |
 | Cynet Systems | 2 |
-| Insight Global | 1 |
-| Artech | 1 |
-| Fifth Third Bank | 1 |
-| American Electric Power | 1 |
-| KeyBank | 1 |
-| Honda | 1 |
+| TEKsystems | 1 |
+| Compunnel | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data and AI Platform Manager](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/data-and-ai-platform-manager/job-554234/) | Insight Global | Columbus, OH | 2026-07-20 |
-| [Solutions Architect](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28913756#/jobs/28913756) | Russell Tobin | REMOTE | 2026-07-20 |
-| [ERP Consultant - Oracle](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28885292#/jobs/28885292) | Russell Tobin | REMOTE | 2026-07-20 |
-| [Information Technology - Operations - IT Project Manager (SAP)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723668#/jobs/32723668) | Artech | Remote, NC | 2026-07-20 |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/a1iC9U0v-B9ZWTev7OxknJ6SLSCl4Tj7I0NZ1lxRhMQ) | Cynet Systems | Ohio | 2026-07-20 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/QmLJ1uTueg4m3p6Vu0Vmt6DSfFeQN2oHJcfRsZL2sfU) | Cynet Systems | Ohio | 2026-07-20 |
-| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R70596) | Fifth Third Bank | Cincinnati, OH | 2026-07-20 |
-| [Davis-Bacon Act (DBA) Federal Labor Compliance Lead](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Davis-Bacon-Act--DBA--Federal-Labor-Compliance-Lead_R17484) | American Electric Power | Columbus, OH | 2026-07-20 |
-| [Software Engineer - Azure GenAI](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Engineer---Azure-GenAI_R-39676) | KeyBank | Brooklyn, OH | 2026-07-20 |
-| [Senior ADAS Hardware Test Engineer I](https://careers.honda.com/us/en/job/11896) | Honda | Raymond, Ohio, United States | 2026-07-20 |
+| [IT Project Manager](https://careers.teksystems.com/us/en/job/JP-006168392/IT-Project-Manager) | TEKsystems | Cleveland, Ohio | 2026-07-21 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/MHcnz2rPSv8uwdN_-oZefCiqsbOL7efth1PCizc_pSk) | Cynet Systems | Ohio | 2026-07-21 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/yOhUhPgetDxaqvy3xlSUrP5wW9sNByWXSOQut4K7grU) | Cynet Systems | Ohio | 2026-07-21 |
+| [Quality Assurance Engineer](https://jobs.compunnel.com/jobs/5837112) | Compunnel | Hebron, Kentucky, United States | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
