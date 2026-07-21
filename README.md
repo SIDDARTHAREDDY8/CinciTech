@@ -56,20 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1295 tracked total · updated `2026-07-21T04:09:31+00:00`
+### 🆕 3 new roles this update · 1298 tracked total · updated `2026-07-21T09:14:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| TEKsystems | 1 |
-| Compunnel | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT Project Manager](https://careers.teksystems.com/us/en/job/JP-006168392/IT-Project-Manager) | TEKsystems | Cleveland, Ohio | 2026-07-21 |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/MHcnz2rPSv8uwdN_-oZefCiqsbOL7efth1PCizc_pSk) | Cynet Systems | Ohio | 2026-07-21 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/yOhUhPgetDxaqvy3xlSUrP5wW9sNByWXSOQut4K7grU) | Cynet Systems | Ohio | 2026-07-21 |
-| [Quality Assurance Engineer](https://jobs.compunnel.com/jobs/5837112) | Compunnel | Hebron, Kentucky, United States | 2026-07-21 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/E6abIvSAiD8JbsJZSuSWzDVZEjLiMWluwVIV3Q6bAr4) | Cynet Systems | Ohio | 2026-07-21 |
+| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/pYtiXda-_hxi8g02V9sogyzGCjEcsNB35NRro9WSpHQ) | Cynet Systems | Ohio | 2026-07-21 |
+| [Business Analyst – ERP Implementation & Government Consulting](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1695&BRID=1318132&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
