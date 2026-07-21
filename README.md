@@ -56,18 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1298 tracked total · updated `2026-07-21T09:14:22+00:00`
+### 🆕 1 new roles this update · 1299 tracked total · updated `2026-07-21T11:41:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 2 |
-| Njoyn (CGI) | 1 |
+| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/E6abIvSAiD8JbsJZSuSWzDVZEjLiMWluwVIV3Q6bAr4) | Cynet Systems | Ohio | 2026-07-21 |
-| [DotNet Developer - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/pYtiXda-_hxi8g02V9sogyzGCjEcsNB35NRro9WSpHQ) | Cynet Systems | Ohio | 2026-07-21 |
-| [Business Analyst – ERP Implementation & Government Consulting](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1695&BRID=1318132&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-21 |
+| [Information Security, Technical Lead I - OT](https://jobs.lincolnelectric.com/job/Cleveland-Information-Security%2C-Technical-Lead-I-OT-OH-44117/1415011133/) | Lincoln Electric | OH | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
