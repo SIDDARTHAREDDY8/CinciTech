@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1299 tracked total · updated `2026-07-21T11:41:54+00:00`
+### 🆕 2 new roles this update · 1301 tracked total · updated `2026-07-21T14:43:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Lincoln Electric | 1 |
+| Kroger | 1 |
+| St. Elizabeth Healthcare | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Security, Technical Lead I - OT](https://jobs.lincolnelectric.com/job/Cleveland-Information-Security%2C-Technical-Lead-I-OT-OH-44117/1415011133/) | Lincoln Electric | OH | 2026-07-21 |
+| [SENIOR ADVANCED SOFTWARE ENGINEERING MANAGER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210252) | Kroger | Blue Ash, OH, United States | 2026-07-21 |
+| [Peer Support Specialist](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Edgewood-Kentucky/Peer-Support-Specialist_JR312879) | St. Elizabeth Healthcare | Edgewood, Kentucky | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
