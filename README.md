@@ -56,15 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1323 tracked total · updated `2026-07-22T11:45:42+00:00`
+### 🆕 6 new roles this update · 1329 tracked total · updated `2026-07-22T14:39:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 1 |
+| Artech | 1 |
 | Cynet Systems | 1 |
+| Nationwide Children's Hospital | 1 |
+| Vertiv | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/G6PAc5n6QOkmr52wTgnw_tWAKxJGBaAZI5Wvw1JaqIY) | Cynet Systems | Ohio | 2026-07-22 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-22 |
+| [AI Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32735321#/jobs/32735321) | Artech | Cleveland, OH | 2026-07-22 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/VOvexLVM4nyhPfAm-hyZoz6_heAhsG8A7t4rdiYRsvY) | Cynet Systems | Ohio | 2026-07-22 |
+| [Data Analyst II - IT Research and Innovation](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Data-Analyst-II---IT-Research-and-Innovation_R-27023-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-07-22 |
+| [Monitoring Technical Support Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276648) | Vertiv | Delaware, OH, United States | 2026-07-22 |
+| [Financial Systems Analyst I](https://careers.cintas.com/job/Mason-Financial-Systems-Analyst-I-OH-45040/1411425200/) | Cintas | OH | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
