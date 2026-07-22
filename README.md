@@ -56,25 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1329 tracked total · updated `2026-07-22T14:39:08+00:00`
+### 🆕 7 new roles this update · 1334 tracked total · updated `2026-07-22T17:06:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Artech | 1 |
-| Cynet Systems | 1 |
+| American Electric Power | 2 |
+| Fifth Third Bank | 1 |
+| KeyBank | 1 |
+| Kroger | 1 |
 | Nationwide Children's Hospital | 1 |
-| Vertiv | 1 |
 | Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-22 |
-| [AI Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32735321#/jobs/32735321) | Artech | Cleveland, OH | 2026-07-22 |
-| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/VOvexLVM4nyhPfAm-hyZoz6_heAhsG8A7t4rdiYRsvY) | Cynet Systems | Ohio | 2026-07-22 |
-| [Data Analyst II - IT Research and Innovation](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Data-Analyst-II---IT-Research-and-Innovation_R-27023-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-07-22 |
-| [Monitoring Technical Support Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276648) | Vertiv | Delaware, OH, United States | 2026-07-22 |
-| [Financial Systems Analyst I](https://careers.cintas.com/job/Mason-Financial-Systems-Analyst-I-OH-45040/1411425200/) | Cintas | OH | 2026-07-22 |
+| [Principal Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Product-Owner_R70639-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-22 |
+| [Infrastructure Engineer Staff - Dynatrace SME](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Staff---Dynatrace-SME_R17398) | American Electric Power | Gahanna, OH | 2026-07-22 |
+| [Infrastructure Engineer Staff - Netcool (NOI) SME](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Staff---Netool--NOI--SME_R17390) | American Electric Power | Gahanna, OH | 2026-07-22 |
+| [Quantitative Credit Data Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Intermediate-Portfolio-Manager---CPM--Credit-Portfolio-Management-_R-40629-1) | KeyBank | Cleveland, OH | 2026-07-22 |
+| [LOGISTICS/FULFILLMENT DISPATCHER ASP](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210606) | Kroger | Cincinnati, OH, United States | 2026-07-22 |
+| [Network Security Engineer](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Network-Security-Engineer_R-27043-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-07-22 |
+| [Software Engineer-Level 2-Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1389900700/) | Cintas | OH | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
