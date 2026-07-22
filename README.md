@@ -56,15 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1322 tracked total · updated `2026-07-22T09:12:52+00:00`
+### 🆕 1 new roles this update · 1323 tracked total · updated `2026-07-22T11:45:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 1 |
+| Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineering Architect – Fraud Domain](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734922#/jobs/32734922) | Artech | Cleveland, OH | 2026-07-22 |
+| [SAP BTP Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/G6PAc5n6QOkmr52wTgnw_tWAKxJGBaAZI5Wvw1JaqIY) | Cynet Systems | Ohio | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
