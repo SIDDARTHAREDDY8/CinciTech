@@ -56,19 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1321 tracked total · updated `2026-07-22T04:10:54+00:00`
+### 🆕 1 new roles this update · 1322 tracked total · updated `2026-07-22T09:12:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 2 |
-| Nationwide | 2 |
+| Artech | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior AI Architect](https://jobs.compunnel.com/jobs/5837123) | Compunnel | Columbus, Ohio, United States | 2026-07-22 |
-| [SAP Program Manager](https://jobs.compunnel.com/jobs/5837084) | Compunnel | Avon Lake, Ohio, United States | 2026-07-22 |
-| [Consultant, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer_099067) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-22 |
-| [Consultant, Software Engineer - Life New Business (Angular, AWS S3, Apigee, Experience Building OAS)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Life-New-Business--Angular--AWS-S3--Apigee--Experience-Building-OAS-_099306) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-22 |
+| [Data Engineering Architect – Fraud Domain](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734922#/jobs/32734922) | Artech | Cleveland, OH | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
