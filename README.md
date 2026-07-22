@@ -56,26 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1334 tracked total · updated `2026-07-22T17:06:23+00:00`
+### 🆕 13 new roles this update · 1347 tracked total · updated `2026-07-22T20:10:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Sherwin-Williams | 3 |
 | American Electric Power | 2 |
+| Robert Half | 1 |
+| Motion Recruitment | 1 |
+| Artech | 1 |
 | Fifth Third Bank | 1 |
+| Bread Financial | 1 |
 | KeyBank | 1 |
-| Kroger | 1 |
-| Nationwide Children's Hospital | 1 |
-| Cintas | 1 |
+| FirstEnergy | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Principal Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Product-Owner_R70639-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-22 |
-| [Infrastructure Engineer Staff - Dynatrace SME](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Staff---Dynatrace-SME_R17398) | American Electric Power | Gahanna, OH | 2026-07-22 |
-| [Infrastructure Engineer Staff - Netcool (NOI) SME](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Staff---Netool--NOI--SME_R17390) | American Electric Power | Gahanna, OH | 2026-07-22 |
-| [Quantitative Credit Data Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Intermediate-Portfolio-Manager---CPM--Credit-Portfolio-Management-_R-40629-1) | KeyBank | Cleveland, OH | 2026-07-22 |
-| [LOGISTICS/FULFILLMENT DISPATCHER ASP](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210606) | Kroger | Cincinnati, OH, United States | 2026-07-22 |
-| [Network Security Engineer](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Network-Security-Engineer_R-27043-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-07-22 |
-| [Software Engineer-Level 2-Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1389900700/) | Cintas | OH | 2026-07-22 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-22 |
+| [IT Analyst / Contract / Hybrid / Columbus](https://motionrecruitment.com/tech-jobs/columbus/contract/it-analyst-contract-hybrid-columbus/882799) | Motion Recruitment | Columbus, Ohio | 2026-07-22 |
+| [Network Real Estate Specialist / Developer - III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32737440#/jobs/32737440) | Artech | WORK FROM HOME, CA | 2026-07-22 |
+| [Senior Database Administrator](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Database-Administrator_R69216) | Fifth Third Bank | Virtual | 2026-07-22 |
+| [Cyber Security Project Manager Associate](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cyber-Security-Project-Manager-Associate_R17524) | American Electric Power | Columbus, OH | 2026-07-22 |
+| [Telecomms Apprentice III - I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Lima-OH/Telecomms-Apprentice-III---I_R17406) | American Electric Power | Lima, OH | 2026-07-22 |
+| [Senior Agentic AI Software Engineer](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/Senior-Agentic-AI-Software-Engineer_R1012824-1) | Bread Financial | Columbus, OH | 2026-07-22 |
+| [Principal Software Engineer - Enterprise AI Platforms](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Principal-Software-Engineer---Enterprise-AI-Platforms_R-40623) | KeyBank | Brooklyn, OH | 2026-07-22 |
+| [Senior Oracle HCM Cloud Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617904) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
+| [Director, AI Adoption and Value Realization](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618395) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
+| [Principal Software Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618429) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
+| [Business Analyst - Power Billing & Supplier Operations - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104832) | FirstEnergy | Akron, OH, United States | 2026-07-22 |
+| [Lead, Security Research Engineer](https://careers.l3harris.com/en/job/united-states/lead-security-research-engineer/4832/98137589008) | L3Harris | Remote | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
