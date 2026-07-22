@@ -56,22 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1318 tracked total · updated `2026-07-21T22:39:54+00:00`
+### 🆕 4 new roles this update · 1321 tracked total · updated `2026-07-22T04:10:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
-| KeyBank | 1 |
-| Huntington Bank | 1 |
-| Medpace | 1 |
+| Compunnel | 2 |
+| Nationwide | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Technical Program Manager – Fraud Technology](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734835#/jobs/32734835) | Artech | Cleveland, OH | 2026-07-21 |
-| [Sr. Security Analyst/SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32732315#/jobs/32732315) | Artech | Cleveland, OH | 2026-07-21 |
-| [AI Risk Lead](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/AI-Risk-Lead_R-40809) | KeyBank | Brooklyn, OH | 2026-07-21 |
-| [Cybersecurity Vulnerability Management Analyst - Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Cybersecurity-Vulnerability-Management-Analyst---Senior_R0074134) | Huntington Bank | Columbus, OH | 2026-07-21 |
-| [Junior Data Governance Analyst](https://uscareers-medpace.icims.com/jobs/12873/login) | Medpace | Cincinnati, Ohio | 2026-07-21 |
+| [Senior AI Architect](https://jobs.compunnel.com/jobs/5837123) | Compunnel | Columbus, Ohio, United States | 2026-07-22 |
+| [SAP Program Manager](https://jobs.compunnel.com/jobs/5837084) | Compunnel | Avon Lake, Ohio, United States | 2026-07-22 |
+| [Consultant, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer_099067) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-22 |
+| [Consultant, Software Engineer - Life New Business (Angular, AWS S3, Apigee, Experience Building OAS)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Life-New-Business--Angular--AWS-S3--Apigee--Experience-Building-OAS-_099306) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
