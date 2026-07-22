@@ -56,36 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1347 tracked total · updated `2026-07-22T20:10:34+00:00`
+### 🆕 3 new roles this update · 1349 tracked total · updated `2026-07-22T22:40:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Sherwin-Williams | 3 |
-| American Electric Power | 2 |
-| Robert Half | 1 |
-| Motion Recruitment | 1 |
-| Artech | 1 |
-| Fifth Third Bank | 1 |
-| Bread Financial | 1 |
-| KeyBank | 1 |
-| FirstEnergy | 1 |
-| L3Harris | 1 |
+| Artech | 2 |
+| Sherwin-Williams | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-22 |
-| [IT Analyst / Contract / Hybrid / Columbus](https://motionrecruitment.com/tech-jobs/columbus/contract/it-analyst-contract-hybrid-columbus/882799) | Motion Recruitment | Columbus, Ohio | 2026-07-22 |
-| [Network Real Estate Specialist / Developer - III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32737440#/jobs/32737440) | Artech | WORK FROM HOME, CA | 2026-07-22 |
-| [Senior Database Administrator](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Database-Administrator_R69216) | Fifth Third Bank | Virtual | 2026-07-22 |
-| [Cyber Security Project Manager Associate](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cyber-Security-Project-Manager-Associate_R17524) | American Electric Power | Columbus, OH | 2026-07-22 |
-| [Telecomms Apprentice III - I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Lima-OH/Telecomms-Apprentice-III---I_R17406) | American Electric Power | Lima, OH | 2026-07-22 |
-| [Senior Agentic AI Software Engineer](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/Senior-Agentic-AI-Software-Engineer_R1012824-1) | Bread Financial | Columbus, OH | 2026-07-22 |
-| [Principal Software Engineer - Enterprise AI Platforms](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Principal-Software-Engineer---Enterprise-AI-Platforms_R-40623) | KeyBank | Brooklyn, OH | 2026-07-22 |
-| [Senior Oracle HCM Cloud Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617904) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
-| [Director, AI Adoption and Value Realization](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618395) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
-| [Principal Software Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618429) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
-| [Business Analyst - Power Billing & Supplier Operations - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104832) | FirstEnergy | Akron, OH, United States | 2026-07-22 |
-| [Lead, Security Research Engineer](https://careers.l3harris.com/en/job/united-states/lead-security-research-engineer/4832/98137589008) | L3Harris | Remote | 2026-07-22 |
+| [Senior SAP Commodity Management Consultant (CTRM) Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32740273#/jobs/32740273) | Artech | Maumee, OH | 2026-07-22 |
+| [ERP Integration Architech](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32740069#/jobs/32740069) | Artech | REMOTE | 2026-07-22 |
+| [Digital Product Owner](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618551) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
