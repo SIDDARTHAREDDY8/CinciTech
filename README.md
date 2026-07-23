@@ -56,9 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1348** roles open total · updated `2026-07-23T09:05:14+00:00`
+### 🆕 3 new roles this update · 1351 tracked total · updated `2026-07-23T11:41:26+00:00`
 
-Nothing new since the last run — [browse all 1348 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Agility Connect | 2 |
+| Robert Half | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-23 |
+| [Dataiku Platform Engineer](https://agilityconnect.io/jobs/8260) | Agility Connect | Cincinnati, OH | 2026-07-23 |
+| [Senior Manager, Cloud Engineering](https://agilityconnect.io/jobs/8256) | Agility Connect | Columbus, Ohio | 2026-07-23 |
 <!-- JOBS:END -->
 
 ## How it works
