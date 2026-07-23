@@ -56,23 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1369 tracked total · updated `2026-07-23T20:13:36+00:00`
+### 🆕 6 new roles this update · 1375 tracked total · updated `2026-07-23T22:45:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vaco | 1 |
-| 84.51° | 1 |
-| American Electric Power | 1 |
-| Abbott (Columbus) | 1 |
-| St. Elizabeth Healthcare | 1 |
+| Robert Half | 1 |
+| Motion Recruitment | 1 |
+| Cynet Systems | 1 |
+| Root Insurance | 1 |
+| Fifth Third Bank | 1 |
+| Procter & Gamble | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Ai Platforms Manager](https://jobs.vaco.com/job/18978/data_ai_platforms_manager/en) | Vaco | Columbus, Ohio | 2026-07-23 |
-| [Lead AI Learning Manager (P4564)](https://job-boards.greenhouse.io/8451/jobs/8647596002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-23 |
-| [Telecom Consultant or Telecom Consultant Sr](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Telecom-Consultant-or-Telecom-Consultant-Sr_R16760) | American Electric Power | Gahanna, OH | 2026-07-23 |
-| [Senior Cybersecurity Specialist](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Remote/Senior-Cybersecurity-Specialist_31157175) | Abbott (Columbus) | United States - California - Remote | 2026-07-23 |
-| [Senior Desktop Support Technician](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Senior-Desktop-Support-Technician_JR313000) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-07-23 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-23 |
+| [Help Desk Analyst](https://motionrecruitment.com/tech-jobs/westerville/direct-hire/help-desk-analyst/883364) | Motion Recruitment | Westerville, Ohio | 2026-07-23 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1piDHdbNcqsQ6ZmMFtR0gk6V-1n6OGi6rf5GsiWZYAY) | Cynet Systems | Ohio | 2026-07-23 |
+| [Senior Data Analyst, Partner Analytics](https://ats.rippling.com/joinroot/jobs/7926deeb-b270-47e8-8144-917ebf6951c3) | Root Insurance | Remote (United States) | 2026-07-23 |
+| [Lockbox Mail Support Specialist M-F 2pm-10:30pm](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Mail-Support-Specialist-M-F-2pm-10-30pm_R71015) | Fifth Third Bank | Cincinnati, OH | 2026-07-23 |
+| [Site Cyber Security Leader](https://pg.wd5.myworkdayjobs.com/1000/job/DYMC-DAYTON-MIX-CENTER/Site-Cyber-Security-Leader_R000154851-1) | Procter & Gamble | DYMC DAYTON MIX CENTER | 2026-07-23 |
 <!-- JOBS:END -->
 
 ## How it works
