@@ -56,17 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1349 tracked total · updated `2026-07-23T04:05:57+00:00`
+### 🟢 No new roles this update · **1348** roles open total · updated `2026-07-23T09:05:14+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| TEKsystems | 1 |
-| Robert Half | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006174199/Platform-Engineer) | TEKsystems | Cincinnati, Ohio | 2026-07-23 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-23 |
+Nothing new since the last run — [browse all 1348 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
