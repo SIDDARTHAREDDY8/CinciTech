@@ -56,27 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1365 tracked total · updated `2026-07-23T17:10:39+00:00`
+### 🆕 5 new roles this update · 1369 tracked total · updated `2026-07-23T20:13:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Apex Systems | 1 |
-| Robert Half | 1 |
-| Mindlance | 1 |
-| Belcan | 1 |
-| Crane Company | 1 |
+| Vaco | 1 |
+| 84.51° | 1 |
+| American Electric Power | 1 |
+| Abbott (Columbus) | 1 |
+| St. Elizabeth Healthcare | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [GM Information Technology - Systems Engineer 2](https://www.apexsystems.com/job/3043426_usa/gm-information-technology---systems-engineer-2) | Apex Systems | Wfhcity, WA | 2026-07-23 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-23 |
-| [.NET FHIR Healthcare Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742989#/jobs/32742989) | Artech | Remote, FL | 2026-07-23 |
-| [.Net Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742903#/jobs/32742903) | Artech | Remote | 2026-07-23 |
-| [.NET Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742904#/jobs/32742904) | Artech | REMOTE | 2026-07-23 |
-| [Core Engineering - Automation Engineer IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28933023#/jobs/28933023) | Mindlance | Remote, TX | 2026-07-23 |
-| [Business Support Analyst/Specialist (Office-Admin/Clerical)](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366694&apply=yes&) | Belcan | Mason, OH | 2026-07-23 |
-| [Infrastructure Manager](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/Infrastructure-Manager_JR102197) | Crane Company | 70900-USA7900 VS USA_TWINSBURG-OH | 2026-07-23 |
+| [Data Ai Platforms Manager](https://jobs.vaco.com/job/18978/data_ai_platforms_manager/en) | Vaco | Columbus, Ohio | 2026-07-23 |
+| [Lead AI Learning Manager (P4564)](https://job-boards.greenhouse.io/8451/jobs/8647596002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-07-23 |
+| [Telecom Consultant or Telecom Consultant Sr](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Telecom-Consultant-or-Telecom-Consultant-Sr_R16760) | American Electric Power | Gahanna, OH | 2026-07-23 |
+| [Senior Cybersecurity Specialist](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Remote/Senior-Cybersecurity-Specialist_31157175) | Abbott (Columbus) | United States - California - Remote | 2026-07-23 |
+| [Senior Desktop Support Technician](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Senior-Desktop-Support-Technician_JR313000) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-07-23 |
 <!-- JOBS:END -->
 
 ## How it works
