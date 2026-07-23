@@ -56,25 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1357 tracked total · updated `2026-07-23T14:49:38+00:00`
+### 🆕 8 new roles this update · 1365 tracked total · updated `2026-07-23T17:10:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
-| Cardinal Health | 2 |
-| STERIS | 1 |
-| Honda | 1 |
-| DHL | 1 |
+| Artech | 3 |
+| Apex Systems | 1 |
+| Robert Half | 1 |
+| Mindlance | 1 |
+| Belcan | 1 |
+| Crane Company | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Lead Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742703#/jobs/32742703) | Artech | Cleveland, OH | 2026-07-23 |
-| [Product Master Data Management (MDM) Consultant – Informatica MDM](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742588#/jobs/32742588) | Artech | Remote, NY | 2026-07-23 |
-| [Principal Specialist, Quality Assurance - Change Management](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Principal-Specialist--Quality-Assurance---Change-Management_20184450) | Cardinal Health | OH-Ohio-Work from Home | 2026-07-23 |
-| [Principal Specialist, Quality Assurance - Microbiology](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Lewis-Center-NPHS-Logistics-Center/Principal-Specialist--Quality-Assurance---Microbiology_20184255) | Cardinal Health | OH-Lewis Center-NPHS Logistics Center | 2026-07-23 |
-| [Manager, Product & Platform Cybersecurity Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53422&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-07-23 |
-| [Senior Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/11900) | Honda | East Liberty, Ohio, United States | 2026-07-23 |
-| [Business Analyst - AI & Data Analytics](https://dpdhlgroup.avature.net/jobs/ApplicationMethods?jobId=363334&source=careers.dhl.com) | DHL | Erlanger, Kentucky | 2026-07-23 |
+| [GM Information Technology - Systems Engineer 2](https://www.apexsystems.com/job/3043426_usa/gm-information-technology---systems-engineer-2) | Apex Systems | Wfhcity, WA | 2026-07-23 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-23 |
+| [.NET FHIR Healthcare Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742989#/jobs/32742989) | Artech | Remote, FL | 2026-07-23 |
+| [.Net Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742903#/jobs/32742903) | Artech | Remote | 2026-07-23 |
+| [.NET Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32742904#/jobs/32742904) | Artech | REMOTE | 2026-07-23 |
+| [Core Engineering - Automation Engineer IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28933023#/jobs/28933023) | Mindlance | Remote, TX | 2026-07-23 |
+| [Business Support Analyst/Specialist (Office-Admin/Clerical)](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366694&apply=yes&) | Belcan | Mason, OH | 2026-07-23 |
+| [Infrastructure Manager](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/Infrastructure-Manager_JR102197) | Crane Company | 70900-USA7900 VS USA_TWINSBURG-OH | 2026-07-23 |
 <!-- JOBS:END -->
 
 ## How it works
