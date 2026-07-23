@@ -56,18 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1349 tracked total · updated `2026-07-22T22:40:42+00:00`
+### 🆕 2 new roles this update · 1349 tracked total · updated `2026-07-23T04:05:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
-| Sherwin-Williams | 1 |
+| TEKsystems | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior SAP Commodity Management Consultant (CTRM) Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32740273#/jobs/32740273) | Artech | Maumee, OH | 2026-07-22 |
-| [ERP Integration Architech](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32740069#/jobs/32740069) | Artech | REMOTE | 2026-07-22 |
-| [Digital Product Owner](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618551) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-22 |
+| [Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006174199/Platform-Engineer) | TEKsystems | Cincinnati, Ohio | 2026-07-23 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-23 |
 <!-- JOBS:END -->
 
 ## How it works
