@@ -56,21 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1388 tracked total · updated `2026-07-24T17:36:23+00:00`
+### 🆕 4 new roles this update · 1392 tracked total · updated `2026-07-24T20:07:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 1 |
 | Cynet Systems | 1 |
-| KeyBank | 1 |
-| FirstEnergy | 1 |
-| Abbott (Columbus) | 1 |
+| Cleveland Clinic | 1 |
+| OhioHealth | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6MYkOt9uQkzj9mHluGUHyDeZftwDiX_zJ0sJuoV8Xvc) | Cynet Systems | Ohio | 2026-07-24 |
-| [Senior Security Engineer- Security Baselines](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Security-Engineer--Security-Baselines_R-37540) | KeyBank | Brooklyn, OH | 2026-07-24 |
-| [Fiber Networks Specialist III - IT Networks - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104853) | FirstEnergy | Akron, OH, United States | 2026-07-24 |
-| [Senior Cybersecurity Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171) | Abbott (Columbus) | United States of America : Remote | 2026-07-24 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-24 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/gzky2i8JgTR9cwQ8QRkIjAlzKiQWsQC0RyGQn-yZNsI) | Cynet Systems | Ohio | 2026-07-24 |
+| [Systems Analyst III](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Systems-Analyst-III_343037) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-07-24 |
+| [Epic Senior Systems Analyst - Ambulatory](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Ambulatory_JR155142) | OhioHealth | WORK AT HOME - OHIO | 2026-07-24 |
 <!-- JOBS:END -->
 
 ## How it works
