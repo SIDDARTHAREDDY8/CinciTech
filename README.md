@@ -56,25 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1375 tracked total · updated `2026-07-23T22:45:12+00:00`
+### 🆕 2 new roles this update · 1376 tracked total · updated `2026-07-24T04:19:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Motion Recruitment | 1 |
 | Cynet Systems | 1 |
-| Root Insurance | 1 |
-| Fifth Third Bank | 1 |
-| Procter & Gamble | 1 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-23 |
-| [Help Desk Analyst](https://motionrecruitment.com/tech-jobs/westerville/direct-hire/help-desk-analyst/883364) | Motion Recruitment | Westerville, Ohio | 2026-07-23 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1piDHdbNcqsQ6ZmMFtR0gk6V-1n6OGi6rf5GsiWZYAY) | Cynet Systems | Ohio | 2026-07-23 |
-| [Senior Data Analyst, Partner Analytics](https://ats.rippling.com/joinroot/jobs/7926deeb-b270-47e8-8144-917ebf6951c3) | Root Insurance | Remote (United States) | 2026-07-23 |
-| [Lockbox Mail Support Specialist M-F 2pm-10:30pm](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Mail-Support-Specialist-M-F-2pm-10-30pm_R71015) | Fifth Third Bank | Cincinnati, OH | 2026-07-23 |
-| [Site Cyber Security Leader](https://pg.wd5.myworkdayjobs.com/1000/job/DYMC-DAYTON-MIX-CENTER/Site-Cyber-Security-Leader_R000154851-1) | Procter & Gamble | DYMC DAYTON MIX CENTER | 2026-07-23 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/njXnBO4CCz5EW2kWvGPN8yGETvwn9Sb9oqcTEXYVceI) | Cynet Systems | Ohio | 2026-07-24 |
+| [Business Intelligence Specialist, Global Finance Operations](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Business-Intelligence-Specialist--Global-Finance-Operations_31156591) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-07-24 |
 <!-- JOBS:END -->
 
 ## How it works
