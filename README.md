@@ -56,17 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1381 tracked total · updated `2026-07-24T11:39:00+00:00`
+### 🆕 4 new roles this update · 1385 tracked total · updated `2026-07-24T14:40:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 1 |
+| Artech | 1 |
 | Cynet Systems | 1 |
-| Agility Connect | 1 |
+| Atlas Air Worldwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/S8mbmxT5kf4y4OeGDI8FGRH9Qezri5ukQhOvYg7HlRg) | Cynet Systems | Ohio | 2026-07-24 |
-| [Sr. ETL Developer](https://agilityconnect.io/jobs/8266) | Agility Connect | OH | 2026-07-24 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-24 |
+| [Program Manager - Semrush CloudOps Integration](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32746609#/jobs/32746609) | Artech | Remote | 2026-07-24 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Aif-bX1pzgAO2BOWdHZ5yXQhlnbIaS9Y8q2ISlhLlOw) | Cynet Systems | Ohio | 2026-07-24 |
+| [Staff Data Scientist](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4291617009) | Atlas Air Worldwide | Erlanger, KY, USA; Miami, FL, USA; White Plains, NY, USA | 2026-07-24 |
 <!-- JOBS:END -->
 
 ## How it works
