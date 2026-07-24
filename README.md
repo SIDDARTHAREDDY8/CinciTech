@@ -56,17 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1376 tracked total · updated `2026-07-24T04:19:46+00:00`
+### 🆕 4 new roles this update · 1380 tracked total · updated `2026-07-24T09:19:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 1 |
+| Russell Tobin | 1 |
 | Cynet Systems | 1 |
-| Abbott (Columbus) | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/njXnBO4CCz5EW2kWvGPN8yGETvwn9Sb9oqcTEXYVceI) | Cynet Systems | Ohio | 2026-07-24 |
-| [Business Intelligence Specialist, Global Finance Operations](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Business-Intelligence-Specialist--Global-Finance-Operations_31156591) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-07-24 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-24 |
+| [Need - Machine Learning Engineer - Remote](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28936022#/jobs/28936022) | Russell Tobin | REMOTE, CA | 2026-07-24 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/-Tyfm-d-HZdLAxl-YLu_Zv-aThYl5JCS1pcO5OFL7pg) | Cynet Systems | Ohio | 2026-07-24 |
+| [Scrum Lead – ERP Digital Transformation](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1785&BRID=1319246&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-24 |
 <!-- JOBS:END -->
 
 ## How it works
