@@ -56,21 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1385 tracked total · updated `2026-07-24T14:40:43+00:00`
+### 🆕 4 new roles this update · 1388 tracked total · updated `2026-07-24T17:36:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Artech | 1 |
 | Cynet Systems | 1 |
-| Atlas Air Worldwide | 1 |
+| KeyBank | 1 |
+| FirstEnergy | 1 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-24 |
-| [Program Manager - Semrush CloudOps Integration](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32746609#/jobs/32746609) | Artech | Remote | 2026-07-24 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Aif-bX1pzgAO2BOWdHZ5yXQhlnbIaS9Y8q2ISlhLlOw) | Cynet Systems | Ohio | 2026-07-24 |
-| [Staff Data Scientist](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4291617009) | Atlas Air Worldwide | Erlanger, KY, USA; Miami, FL, USA; White Plains, NY, USA | 2026-07-24 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6MYkOt9uQkzj9mHluGUHyDeZftwDiX_zJ0sJuoV8Xvc) | Cynet Systems | Ohio | 2026-07-24 |
+| [Senior Security Engineer- Security Baselines](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Security-Engineer--Security-Baselines_R-37540) | KeyBank | Brooklyn, OH | 2026-07-24 |
+| [Fiber Networks Specialist III - IT Networks - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104853) | FirstEnergy | Akron, OH, United States | 2026-07-24 |
+| [Senior Cybersecurity Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171) | Abbott (Columbus) | United States of America : Remote | 2026-07-24 |
 <!-- JOBS:END -->
 
 ## How it works
