@@ -56,19 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1398 tracked total · updated `2026-07-25T04:03:43+00:00`
+### 🆕 1 new roles this update · 1398 tracked total · updated `2026-07-25T08:42:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
 | Cynet Systems | 1 |
-| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-25 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/GcSkuvxxmTntfgwLRQRqDbaEhEqnm3aXyHHj3nCs8DE) | Cynet Systems | Ohio | 2026-07-25 |
-| [Reinsurance - Director - Analytics Developer (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=165607) | Cincinnati Insurance | ["Remote"] | 2026-07-25 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/zLekkN-r5l3ETBc4MpyQh_OcC9ASCMOUi2dqL1N3400) | Cynet Systems | Ohio | 2026-07-25 |
 <!-- JOBS:END -->
 
 ## How it works
