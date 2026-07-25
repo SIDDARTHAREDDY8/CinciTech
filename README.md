@@ -56,17 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1400 tracked total · updated `2026-07-25T11:02:55+00:00`
+### 🆕 9 new roles this update · 1408 tracked total · updated `2026-07-25T14:26:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
+| Agility Connect | 8 |
 | Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-25 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ykvVibAiWXLJiAU-PZpolcNHF9ikiqUXDqlHhQ__RHI) | Cynet Systems | Ohio | 2026-07-25 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/n4e5X0fOR0T0jqSaOo03ZZNgIo7rqTQ9_wQR-qH_73E) | Cynet Systems | Ohio | 2026-07-25 |
+| [Data Engineer Lead](https://agilityconnect.io/jobs/8274) | Agility Connect | OH | 2026-07-25 |
+| [Jr Data Engineer](https://agilityconnect.io/jobs/8275) | Agility Connect | Cincinnati, OH | 2026-07-25 |
+| [IAM App Onboarding Developer](https://agilityconnect.io/jobs/8269) | Agility Connect | OH | 2026-07-25 |
+| [IAM PAM Analyst](https://agilityconnect.io/jobs/8271) | Agility Connect | OH | 2026-07-25 |
+| [IAM PAM Tech BSA](https://agilityconnect.io/jobs/8270) | Agility Connect | OH | 2026-07-25 |
+| [IAM PAM Tech BSA](https://agilityconnect.io/jobs/8273) | Agility Connect | OH | 2026-07-25 |
+| [IAM SoD Analyst](https://agilityconnect.io/jobs/8272) | Agility Connect | OH | 2026-07-25 |
+| [Cisco Network Engineer](https://agilityconnect.io/jobs/8279) | Agility Connect | Cincinnati, Ohio | 2026-07-25 |
 <!-- JOBS:END -->
 
 ## How it works
