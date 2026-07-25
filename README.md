@@ -56,21 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1395 tracked total · updated `2026-07-24T22:53:25+00:00`
+### 🆕 3 new roles this update · 1398 tracked total · updated `2026-07-25T04:03:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 1 |
+| Robert Half | 1 |
 | Cynet Systems | 1 |
-| Vernovis | 1 |
-| STERIS | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32752847#/jobs/32752847) | Artech | Columbus, OH | 2026-07-24 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/cRlMeeNlRQk2hUCw-Hp0SviTKm7H-rjt-glvmVECglM) | Cynet Systems | Ohio | 2026-07-24 |
-| [Sr. Manager Systems Engineering](https://vernovis.com/blog/jobs/12048/) | Vernovis | Cincinnati, | 2026-07-24 |
-| [Senior Quality Engineer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55408&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-07-24 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-25 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/GcSkuvxxmTntfgwLRQRqDbaEhEqnm3aXyHHj3nCs8DE) | Cynet Systems | Ohio | 2026-07-25 |
+| [Reinsurance - Director - Analytics Developer (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=165607) | Cincinnati Insurance | ["Remote"] | 2026-07-25 |
 <!-- JOBS:END -->
 
 ## How it works
