@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1412 tracked total · updated `2026-07-26T04:13:14+00:00`
+### 🆕 2 new roles this update · 1414 tracked total · updated `2026-07-26T09:00:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 1 |
 | Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/IWXpEK5oiHIU4ComqcrrUQ3DV8rCxhJ8QY3-hDlK5m0) | Cynet Systems | Ohio | 2026-07-26 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-26 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Jr3Hq9QA-sM5RkHctEyZ3TMCnXQOKXdm1fN89zkObzo) | Cynet Systems | Ohio | 2026-07-26 |
 <!-- JOBS:END -->
 
 ## How it works
