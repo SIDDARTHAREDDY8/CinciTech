@@ -56,31 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1438 tracked total · updated `2026-07-27T20:18:16+00:00`
+### 🆕 6 new roles this update · 1443 tracked total · updated `2026-07-27T22:49:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Fifth Third Bank | 2 |
-| Kroger | 2 |
-| Robert Half | 1 |
+| Insight Global | 1 |
+| Russell Tobin | 1 |
 | Cynet Systems | 1 |
-| American Electric Power | 1 |
-| Safelite | 1 |
-| KeyBank | 1 |
-| Honda | 1 |
+| CareSource | 1 |
+| Medical Mutual of Ohio | 1 |
+| DHL | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-27 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/_r9c2vKuyTNYjvqDxu6pBvJZu4ocL6s8e0wCFhCZLrY) | Cynet Systems | Ohio | 2026-07-27 |
-| [2027 IT Audit Intern](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611) | Fifth Third Bank | Cincinnati, OH | 2026-07-27 |
-| [IT Audit Leadership Participant](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Audit-Leadership-Participant_R70609-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-27 |
-| [Senior Software Engineer, Commercial Operations](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Engineer-Sr_R15988) | American Electric Power | Columbus, OH | 2026-07-27 |
-| [Senior Telecom Engineer](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Telecom-Engineer_JR72354) | Safelite | COLUMBUS, OH | 2026-07-27 |
-| [Senior Lead Data Engineer - Finance Data Product](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4900-Tiedeman-Road-Brooklyn-OH/Senior-Lead-Management-Reporting-Analyst_R-38993) | KeyBank | 4900 Tiedeman Road, Brooklyn, OH | 2026-07-27 |
-| [Advanced Quality Engineer - (Multiple positions available)](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/203034) | Kroger | Cincinnati, OH, United States | 2026-07-27 |
-| [Adv. Software Engineer - (Multiple positions available)](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/203097) | Kroger | Cincinnati, OH, United States | 2026-07-27 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-07-27 |
+| [Network Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/dayton/network-engineer/job-557007/) | Insight Global | Dayton, OH | 2026-07-27 |
+| [IT Technology Trainer - REMOTE!](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28956379#/jobs/28956379) | Russell Tobin | REMOTE, MN | 2026-07-27 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/cWmhR45inCbdgOG3r2PccoI8Bjhk1QOnxnReXBH9Gtk) | Cynet Systems | Ohio | 2026-07-27 |
+| [Data Engineer II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Engineer-II_R12853) | CareSource | Remote | 2026-07-27 |
+| [Clinical Training & Audit Specialist](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=690551c2-727a-4f90-bc7a-6b8ecd8b9927) | Medical Mutual of Ohio | Brooklyn OH | 2026-07-27 |
+| [Quality Assurance Manager I](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/QA-Manager-I-USN-job-Lockbourne-OH-US-11083098.html) | DHL | Lockbourne, Ohio | 2026-07-27 |
 <!-- JOBS:END -->
 
 ## How it works
