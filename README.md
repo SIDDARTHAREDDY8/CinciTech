@@ -56,29 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1427 tracked total · updated `2026-07-27T15:43:23+00:00`
+### 🆕 2 new roles this update · 1428 tracked total · updated `2026-07-27T17:41:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Insight Global | 1 |
-| Robert Half | 1 |
-| Artech | 1 |
 | Cynet Systems | 1 |
-| Root Insurance | 1 |
-| Nationwide | 1 |
-| Kroger | 1 |
-| Vertiv | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/data-engineer/job-556477/) | Insight Global | Columbus, OH | 2026-07-27 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-27 |
-| [Senior Databricks Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32756806#/jobs/32756806) | Artech | Remote, NY | 2026-07-27 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Qm8phBkZY94fUa-Dg6zaIiPTM0PstXt6SbeX3rRJmOk) | Cynet Systems | Ohio | 2026-07-27 |
-| [Data Science Manager II, Digital Partnerships](https://ats.rippling.com/joinroot/jobs/9d301fdb-4212-4eb6-b4cf-2cbf39b52d43) | Root Insurance | Remote (United States) | 2026-07-27 |
-| [Consultant, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer_099180-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-27 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/211801) | Kroger | Springfield, OH, United States | 2026-07-27 |
-| [Sr. Specialist, Pricing Automation & AI Enablement](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277711) | Vertiv | Westerville, OH, United States | 2026-07-27 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/CBDqBQDNMY9ZbxQfGJIgzxYvDs4gHK2w8zFNwu2G7tA) | Cynet Systems | Ohio | 2026-07-27 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/11964) | Honda | Marysville, Ohio, United States | 2026-07-27 |
 <!-- JOBS:END -->
 
 ## How it works
