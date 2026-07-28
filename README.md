@@ -56,18 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1446 tracked total · updated `2026-07-28T09:15:15+00:00`
+### 🆕 3 new roles this update · 1449 tracked total · updated `2026-07-28T11:51:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 2 |
+| Robert Half | 1 |
 | Cynet Systems | 1 |
+| Kroger | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Hz1PIaFvDKFsE_x2hWC4uMDnOHZsoiAhWAtq2k6TaBk) | Cynet Systems | Ohio | 2026-07-28 |
-| [Specialist, Software Engineer (Java, Angular, IIB) - Ace (AppConnect Enterprise)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer--Java--Angular--IIB----Ace--AppConnect-Enterprise-_099384) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-28 |
-| [Specialist, Software Engineer - ETL Informatica and ACE (App Connect Enterprise)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---ETL-Informatica-and-ACE--App-Connect-Enterprise-_099385) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-28 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/8Jsfw8GyNnKLllh473_aTZTGS5VpD9W6AVwJWHsptII) | Cynet Systems | Ohio | 2026-07-28 |
+| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/211981) | Kroger | Martins Ferry, OH, United States | 2026-07-28 |
 <!-- JOBS:END -->
 
 ## How it works
