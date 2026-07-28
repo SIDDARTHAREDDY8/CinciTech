@@ -56,28 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1471 tracked total · updated `2026-07-28T20:16:01+00:00`
+### 🆕 12 new roles this update · 1483 tracked total · updated `2026-07-28T22:49:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| OhioHealth | 5 |
 | Cynet Systems | 2 |
-| Artech | 1 |
-| Cardinal Health | 1 |
-| Safelite | 1 |
-| Vertiv | 1 |
+| Robert Half | 1 |
+| Russell Tobin | 1 |
+| Mindlance | 1 |
 | Honda | 1 |
-| Dana Incorporated | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32764864#/jobs/32764864) | Artech | Cleveland, OH | 2026-07-28 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/gJ5wtdRQx6QgvjnPD4LHihqk5by0xJ5ZkV7Qkhebz88) | Cynet Systems | California, Ohio | 2026-07-28 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/_2zCXEOhIyrkn6oaivxUIblFyOwmqr4TQhYEqS90Fps) | Cynet Systems | Ohio | 2026-07-28 |
-| [Principal Specialist, Quality Assurance](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/GA-Georgia-Work-from-Home/Principal-Specialist--Quality-Assurance_20184727) | Cardinal Health | GA-Georgia-Work from Home | 2026-07-28 |
-| [AVP, Infrastructure & Operations](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/AVP--Infrastructure---Operations_JR73127) | Safelite | COLUMBUS, OH | 2026-07-28 |
-| [Systems Integration Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272102) | Vertiv | Delaware, OH, United States | 2026-07-28 |
-| [PLM Software Engineer](https://careers.honda.com/us/en/job/12001) | Honda | Raymond, Ohio, United States | 2026-07-28 |
-| [IT Field Support](https://jobs.dana.com/job/Napoleon-IT-Field-Support-OH-43545/1413378400/) | Dana Incorporated | OH | 2026-07-28 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
+| [Data Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28967577#/jobs/28967577) | Russell Tobin | San Francisco Remote, CA | 2026-07-28 |
+| [IT - MarCom Manager - Mid-Level](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28939995#/jobs/28939995) | Mindlance | Remote, TX | 2026-07-28 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/kc9w64yFLS-9EhcmEES_ehpMD4pScvsCpXL2kGvvbpY) | Cynet Systems | California, Ohio | 2026-07-28 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/FhzBfCiEDUAav8V6j2ynZecsvNkUSNGrsALPvOEd-y8) | Cynet Systems | Ohio | 2026-07-28 |
+| [IT Tech Lead - ERP Workday](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Tech-Lead---ERP-Workday_JR155537) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
+| [Epic Senior Systems Analyst - Willow Amb](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Willow-Amb_JR155439) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
+| [Epic Senior Systems Analyst - Willow IP](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Willow-IP_JR155438) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
+| [Epic Senior Systems Analyst - IP Orders](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---IP-Orders_JR155437) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
+| [Epic Senior Systems Analyst - ClinDoc/ Stork](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---ClinDoc--Stork_JR155436) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
+| [Senior Semiconductor Research Engineer](https://careers.honda.com/us/en/job/12042) | Honda | Raymond, Ohio, United States | 2026-07-28 |
+| [IT Security Engineer-Level 2](https://careers.cintas.com/job/Mason-IT-Security-Engineer-Level-2-OH-45040/1413521200/) | Cintas | OH | 2026-07-28 |
 <!-- JOBS:END -->
 
 ## How it works
