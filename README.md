@@ -56,25 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1443 tracked total · updated `2026-07-27T22:49:36+00:00`
+### 🆕 5 new roles this update · 1444 tracked total · updated `2026-07-28T04:01:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Insight Global | 1 |
+| Robert Half | 1 |
 | Russell Tobin | 1 |
 | Cynet Systems | 1 |
-| CareSource | 1 |
-| Medical Mutual of Ohio | 1 |
-| DHL | 1 |
+| Brooksource | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Network Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/dayton/network-engineer/job-557007/) | Insight Global | Dayton, OH | 2026-07-27 |
-| [IT Technology Trainer - REMOTE!](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28956379#/jobs/28956379) | Russell Tobin | REMOTE, MN | 2026-07-27 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/cWmhR45inCbdgOG3r2PccoI8Bjhk1QOnxnReXBH9Gtk) | Cynet Systems | Ohio | 2026-07-27 |
-| [Data Engineer II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Engineer-II_R12853) | CareSource | Remote | 2026-07-27 |
-| [Clinical Training & Audit Specialist](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=690551c2-727a-4f90-bc7a-6b8ecd8b9927) | Medical Mutual of Ohio | Brooklyn OH | 2026-07-27 |
-| [Quality Assurance Manager I](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/QA-Manager-I-USN-job-Lockbourne-OH-US-11083098.html) | DHL | Lockbourne, Ohio | 2026-07-27 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
+| [Senior Microsoft Intune Engineer – iOS & Enterprise Mobility](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28961240#/jobs/28961240) | Russell Tobin | Remote, CA | 2026-07-28 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/F_2A-Cbhq7MrqkD55gDx6lDEc8mv9M83C-2dLHC4JrI) | Cynet Systems | Ohio | 2026-07-28 |
+| [Mid Level Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000rwujeae-mid-level-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-07-28 |
+| [Sr. Specialist, Supplier Quality Engineer 1](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-1/4832/98397465920) | L3Harris | Remote | 2026-07-28 |
 <!-- JOBS:END -->
 
 ## How it works
