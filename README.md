@@ -56,23 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1444 tracked total · updated `2026-07-28T04:01:48+00:00`
+### 🆕 3 new roles this update · 1446 tracked total · updated `2026-07-28T09:15:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Russell Tobin | 1 |
+| Nationwide | 2 |
 | Cynet Systems | 1 |
-| Brooksource | 1 |
-| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
-| [Senior Microsoft Intune Engineer – iOS & Enterprise Mobility](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28961240#/jobs/28961240) | Russell Tobin | Remote, CA | 2026-07-28 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/F_2A-Cbhq7MrqkD55gDx6lDEc8mv9M83C-2dLHC4JrI) | Cynet Systems | Ohio | 2026-07-28 |
-| [Mid Level Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000rwujeae-mid-level-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-07-28 |
-| [Sr. Specialist, Supplier Quality Engineer 1](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-1/4832/98397465920) | L3Harris | Remote | 2026-07-28 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Hz1PIaFvDKFsE_x2hWC4uMDnOHZsoiAhWAtq2k6TaBk) | Cynet Systems | Ohio | 2026-07-28 |
+| [Specialist, Software Engineer (Java, Angular, IIB) - Ace (AppConnect Enterprise)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer--Java--Angular--IIB----Ace--AppConnect-Enterprise-_099384) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-28 |
+| [Specialist, Software Engineer - ETL Informatica and ACE (App Connect Enterprise)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---ETL-Informatica-and-ACE--App-Connect-Enterprise-_099385) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-28 |
 <!-- JOBS:END -->
 
 ## How it works
