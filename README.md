@@ -56,27 +56,28 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1464 tracked total · updated `2026-07-28T17:14:02+00:00`
+### 🆕 8 new roles this update · 1471 tracked total · updated `2026-07-28T20:16:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Park National Bank | 2 |
-| Robert Half | 1 |
-| Mindlance | 1 |
-| Abercrombie & Fitch | 1 |
-| Nationwide Children's Hospital | 1 |
+| Artech | 1 |
+| Cardinal Health | 1 |
+| Safelite | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
+| Dana Incorporated | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
-| [Data Analytics & Engineering - Data Analyst III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28961037#/jobs/28961037) | Mindlance | Remote, NY | 2026-07-28 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/cEK9j8qrXHjrqIJQD0i-I9vOBSYSpy_KqBukGKclGGM) | Cynet Systems | California, Ohio | 2026-07-28 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/E7uHCyEw-yHPZBsLkqWUQmxHL8mTvJAv7MlQFgyc_6U) | Cynet Systems | Ohio | 2026-07-28 |
-| [Senior Android Engineer, Store Associate Applications (Remote)](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Senior-Android-Engineer--Store-Associate-Applications--Remote-_JR103393) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-28 |
-| [Research Scientist - Injury Research](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Scientist---Injury-Research_R-27147) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-28 |
-| [Scope Credit Analyst II](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=0e728d48-127a-4843-8178-f80aa5ab9e64) | Park National Bank | COL Columbus | 2026-07-28 |
-| [Commercial Credit Analyst](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=a420af69-a831-45a6-9eef-590d96c8885a) | Park National Bank | COL Columbus | 2026-07-28 |
+| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32764864#/jobs/32764864) | Artech | Cleveland, OH | 2026-07-28 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/gJ5wtdRQx6QgvjnPD4LHihqk5by0xJ5ZkV7Qkhebz88) | Cynet Systems | California, Ohio | 2026-07-28 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/_2zCXEOhIyrkn6oaivxUIblFyOwmqr4TQhYEqS90Fps) | Cynet Systems | Ohio | 2026-07-28 |
+| [Principal Specialist, Quality Assurance](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/GA-Georgia-Work-from-Home/Principal-Specialist--Quality-Assurance_20184727) | Cardinal Health | GA-Georgia-Work from Home | 2026-07-28 |
+| [AVP, Infrastructure & Operations](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/AVP--Infrastructure---Operations_JR73127) | Safelite | COLUMBUS, OH | 2026-07-28 |
+| [Systems Integration Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272102) | Vertiv | Delaware, OH, United States | 2026-07-28 |
+| [PLM Software Engineer](https://careers.honda.com/us/en/job/12001) | Honda | Raymond, Ohio, United States | 2026-07-28 |
+| [IT Field Support](https://jobs.dana.com/job/Napoleon-IT-Field-Support-OH-43545/1413378400/) | Dana Incorporated | OH | 2026-07-28 |
 <!-- JOBS:END -->
 
 ## How it works
