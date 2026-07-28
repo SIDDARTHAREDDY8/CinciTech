@@ -56,29 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1456 tracked total · updated `2026-07-28T15:06:54+00:00`
+### 🆕 8 new roles this update · 1464 tracked total · updated `2026-07-28T17:14:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Insight Global | 1 |
-| Cynet Systems | 1 |
-| Path Robotics | 1 |
-| Worldpay | 1 |
-| American Electric Power | 1 |
+| Cynet Systems | 2 |
+| Park National Bank | 2 |
+| Robert Half | 1 |
+| Mindlance | 1 |
+| Abercrombie & Fitch | 1 |
 | Nationwide Children's Hospital | 1 |
-| Cincinnati Children's Hospital | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lead Platform Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/lead-platform-engineer/job-557094/) | Insight Global | Cleveland, OH | 2026-07-28 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/MbRaB1gDIIjmhcmVB52opqDm7xYam5N5gRfH3r6kw3k) | Cynet Systems | Ohio | 2026-07-28 |
-| [Robotic Operations Support Specialist, Weekend Shift](https://boards.greenhouse.io/pathrobotics/jobs/8649408002?gh_jid=8649408002) | Path Robotics | Columbus, Ohio | 2026-07-28 |
-| [Network Security Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Network-Security-Engineer_JR0610761-1) | Worldpay | CINCINNATI, OHIO | 2026-07-28 |
-| [Cyber Security Manager](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Security-Mgr_R16903) | American Electric Power | Columbus, OH | 2026-07-28 |
-| [Research Scientist - Onohara Lab](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Scientist---Onohara-Lab_R-27108) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-28 |
-| [Senior Systems Engineer - Enterprise Virtualization](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Sr-Systems-Engineer_JR222870) | Cincinnati Children's Hospital | Remote | 2026-07-28 |
-| [Operational Technology Security Engineer](https://careers.honda.com/us/en/job/11971) | Honda | Marysville, Ohio, United States | 2026-07-28 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
+| [Data Analytics & Engineering - Data Analyst III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28961037#/jobs/28961037) | Mindlance | Remote, NY | 2026-07-28 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/cEK9j8qrXHjrqIJQD0i-I9vOBSYSpy_KqBukGKclGGM) | Cynet Systems | California, Ohio | 2026-07-28 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/E7uHCyEw-yHPZBsLkqWUQmxHL8mTvJAv7MlQFgyc_6U) | Cynet Systems | Ohio | 2026-07-28 |
+| [Senior Android Engineer, Store Associate Applications (Remote)](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Senior-Android-Engineer--Store-Associate-Applications--Remote-_JR103393) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-28 |
+| [Research Scientist - Injury Research](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Scientist---Injury-Research_R-27147) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-28 |
+| [Scope Credit Analyst II](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=0e728d48-127a-4843-8178-f80aa5ab9e64) | Park National Bank | COL Columbus | 2026-07-28 |
+| [Commercial Credit Analyst](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=a420af69-a831-45a6-9eef-590d96c8885a) | Park National Bank | COL Columbus | 2026-07-28 |
 <!-- JOBS:END -->
 
 ## How it works
