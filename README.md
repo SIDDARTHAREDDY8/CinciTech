@@ -56,19 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1449 tracked total · updated `2026-07-28T11:51:58+00:00`
+### 🆕 8 new roles this update · 1456 tracked total · updated `2026-07-28T15:06:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
+| Insight Global | 1 |
 | Cynet Systems | 1 |
-| Kroger | 1 |
+| Path Robotics | 1 |
+| Worldpay | 1 |
+| American Electric Power | 1 |
+| Nationwide Children's Hospital | 1 |
+| Cincinnati Children's Hospital | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/8Jsfw8GyNnKLllh473_aTZTGS5VpD9W6AVwJWHsptII) | Cynet Systems | Ohio | 2026-07-28 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/211981) | Kroger | Martins Ferry, OH, United States | 2026-07-28 |
+| [Lead Platform Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/lead-platform-engineer/job-557094/) | Insight Global | Cleveland, OH | 2026-07-28 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/MbRaB1gDIIjmhcmVB52opqDm7xYam5N5gRfH3r6kw3k) | Cynet Systems | Ohio | 2026-07-28 |
+| [Robotic Operations Support Specialist, Weekend Shift](https://boards.greenhouse.io/pathrobotics/jobs/8649408002?gh_jid=8649408002) | Path Robotics | Columbus, Ohio | 2026-07-28 |
+| [Network Security Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Network-Security-Engineer_JR0610761-1) | Worldpay | CINCINNATI, OHIO | 2026-07-28 |
+| [Cyber Security Manager](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Security-Mgr_R16903) | American Electric Power | Columbus, OH | 2026-07-28 |
+| [Research Scientist - Onohara Lab](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Scientist---Onohara-Lab_R-27108) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-28 |
+| [Senior Systems Engineer - Enterprise Virtualization](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Sr-Systems-Engineer_JR222870) | Cincinnati Children's Hospital | Remote | 2026-07-28 |
+| [Operational Technology Security Engineer](https://careers.honda.com/us/en/job/11971) | Honda | Marysville, Ohio, United States | 2026-07-28 |
 <!-- JOBS:END -->
 
 ## How it works
