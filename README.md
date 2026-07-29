@@ -56,32 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1483 tracked total · updated `2026-07-28T22:49:05+00:00`
+### 🆕 4 new roles this update · 1482 tracked total · updated `2026-07-29T04:14:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| OhioHealth | 5 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Russell Tobin | 1 |
-| Mindlance | 1 |
-| Honda | 1 |
-| Cintas | 1 |
+| Nationwide | 1 |
+| Medical Mutual of Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-28 |
-| [Data Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28967577#/jobs/28967577) | Russell Tobin | San Francisco Remote, CA | 2026-07-28 |
-| [IT - MarCom Manager - Mid-Level](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28939995#/jobs/28939995) | Mindlance | Remote, TX | 2026-07-28 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/kc9w64yFLS-9EhcmEES_ehpMD4pScvsCpXL2kGvvbpY) | Cynet Systems | California, Ohio | 2026-07-28 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/FhzBfCiEDUAav8V6j2ynZecsvNkUSNGrsALPvOEd-y8) | Cynet Systems | Ohio | 2026-07-28 |
-| [IT Tech Lead - ERP Workday](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Tech-Lead---ERP-Workday_JR155537) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
-| [Epic Senior Systems Analyst - Willow Amb](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Willow-Amb_JR155439) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
-| [Epic Senior Systems Analyst - Willow IP](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Willow-IP_JR155438) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
-| [Epic Senior Systems Analyst - IP Orders](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---IP-Orders_JR155437) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
-| [Epic Senior Systems Analyst - ClinDoc/ Stork](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---ClinDoc--Stork_JR155436) | OhioHealth | WORK AT HOME - OHIO | 2026-07-28 |
-| [Senior Semiconductor Research Engineer](https://careers.honda.com/us/en/job/12042) | Honda | Raymond, Ohio, United States | 2026-07-28 |
-| [IT Security Engineer-Level 2](https://careers.cintas.com/job/Mason-IT-Security-Engineer-Level-2-OH-45040/1413521200/) | Cintas | OH | 2026-07-28 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/9cAp3DM_xxkUjNy052fu4gumvVjix5WvyZxkK50VsJA) | Cynet Systems | California, Ohio | 2026-07-29 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vO0hlaXB4YpN199vZIfofTSwecuKZrYUHcbyIwGrlMU) | Cynet Systems | Ohio | 2026-07-29 |
+| [Specialist, Full Stack Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Full-Stack-Software-Engineer_099435) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-29 |
+| [IT Data Scientist III](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=8553cbba-0468-402b-97e1-639d08430f49) | Medical Mutual of Ohio | Brooklyn OH | 2026-07-29 |
 <!-- JOBS:END -->
 
 ## How it works
