@@ -56,31 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1498 tracked total · updated `2026-07-29T14:57:48+00:00`
+### 🆕 13 new roles this update · 1510 tracked total · updated `2026-07-29T17:00:24+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Insight Global | 2 |
+| Vertiv | 3 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
 | Artech | 1 |
-| Nationwide | 1 |
-| Sherwin-Williams | 1 |
+| Brooksource | 1 |
+| J.M. Smucker | 1 |
+| First Solar | 1 |
+| Cleveland Clinic | 1 |
 | OhioHealth | 1 |
-| Cincinnati Insurance | 1 |
+| GE Aerospace | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AWS Infrastructure Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/aws-infrastructure-engineer/job-557505/) | Insight Global | Columbus, OH | 2026-07-29 |
-| [Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/software-engineer/job-557416/) | Insight Global | Columbus, OH | 2026-07-29 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-29 |
-| [Microsoft Dynamics 365 Solution](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32769460#/jobs/32769460) | Artech | Remote, NY | 2026-07-29 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/MXuZhkOjsuT8cdqJKa4A6LeL-4G_MWdgiwirwPmYkLM) | Cynet Systems | California, Ohio | 2026-07-29 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/aElIgDt8Cqv_INhBtz_OuStwE-JKIgk4w39XsrpXN1Y) | Cynet Systems | Ohio | 2026-07-29 |
-| [Sr Actuarial Associate, Enterprise Catastrophe Risk](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Sr-Consultant--Risk-Researcher_099032) | Nationwide | Ohio | 2026-07-29 |
-| [IT Auditor](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619041) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-29 |
-| [IT Program Manager - Corporate Portfolio](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Program-Manager---Corporate-Portfolio_JR155079) | OhioHealth | WORK AT HOME - OHIO | 2026-07-29 |
-| [IT - Third Party Risk Manager I - II (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167049) | Cincinnati Insurance | ["Remote"] | 2026-07-29 |
+| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32769114#/jobs/32769114) | Artech | Remote, FL | 2026-07-29 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/5RzN7wXVqoO1NwoQbk-v_Fg5-vnuw2b23VCAndx1qb8) | Cynet Systems | California, Ohio | 2026-07-29 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/M7MsoPZWlufJXUrg3UF0iwjqPbL16rtI3L6USwlu-RE) | Cynet Systems | Ohio | 2026-07-29 |
+| [Junior Level Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000rwujeae-junior-level-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-07-29 |
+| [Quality Assurance Associate](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Columbus-GA/Quality-Assurance-Associate_115575) | J.M. Smucker | Columbus, GA | 2026-07-29 |
+| [Software Engineer Intern (1st Shift) - Fall 2026](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025352) | First Solar | Perrysburg, OH, United States | 2026-07-29 |
+| [Service Management Dashboard and Reporting Process Architect - IT](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Service-Management-Dashboard-and-Reporting-Process-Architect---IT_349141) | Cleveland Clinic | Remote Location | 2026-07-29 |
+| [Advisor, IT Admin & Strategy Execution](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Advisor--IT-Admin---Strategy-Execution_JR154264) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-07-29 |
+| [Sr Staff Software Engineer - Control Systems](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Sr-Staff-Software-Engineer---Control-Systems_R5024902-2) | GE Aerospace | Evendale | 2026-07-29 |
+| [Senior ERP Product Owner - Manufacturing](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275733) | Vertiv | Westerville, OH, United States | 2026-07-29 |
+| [Senior ERP Product Owner - Supply Chain](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275734) | Vertiv | Westerville, OH, United States | 2026-07-29 |
+| [Senior ERP Product Owner - Services](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275735) | Vertiv | Westerville, OH, United States | 2026-07-29 |
+| [System Security Engineer/Software Engineer Lead](https://jobs.battelle.org/us/en/job/76414) | Battelle | Columbus, OH | 2026-07-29 |
 <!-- JOBS:END -->
 
 ## How it works
