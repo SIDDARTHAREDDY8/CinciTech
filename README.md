@@ -56,20 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1486 tracked total · updated `2026-07-29T09:26:20+00:00`
+### 🆕 3 new roles this update · 1488 tracked total · updated `2026-07-29T12:00:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Strategic Staffing Solutions | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-29 |
-| [Net Developer Aws Lambda](https://jobs.strategicstaff.com/jobs/net-developer-aws-lambda-170473/) | Strategic Staffing Solutions | Wroc\u0142aw, remote | 2026-07-29 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/qVE5ArOI45o5VAuN4240Ffj695hnBfCNJ40fWHySjjs) | Cynet Systems | California, Ohio | 2026-07-29 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/VrFgUjplurkoh5L-zhqs7EFy3URJqPR9joyY7iXf89M) | Cynet Systems | Ohio | 2026-07-29 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/ceB7Xdy2GdbhVX5WoZogJErj7P9WTk9I6qLQoPwz9JQ) | Cynet Systems | California, Ohio | 2026-07-29 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/mosRmGohiflOvKnwPQJmEnwoyZr8h_ATjlNZY46fx1E) | Cynet Systems | Ohio | 2026-07-29 |
+| [QA Testing Analyst](https://agilityconnect.io/jobs/8281) | Agility Connect | OH | 2026-07-29 |
 <!-- JOBS:END -->
 
 ## How it works
