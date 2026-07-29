@@ -56,20 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1482 tracked total · updated `2026-07-29T04:14:23+00:00`
+### 🆕 4 new roles this update · 1486 tracked total · updated `2026-07-29T09:26:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Nationwide | 1 |
-| Medical Mutual of Ohio | 1 |
+| Robert Half | 1 |
+| Strategic Staffing Solutions | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/9cAp3DM_xxkUjNy052fu4gumvVjix5WvyZxkK50VsJA) | Cynet Systems | California, Ohio | 2026-07-29 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vO0hlaXB4YpN199vZIfofTSwecuKZrYUHcbyIwGrlMU) | Cynet Systems | Ohio | 2026-07-29 |
-| [Specialist, Full Stack Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Full-Stack-Software-Engineer_099435) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-29 |
-| [IT Data Scientist III](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=8553cbba-0468-402b-97e1-639d08430f49) | Medical Mutual of Ohio | Brooklyn OH | 2026-07-29 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-29 |
+| [Net Developer Aws Lambda](https://jobs.strategicstaff.com/jobs/net-developer-aws-lambda-170473/) | Strategic Staffing Solutions | Wroc\u0142aw, remote | 2026-07-29 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/qVE5ArOI45o5VAuN4240Ffj695hnBfCNJ40fWHySjjs) | Cynet Systems | California, Ohio | 2026-07-29 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/VrFgUjplurkoh5L-zhqs7EFy3URJqPR9joyY7iXf89M) | Cynet Systems | Ohio | 2026-07-29 |
 <!-- JOBS:END -->
 
 ## How it works
