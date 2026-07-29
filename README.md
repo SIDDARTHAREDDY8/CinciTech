@@ -56,36 +56,35 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1510 tracked total · updated `2026-07-29T17:00:24+00:00`
+### 🆕 12 new roles this update · 1521 tracked total · updated `2026-07-29T20:05:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 3 |
+| Mindlance | 2 |
 | Cynet Systems | 2 |
+| Robert Half | 1 |
+| Motion Recruitment | 1 |
 | Artech | 1 |
-| Brooksource | 1 |
-| J.M. Smucker | 1 |
-| First Solar | 1 |
-| Cleveland Clinic | 1 |
-| OhioHealth | 1 |
-| GE Aerospace | 1 |
-| Battelle | 1 |
+| Fifth Third Bank | 1 |
+| Great American Insurance | 1 |
+| Kroger | 1 |
+| The Andersons | 1 |
+| Hyland Software | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32769114#/jobs/32769114) | Artech | Remote, FL | 2026-07-29 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/5RzN7wXVqoO1NwoQbk-v_Fg5-vnuw2b23VCAndx1qb8) | Cynet Systems | California, Ohio | 2026-07-29 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/M7MsoPZWlufJXUrg3UF0iwjqPbL16rtI3L6USwlu-RE) | Cynet Systems | Ohio | 2026-07-29 |
-| [Junior Level Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000rwujeae-junior-level-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-07-29 |
-| [Quality Assurance Associate](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Columbus-GA/Quality-Assurance-Associate_115575) | J.M. Smucker | Columbus, GA | 2026-07-29 |
-| [Software Engineer Intern (1st Shift) - Fall 2026](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025352) | First Solar | Perrysburg, OH, United States | 2026-07-29 |
-| [Service Management Dashboard and Reporting Process Architect - IT](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Service-Management-Dashboard-and-Reporting-Process-Architect---IT_349141) | Cleveland Clinic | Remote Location | 2026-07-29 |
-| [Advisor, IT Admin & Strategy Execution](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Advisor--IT-Admin---Strategy-Execution_JR154264) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-07-29 |
-| [Sr Staff Software Engineer - Control Systems](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Sr-Staff-Software-Engineer---Control-Systems_R5024902-2) | GE Aerospace | Evendale | 2026-07-29 |
-| [Senior ERP Product Owner - Manufacturing](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275733) | Vertiv | Westerville, OH, United States | 2026-07-29 |
-| [Senior ERP Product Owner - Supply Chain](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275734) | Vertiv | Westerville, OH, United States | 2026-07-29 |
-| [Senior ERP Product Owner - Services](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275735) | Vertiv | Westerville, OH, United States | 2026-07-29 |
-| [System Security Engineer/Software Engineer Lead](https://jobs.battelle.org/us/en/job/76414) | Battelle | Columbus, OH | 2026-07-29 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-29 |
+| [Systems Administrator/Windows/Columbus, OH LOCAL](https://motionrecruitment.com/tech-jobs/columbus/direct-hire/systems-administrator-windows-columbus-oh-local/883776) | Motion Recruitment | Columbus, Ohio | 2026-07-29 |
+| [Desktop Support](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32771167#/jobs/32771167) | Artech | Troy, OH | 2026-07-29 |
+| [Lead DevOps Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28972764#/jobs/28972764) | Mindlance | COLUMBUS, OH | 2026-07-29 |
+| [AI Engineer Lead](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28964573#/jobs/28964573) | Mindlance | Remote, OR | 2026-07-29 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/jstlXErqc-dTx48ZIa_5J3eI60rFPhNBHvPJwQvP0pY) | Cynet Systems | California, Ohio | 2026-07-29 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Hze0IC3c3A7PTIjULqc_9zbYBt8-r2wLwzz4kXX0nkk) | Cynet Systems | Ohio | 2026-07-29 |
+| [Principal Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Platform-Engineer_R70350-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-29 |
+| [Senior Technical Project Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Project-Manager_R9258) | Great American Insurance | Cincinnati, OH (USA) | 2026-07-29 |
+| [Senior Infrastructure Engineer](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/212597) | Kroger | Cincinnati, OH, United States | 2026-07-29 |
+| [Enterprise Architect](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Enterprise-Architect_R12367-1) | The Andersons | Maumee, OH | 2026-07-29 |
+| [Associate Vice President, Security Engineering & Operations](https://careers-hyland.icims.com/jobs/14261/associate-vice-president%2c-security-engineering-%26-operations/job?in_iframe=1) | Hyland Software | Westlake, UNAVAILABLE | 2026-07-29 |
 <!-- JOBS:END -->
 
 ## How it works
