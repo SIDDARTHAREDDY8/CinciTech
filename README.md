@@ -56,35 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1521 tracked total · updated `2026-07-29T20:05:27+00:00`
+### 🆕 7 new roles this update · 1527 tracked total · updated `2026-07-29T22:35:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 2 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Motion Recruitment | 1 |
-| Artech | 1 |
-| Fifth Third Bank | 1 |
-| Great American Insurance | 1 |
-| Kroger | 1 |
-| The Andersons | 1 |
-| Hyland Software | 1 |
+| Kforce | 1 |
+| Root Insurance | 1 |
+| Sherwin-Williams | 1 |
+| Huntington Bank | 1 |
+| Cincinnati Children's Hospital | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-29 |
-| [Systems Administrator/Windows/Columbus, OH LOCAL](https://motionrecruitment.com/tech-jobs/columbus/direct-hire/systems-administrator-windows-columbus-oh-local/883776) | Motion Recruitment | Columbus, Ohio | 2026-07-29 |
-| [Desktop Support](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32771167#/jobs/32771167) | Artech | Troy, OH | 2026-07-29 |
-| [Lead DevOps Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28972764#/jobs/28972764) | Mindlance | COLUMBUS, OH | 2026-07-29 |
-| [AI Engineer Lead](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28964573#/jobs/28964573) | Mindlance | Remote, OR | 2026-07-29 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/jstlXErqc-dTx48ZIa_5J3eI60rFPhNBHvPJwQvP0pY) | Cynet Systems | California, Ohio | 2026-07-29 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Hze0IC3c3A7PTIjULqc_9zbYBt8-r2wLwzz4kXX0nkk) | Cynet Systems | Ohio | 2026-07-29 |
-| [Principal Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Platform-Engineer_R70350-1) | Fifth Third Bank | Cincinnati, OH | 2026-07-29 |
-| [Senior Technical Project Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Project-Manager_R9258) | Great American Insurance | Cincinnati, OH (USA) | 2026-07-29 |
-| [Senior Infrastructure Engineer](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/212597) | Kroger | Cincinnati, OH, United States | 2026-07-29 |
-| [Enterprise Architect](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Enterprise-Architect_R12367-1) | The Andersons | Maumee, OH | 2026-07-29 |
-| [Associate Vice President, Security Engineering & Operations](https://careers-hyland.icims.com/jobs/14261/associate-vice-president%2c-security-engineering-%26-operations/job?in_iframe=1) | Hyland Software | Westlake, UNAVAILABLE | 2026-07-29 |
+| [Data Scientist Level 2](http://www.kforce.com/Jobs/1696~EQG~2183617T1~99/) | Kforce | Cincinnati, OH | 2026-07-29 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/nA_KJBgbJ616vWiCcxJdgWJTNZkLrid-LZVHouxP9Es) | Cynet Systems | California, Ohio | 2026-07-29 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6bEpac3_87SKCPqJGi5ahmYgGvts2PEXacONEmbM7J8) | Cynet Systems | Ohio | 2026-07-29 |
+| [Information Technology Specialist I](https://ats.rippling.com/joinroot/jobs/8b0844db-5a03-4d47-8abc-1a167ef49c6a) | Root Insurance | Columbus, OH | 2026-07-29 |
+| [Digital Product Owner](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619152) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-29 |
+| [Data Engineer Lead-2](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Lead-2_R0073727) | Huntington Bank | Columbus, OH | 2026-07-29 |
+| [Developer I](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867) | Cincinnati Children's Hospital | Burnet Campus | 2026-07-29 |
 <!-- JOBS:END -->
 
 ## How it works
