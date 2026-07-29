@@ -56,18 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1488 tracked total · updated `2026-07-29T12:00:09+00:00`
+### 🆕 10 new roles this update · 1498 tracked total · updated `2026-07-29T14:57:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Insight Global | 2 |
 | Cynet Systems | 2 |
-| Agility Connect | 1 |
+| Robert Half | 1 |
+| Artech | 1 |
+| Nationwide | 1 |
+| Sherwin-Williams | 1 |
+| OhioHealth | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/ceB7Xdy2GdbhVX5WoZogJErj7P9WTk9I6qLQoPwz9JQ) | Cynet Systems | California, Ohio | 2026-07-29 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/mosRmGohiflOvKnwPQJmEnwoyZr8h_ATjlNZY46fx1E) | Cynet Systems | Ohio | 2026-07-29 |
-| [QA Testing Analyst](https://agilityconnect.io/jobs/8281) | Agility Connect | OH | 2026-07-29 |
+| [AWS Infrastructure Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/aws-infrastructure-engineer/job-557505/) | Insight Global | Columbus, OH | 2026-07-29 |
+| [Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/software-engineer/job-557416/) | Insight Global | Columbus, OH | 2026-07-29 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-29 |
+| [Microsoft Dynamics 365 Solution](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32769460#/jobs/32769460) | Artech | Remote, NY | 2026-07-29 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/MXuZhkOjsuT8cdqJKa4A6LeL-4G_MWdgiwirwPmYkLM) | Cynet Systems | California, Ohio | 2026-07-29 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/aElIgDt8Cqv_INhBtz_OuStwE-JKIgk4w39XsrpXN1Y) | Cynet Systems | Ohio | 2026-07-29 |
+| [Sr Actuarial Associate, Enterprise Catastrophe Risk](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Sr-Consultant--Risk-Researcher_099032) | Nationwide | Ohio | 2026-07-29 |
+| [IT Auditor](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619041) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-29 |
+| [IT Program Manager - Corporate Portfolio](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Program-Manager---Corporate-Portfolio_JR155079) | OhioHealth | WORK AT HOME - OHIO | 2026-07-29 |
+| [IT - Third Party Risk Manager I - II (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167049) | Cincinnati Insurance | ["Remote"] | 2026-07-29 |
 <!-- JOBS:END -->
 
 ## How it works
