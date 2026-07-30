@@ -56,26 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1527 tracked total · updated `2026-07-29T22:35:51+00:00`
+### 🆕 3 new roles this update · 1528 tracked total · updated `2026-07-30T03:54:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Kforce | 1 |
-| Root Insurance | 1 |
-| Sherwin-Williams | 1 |
-| Huntington Bank | 1 |
-| Cincinnati Children's Hospital | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Scientist Level 2](http://www.kforce.com/Jobs/1696~EQG~2183617T1~99/) | Kforce | Cincinnati, OH | 2026-07-29 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/nA_KJBgbJ616vWiCcxJdgWJTNZkLrid-LZVHouxP9Es) | Cynet Systems | California, Ohio | 2026-07-29 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6bEpac3_87SKCPqJGi5ahmYgGvts2PEXacONEmbM7J8) | Cynet Systems | Ohio | 2026-07-29 |
-| [Information Technology Specialist I](https://ats.rippling.com/joinroot/jobs/8b0844db-5a03-4d47-8abc-1a167ef49c6a) | Root Insurance | Columbus, OH | 2026-07-29 |
-| [Digital Product Owner](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619152) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-29 |
-| [Data Engineer Lead-2](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Lead-2_R0073727) | Huntington Bank | Columbus, OH | 2026-07-29 |
-| [Developer I](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867) | Cincinnati Children's Hospital | Burnet Campus | 2026-07-29 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-30 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/9mYF6uWoKTUBwFEk_41VGKr9TVN9r7PJ4unHMSRaqbc) | Cynet Systems | California, Ohio | 2026-07-30 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/5FU6JwJh_UKgFsfpODZ_Km3o-Zfvq1bS0X9L_tRYct0) | Cynet Systems | Ohio | 2026-07-30 |
 <!-- JOBS:END -->
 
 ## How it works
