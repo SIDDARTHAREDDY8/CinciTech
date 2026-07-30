@@ -56,17 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1545 tracked total · updated `2026-07-30T17:13:02+00:00`
+### 🆕 8 new roles this update · 1552 tracked total · updated `2026-07-30T20:14:38+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
+| TRU Staffing Partners | 1 |
+| ASK Consulting | 1 |
+| Artech | 1 |
 | Cynet Systems | 1 |
+| J.M. Smucker | 1 |
+| KeyBank | 1 |
+| Honeywell | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-30 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/wc8V4as_bGOO3_qM7vRX_BVdqP1ArBmyybDXKtrPP3Q) | Cynet Systems | California, Ohio | 2026-07-30 |
+| [CONTRACT Privacy and AI Technical Consultant](https://jobs.trustaffingpartners.com/?jobid=7588#/jobs/7588) | TRU Staffing Partners | Anywhere | 2026-07-30 |
+| [Senior UI Developer](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/9044/Senior UI Developer) | ASK Consulting | Memphis (remote), TN, 00000 | 2026-07-30 |
+| [Senior ServiceNow Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32775334#/jobs/32775334) | Artech | Remote, NY | 2026-07-30 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/APqhPT-Y3UmKo8TCfWlWUBFP3xGpmHyNnXiYzYbOHfc) | Cynet Systems | California, Ohio | 2026-07-30 |
+| [Director, Integrated Business Planning - Sweet Baked Snacks](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Director--Integrated-Business-Planning---Sweet-Baked-Snacks_115537-1) | J.M. Smucker | Orrville, OH | 2026-07-30 |
+| [Agentic AI Lead](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Remote-United-States/Agentic-AI-Lead_R-41205-1) | KeyBank | Remote, United States | 2026-07-30 |
+| [Principal Systems Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/154157) | Honeywell | Columbus, OH, United States | 2026-07-30 |
+| [HR Systems Analyst](https://uscareers-medpace.icims.com/jobs/12895/login) | Medpace | Cincinnati, Ohio | 2026-07-30 |
 <!-- JOBS:END -->
 
 ## How it works
