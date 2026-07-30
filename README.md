@@ -56,18 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1528 tracked total · updated `2026-07-30T03:54:26+00:00`
+### 🆕 4 new roles this update · 1531 tracked total · updated `2026-07-30T09:09:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
+| Nationwide | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-30 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/9mYF6uWoKTUBwFEk_41VGKr9TVN9r7PJ4unHMSRaqbc) | Cynet Systems | California, Ohio | 2026-07-30 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/5FU6JwJh_UKgFsfpODZ_Km3o-Zfvq1bS0X9L_tRYct0) | Cynet Systems | Ohio | 2026-07-30 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/myWBoPhvFaJAQomhFanB-Ly48PJ1juKuAc74tb3GfZs) | Cynet Systems | California, Ohio | 2026-07-30 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/BswwbJYLByoiHizN01W_86G9T0KyQXxnc0AyOXB10OU) | Cynet Systems | Ohio | 2026-07-30 |
+| [Specialist, Data Engineer - SQL and Snowflake](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Engineer---SQL-and-Snowflake_099432) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-30 |
+| [Senior Specialist, Data Governance](https://careers.l3harris.com/en/job/united-states/senior-specialist-data-governance/4832/98500541360) | L3Harris | Remote | 2026-07-30 |
 <!-- JOBS:END -->
 
 ## How it works
