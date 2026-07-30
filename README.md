@@ -56,24 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1538 tracked total · updated `2026-07-30T11:42:02+00:00`
+### 🆕 6 new roles this update · 1543 tracked total · updated `2026-07-30T14:51:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 3 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Strategic Staffing Solutions | 1 |
+| Apex Systems | 1 |
+| Njoyn (CGI) | 1 |
+| Sherwin-Williams | 1 |
+| FirstEnergy | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-30 |
-| [German Speaking Service Desk Team Lead](https://jobs.strategicstaff.com/jobs/german-speaking-service-desk-team-lead-170458/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-07-30 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/b3woyY1vFCu2XZDlEnaf6GvYbHUr6RtVLbkT3yVuIXc) | Cynet Systems | California, Ohio | 2026-07-30 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/iK3zmdFOxX32XOP3WHBMU69Wn-XL0h6RU3Y5UeJVtI4) | Cynet Systems | Ohio | 2026-07-30 |
-| [Technical Writer - AI Agent](https://agilityconnect.io/jobs/8289) | Agility Connect | Cincinnati, OH | 2026-07-30 |
-| [Senior Product Owner](https://agilityconnect.io/jobs/8283) | Agility Connect | OH | 2026-07-30 |
-| [Sr. Software Engineer](https://agilityconnect.io/jobs/8287) | Agility Connect | Columbus, OH | 2026-07-30 |
+| [Support Engineer II](https://www.apexsystems.com/job/3044014_usa/support-engineer-ii) | Apex Systems | Virtual, OH | 2026-07-30 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/GUqBEmIqQ84cdy6ATyhpfFklCATBrqgx5gO2p9SHrZQ) | Cynet Systems | California, Ohio | 2026-07-30 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/E3dFkLnHQMXIBBSzwz7_LTfSQh-l6leMibRC_EeAlQU) | Cynet Systems | Ohio | 2026-07-30 |
+| [Senior Java Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-2367&BRID=1320823&lang=1) | Njoyn (CGI) | Remote, United States | 2026-07-30 |
+| [Senior Network Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619290) | Sherwin-Williams | Cleveland, OH, United States | 2026-07-30 |
+| [Voice & Video Specialist - IT Networks](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104886) | FirstEnergy | Akron, OH, United States | 2026-07-30 |
 <!-- JOBS:END -->
 
 ## How it works
