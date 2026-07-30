@@ -56,20 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1531 tracked total · updated `2026-07-30T09:09:21+00:00`
+### 🆕 7 new roles this update · 1538 tracked total · updated `2026-07-30T11:42:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 3 |
 | Cynet Systems | 2 |
-| Nationwide | 1 |
-| L3Harris | 1 |
+| Robert Half | 1 |
+| Strategic Staffing Solutions | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/myWBoPhvFaJAQomhFanB-Ly48PJ1juKuAc74tb3GfZs) | Cynet Systems | California, Ohio | 2026-07-30 |
-| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/BswwbJYLByoiHizN01W_86G9T0KyQXxnc0AyOXB10OU) | Cynet Systems | Ohio | 2026-07-30 |
-| [Specialist, Data Engineer - SQL and Snowflake](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Engineer---SQL-and-Snowflake_099432) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-30 |
-| [Senior Specialist, Data Governance](https://careers.l3harris.com/en/job/united-states/senior-specialist-data-governance/4832/98500541360) | L3Harris | Remote | 2026-07-30 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-30 |
+| [German Speaking Service Desk Team Lead](https://jobs.strategicstaff.com/jobs/german-speaking-service-desk-team-lead-170458/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-07-30 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/b3woyY1vFCu2XZDlEnaf6GvYbHUr6RtVLbkT3yVuIXc) | Cynet Systems | California, Ohio | 2026-07-30 |
+| [SAP Vistex Solution Architect - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/iK3zmdFOxX32XOP3WHBMU69Wn-XL0h6RU3Y5UeJVtI4) | Cynet Systems | Ohio | 2026-07-30 |
+| [Technical Writer - AI Agent](https://agilityconnect.io/jobs/8289) | Agility Connect | Cincinnati, OH | 2026-07-30 |
+| [Senior Product Owner](https://agilityconnect.io/jobs/8283) | Agility Connect | OH | 2026-07-30 |
+| [Sr. Software Engineer](https://agilityconnect.io/jobs/8287) | Agility Connect | Columbus, OH | 2026-07-30 |
 <!-- JOBS:END -->
 
 ## How it works
