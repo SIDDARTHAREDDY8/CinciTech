@@ -56,17 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1562 tracked total · updated `2026-07-31T04:18:26+00:00`
+### 🆕 2 new roles this update · 1564 tracked total · updated `2026-07-31T09:42:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 1 |
+| Robert Half | 1 |
 | Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28980102#/jobs/28980102) | Mindlance | Remote, CA | 2026-07-31 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/WguxDd0trik05Mq4QLeEy5uZCBEpR1XlHayNjI0Ubuc) | Cynet Systems | California, Ohio | 2026-07-31 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-31 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/ORjxG-Hf9JymvGHF4TMlbj1ZXn3bOPYaenkr67f4Ppw) | Cynet Systems | California, Ohio | 2026-07-31 |
 <!-- JOBS:END -->
 
 ## How it works
