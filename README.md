@@ -56,17 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1564 tracked total · updated `2026-07-31T09:42:54+00:00`
+### 🆕 4 new roles this update · 1567 tracked total · updated `2026-07-31T11:59:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
+| Agility Connect | 3 |
 | Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-31 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/ORjxG-Hf9JymvGHF4TMlbj1ZXn3bOPYaenkr67f4Ppw) | Cynet Systems | California, Ohio | 2026-07-31 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/y-hCfZwlwYVeq7b1vPPpxlSk0ZzDIS2IyHe05YakqvY) | Cynet Systems | California, Ohio | 2026-07-31 |
+| [Java Developer](https://agilityconnect.io/jobs/8298) | Agility Connect | OH | 2026-07-31 |
+| [Product Manager, Colleague-Facing AI Agents](https://agilityconnect.io/jobs/8293) | Agility Connect | Columbus, OH | 2026-07-31 |
+| [Security Operations Center Tier 1 Analyst](https://agilityconnect.io/jobs/8297) | Agility Connect | Cincinnati, OH | 2026-07-31 |
 <!-- JOBS:END -->
 
 ## How it works
