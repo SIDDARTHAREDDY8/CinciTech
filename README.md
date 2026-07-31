@@ -56,19 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1567 tracked total · updated `2026-07-31T11:59:22+00:00`
+### 🆕 5 new roles this update · 1572 tracked total · updated `2026-07-31T14:59:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 3 |
+| Nationwide Children's Hospital | 2 |
+| Robert Half | 1 |
 | Cynet Systems | 1 |
+| Abercrombie & Fitch | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/y-hCfZwlwYVeq7b1vPPpxlSk0ZzDIS2IyHe05YakqvY) | Cynet Systems | California, Ohio | 2026-07-31 |
-| [Java Developer](https://agilityconnect.io/jobs/8298) | Agility Connect | OH | 2026-07-31 |
-| [Product Manager, Colleague-Facing AI Agents](https://agilityconnect.io/jobs/8293) | Agility Connect | Columbus, OH | 2026-07-31 |
-| [Security Operations Center Tier 1 Analyst](https://agilityconnect.io/jobs/8297) | Agility Connect | Cincinnati, OH | 2026-07-31 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-31 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/NWl7VBOZF3qDT3FH2sMXEfgu5QhDgH9KlZjBgGQrSgA) | Cynet Systems | California, Ohio | 2026-07-31 |
+| [Engineer, DevOps](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Engineer--DevOps_JR103433) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-31 |
+| [Software Engineer Senior](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Software-Engineer-Senior_R-27235-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-31 |
+| [IS Systems Analyst Sr.](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IS-Systems-Analyst-Sr_R-27234-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-31 |
 <!-- JOBS:END -->
 
 ## How it works
