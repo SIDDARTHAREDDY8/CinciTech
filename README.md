@@ -56,35 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1566 tracked total · updated `2026-07-30T22:40:55+00:00`
+### 🆕 2 new roles this update · 1562 tracked total · updated `2026-07-31T04:18:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 6 |
-| Cynet Systems | 2 |
-| Insight Global | 1 |
-| Robert Half | 1 |
-| Fast Switch | 1 |
-| Root Insurance | 1 |
-| Fifth Third Bank | 1 |
-| Lincoln Electric | 1 |
+| Mindlance | 1 |
+| Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack Java and GCP Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/full-stack-java-and-gcp-engineer/job-558098/) | Insight Global | Columbus, OH | 2026-07-30 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-30 |
-| [Microsoft Dynamics CRM Functional Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32778145#/jobs/32778145) | Artech | Remote, FL | 2026-07-30 |
-| [Advanced Cyber Security Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32778201#/jobs/32778201) | Artech | Cincinnati, OH | 2026-07-30 |
-| [Enterprise Data Architect (MS Fabric)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32778270#/jobs/32778270) | Artech | Remote, IL | 2026-07-30 |
-| [Microsoft Dynamics CRM Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32778202#/jobs/32778202) | Artech | REMOTE | 2026-07-30 |
-| [Snowflake Data QA Engineer (SQL & ETL Testing)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32777230#/jobs/32777230) | Artech | Remote | 2026-07-30 |
-| [Engineer (Full stack) - III (Senior Developer – Web Application Development)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32776599#/jobs/32776599) | Artech | Remote, TX | 2026-07-30 |
-| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/wScIm93AIl628G1zEBO3CjEvib3O_LCrpjnc2n49aJg) | Cynet Systems | Ohio | 2026-07-30 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/MrDmth2AfrMlYAaeUFYlmbgN479WqfbK7hKqBO5JxCI) | Cynet Systems | California, Ohio | 2026-07-30 |
-| [Java Developer](https://fastswitch.com/jobs/java-developer-61787/) | Fast Switch | Location: Cleveland, Ohio | 2026-07-30 |
-| [Software Engineer II](https://ats.rippling.com/joinroot/jobs/8ccff655-f4f0-4efb-aec4-79f64b1e708f) | Root Insurance | Remote (United States) | 2026-07-30 |
-| [IT Leadership Program - 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Leadership-Program---2027_R67329) | Fifth Third Bank | Cincinnati, OH | 2026-07-30 |
-| [Infrastructure Project Manager](https://jobs.lincolnelectric.com/job/Cleveland-Infrastructure-Project-Manager-OH-44117/1421009933/) | Lincoln Electric | OH | 2026-07-30 |
+| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28980102#/jobs/28980102) | Mindlance | Remote, CA | 2026-07-31 |
+| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/WguxDd0trik05Mq4QLeEy5uZCBEpR1XlHayNjI0Ubuc) | Cynet Systems | California, Ohio | 2026-07-31 |
 <!-- JOBS:END -->
 
 ## How it works
