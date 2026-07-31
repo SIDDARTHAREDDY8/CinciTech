@@ -56,31 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1593 tracked total · updated `2026-07-31T20:29:20+00:00`
+### 🆕 2 new roles this update · 1594 tracked total · updated `2026-07-31T22:49:38+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| OhioHealth | 4 |
-| Artech | 2 |
 | Robert Half | 1 |
-| Fifth Third Bank | 1 |
-| Nationwide | 1 |
-| Safelite | 1 |
-| Vertiv | 1 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-31 |
-| [Prophecy (MDM) & Power BI Data Engineer / Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32783363#/jobs/32783363) | Artech | Remote, FL | 2026-07-31 |
-| [Data / BI Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32781267#/jobs/32781267) | Artech | Remote | 2026-07-31 |
-| [Principal Information Security Engineer (Remote)](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal-Information-Security-Engineer--Remote-_R70992-1) | Fifth Third Bank | Virtual | 2026-07-31 |
-| [Guidewire Sr. Consultant, Software Engineer (Personal Lines - Product & Pricing)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Guidewire-Sr-Consultant--Software-Engineer--Personal-Lines---Product---Pricing-_099422) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-31 |
-| [AVP, Data Engineering and AI Innovation](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/AVP--Data-Engineering-and-AI-Innovation_JR73285) | Safelite | COLUMBUS, OH | 2026-07-31 |
-| [Epic Systems Analyst - Willow IP](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Willow-IP_JR155652) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
-| [Epic Systems Analyst - Willow Amb](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Willow-Amb_JR155653) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
-| [Epic Systems Analyst - IP Orders](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---IP-Orders_JR155651) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
-| [Epic Systems Analyst - Link, Care Everywhere, Compass Rose](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Link--Care-Everywhere--Compass-Rose_JR155760) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
-| [Project Manager, IT OCM Communications](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273854) | Vertiv | Westerville, OH, United States | 2026-07-31 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-07-31 |
+| [Principal Research Scientist, Product Development & Innovation - Nutrition - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Principal-Research-Scientist--Product-Development---Innovation---Nutrition---Columbus--OH_31157035) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-07-31 |
 <!-- JOBS:END -->
 
 ## How it works
