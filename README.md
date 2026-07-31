@@ -56,36 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1583 tracked total · updated `2026-07-31T17:29:30+00:00`
+### 🆕 11 new roles this update · 1593 tracked total · updated `2026-07-31T20:29:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CrossCountry Mortgage | 2 |
+| OhioHealth | 4 |
+| Artech | 2 |
 | Robert Half | 1 |
-| Mindlance | 1 |
-| Cynet Systems | 1 |
-| Branch Insurance | 1 |
-| American Electric Power | 1 |
-| Abercrombie & Fitch | 1 |
-| Nationwide Children's Hospital | 1 |
+| Fifth Third Bank | 1 |
+| Nationwide | 1 |
+| Safelite | 1 |
 | Vertiv | 1 |
-| Westfield Insurance | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-07-31 |
-| [Information Technology - Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28984528#/jobs/28984528) | Mindlance | Remote, GA | 2026-07-31 |
-| [Azure DevOps Engineer](https://candidateportal.ceipal.com/job-details/u2i_D2mOWfeRXLneFif7-F8yzDsuoX23gpVFk8LY-aY) | Cynet Systems | California, Ohio | 2026-07-31 |
-| [Senior Site Reliability Engineer (SRE)](https://job-boards.greenhouse.io/branch/jobs/7820599003) | Branch Insurance | Remote, US | 2026-07-31 |
-| [Data Scientist / Data Scientist Senior](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist---Data-Scientist-Senior_R17741) | American Electric Power | Columbus, OH | 2026-07-31 |
-| [Scrum Master](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Scrum-Master_JR103436) | Abercrombie & Fitch | Columbus, Ohio | 2026-07-31 |
-| [Research Scientist - Mental and Behavioral Health](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Scientist---Mental-and-Behavioral-Health_R-27240) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-07-31 |
-| [Firmware Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278045) | Vertiv | Delaware, OH, United States | 2026-07-31 |
-| [QA & Compliance Senior Specialist](https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11933) | Westfield Insurance | Westfield Center, OH, United States | 2026-07-31 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11877) | Honda | Raymond, Ohio, United States | 2026-07-31 |
-| [Senior Compliance Systems Analyst](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Senior-Compliance-Systems-Analyst_JR03304) | CrossCountry Mortgage | Remote USA | 2026-07-31 |
-| [Compliance Systems QA Analyst](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Compliance-Systems-QA-Analyst_JR03303) | CrossCountry Mortgage | Remote USA | 2026-07-31 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-07-31 |
+| [Prophecy (MDM) & Power BI Data Engineer / Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32783363#/jobs/32783363) | Artech | Remote, FL | 2026-07-31 |
+| [Data / BI Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32781267#/jobs/32781267) | Artech | Remote | 2026-07-31 |
+| [Principal Information Security Engineer (Remote)](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal-Information-Security-Engineer--Remote-_R70992-1) | Fifth Third Bank | Virtual | 2026-07-31 |
+| [Guidewire Sr. Consultant, Software Engineer (Personal Lines - Product & Pricing)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Guidewire-Sr-Consultant--Software-Engineer--Personal-Lines---Product---Pricing-_099422) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-07-31 |
+| [AVP, Data Engineering and AI Innovation](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/AVP--Data-Engineering-and-AI-Innovation_JR73285) | Safelite | COLUMBUS, OH | 2026-07-31 |
+| [Epic Systems Analyst - Willow IP](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Willow-IP_JR155652) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
+| [Epic Systems Analyst - Willow Amb](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Willow-Amb_JR155653) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
+| [Epic Systems Analyst - IP Orders](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---IP-Orders_JR155651) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
+| [Epic Systems Analyst - Link, Care Everywhere, Compass Rose](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Link--Care-Everywhere--Compass-Rose_JR155760) | OhioHealth | WORK AT HOME - OHIO | 2026-07-31 |
+| [Project Manager, IT OCM Communications](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273854) | Vertiv | Westerville, OH, United States | 2026-07-31 |
 <!-- JOBS:END -->
 
 ## How it works
