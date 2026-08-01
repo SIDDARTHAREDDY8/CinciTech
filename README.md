@@ -56,15 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1591 tracked total · updated `2026-08-01T16:43:44+00:00`
+### 🆕 4 new roles this update · 1594 tracked total · updated `2026-08-01T20:10:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Next Step Systems | 3 |
 | Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-01 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-01 |
+| [Web Technical Lead, Spring Boot, Angular.js, DevOps – Work From Home](https://www.nextstepsystems.com/job/web-technical-lead-spring-boot-angular-js-devops-work-from-home/) | Next Step Systems | Oakland, CA, USA (Remote) | 2026-08-01 |
+| [Business Systems Analyst with SQL Experience – Work From Home](https://www.nextstepsystems.com/job/business-systems-analyst-work-from-home/) | Next Step Systems | New Orleans, LA, USA (Remote) | 2026-08-01 |
+| [Senior Business Systems Analyst with SQL Experience – Work From Home](https://www.nextstepsystems.com/job/senior-business-systems-analyst-work-from-home/) | Next Step Systems | New Orleans, LA, USA (Remote) | 2026-08-01 |
 <!-- JOBS:END -->
 
 ## How it works
