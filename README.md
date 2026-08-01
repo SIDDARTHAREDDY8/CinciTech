@@ -56,15 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1585 tracked total · updated `2026-08-01T11:09:53+00:00`
+### 🆕 7 new roles this update · 1591 tracked total · updated `2026-08-01T14:09:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 6 |
 | Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-01 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-01 |
+| [IAM Mainframe Engineer RACF](https://agilityconnect.io/jobs/8305) | Agility Connect | OH | 2026-08-01 |
+| [Network Engineer](https://agilityconnect.io/jobs/8313) | Agility Connect | Columbus, OH | 2026-08-01 |
+| [Sr. ETL Developer](https://agilityconnect.io/jobs/8299) | Agility Connect | OH | 2026-08-01 |
+| [Frontend Software Enigneer](https://agilityconnect.io/jobs/8301) | Agility Connect | Columbus, OH | 2026-08-01 |
+| [Product Manager, Client Facing AI Agents](https://agilityconnect.io/jobs/8311) | Agility Connect | Columbus, OH | 2026-08-01 |
+| [Sr. Software Engineer](https://agilityconnect.io/jobs/8308) | Agility Connect | Columbus, OH | 2026-08-01 |
 <!-- JOBS:END -->
 
 ## How it works
