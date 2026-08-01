@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1594 tracked total · updated `2026-07-31T22:49:38+00:00`
+### 🆕 1 new roles this update · 1585 tracked total · updated `2026-08-01T04:11:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-07-31 |
-| [Principal Research Scientist, Product Development & Innovation - Nutrition - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Principal-Research-Scientist--Product-Development---Innovation---Nutrition---Columbus--OH_31157035) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-07-31 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-01 |
 <!-- JOBS:END -->
 
 ## How it works
