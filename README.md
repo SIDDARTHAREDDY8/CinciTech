@@ -56,38 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1582 tracked total · updated `2026-08-03T15:43:45+00:00`
+### 🆕 7 new roles this update · 1588 tracked total · updated `2026-08-03T17:41:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| OhioHealth | 3 |
-| Mindlance | 2 |
+| OhioHealth | 4 |
 | Robert Half | 1 |
-| Artech | 1 |
-| Belcan | 1 |
-| Great American Insurance | 1 |
-| Nationwide | 1 |
-| Kroger | 1 |
-| Scotts Miracle-Gro | 1 |
-| Nationwide Children's Hospital | 1 |
-| Cintas | 1 |
+| Vertiv | 1 |
+| DHL | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-03 |
-| [Senior Software Development Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32787052#/jobs/32787052) | Artech | Remote, NY | 2026-08-03 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28990545#/jobs/28990545) | Mindlance | Remote, NY | 2026-08-03 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28990544#/jobs/28990544) | Mindlance | Remote, NY | 2026-08-03 |
-| [Lead Software Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366939&apply=yes&) | Belcan | Cincinnati, OH | 2026-08-03 |
-| [Application Engineering Consultant - Duck Creek](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Engineering-Consultant---Duck-Creek_R9164) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-03 |
-| [Sr. Consultant, Software Engineer – Emerging Technology Development Lab](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineer---Emerging-Technology-Development-Lab_099350-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-03 |
-| [FRONT END/LEAD CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/213052) | Kroger | Columbus, WI, United States | 2026-08-03 |
-| [Senior Analyst SAP Business Intelligence](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-Corporate-Office-0202/Senior-Analyst-SAP-Business-Intelligence_R26296) | Scotts Miracle-Gro | Marysville Corporate Office (0202) | 2026-08-03 |
-| [Data Scientist II - Lead Population Health Analyst (PFK)](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/525-E-Mound-St-Columbus-OH/Data-Scientist-II---Lead-Population-Health-Analyst--PFK-_R-27239-1) | Nationwide Children's Hospital | 525 E. Mound St, Columbus, OH | 2026-08-03 |
-| [Epic Senior Systems Analyst - Hospital Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Hospital-Billing-and-Claims_JR155788) | OhioHealth | WORK AT HOME - OHIO | 2026-08-03 |
-| [Epic System Analyst - ClinDoc / Stork](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-System-Analyst---ClinDoc---Stork_JR155648-1) | OhioHealth | WORK AT HOME - OHIO | 2026-08-03 |
-| [Epic Systems Analyst - Hospital Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Epic-Systems-Analyst---Hospital-Billing-and-Claims_JR155795) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-03 |
-| [Data Analyst I](https://careers.cintas.com/job/Mason-Data-Analyst-I-OH-45040/1415213500/) | Cintas | OH | 2026-08-03 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-03 |
+| [Epic Senior Systems Analyst - Phoenix/Ambulatory](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Phoenix-Ambulatory_JR155802) | OhioHealth | WORK AT HOME - OHIO | 2026-08-03 |
+| [Epic Senior Systems Analyst - Professional Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Epic-Senior-Systems-Analyst---Professional-Billing-and-Claims_JR155800-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-03 |
+| [Epic Systems Analyst - Hospital Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Epic-Systems-Analyst---Hospital-Billing-and-Claims_JR155792) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-03 |
+| [Epic Systems Analyst - Professional Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Epic-Systems-Analyst---Professional-Billing-and-Claims_JR155801-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-03 |
+| [Sr. Test Engineer (Thermal Lab)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259003) | Vertiv | Columbus, OH, United States | 2026-08-03 |
+| [Quality Assurance Manager II](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Manager-II-USN-job-Lockbourne-OH-US-11089544.html) | DHL | Lockbourne, Ohio | 2026-08-03 |
 <!-- JOBS:END -->
 
 ## How it works
