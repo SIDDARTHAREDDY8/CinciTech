@@ -56,24 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1588 tracked total · updated `2026-08-03T17:41:36+00:00`
+### 🆕 2 new roles this update · 1588 tracked total · updated `2026-08-03T20:20:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| OhioHealth | 4 |
 | Robert Half | 1 |
-| Vertiv | 1 |
-| DHL | 1 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-03 |
-| [Epic Senior Systems Analyst - Phoenix/Ambulatory](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Phoenix-Ambulatory_JR155802) | OhioHealth | WORK AT HOME - OHIO | 2026-08-03 |
-| [Epic Senior Systems Analyst - Professional Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Epic-Senior-Systems-Analyst---Professional-Billing-and-Claims_JR155800-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-03 |
-| [Epic Systems Analyst - Hospital Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Epic-Systems-Analyst---Hospital-Billing-and-Claims_JR155792) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-03 |
-| [Epic Systems Analyst - Professional Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Epic-Systems-Analyst---Professional-Billing-and-Claims_JR155801-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-03 |
-| [Sr. Test Engineer (Thermal Lab)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259003) | Vertiv | Columbus, OH, United States | 2026-08-03 |
-| [Quality Assurance Manager II](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Manager-II-USN-job-Lockbourne-OH-US-11089544.html) | DHL | Lockbourne, Ohio | 2026-08-03 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-03 |
+| [Senior Master Data Analyst - Nutrition- Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Master-Data-Analyst---Nutrition--ColubusOH_31157903) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-08-03 |
 <!-- JOBS:END -->
 
 ## How it works
