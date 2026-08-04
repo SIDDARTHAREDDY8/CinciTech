@@ -56,19 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1590 tracked total · updated `2026-08-03T22:41:05+00:00`
+### 🆕 3 new roles this update · 1590 tracked total · updated `2026-08-04T03:58:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 1 |
 | Robert Half | 1 |
-| Fifth Third Bank | 1 |
+| ASK Consulting | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Cloud Engineer](http://www.kforce.com/Jobs/1696~AQG~2184263T1~99/) | Kforce | Covington, KY | 2026-08-03 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-03 |
-| [Consumer Lending Data Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Consumer-Home-Equity-Pricing-Analyst_R62015) | Fifth Third Bank | Cincinnati, OH | 2026-08-03 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-04 |
+| [IT - RACF Architect Consultant](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/128103/IT - RACF Architect Consultant) | ASK Consulting | Remote, GA, 30305 | 2026-08-04 |
+| [Principal Energy Research Engineer](https://careers.honda.com/us/en/job/12119) | Honda | Raymond, Ohio, United States | 2026-08-04 |
 <!-- JOBS:END -->
 
 ## How it works
