@@ -56,32 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1612 tracked total · updated `2026-08-04T20:17:05+00:00`
+### 🆕 6 new roles this update · 1614 tracked total · updated `2026-08-04T22:44:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 2 |
 | Robert Half | 1 |
-| CareSource | 1 |
-| Fifth Third Bank | 1 |
-| Safelite | 1 |
-| Bread Financial | 1 |
+| Cynet Systems | 1 |
+| Njoyn (CGI) | 1 |
 | KeyBank | 1 |
 | Honda | 1 |
-| CrossCountry Mortgage | 1 |
+| St. Elizabeth Healthcare | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-04 |
-| [AVP, Business Intelligence & Analytics Engineering](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AVP--Business-Intelligence---Analytics-Engineering_R13358) | CareSource | Remote | 2026-08-04 |
-| [Data Engineer I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I_R71130) | Fifth Third Bank | Cincinnati, OH | 2026-08-04 |
-| [Senior Business Intelligence Engineering and Data Manager](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Business-Intelligence-Engineering-and-Data-Manager_JR73135) | Safelite | COLUMBUS, OH | 2026-08-04 |
-| [Senior Cyber Security Engineer](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/Senior-Cyber-Security-Engineer_R1012927) | Bread Financial | Columbus, OH | 2026-08-04 |
-| [Java Developer](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Java-Developer_R-41269-1) | KeyBank | Brooklyn, OH | 2026-08-04 |
-| [Application Development and Support Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276424) | Vertiv | Westerville, OH, United States | 2026-08-04 |
-| [Application Development & Support Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276425) | Vertiv | Westerville, OH, United States | 2026-08-04 |
-| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/10957) | Honda | Russells Point, Ohio, United States | 2026-08-04 |
-| [Midwest Loan Support Specialist](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Midwest-Loan-Support-Specialist_JR02474) | CrossCountry Mortgage | Remote USA | 2026-08-04 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-04 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/_wu3pPzh2ZR3-8pRIB3zTf5eQSbsAWhxqQtY-w_9-Wc) | Cynet Systems | Ohio | 2026-08-04 |
+| [Business Systems Analyst - Lending Experience](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0175&BRID=1322379&lang=1) | Njoyn (CGI) | Naperville, Remote, United States | 2026-08-04 |
+| [Analyst, Data Governance & Enablement, Change Management and Employee Engagement](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Analyst--Data-Governance---Enablement--Change-Management-and-Employee-Engagement_R-41267-1) | KeyBank | Brooklyn, OH | 2026-08-04 |
+| [Global Network Security Team Lead (Firewall & Network Security Operations)](https://careers.honda.com/us/en/job/11879) | Honda | Marysville, Ohio, United States | 2026-08-04 |
+| [Application Systems Analyst/Programmer – SQL Focus](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Application-Systems-Analyst-Programmer---SQL-Focus_JR312900) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-08-04 |
 <!-- JOBS:END -->
 
 ## How it works
