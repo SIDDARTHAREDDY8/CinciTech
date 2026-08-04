@@ -56,23 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1598 tracked total · updated `2026-08-04T14:54:56+00:00`
+### 🆕 7 new roles this update · 1603 tracked total · updated `2026-08-04T17:31:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 1 |
 | Robert Half | 1 |
 | Artech | 1 |
-| Fifth Third Bank | 1 |
-| KeyBank | 1 |
+| Brooksource | 1 |
+| Path Robotics | 1 |
+| Worldpay | 1 |
+| Honeywell | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Forward Deployed Engineer (FDE)](https://www.apexsystems.com/job/3044825_usa/forward-deployed-engineer-fde) | Apex Systems | Cincinnati, OH | 2026-08-04 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-04 |
-| [Sr Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32793599#/jobs/32793599) | Artech | Remote, NY | 2026-08-04 |
-| [Lockbox Support Specialist Sun, Mon ,Wed &Thurs 7pm-5:30am](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Support-Specialist-Sun--Mon--Wed--Thurs-7pm-5-30am_R71014-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-04 |
-| [Credit Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Credit-Analyst_R-40450) | KeyBank | Brooklyn, OH | 2026-08-04 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-04 |
+| [FHIR API Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32795050#/jobs/32795050) | Artech | Remote, NC | 2026-08-04 |
+| [QA Tester](https://jobs.brooksource.com/jobs/job/a1wcv000000tgapeau-qa-tester-columbus-ohio/) | Brooksource | columbus, Ohio | 2026-08-04 |
+| [Staff Robotics Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8676058002?gh_jid=8676058002) | Path Robotics | Columbus, Ohio | 2026-08-04 |
+| [Software Engineer Specialist - Agentic Commerce](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-Specialist---Agentic-Commerce_JR0611095) | Worldpay | CINCINNATI, OHIO | 2026-08-04 |
+| [Sr Advanced Test Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/154625) | Honeywell | Columbus, OH, United States | 2026-08-04 |
+| [Senior Specialist, Software Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-software-engineering/4832/97569050064) | L3Harris | Mason, OH | 2026-08-04 |
 <!-- JOBS:END -->
 
 ## How it works
