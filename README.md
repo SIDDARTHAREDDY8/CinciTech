@@ -56,19 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1590 tracked total · updated `2026-08-04T03:58:15+00:00`
+### 🆕 4 new roles this update · 1593 tracked total · updated `2026-08-04T09:12:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| GE Aerospace | 2 |
 | Robert Half | 1 |
-| ASK Consulting | 1 |
-| Honda | 1 |
+| Fast Switch | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-04 |
-| [IT - RACF Architect Consultant](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/128103/IT - RACF Architect Consultant) | ASK Consulting | Remote, GA, 30305 | 2026-08-04 |
-| [Principal Energy Research Engineer](https://careers.honda.com/us/en/job/12119) | Honda | Raymond, Ohio, United States | 2026-08-04 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-04 |
+| [Sr Data Management](https://fastswitch.com/jobs/sr-data-management-61793/) | Fast Switch | Location: Cleveland, Ohio | 2026-08-04 |
+| [Applied AI Engineering Intern (m/f/d)](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Applied-AI-Engineering-Intern--m-f-d-_R5033549-1) | GE Aerospace | Remote | 2026-08-04 |
+| [Staff Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Software-Engineer_R5037023-1) | GE Aerospace | Evendale | 2026-08-04 |
 <!-- JOBS:END -->
 
 ## How it works
