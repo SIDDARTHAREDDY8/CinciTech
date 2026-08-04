@@ -56,17 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1594 tracked total · updated `2026-08-04T11:54:37+00:00`
+### 🆕 5 new roles this update · 1598 tracked total · updated `2026-08-04T14:54:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Apex Systems | 1 |
 | Robert Half | 1 |
-| L3Harris | 1 |
+| Artech | 1 |
+| Fifth Third Bank | 1 |
+| KeyBank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-04 |
-| [Principal, Data Engineer](https://careers.l3harris.com/en/job/united-states/principal-data-engineer/4832/97880113568) | L3Harris | Remote | 2026-08-04 |
+| [Forward Deployed Engineer (FDE)](https://www.apexsystems.com/job/3044825_usa/forward-deployed-engineer-fde) | Apex Systems | Cincinnati, OH | 2026-08-04 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-04 |
+| [Sr Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32793599#/jobs/32793599) | Artech | Remote, NY | 2026-08-04 |
+| [Lockbox Support Specialist Sun, Mon ,Wed &Thurs 7pm-5:30am](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lockbox-Support-Specialist-Sun--Mon--Wed--Thurs-7pm-5-30am_R71014-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-04 |
+| [Credit Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Credit-Analyst_R-40450) | KeyBank | Brooklyn, OH | 2026-08-04 |
 <!-- JOBS:END -->
 
 ## How it works
