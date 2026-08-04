@@ -56,27 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1603 tracked total · updated `2026-08-04T17:31:51+00:00`
+### 🆕 10 new roles this update · 1612 tracked total · updated `2026-08-04T20:17:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Vertiv | 2 |
 | Robert Half | 1 |
-| Artech | 1 |
-| Brooksource | 1 |
-| Path Robotics | 1 |
-| Worldpay | 1 |
-| Honeywell | 1 |
-| L3Harris | 1 |
+| CareSource | 1 |
+| Fifth Third Bank | 1 |
+| Safelite | 1 |
+| Bread Financial | 1 |
+| KeyBank | 1 |
+| Honda | 1 |
+| CrossCountry Mortgage | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-04 |
-| [FHIR API Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32795050#/jobs/32795050) | Artech | Remote, NC | 2026-08-04 |
-| [QA Tester](https://jobs.brooksource.com/jobs/job/a1wcv000000tgapeau-qa-tester-columbus-ohio/) | Brooksource | columbus, Ohio | 2026-08-04 |
-| [Staff Robotics Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8676058002?gh_jid=8676058002) | Path Robotics | Columbus, Ohio | 2026-08-04 |
-| [Software Engineer Specialist - Agentic Commerce](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-Specialist---Agentic-Commerce_JR0611095) | Worldpay | CINCINNATI, OHIO | 2026-08-04 |
-| [Sr Advanced Test Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/154625) | Honeywell | Columbus, OH, United States | 2026-08-04 |
-| [Senior Specialist, Software Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-software-engineering/4832/97569050064) | L3Harris | Mason, OH | 2026-08-04 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-04 |
+| [AVP, Business Intelligence & Analytics Engineering](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AVP--Business-Intelligence---Analytics-Engineering_R13358) | CareSource | Remote | 2026-08-04 |
+| [Data Engineer I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I_R71130) | Fifth Third Bank | Cincinnati, OH | 2026-08-04 |
+| [Senior Business Intelligence Engineering and Data Manager](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Business-Intelligence-Engineering-and-Data-Manager_JR73135) | Safelite | COLUMBUS, OH | 2026-08-04 |
+| [Senior Cyber Security Engineer](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/Senior-Cyber-Security-Engineer_R1012927) | Bread Financial | Columbus, OH | 2026-08-04 |
+| [Java Developer](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Java-Developer_R-41269-1) | KeyBank | Brooklyn, OH | 2026-08-04 |
+| [Application Development and Support Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276424) | Vertiv | Westerville, OH, United States | 2026-08-04 |
+| [Application Development & Support Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276425) | Vertiv | Westerville, OH, United States | 2026-08-04 |
+| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/10957) | Honda | Russells Point, Ohio, United States | 2026-08-04 |
+| [Midwest Loan Support Specialist](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Midwest-Loan-Support-Specialist_JR02474) | CrossCountry Mortgage | Remote USA | 2026-08-04 |
 <!-- JOBS:END -->
 
 ## How it works
