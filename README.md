@@ -56,17 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1614 tracked total · updated `2026-08-05T09:12:19+00:00`
+### 🆕 7 new roles this update · 1620 tracked total · updated `2026-08-05T11:45:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 2 |
+| Apex Systems | 1 |
 | Robert Half | 1 |
+| Vaco | 1 |
 | Cynet Systems | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-05 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/mhKZ_PsV4nthDenk2JIeuZoaMoexNzL_mXNK6-cZzUw) | Cynet Systems | Ohio | 2026-08-05 |
+| [LATAM/Brazil Forward Deployed Engineer (FDE)](https://www.apexsystems.com/job/3044825_usa/latambrazil-forward-deployed-engineer-fde) | Apex Systems | Cincinnati, OH | 2026-08-05 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-05 |
+| [Plsql Developer](https://jobs.vaco.com/job/19394/plsql_developer/en) | Vaco | New Albany, Ohio | 2026-08-05 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/lVuvoukGfuiXbrL0mWe29P8P4wm97HvbncFlhtvwii0) | Cynet Systems | Ohio | 2026-08-05 |
+| [Full Stack Developer](https://agilityconnect.io/jobs/8315) | Agility Connect | Columbus, OH | 2026-08-05 |
+| [Project Manager/Scrum Master](https://agilityconnect.io/jobs/8314) | Agility Connect | OH | 2026-08-05 |
+| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/10957) | Honda | Russells Point, Ohio, United States | 2026-08-05 |
 <!-- JOBS:END -->
 
 ## How it works
