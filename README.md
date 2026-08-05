@@ -56,25 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1614 tracked total · updated `2026-08-04T22:44:26+00:00`
+### 🆕 3 new roles this update · 1614 tracked total · updated `2026-08-05T03:52:40+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| TEKsystems | 1 |
 | Robert Half | 1 |
 | Cynet Systems | 1 |
-| Njoyn (CGI) | 1 |
-| KeyBank | 1 |
-| Honda | 1 |
-| St. Elizabeth Healthcare | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-04 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/_wu3pPzh2ZR3-8pRIB3zTf5eQSbsAWhxqQtY-w_9-Wc) | Cynet Systems | Ohio | 2026-08-04 |
-| [Business Systems Analyst - Lending Experience](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0175&BRID=1322379&lang=1) | Njoyn (CGI) | Naperville, Remote, United States | 2026-08-04 |
-| [Analyst, Data Governance & Enablement, Change Management and Employee Engagement](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Analyst--Data-Governance---Enablement--Change-Management-and-Employee-Engagement_R-41267-1) | KeyBank | Brooklyn, OH | 2026-08-04 |
-| [Global Network Security Team Lead (Firewall & Network Security Operations)](https://careers.honda.com/us/en/job/11879) | Honda | Marysville, Ohio, United States | 2026-08-04 |
-| [Application Systems Analyst/Programmer – SQL Focus](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Application-Systems-Analyst-Programmer---SQL-Focus_JR312900) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-08-04 |
+| [Varicent Developer](https://careers.teksystems.com/us/en/job/JP-006194123/Varicent-Developer) | TEKsystems | Remote, Oregon | 2026-08-05 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-05 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/kRpBLsNXAmXF_Rma0ZRt0sDYRPYXuPFG2N7QBm3PqTo) | Cynet Systems | Ohio | 2026-08-05 |
 <!-- JOBS:END -->
 
 ## How it works
