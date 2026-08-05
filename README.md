@@ -56,23 +56,37 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1630 tracked total · updated `2026-08-05T17:16:51+00:00`
+### 🆕 14 new roles this update · 1643 tracked total · updated `2026-08-05T20:21:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Medpace | 2 |
+| Fifth Third Bank | 2 |
+| FirstEnergy | 2 |
+| Honda | 2 |
 | Robert Half | 1 |
-| Cincinnati Insurance | 1 |
+| Artech | 1 |
+| CareSource | 1 |
+| Path Robotics | 1 |
+| Vertiv | 1 |
+| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-05 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Jc18NXyCCPLpJ1JMIDpGX1w4DBf4EKrijngR_vsrwYg) | Cynet Systems | Michigan, Ohio | 2026-08-05 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/_9RhRZdjcaBE6xhRx2FlIuCnClnPN9kL7W7KnoHFosk) | Cynet Systems | Ohio | 2026-08-05 |
-| [Excess & Surplus - Production Support](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167312) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-08-05 |
-| [R Programmer](https://uscareers-medpace.icims.com/jobs/12912/login) | Medpace | Cincinnati, Ohio | 2026-08-05 |
-| [Shiny App Developer](https://uscareers-medpace.icims.com/jobs/12907/login) | Medpace | Cincinnati, Ohio | 2026-08-05 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-05 |
+| [ServiceNow Technical Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32805167#/jobs/32805167) | Artech | Remote, OH | 2026-08-05 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/PWvvYzXLCIYeukw02tC3oYKeU9T6Hm68ZpuGTexFyvU) | Cynet Systems | Michigan, Ohio | 2026-08-05 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/qv8fdYvvK0HAYtsbyHHraCqBJxXaVH8W0IedBzc7xoI) | Cynet Systems | Ohio | 2026-08-05 |
+| [Encounters Data Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Ohio-WFH/Encounters-Data-Analyst-III_R13353) | CareSource | Ohio WFH | 2026-08-05 |
+| [Software Engineer, Fleet Platform](https://boards.greenhouse.io/pathrobotics/jobs/8631767002?gh_jid=8631767002) | Path Robotics | Columbus, Ohio | 2026-08-05 |
+| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R71237) | Fifth Third Bank | Cincinnati, OH | 2026-08-05 |
+| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R71245-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-05 |
+| [Senior Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104948) | FirstEnergy | Akron, OH, United States | 2026-08-05 |
+| [SAP Developer - Customer Back Office Solutions](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104971) | FirstEnergy | Akron, OH, United States | 2026-08-05 |
+| [Manufacturing Quality Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278713) | Vertiv | Ironton, OH, United States | 2026-08-05 |
+| [Software Engineer II (Controls)](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55355&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-05 |
+| [Strength Test Engineer, Powersports](https://careers.honda.com/us/en/job/12189) | Honda | Raymond, Ohio, United States | 2026-08-05 |
+| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/10957) | Honda | Russells Point, Ohio, United States | 2026-08-05 |
 <!-- JOBS:END -->
 
 ## How it works
