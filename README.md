@@ -56,19 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1614 tracked total · updated `2026-08-05T03:52:40+00:00`
+### 🆕 2 new roles this update · 1614 tracked total · updated `2026-08-05T09:12:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
 | Robert Half | 1 |
 | Cynet Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Varicent Developer](https://careers.teksystems.com/us/en/job/JP-006194123/Varicent-Developer) | TEKsystems | Remote, Oregon | 2026-08-05 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-05 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/kRpBLsNXAmXF_Rma0ZRt0sDYRPYXuPFG2N7QBm3PqTo) | Cynet Systems | Ohio | 2026-08-05 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-05 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/mhKZ_PsV4nthDenk2JIeuZoaMoexNzL_mXNK6-cZzUw) | Cynet Systems | Ohio | 2026-08-05 |
 <!-- JOBS:END -->
 
 ## How it works
