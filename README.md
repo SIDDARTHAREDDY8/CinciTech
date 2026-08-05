@@ -56,37 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1643 tracked total · updated `2026-08-05T20:21:27+00:00`
+### 🆕 10 new roles this update · 1651 tracked total · updated `2026-08-05T22:41:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Artech | 3 |
 | Cynet Systems | 2 |
-| Fifth Third Bank | 2 |
-| FirstEnergy | 2 |
-| Honda | 2 |
-| Robert Half | 1 |
-| Artech | 1 |
-| CareSource | 1 |
+| Kforce | 1 |
 | Path Robotics | 1 |
-| Vertiv | 1 |
-| STERIS | 1 |
+| Kroger | 1 |
+| Huntington Bank | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-05 |
-| [ServiceNow Technical Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32805167#/jobs/32805167) | Artech | Remote, OH | 2026-08-05 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/PWvvYzXLCIYeukw02tC3oYKeU9T6Hm68ZpuGTexFyvU) | Cynet Systems | Michigan, Ohio | 2026-08-05 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/qv8fdYvvK0HAYtsbyHHraCqBJxXaVH8W0IedBzc7xoI) | Cynet Systems | Ohio | 2026-08-05 |
-| [Encounters Data Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Ohio-WFH/Encounters-Data-Analyst-III_R13353) | CareSource | Ohio WFH | 2026-08-05 |
-| [Software Engineer, Fleet Platform](https://boards.greenhouse.io/pathrobotics/jobs/8631767002?gh_jid=8631767002) | Path Robotics | Columbus, Ohio | 2026-08-05 |
-| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R71237) | Fifth Third Bank | Cincinnati, OH | 2026-08-05 |
-| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R71245-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-05 |
-| [Senior Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104948) | FirstEnergy | Akron, OH, United States | 2026-08-05 |
-| [SAP Developer - Customer Back Office Solutions](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104971) | FirstEnergy | Akron, OH, United States | 2026-08-05 |
-| [Manufacturing Quality Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278713) | Vertiv | Ironton, OH, United States | 2026-08-05 |
-| [Software Engineer II (Controls)](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55355&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-05 |
-| [Strength Test Engineer, Powersports](https://careers.honda.com/us/en/job/12189) | Honda | Raymond, Ohio, United States | 2026-08-05 |
-| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/10957) | Honda | Russells Point, Ohio, United States | 2026-08-05 |
+| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~JAX~2184565T1~99/) | Kforce | Cincinnati, OH | 2026-08-05 |
+| [AI Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32806355#/jobs/32806355) | Artech | Remote, FL | 2026-08-05 |
+| [Technical Lead - ServiceNow](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32806197#/jobs/32806197) | Artech | Remote, FL | 2026-08-05 |
+| [GEN AI developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32806072#/jobs/32806072) | Artech | Cincinnati, OH | 2026-08-05 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/mP3gsdHieKQqQlU8woD1mEncoGX_E9_D8I3TLHPvlZ8) | Cynet Systems | Michigan, Ohio | 2026-08-05 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/5HyJyFylBsMooUhQ9U_rFmwQlJD2Ws6LcKOGT39PPJo) | Cynet Systems | Ohio | 2026-08-05 |
+| [Technical Writer](https://boards.greenhouse.io/pathrobotics/jobs/8686107002?gh_jid=8686107002) | Path Robotics | Columbus, Ohio | 2026-08-05 |
+| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/214248) | Kroger | Toledo, OH, United States | 2026-08-05 |
+| [IT Service Delivery Director - Collections, Compliance & Risk](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Service-Delivery-Director---Collections--Compliance---Risk_R0074448) | Huntington Bank | Columbus, OH | 2026-08-05 |
+| [Director, Defined Benefit Operations](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Director--Defined-Benefit-Operations_2131134-1) | Fidelity Investments | Covington, KY | 2026-08-05 |
 <!-- JOBS:END -->
 
 ## How it works
