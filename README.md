@@ -56,26 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1626 tracked total · updated `2026-08-05T14:56:56+00:00`
+### 🆕 6 new roles this update · 1630 tracked total · updated `2026-08-05T17:16:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Apex Systems | 1 |
+| Medpace | 2 |
 | Robert Half | 1 |
-| Mindlance | 1 |
-| Dayton Children's Hospital | 1 |
-| Vertiv | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Security Engineer IV](https://www.apexsystems.com/job/3045037_usa/information-security-engineer-iv) | Apex Systems | Virtual, OH | 2026-08-05 |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-05 |
-| [Senior Data Management Business Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28999673#/jobs/28999673) | Mindlance | Brooklyn,, OH | 2026-08-05 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/ynAIsXN77pHMqJHUs7SBni0jaG4Vp6y9IoeRaWYchWk) | Cynet Systems | Michigan, Ohio | 2026-08-05 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/pbOzYbXsFo3dOyAcIQUZpzsJRnHLbz9GY4nDGQVkoR0) | Cynet Systems | Ohio | 2026-08-05 |
-| [Epic Analyst](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Epic-Analyst_R24006-1) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-08-05 |
-| [Platform Operations Engineer (Site Reliability Engineer)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274621) | Vertiv | Westerville, OH, United States | 2026-08-05 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-05 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Jc18NXyCCPLpJ1JMIDpGX1w4DBf4EKrijngR_vsrwYg) | Cynet Systems | Michigan, Ohio | 2026-08-05 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/_9RhRZdjcaBE6xhRx2FlIuCnClnPN9kL7W7KnoHFosk) | Cynet Systems | Ohio | 2026-08-05 |
+| [Excess & Surplus - Production Support](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167312) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-08-05 |
+| [R Programmer](https://uscareers-medpace.icims.com/jobs/12912/login) | Medpace | Cincinnati, Ohio | 2026-08-05 |
+| [Shiny App Developer](https://uscareers-medpace.icims.com/jobs/12907/login) | Medpace | Cincinnati, Ohio | 2026-08-05 |
 <!-- JOBS:END -->
 
 ## How it works
