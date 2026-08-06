@@ -56,22 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1661 tracked total · updated `2026-08-06T11:52:59+00:00`
+### 🆕 10 new roles this update · 1669 tracked total · updated `2026-08-06T15:08:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| Artech | 2 |
 | Cynet Systems | 2 |
-| Agility Connect | 2 |
+| Mindlance | 1 |
+| Vernovis | 1 |
+| KeyBank | 1 |
+| FirstEnergy | 1 |
+| CrossCountry Mortgage | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-06 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-06 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/u9XO42LfpcAuEPjb1g3oS8PueQROMcocEXYyQApbM2U) | Cynet Systems | Michigan, Ohio | 2026-08-06 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/w7PnByEGMRfiup8pdcqCLo41uTGgBZLl8FdEj96Jwxk) | Cynet Systems | Ohio | 2026-08-06 |
-| [Scrum Master](https://agilityconnect.io/jobs/8317) | Agility Connect | OH | 2026-08-06 |
-| [Frontend Software Engineer](https://agilityconnect.io/jobs/8316) | Agility Connect | Columbus, OH | 2026-08-06 |
+| [Network systems administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32809551#/jobs/32809551) | Artech | Remote, GA | 2026-08-06 |
+| [IMS & Logical DBA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32809528#/jobs/32809528) | Artech | Remote, NY | 2026-08-06 |
+| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29028412#/jobs/29028412) | Mindlance | Remote, NY | 2026-08-06 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/i7K6oPVruMCQIyMtkz00739K2R1cR_5cNlUpPOueyds) | Cynet Systems | Michigan, Ohio | 2026-08-06 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/TGhQUQgsWAkYBjcBpVFErH-6Pj08CNrGHOOPrhwHkOo) | Cynet Systems | Ohio | 2026-08-06 |
+| [Senior Software Developer](https://vernovis.com/blog/jobs/12075/) | Vernovis | Cincinnati, | 2026-08-06 |
+| [Senior Risk Analyst, Enterprise Risk Management](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Remote-United-States/Senior-Risk-Analyst--Enterprise-Risk-Management_R-41332-1) | KeyBank | Remote, United States | 2026-08-06 |
+| [Meter & Tool Repair Supervisor - Energy Delivery Technical Support - Akron Central Electric Lab](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104989) | FirstEnergy | Akron, OH, United States | 2026-08-06 |
+| [Midwest Loan Support Specialist](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Midwest-Loan-Support-Specialist_JR03379) | CrossCountry Mortgage | Remote USA | 2026-08-06 |
+| [Entry-Level Business Systems Analyst - Accounting](https://uscareers-medpace.icims.com/jobs/12695/login) | Medpace | Cincinnati, Ohio | 2026-08-06 |
 <!-- JOBS:END -->
 
 ## How it works
