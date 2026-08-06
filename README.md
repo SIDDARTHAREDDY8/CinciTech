@@ -56,25 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1655 tracked total · updated `2026-08-06T03:53:23+00:00`
+### 🆕 2 new roles this update · 1655 tracked total · updated `2026-08-06T09:19:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 2 |
-| CareSource | 1 |
-| American Electric Power | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-06 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-06 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/_d55js1frJTK3SKDYGK9WHWsaeG6ALEFs5n6Ih9UfMA) | Cynet Systems | Michigan, Ohio | 2026-08-06 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/bE53RFl9cNYas6OXHLfNgsstFwbH1Uhc3xkXa8BxE4c) | Cynet Systems | Ohio | 2026-08-06 |
-| [AVP, Data Management](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AVP--Data-Management_R13375) | CareSource | Remote | 2026-08-06 |
-| [Telecomms Apprentice II - Telecomms Apprentice I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Canton-OH/Telecomms-Apprentice-II---Telecomms-Apprentice-I_R17438) | American Electric Power | Canton, OH | 2026-08-06 |
-| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/10957) | Honda | Russells Point, Ohio, United States | 2026-08-06 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/fx6e0DI_y5IawDyaByPsnFxAc3r4-grzUmUA-cb1awU) | Cynet Systems | Michigan, Ohio | 2026-08-06 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/M_p6a18GXOZcPKcDBS9oZrhh4orU1y0DP63QmyF89SA) | Cynet Systems | Ohio | 2026-08-06 |
 <!-- JOBS:END -->
 
 ## How it works
