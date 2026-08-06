@@ -56,30 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1651 tracked total · updated `2026-08-05T22:41:27+00:00`
+### 🆕 7 new roles this update · 1655 tracked total · updated `2026-08-06T03:53:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Kforce | 1 |
-| Path Robotics | 1 |
-| Kroger | 1 |
-| Huntington Bank | 1 |
-| Fidelity Investments | 1 |
+| CareSource | 1 |
+| American Electric Power | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~JAX~2184565T1~99/) | Kforce | Cincinnati, OH | 2026-08-05 |
-| [AI Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32806355#/jobs/32806355) | Artech | Remote, FL | 2026-08-05 |
-| [Technical Lead - ServiceNow](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32806197#/jobs/32806197) | Artech | Remote, FL | 2026-08-05 |
-| [GEN AI developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32806072#/jobs/32806072) | Artech | Cincinnati, OH | 2026-08-05 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/mP3gsdHieKQqQlU8woD1mEncoGX_E9_D8I3TLHPvlZ8) | Cynet Systems | Michigan, Ohio | 2026-08-05 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/5HyJyFylBsMooUhQ9U_rFmwQlJD2Ws6LcKOGT39PPJo) | Cynet Systems | Ohio | 2026-08-05 |
-| [Technical Writer](https://boards.greenhouse.io/pathrobotics/jobs/8686107002?gh_jid=8686107002) | Path Robotics | Columbus, Ohio | 2026-08-05 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/214248) | Kroger | Toledo, OH, United States | 2026-08-05 |
-| [IT Service Delivery Director - Collections, Compliance & Risk](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Service-Delivery-Director---Collections--Compliance---Risk_R0074448) | Huntington Bank | Columbus, OH | 2026-08-05 |
-| [Director, Defined Benefit Operations](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Director--Defined-Benefit-Operations_2131134-1) | Fidelity Investments | Covington, KY | 2026-08-05 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-06 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-06 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/_d55js1frJTK3SKDYGK9WHWsaeG6ALEFs5n6Ih9UfMA) | Cynet Systems | Michigan, Ohio | 2026-08-06 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/bE53RFl9cNYas6OXHLfNgsstFwbH1Uhc3xkXa8BxE4c) | Cynet Systems | Ohio | 2026-08-06 |
+| [AVP, Data Management](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AVP--Data-Management_R13375) | CareSource | Remote | 2026-08-06 |
+| [Telecomms Apprentice II - Telecomms Apprentice I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Canton-OH/Telecomms-Apprentice-II---Telecomms-Apprentice-I_R17438) | American Electric Power | Canton, OH | 2026-08-06 |
+| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/10957) | Honda | Russells Point, Ohio, United States | 2026-08-06 |
 <!-- JOBS:END -->
 
 ## How it works
