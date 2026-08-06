@@ -56,16 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1655 tracked total · updated `2026-08-06T09:19:18+00:00`
+### 🆕 6 new roles this update · 1661 tracked total · updated `2026-08-06T11:52:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
+| Agility Connect | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/fx6e0DI_y5IawDyaByPsnFxAc3r4-grzUmUA-cb1awU) | Cynet Systems | Michigan, Ohio | 2026-08-06 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/M_p6a18GXOZcPKcDBS9oZrhh4orU1y0DP63QmyF89SA) | Cynet Systems | Ohio | 2026-08-06 |
+| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-06 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-06 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/u9XO42LfpcAuEPjb1g3oS8PueQROMcocEXYyQApbM2U) | Cynet Systems | Michigan, Ohio | 2026-08-06 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/w7PnByEGMRfiup8pdcqCLo41uTGgBZLl8FdEj96Jwxk) | Cynet Systems | Ohio | 2026-08-06 |
+| [Scrum Master](https://agilityconnect.io/jobs/8317) | Agility Connect | OH | 2026-08-06 |
+| [Frontend Software Engineer](https://agilityconnect.io/jobs/8316) | Agility Connect | Columbus, OH | 2026-08-06 |
 <!-- JOBS:END -->
 
 ## How it works
