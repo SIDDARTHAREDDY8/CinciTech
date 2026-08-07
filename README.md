@@ -56,32 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1739 tracked total · updated `2026-08-07T19:40:11+00:00`
+### 🆕 14 new roles this update · 1753 tracked total · updated `2026-08-07T22:18:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Artech | 2 |
-| Great American Insurance | 2 |
-| Marathon Petroleum | 1 |
-| Cleveland Clinic | 1 |
-| Scotts Miracle-Gro | 1 |
-| Battelle | 1 |
+| Artech | 3 |
+| Insight Global | 1 |
+| Robert Half | 1 |
+| Motion Recruitment | 1 |
+| First Solar | 1 |
+| Worldpay | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Java developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818448#/jobs/32818448) | Artech | Cleveland, OH | 2026-08-07 |
-| [QA Test Engineer – Contact Center & IVR (Genesys)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818009#/jobs/32818009) | Artech | Cleveland, OH | 2026-08-07 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/BoeJLzzRcTHOzjAbpmyXrnGzpkKOAqHMNhhGFN0zXEY) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/S30U88y6Hz2fMZ7vlgaJhk2-vxZfqh66uyx1c-ToSaQ) | Cynet Systems | Ohio | 2026-08-07 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/UR8fWty7kP0OYB2VfsI0g9STJoVp3FLj2tJKJs5sspI) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/98oLTWAPpWREdT7aBLeo7kKa4_kaAXmR42l4FNZ2VHQ) | Cynet Systems | Ohio | 2026-08-07 |
-| [Credit Operations Analyst](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Credit-Operations-Analyst_00023164-1) | Marathon Petroleum | Findlay, Ohio | 2026-08-07 |
-| [Data Engineering Director - Hybrid](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Data-Engineering-Director---Hybrid_R9357-3) | Great American Insurance | Richfield, OH (USA) | 2026-08-07 |
-| [Senior Data Architect - Hybrid](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Senior-Data-Architect---Hybrid_R9358) | Great American Insurance | Richfield, OH (USA) | 2026-08-07 |
-| [Senior Advisor - Artificial Intelligence](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Senior-Advisor---Artificial-Intelligence_350405) | Cleveland Clinic | Remote Location | 2026-08-07 |
-| [Sr Analyst, Data Engineer](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Sr-Analyst--Data-Engineer_R23800) | Scotts Miracle-Gro | Marysville, OH | 2026-08-07 |
-| [Test Engineer, Autonomous sUAS Systems](https://jobs.battelle.org/us/en/job/76434) | Battelle | Beavercreek, OH | 2026-08-07 |
+| [Duck Creek Application Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cincinnati/duck-creek-application-engineer/job-562026/) | Insight Global | Cincinnati, OH | 2026-08-07 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-07 |
+| [Quality Assurance Engineer III](https://motionrecruitment.com/tech-jobs/tualatin/contract/quality-assurance-engineer-iii/884370) | Motion Recruitment | Tualatin, Ohio | 2026-08-07 |
+| [Software Engineering - Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32819690#/jobs/32819690) | Artech | Remote Location, WA | 2026-08-07 |
+| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818284#/jobs/32818284) | Artech | Cleveland, OH | 2026-08-07 |
+| [Front End Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818369#/jobs/32818369) | Artech | Cleveland, OH | 2026-08-07 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/WE6N0PHD0sI53AYeFwbwar_rnY6itzn8eEYrMHEYq9k) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/m53__kSp_pI_hUv-FXoRvNYzYpD_ON69SRaDnMiNmH0) | Cynet Systems | Ohio | 2026-08-07 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Fz5F79MM3f3Mcr-yQewlEChatoadKHG05mqoC-yUkaE) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/SU5bJ4-YglEjTFlnDjkEM0YuYNU-HeSTaElANTQSa4Y) | Cynet Systems | Ohio | 2026-08-07 |
+| [Developer I USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025496) | First Solar | Perrysburg, OH, United States | 2026-08-07 |
+| [System Support Analyst II](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/System-Support-Analyst-II_JR0610392-1) | Worldpay | CINCINNATI, OHIO | 2026-08-07 |
+| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278456) | Vertiv | Delaware, OH, United States | 2026-08-07 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-07 |
 <!-- JOBS:END -->
 
 ## How it works
