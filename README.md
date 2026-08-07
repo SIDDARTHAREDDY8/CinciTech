@@ -56,33 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1722 tracked total · updated `2026-08-07T14:04:04+00:00`
+### 🆕 7 new roles this update · 1728 tracked total · updated `2026-08-07T16:33:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 4 |
-| Cynet Systems | 3 |
-| Huntington Bank | 2 |
-| Insight Global | 1 |
-| CareSource | 1 |
-| Fifth Third Bank | 1 |
-| Vertiv | 1 |
+| Cynet Systems | 4 |
+| Robert Half | 1 |
+| Abercrombie & Fitch | 1 |
+| OhioHealth | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack .NET Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/full-stack-net-developer/job-559914/) | Insight Global | Cleveland, OH | 2026-08-07 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/k0PEScMztSn8qvvJhGfjQaKCntSavq6yHpWMKbh9XcQ) | Cynet Systems | Ohio | 2026-08-07 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/v0Ci1eK3xNhRH1ORaho3KV-8HCzVYKRdb4p28E_-RqE) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/cy_UY1Y8JDOe5edEHzwY_2FKWzy7iNEKPHe7Rm2meAc) | Cynet Systems | Ohio | 2026-08-07 |
-| [Cloud Infrastructure Engineer](https://agilityconnect.io/jobs/8321) | Agility Connect | Columbus, OH | 2026-08-07 |
-| [Security Engineer](https://agilityconnect.io/jobs/8319) | Agility Connect | Columbus, OH | 2026-08-07 |
-| [Sr. Software Engineer](https://agilityconnect.io/jobs/8320) | Agility Connect | Columbus, OH | 2026-08-07 |
-| [Security Automation Engineer](https://agilityconnect.io/jobs/8318) | Agility Connect | Cincinnati, OH | 2026-08-07 |
-| [Print Production Systems Analyst II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Print-Production-Systems-Analyst-II_R13424-1) | CareSource | Remote | 2026-08-07 |
-| [Senior Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Software-Engineer_R70574-1) | Fifth Third Bank | Virtual | 2026-08-07 |
-| [Data Engineer Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Lead_R0074676) | Huntington Bank | Columbus, OH | 2026-08-07 |
-| [QA Testing Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Testing-Analyst_R0073800) | Huntington Bank | Columbus, OH | 2026-08-07 |
-| [Global Engineering AI Solutions Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277482) | Vertiv | Westerville, OH, United States | 2026-08-07 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-07 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Aaramcd5vo9oPC0cT7ZJcgfTKYWA-sd30DAcv5Br-bo) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/-F9euR93mF-KahiSU7IyfeBf_mhXUVelM2VQmsbsvcg) | Cynet Systems | Ohio | 2026-08-07 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/ZsBEV7sPuGNihi7ZPu-7TUrLljfghHkHqUdgLnKUT2o) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/jbLnfudQjsxrSX3MDvG0bkDzS64QrfjKuNw3CM2S3XA) | Cynet Systems | Ohio | 2026-08-07 |
+| [Engineer, Identity and Access Management](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Engineer--Identity-and-Access-Management_JR103426-1) | Abercrombie & Fitch | Columbus, Ohio | 2026-08-07 |
+| [Solutions Architect](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Solutions-Architect_JR155889-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-07 |
 <!-- JOBS:END -->
 
 ## How it works
