@@ -56,51 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 26 new roles this update · 1694 tracked total · updated `2026-08-07T00:48:20+00:00`
+### 🆕 7 new roles this update · 1699 tracked total · updated `2026-08-07T04:10:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| OhioHealth | 8 |
-| Artech | 4 |
 | Cynet Systems | 3 |
-| Robert Half | 2 |
-| Belcan | 2 |
-| Strategic Staffing Solutions | 1 |
-| Fifth Third Bank | 1 |
-| Worldpay | 1 |
-| Vertiv | 1 |
-| STERIS | 1 |
+| L3Harris | 2 |
+| TEKsystems | 1 |
 | Honda | 1 |
-| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Qa Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-qa-analyst/01300-0013444495-usen) | Robert Half | Cincinnati, 01300 | 2026-08-07 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-07 |
-| [Systems Vulnerability Engineer](https://jobs.strategicstaff.com/jobs/systems-vulnerability-engineer-170491/) | Strategic Staffing Solutions | Remote, Remote | 2026-08-07 |
-| [Technical Scrum Master / Technical Project Manager](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32814488#/jobs/32814488) | Artech | Remote | 2026-08-07 |
-| [Java FS Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32811977#/jobs/32811977) | Artech | REMOTE | 2026-08-07 |
-| [Security Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32809803#/jobs/32809803) | Artech | Cleveland, OH | 2026-08-07 |
-| [Azure Cloud Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32809949#/jobs/32809949) | Artech | Remote | 2026-08-07 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/zwVg2XunphGTLIMVvuf0JyKK6Anks3TSDCn_AiwFg4w) | Cynet Systems | Ohio | 2026-08-07 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/jh6nNImtp31tIc0NrCiT8eAsl2TBa2am0yMB6FE-3EA) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/-NGvTlEubFub_1IFS-eljvO6q_ZdvwBvU-TGxjkJySw) | Cynet Systems | Ohio | 2026-08-07 |
-| [Order Fulfillment Specialist III](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367042&apply=yes&) | Belcan | Aurora, OH | 2026-08-07 |
-| [Order Fulfillment Specialist III](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367041&apply=yes&) | Belcan | Aurora, OH | 2026-08-07 |
-| [Data Science Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Science-Analyst_R71447) | Fifth Third Bank | Cincinnati, OH | 2026-08-07 |
-| [System Support Analyst I](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/System-Support-Analyst-I_JR0610629) | Worldpay | CINCINNATI, OHIO | 2026-08-07 |
-| [IT Tech Lead - Senior PACS Administrator](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Tech-Lead---Senior-PACS-Administrator_JR155869-1) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Systems Analyst - Digital Imaging](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Systems-Analyst---Digital-Imaging_JR155876) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Epic Senior System Analyst - Sched/Reg (Grand Central, Prelude, Cadence, Welcome)](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-System-Analyst---Sched-Reg--Grand-Central--Prelude--Cadence--Welcome-_JR156066) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Epic Senior System Analyst - Beaker](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-System-Analyst----Beaker_JR155883-1) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Epic Senior Systems Analyst - Homecare Billing, Hospital Billing, Hospital Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Homecare-Billing--Hospital-Billing--Hospital-Claims_JR156069) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Epic System Analyst - Beaker](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-System-Analyst---Beaker_JR155881) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Epic System Analyst - Ambulatory](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-System-Analyst---Ambulatory_JR156104) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Epic Systems Analyst - Sched/Reg (Grand Central, Prelude, Cadence, Welcome)](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Sched-Reg--Grand-Central--Prelude--Cadence--Welcome-_JR156068) | OhioHealth | WORK AT HOME - OHIO | 2026-08-07 |
-| [Sr. Director, Global Cybersecurity](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279023) | Vertiv | Westerville, OH, United States | 2026-08-07 |
-| [Technical Support Specialist - Software](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55386&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-07 |
-| [Senior ADAS Test Engineer I](https://careers.honda.com/us/en/job/11214) | Honda | Raymond, Ohio, United States | 2026-08-07 |
-| [QA Technician](https://jobs.lincolnelectric.com/job/Cleveland-QA-Technician-OH-44117/1424076933/) | Lincoln Electric | OH | 2026-08-07 |
+| [IT Project Manager](https://careers.teksystems.com/us/en/job/JP-006205323/IT-Project-Manager) | TEKsystems | Cleveland, Ohio | 2026-08-07 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/3b8tBUyEL7b68rduZ_SSN3w_eXt9B_nIpQBI50kWadU) | Cynet Systems | Ohio | 2026-08-07 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/1UxfBSGKMrozmSuEig_cD0TPuLVzs8d2tO-AZU75OcQ) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/nO1Xy7qN95yh_mQCh7cHfy3XJhzgvBHHZr0v5d-EpsE) | Cynet Systems | Ohio | 2026-08-07 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-07 |
+| [Senior Associate Systems Engineer](https://careers.l3harris.com/en/job/mason/senior-associate-systems-engineer/4832/98865265056) | L3Harris | Mason, OH | 2026-08-07 |
+| [Senior Specialist Systems Engineer](https://careers.l3harris.com/en/job/mason/senior-specialist-systems-engineer/4832/98865265024) | L3Harris | Mason, OH | 2026-08-07 |
 <!-- JOBS:END -->
 
 ## How it works
