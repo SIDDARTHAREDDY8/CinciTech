@@ -56,24 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1728 tracked total · updated `2026-08-07T16:33:56+00:00`
+### 🆕 12 new roles this update · 1739 tracked total · updated `2026-08-07T19:40:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Robert Half | 1 |
-| Abercrombie & Fitch | 1 |
-| OhioHealth | 1 |
+| Artech | 2 |
+| Great American Insurance | 2 |
+| Marathon Petroleum | 1 |
+| Cleveland Clinic | 1 |
+| Scotts Miracle-Gro | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-07 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Aaramcd5vo9oPC0cT7ZJcgfTKYWA-sd30DAcv5Br-bo) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/-F9euR93mF-KahiSU7IyfeBf_mhXUVelM2VQmsbsvcg) | Cynet Systems | Ohio | 2026-08-07 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/ZsBEV7sPuGNihi7ZPu-7TUrLljfghHkHqUdgLnKUT2o) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/jbLnfudQjsxrSX3MDvG0bkDzS64QrfjKuNw3CM2S3XA) | Cynet Systems | Ohio | 2026-08-07 |
-| [Engineer, Identity and Access Management](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Engineer--Identity-and-Access-Management_JR103426-1) | Abercrombie & Fitch | Columbus, Ohio | 2026-08-07 |
-| [Solutions Architect](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Solutions-Architect_JR155889-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-07 |
+| [Senior Java developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818448#/jobs/32818448) | Artech | Cleveland, OH | 2026-08-07 |
+| [QA Test Engineer – Contact Center & IVR (Genesys)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818009#/jobs/32818009) | Artech | Cleveland, OH | 2026-08-07 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/BoeJLzzRcTHOzjAbpmyXrnGzpkKOAqHMNhhGFN0zXEY) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/S30U88y6Hz2fMZ7vlgaJhk2-vxZfqh66uyx1c-ToSaQ) | Cynet Systems | Ohio | 2026-08-07 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/UR8fWty7kP0OYB2VfsI0g9STJoVp3FLj2tJKJs5sspI) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/98oLTWAPpWREdT7aBLeo7kKa4_kaAXmR42l4FNZ2VHQ) | Cynet Systems | Ohio | 2026-08-07 |
+| [Credit Operations Analyst](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Credit-Operations-Analyst_00023164-1) | Marathon Petroleum | Findlay, Ohio | 2026-08-07 |
+| [Data Engineering Director - Hybrid](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Data-Engineering-Director---Hybrid_R9357-3) | Great American Insurance | Richfield, OH (USA) | 2026-08-07 |
+| [Senior Data Architect - Hybrid](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Senior-Data-Architect---Hybrid_R9358) | Great American Insurance | Richfield, OH (USA) | 2026-08-07 |
+| [Senior Advisor - Artificial Intelligence](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Senior-Advisor---Artificial-Intelligence_350405) | Cleveland Clinic | Remote Location | 2026-08-07 |
+| [Sr Analyst, Data Engineer](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Sr-Analyst--Data-Engineer_R23800) | Scotts Miracle-Gro | Marysville, OH | 2026-08-07 |
+| [Test Engineer, Autonomous sUAS Systems](https://jobs.battelle.org/us/en/job/76434) | Battelle | Beavercreek, OH | 2026-08-07 |
 <!-- JOBS:END -->
 
 ## How it works
