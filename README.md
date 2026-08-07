@@ -56,24 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1699 tracked total · updated `2026-08-07T04:10:42+00:00`
+### 🆕 4 new roles this update · 1703 tracked total · updated `2026-08-07T05:49:35+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 3 |
-| L3Harris | 2 |
-| TEKsystems | 1 |
-| Honda | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT Project Manager](https://careers.teksystems.com/us/en/job/JP-006205323/IT-Project-Manager) | TEKsystems | Cleveland, Ohio | 2026-08-07 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/3b8tBUyEL7b68rduZ_SSN3w_eXt9B_nIpQBI50kWadU) | Cynet Systems | Ohio | 2026-08-07 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/1UxfBSGKMrozmSuEig_cD0TPuLVzs8d2tO-AZU75OcQ) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/nO1Xy7qN95yh_mQCh7cHfy3XJhzgvBHHZr0v5d-EpsE) | Cynet Systems | Ohio | 2026-08-07 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-07 |
-| [Senior Associate Systems Engineer](https://careers.l3harris.com/en/job/mason/senior-associate-systems-engineer/4832/98865265056) | L3Harris | Mason, OH | 2026-08-07 |
-| [Senior Specialist Systems Engineer](https://careers.l3harris.com/en/job/mason/senior-specialist-systems-engineer/4832/98865265024) | L3Harris | Mason, OH | 2026-08-07 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-07 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/62oUz2ffTTYCZuhPAktAU5sufp2iOtguI866u67Y3Ek) | Cynet Systems | Ohio | 2026-08-07 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/tBjeciXxpJIFVpddK4OrCPmUkQbeWMooLdgmakN0qWQ) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/0nOloIi_h3_eraHAvPmnCofUudo4OvqhNxzUBXP5kwY) | Cynet Systems | Ohio | 2026-08-07 |
 <!-- JOBS:END -->
 
 ## How it works
