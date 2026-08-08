@@ -56,22 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1748 tracked total · updated `2026-08-08T04:42:31+00:00`
+### 🆕 4 new roles this update · 1751 tracked total · updated `2026-08-08T07:28:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Robert Half | 1 |
-| Vaco | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-08 |
-| [Infrastructure Engineer 23](https://jobs.vaco.com/job/17716/infrastructure_engineer_23/en) | Vaco | Columbus, Ohio | 2026-08-08 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/8iN88PP5RfooDHtpsOqHSVYLpqur33yIU4Gmj4sG4DA) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/bF6tJv8733mmFeGw45-lcZF6G6Ms8fqiooIV4K7GmZI) | Cynet Systems | Ohio | 2026-08-08 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Y_OUx8wGP1aeXkgrTxmTV5fzbU_OjdlUI-vMHVA1g_o) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ZLm7sGgowWzNWgtlsdWfFj2on3wjX7Hicz55BMojnBs) | Cynet Systems | Ohio | 2026-08-08 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/-nGsAhx2OO1Oc31D156P66PzudIA8SkTrgJ7azR9RjU) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/_LGwN1crB0MvABfmHnZWfzym861ZmZNZpL1-tLBYHjQ) | Cynet Systems | Ohio | 2026-08-08 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/GHPAbCEPIVHljtT6ZJCJyRPiVILOYnHBkk5wBBNGv8o) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/rZDFPU25lu9CMhKT9gHISekbvbH89sTa_po59NyHL6w) | Cynet Systems | Ohio | 2026-08-08 |
 <!-- JOBS:END -->
 
 ## How it works
