@@ -56,36 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1753 tracked total · updated `2026-08-07T22:18:50+00:00`
+### 🆕 4 new roles this update · 1742 tracked total · updated `2026-08-08T02:41:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Artech | 3 |
-| Insight Global | 1 |
-| Robert Half | 1 |
-| Motion Recruitment | 1 |
-| First Solar | 1 |
-| Worldpay | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Duck Creek Application Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cincinnati/duck-creek-application-engineer/job-562026/) | Insight Global | Cincinnati, OH | 2026-08-07 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-07 |
-| [Quality Assurance Engineer III](https://motionrecruitment.com/tech-jobs/tualatin/contract/quality-assurance-engineer-iii/884370) | Motion Recruitment | Tualatin, Ohio | 2026-08-07 |
-| [Software Engineering - Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32819690#/jobs/32819690) | Artech | Remote Location, WA | 2026-08-07 |
-| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818284#/jobs/32818284) | Artech | Cleveland, OH | 2026-08-07 |
-| [Front End Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32818369#/jobs/32818369) | Artech | Cleveland, OH | 2026-08-07 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/WE6N0PHD0sI53AYeFwbwar_rnY6itzn8eEYrMHEYq9k) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/m53__kSp_pI_hUv-FXoRvNYzYpD_ON69SRaDnMiNmH0) | Cynet Systems | Ohio | 2026-08-07 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Fz5F79MM3f3Mcr-yQewlEChatoadKHG05mqoC-yUkaE) | Cynet Systems | Michigan, Ohio | 2026-08-07 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/SU5bJ4-YglEjTFlnDjkEM0YuYNU-HeSTaElANTQSa4Y) | Cynet Systems | Ohio | 2026-08-07 |
-| [Developer I USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025496) | First Solar | Perrysburg, OH, United States | 2026-08-07 |
-| [System Support Analyst II](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/System-Support-Analyst-II_JR0610392-1) | Worldpay | CINCINNATI, OHIO | 2026-08-07 |
-| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278456) | Vertiv | Delaware, OH, United States | 2026-08-07 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-07 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/iJFcJ3VS9LbAMNzxm3ND4AGh1sCwIrNUZjRDdklHc38) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/iY2kZodPLZZsvGgg1925Zc8LilKllXE8-u_p9AKL610) | Cynet Systems | Ohio | 2026-08-08 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/4Y3Yz4tC9wcgWzKKUsfG6rC_fSWnmYJIdGfp60SIGYU) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/JwfnLyubTaDTfHph7jwg0vh5wog8HRvffHrdgwk9MxQ) | Cynet Systems | Ohio | 2026-08-08 |
 <!-- JOBS:END -->
 
 ## How it works
