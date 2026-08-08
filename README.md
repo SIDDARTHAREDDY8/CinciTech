@@ -56,18 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1776 tracked total · updated `2026-08-08T19:17:18+00:00`
+### 🆕 6 new roles this update · 1782 tracked total · updated `2026-08-08T22:11:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
+| Robert Half | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/3q6zvgdkFZLCRDhpNd5w2Ei-t-Fejlm_razcFi0TN3M) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/DnBBStZvMMQWBTYxKCcTA0JzRo11Y62UtGYhRF8RErw) | Cynet Systems | Ohio | 2026-08-08 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/VG1xQeTilLKbmvuEz0vtyQgWsOp14tr8pqVERqHjs2U) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/SNvVcDNFGqMCzJ7h6GIDALZTxpSwR64mSiXFOmJYw_4) | Cynet Systems | Ohio | 2026-08-08 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-08 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/INLnNW2zguGjvl8PnlCE9Z-RdfR3tUUYjles_kbeRxY) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/StMIgEQVUv4-IxcX5FMxYEJXm17a92KelWyatXzR018) | Cynet Systems | Ohio | 2026-08-08 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/g-PI5gzJd7Ly4P3AhmdBKYUkte1wOBCZ3OtKkz9CRoM) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/wFCS772nlOVWuCPw0lKkjTfRVu6MJ63nm6U3C_C4rzw) | Cynet Systems | Ohio | 2026-08-08 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-08 |
 <!-- JOBS:END -->
 
 ## How it works
