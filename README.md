@@ -56,22 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1782 tracked total · updated `2026-08-08T22:11:05+00:00`
+### 🆕 5 new roles this update · 1779 tracked total · updated `2026-08-09T02:49:41+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Robert Half | 1 |
-| Honda | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-08 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/INLnNW2zguGjvl8PnlCE9Z-RdfR3tUUYjles_kbeRxY) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/StMIgEQVUv4-IxcX5FMxYEJXm17a92KelWyatXzR018) | Cynet Systems | Ohio | 2026-08-08 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/g-PI5gzJd7Ly4P3AhmdBKYUkte1wOBCZ3OtKkz9CRoM) | Cynet Systems | Michigan, Ohio | 2026-08-08 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/wFCS772nlOVWuCPw0lKkjTfRVu6MJ63nm6U3C_C4rzw) | Cynet Systems | Ohio | 2026-08-08 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-08 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/WVuZi9FGcqpBYA2EdGbLRu5UaB6IZYFYIoG7LLDvNRc) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/BP7lB7pnuafXwgNFMFzw3lsoplnvSAL7aLrJCP3Hwvg) | Cynet Systems | Ohio | 2026-08-09 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/y5NuwcF4yu7lqRipgcH1Y0cAu9T77f8lRSG3JzIB7TU) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/OBK2wd3Uc4klaWDB7NYrhZoQFyKM1eHg67M8cuFiXgA) | Cynet Systems | Ohio | 2026-08-09 |
+| [Lead, Security/Vulnerability Research Engineer](https://careers.l3harris.com/en/job/united-states/lead-security-vulnerability-research-engineer/4832/98137589008) | L3Harris | Remote | 2026-08-09 |
 <!-- JOBS:END -->
 
 ## How it works
