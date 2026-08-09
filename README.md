@@ -56,20 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1800 tracked total · updated `2026-08-09T16:07:10+00:00`
+### 🆕 5 new roles this update · 1804 tracked total · updated `2026-08-09T19:15:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Robert Half | 1 |
+| Nesco Resource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-09 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/P213uIhEWS5JWDsCTnM8P5OfBXrS5uaCt4FTbXleEbc) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/P0aztMpbSriUxElRPufidr_JhPU-_tODqzkuTYoOTkY) | Cynet Systems | Ohio | 2026-08-09 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/fnovE3NIAOdwOlhRDX4TIVfT8Veekj4KLUgsCV2LLug) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/M-LjCZm37RUGBwcN0qz7x1oZCx7AZCkucG8rZYZCd_4) | Cynet Systems | Ohio | 2026-08-09 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/hTMjm4C9g0eMq2SOob5Gnq4-o4WEFajIguF4WS5NQaw) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/yhdpB9EyoR5lTM8elHa4mPIor4pUUbTeXUNx87m-qZ8) | Cynet Systems | Ohio | 2026-08-09 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/7ocgy4PrN_Y1hfyhrs9iK_UdJw_Y0mzGyUK9-3umfBs) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/TRg2Yif1019IUGODtdAOcSGt1KGdrHcmQIaEE8TfClI) | Cynet Systems | Ohio | 2026-08-09 |
+| [Quality Assurance](https://www.nescoresource.com/job-details/quality-assurance-in-skilled-trades-jobs-1650137) | Nesco Resource | Avon Lake, OH | 2026-08-09 |
 <!-- JOBS:END -->
 
 ## How it works
