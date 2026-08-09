@@ -56,20 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1787 tracked total · updated `2026-08-09T07:33:44+00:00`
+### 🆕 5 new roles this update · 1792 tracked total · updated `2026-08-09T10:17:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Honda | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/MOARZWd46sukiVlg9Z7t1-Rdcx5b5w1HmM2XhlLO4SY) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/e1sNsTy16uemtPMoy9qBDO58b7J8xSiw44Pw61Lh9Vo) | Cynet Systems | Ohio | 2026-08-09 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/0DGnqnZp2-uuC0sogO3dCE2WhQ5gn6tVmAMjcqVQxfY) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/2a_t1Ns4AgD89NUKsl27F680Tq8NQk0Z8b6E4HzYf_0) | Cynet Systems | Ohio | 2026-08-09 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-09 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-09 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Bm0XJuqcHBuPjWPh696ZGSuFxdn5KrSlWJs-hbLrzq4) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/Fu8VmAol0SkwJfSWU1sD-LNLDIEwSgjGhKGo6k5-ewc) | Cynet Systems | Ohio | 2026-08-09 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/N0ch3s1961w5_fVcdmWMkTIINzRGtginqaCrJqiNqOg) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vY99BV7gUAv1r8IvE_cIcN0yVjlDeyt8L8VbI2cb4hc) | Cynet Systems | Ohio | 2026-08-09 |
 <!-- JOBS:END -->
 
 ## How it works
