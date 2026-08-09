@@ -56,20 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1792 tracked total · updated `2026-08-09T10:17:58+00:00`
+### 🆕 4 new roles this update · 1795 tracked total · updated `2026-08-09T13:35:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-09 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Bm0XJuqcHBuPjWPh696ZGSuFxdn5KrSlWJs-hbLrzq4) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/Fu8VmAol0SkwJfSWU1sD-LNLDIEwSgjGhKGo6k5-ewc) | Cynet Systems | Ohio | 2026-08-09 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/N0ch3s1961w5_fVcdmWMkTIINzRGtginqaCrJqiNqOg) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vY99BV7gUAv1r8IvE_cIcN0yVjlDeyt8L8VbI2cb4hc) | Cynet Systems | Ohio | 2026-08-09 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/2lmXx-g882GCoJEOXPphOmyBCE4hwBC3BcqBKGfLnpk) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/5vqxp0y5DVH-LrveMIdeBFFnTnC4WxE5G81UXiFsYUQ) | Cynet Systems | Ohio | 2026-08-09 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/vrMQG9deynvEDPNXl2UBj-KDGYntpaFOiMi1xf3sNZs) | Cynet Systems | Michigan, Ohio | 2026-08-09 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/7X65XHxGAW2xPGdIpb0Ko2_3S624FblhZHJC_Q6KWIc) | Cynet Systems | Ohio | 2026-08-09 |
 <!-- JOBS:END -->
 
 ## How it works
