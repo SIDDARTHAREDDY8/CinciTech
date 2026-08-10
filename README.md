@@ -56,48 +56,41 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 1863 tracked total · updated `2026-08-10T19:45:02+00:00`
+### 🆕 17 new roles this update · 1880 tracked total · updated `2026-08-10T22:23:35+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 5 |
-| Cynet Systems | 4 |
-| Medpace | 4 |
+| Insight Global | 3 |
+| Cynet Systems | 3 |
+| Motion Recruitment | 2 |
 | Mindlance | 2 |
-| Fifth Third Bank | 2 |
-| OhioHealth | 2 |
-| Apex Systems | 1 |
-| Great American Insurance | 1 |
-| Procter & Gamble | 1 |
+| Robert Half | 1 |
+| Artech | 1 |
+| Fifth Third Bank | 1 |
 | Huntington Bank | 1 |
-| Cincinnati Children's Hospital | 1 |
+| OhioHealth | 1 |
+| Honda | 1 |
+| Honeywell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3045575_usa/software-engineering---software-engineer-iii) | Apex Systems | Remote Location, WA | 2026-08-10 |
-| [Business Systems Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29044563#/jobs/29044563) | Mindlance | Remote, NY | 2026-08-10 |
-| [Software Engineering - Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29038543#/jobs/29038543) | Mindlance | Remote, WA | 2026-08-10 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/LdZkjspy3q3DBKYATJQ08zZMy14NRUX8MbI1xN-Vrr0) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/THWEW40mpYrpILSFJBwV7uNXug7cb0DUmJHxiR_JlCo) | Cynet Systems | Ohio | 2026-08-10 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/8GkDlj6xs64_l93ck4wLOXE2rvCwEngwfGQes-qLiIo) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/O5y1ziaR--JNvgRIJCaGgH73aFS5SVYkTXdfsa7tUrY) | Cynet Systems | Ohio | 2026-08-10 |
-| [Lead Technical Engineer - DBA SQL Server](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Technical-Engineer---DBA-SQL-Server_R71027) | Fifth Third Bank | Cincinnati, OH | 2026-08-10 |
-| [Lead Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Product-Owner_R71047) | Fifth Third Bank | Cincinnati, OH | 2026-08-10 |
-| [Technical Product Manager - API](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Manager---API_R9366) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-10 |
-| [AI Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/Cincinnati/AI-Engineer_R000153947-1) | Procter & Gamble | Cincinnati | 2026-08-10 |
-| [QA Testing Analyst - Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Testing-Analyst---Senior_R0074635) | Huntington Bank | Columbus, OH | 2026-08-10 |
-| [Data Engineering Tech Lead](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Data-Engineering-Tech-Lead_JR151863-1) | OhioHealth | WORK AT HOME - OHIO | 2026-08-10 |
-| [Senior Systems Analyst - PACS Administrator](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-Systems-Analyst---PACS-Administrator_JR156255) | OhioHealth | WORK AT HOME - OHIO | 2026-08-10 |
-| [Senior Data Science Analyst](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Senior-Data-Science-Analyst_JR223187-1) | Cincinnati Children's Hospital | Offices at Vernon Place | 2026-08-10 |
-| [Sr. Product Manager, Edge Infrastructure Solutions](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260518) | Vertiv | Westerville, OH, United States | 2026-08-10 |
-| [Thermal System Controls Developer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260926) | Vertiv | Westerville, OH, United States | 2026-08-10 |
-| [Data Engineer - Cloud/AI](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266423) | Vertiv | Westerville, OH, United States | 2026-08-10 |
-| [AI Architect](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266425) | Vertiv | Westerville, OH, United States | 2026-08-10 |
-| [RPA / Test Automation Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274625) | Vertiv | Westerville, OH, United States | 2026-08-10 |
-| [Information Security Intern- Spring 2027](https://uscareers-medpace.icims.com/jobs/12926/login) | Medpace | Cincinnati, Ohio | 2026-08-10 |
-| [IT Infrastructure Intern- Spring 2027](https://uscareers-medpace.icims.com/jobs/12925/login) | Medpace | Cincinnati, Ohio | 2026-08-10 |
-| [Software QA Test Engineer Intern - Spring 2027](https://uscareers-medpace.icims.com/jobs/12923/login) | Medpace | Cincinnati, Ohio | 2026-08-10 |
-| [Data Engineer Intern - Spring 2027](https://uscareers-medpace.icims.com/jobs/12921/login) | Medpace | Cincinnati, Ohio | 2026-08-10 |
+| [SR Infrastructure Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/sr-infrastructure-engineer/job-562520/) | Insight Global | Columbus, OH | 2026-08-10 |
+| [Senior Java Data (CosmosDB) Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/miamisburg/senior-java-data-cosmosdb-developer/job-561108/) | Insight Global | Miamisburg, OH | 2026-08-10 |
+| [Data Analyst- Inventory Transformation](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cincinnati/data-analyst-inventory-transformation/job-562572/) | Insight Global | Cincinnati, OH | 2026-08-10 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-10 |
+| [Project Manager -Cybersecurity](https://motionrecruitment.com/tech-jobs/columbus/contract/project-manager-cybersecurity/884488) | Motion Recruitment | Columbus, Ohio | 2026-08-10 |
+| [Help Desk/M365/Columbus, OH, LOCAL](https://motionrecruitment.com/tech-jobs/westerville/direct-hire/help-desk-m365-columbus-oh-local/884650) | Motion Recruitment | Westerville, Ohio | 2026-08-10 |
+| [Java Full Stack developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32828428#/jobs/32828428) | Artech | Cincinnati, OH | 2026-08-10 |
+| [IT Security and Vulnerability Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29047644#/jobs/29047644) | Mindlance | Remote, AR | 2026-08-10 |
+| [Security and GRC Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29046080#/jobs/29046080) | Mindlance | Remote, VA | 2026-08-10 |
+| [Enterprise MDM Architect](https://candidateportal.ceipal.com/job-details/vKRGUQuqrKgeWimdBFtUK7DZzjuZw-xC4rHtjAYVnOU) | Cynet Systems | Ohio | 2026-08-10 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Tuzm6qMXXo8I-n7jOk0KzH6AWAYkPpCNXirZND-c03E) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/2YnSVsY3KYgdRkEZ6r2IA2JkxzqnxmlEZx0aF4sG9YI) | Cynet Systems | Ohio | 2026-08-10 |
+| [Associate Director - Software Engineering](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Director---Software-Engineering_R71106-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-10 |
+| [Business Systems Analyst Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Lead_R0074490) | Huntington Bank | Columbus, OH | 2026-08-10 |
+| [Software Engineer](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Software-Engineer_JR156127-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-10 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-10 |
+| [Principal Systems Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155114) | Honeywell | Columbus, OH, United States | 2026-08-10 |
 <!-- JOBS:END -->
 
 ## How it works
