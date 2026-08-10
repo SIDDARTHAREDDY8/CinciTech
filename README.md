@@ -56,20 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1807 tracked total · updated `2026-08-10T02:50:49+00:00`
+### 🆕 7 new roles this update · 1813 tracked total · updated `2026-08-10T05:16:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Honda | 1 |
+| Nationwide | 2 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/4tpC5fe_RMchRVWmg_U0AN5xXuA7rEEbmiSdXw4u0tU) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/hj68vJONRbSm7avn-ekdi_Nnrli6TOzkhOpqpdITefU) | Cynet Systems | Ohio | 2026-08-10 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/UgHwn1W-Hz3lZOPmMoOqi8JFZKAOjtTerP9SeFI9pSg) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/CKIl4Soh2_HnTxnmETjCCISNX3Ys5-fX8GU1dd3XRJo) | Cynet Systems | Ohio | 2026-08-10 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-10 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-10 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/_t-Li4z5YY9HLxw201fUIHE_ncd-9bn3AiC6RvNI4Bs) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/PU9xx6OwZsXR8xghURWPu7bRdPDIAYS0Nvc0A_6HzAk) | Cynet Systems | Ohio | 2026-08-10 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/B0IPiYSaD1E9lUXecvOwvXTPAHhx9ZtjPUwccprQgNU) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/yHKggFxCHZ4ZVNsgsQwhRnJwYes81DewzOxINdmiwJI) | Cynet Systems | Ohio | 2026-08-10 |
+| [Manager, Software Engineering Product Manager](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_099522) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-10 |
+| [Consultant, Agile Leader (Consultant, Scrum Master)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Agile-Leader--Consultant--Scrum-Master-_099578-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-10 |
 <!-- JOBS:END -->
 
 ## How it works
