@@ -56,22 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1822 tracked total · updated `2026-08-10T11:00:46+00:00`
+### 🆕 10 new roles this update · 1831 tracked total · updated `2026-08-10T14:04:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Robert Half | 1 |
-| Honda | 1 |
+| Vertiv | 2 |
+| Belcan | 1 |
+| Nordson | 1 |
+| Cincinnati Children's Hospital | 1 |
+| Park National Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-10 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Qwha12SCb77sUiEf7UHQEMb7vwnt8yWYcMjM6dqrOk4) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/7TRgYCkF47digj2kUU1BaHaKk2fbM6vEyTZp7ubnxNU) | Cynet Systems | Ohio | 2026-08-10 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/afkCv2sCS6cwrhbR3TgAAFOdzhrVVLu7KlYeNTrQWM4) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Z0W1TSRgTWjmms7oXahVSji7aV1XTRLaVwz1Bgj6wQA) | Cynet Systems | Ohio | 2026-08-10 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-10 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/V_NYL0PJykPjKdsR7CgE0kNb5N8VC-E3gZ5Y6j58cM4) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/77u-xvOX22v-VCnmPvPkTpRFhLjzOrtRtLs98b7obEc) | Cynet Systems | Ohio | 2026-08-10 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/p2UntZUavFKaGSRb3c6HnK-ZGehKsLILmZy-94tDLPM) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/21XcKOcofw8Ltx58JmfzYLWRa_gGMYexnELTVhddPWU) | Cynet Systems | Ohio | 2026-08-10 |
+| [Quality Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367087&apply=yes&) | Belcan | Cincinnati, OH | 2026-08-10 |
+| [Technical Writer](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Dayton/Technical-Writer_REQ52294) | Nordson | USA - Ohio - Dayton | 2026-08-10 |
+| [Visiting Research Scientist (Yi Zheng)](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Visiting-Research-Scientist--Yi-Zheng-_JR222357) | Cincinnati Children's Hospital | Burnet Campus | 2026-08-10 |
+| [Software Engineering Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777) | Vertiv | Delaware, OH, United States | 2026-08-10 |
+| [Test Engineering Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024) | Vertiv | Delaware, OH, United States | 2026-08-10 |
+| [Mortgage QA Specialist I](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=413b1b69-edc5-4db7-91a3-ac37d301e9f4) | Park National Bank | Ohio Remote | 2026-08-10 |
 <!-- JOBS:END -->
 
 ## How it works
