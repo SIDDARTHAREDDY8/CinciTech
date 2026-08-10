@@ -56,29 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1831 tracked total · updated `2026-08-10T14:04:12+00:00`
+### 🆕 11 new roles this update · 1841 tracked total · updated `2026-08-10T16:36:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Vertiv | 2 |
-| Belcan | 1 |
-| Nordson | 1 |
-| Cincinnati Children's Hospital | 1 |
-| Park National Bank | 1 |
+| Robert Half | 1 |
+| Motion Recruitment | 1 |
+| Njoyn (CGI) | 1 |
+| CareSource | 1 |
+| KeyBank | 1 |
+| GE Aerospace | 1 |
+| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/V_NYL0PJykPjKdsR7CgE0kNb5N8VC-E3gZ5Y6j58cM4) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/77u-xvOX22v-VCnmPvPkTpRFhLjzOrtRtLs98b7obEc) | Cynet Systems | Ohio | 2026-08-10 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/p2UntZUavFKaGSRb3c6HnK-ZGehKsLILmZy-94tDLPM) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/21XcKOcofw8Ltx58JmfzYLWRa_gGMYexnELTVhddPWU) | Cynet Systems | Ohio | 2026-08-10 |
-| [Quality Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367087&apply=yes&) | Belcan | Cincinnati, OH | 2026-08-10 |
-| [Technical Writer](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Dayton/Technical-Writer_REQ52294) | Nordson | USA - Ohio - Dayton | 2026-08-10 |
-| [Visiting Research Scientist (Yi Zheng)](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Visiting-Research-Scientist--Yi-Zheng-_JR222357) | Cincinnati Children's Hospital | Burnet Campus | 2026-08-10 |
-| [Software Engineering Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777) | Vertiv | Delaware, OH, United States | 2026-08-10 |
-| [Test Engineering Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024) | Vertiv | Delaware, OH, United States | 2026-08-10 |
-| [Mortgage QA Specialist I](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=413b1b69-edc5-4db7-91a3-ac37d301e9f4) | Park National Bank | Ohio Remote | 2026-08-10 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-10 |
+| [Help Desk Analyst/M365/Columbus, OH, LOCAL](https://motionrecruitment.com/tech-jobs/westerville/direct-hire/help-desk-analyst-m365-columbus-oh-local/884650) | Motion Recruitment | Westerville, Ohio | 2026-08-10 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/TiSGQo5mcsL5A98FqEj6K6HBoNo2JaDxjSKeqsvv9r0) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/7dlgjjhiOkXtUwTK7AjwYK6ldEyO9eRG__QPxfyiZ3g) | Cynet Systems | Ohio | 2026-08-10 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Gxr8rz7qYzPjkXWLkb6TDczR8pS6bxVMjDxahiCgFS0) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/LCAYpCZYjfphmXm4kkch1nDH9rh98-brtdNhSjXZ30A) | Cynet Systems | Ohio | 2026-08-10 |
+| [SAFE/ServiceNow Technical Architect](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0619&BRID=1324096&lang=1) | Njoyn (CGI) | Remote, United States | 2026-08-10 |
+| [Enterprise Enablement, Analytics and Toolchain Integration Lead](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Enterprise-Enablement--Analytics-and-Toolchain-Integration-Lead_R13426-1) | CareSource | Remote | 2026-08-10 |
+| [2027 Commercial Credit Analyst Program - Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Commercial-Credit-Analyst-Program---Cleveland_R-41392) | KeyBank | Brooklyn, OH | 2026-08-10 |
+| [Lead Model-Based Systems Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Model-Based-Systems-Engineer_R5038075-1) | GE Aerospace | Evendale | 2026-08-10 |
+| [IT Project Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271302) | Vertiv | Westerville, OH, United States | 2026-08-10 |
 <!-- JOBS:END -->
 
 ## How it works
