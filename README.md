@@ -56,23 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1813 tracked total · updated `2026-08-10T05:16:31+00:00`
+### 🆕 4 new roles this update · 1816 tracked total · updated `2026-08-10T08:23:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 4 |
-| Nationwide | 2 |
-| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-10 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/_t-Li4z5YY9HLxw201fUIHE_ncd-9bn3AiC6RvNI4Bs) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/PU9xx6OwZsXR8xghURWPu7bRdPDIAYS0Nvc0A_6HzAk) | Cynet Systems | Ohio | 2026-08-10 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/B0IPiYSaD1E9lUXecvOwvXTPAHhx9ZtjPUwccprQgNU) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/yHKggFxCHZ4ZVNsgsQwhRnJwYes81DewzOxINdmiwJI) | Cynet Systems | Ohio | 2026-08-10 |
-| [Manager, Software Engineering Product Manager](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_099522) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-10 |
-| [Consultant, Agile Leader (Consultant, Scrum Master)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Agile-Leader--Consultant--Scrum-Master-_099578-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-10 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/KHzHWmmzn_XteMsKMDv6m0RdoKP3Iupa2gc2h0xPOuM) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/H8Wsl8_mNR8tY7a-fkzRhW5pPuIvPRch3mBfDuxfLGA) | Cynet Systems | Ohio | 2026-08-10 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/qfDjPCqz3tVSHiAYuPjMRC-2oRh-pIzu2JUXgJu3asA) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
+| [IVR Technical Lead - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/lFFuGv3kj3A2x3xRVKz9KkF6lWavchj5wgoE13zurN8) | Cynet Systems | Ohio | 2026-08-10 |
 <!-- JOBS:END -->
 
 ## How it works
