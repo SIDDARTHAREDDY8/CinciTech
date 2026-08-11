@@ -56,20 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1887 tracked total · updated `2026-08-11T10:29:02+00:00`
+### 🆕 10 new roles this update · 1896 tracked total · updated `2026-08-11T14:07:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Artech | 2 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Honda | 1 |
+| Branch Insurance | 2 |
+| Mindlance | 1 |
+| Battelle | 1 |
+| Grange Insurance | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-11 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/A1f7f6iAhZA_On_jhc8iRfITgaCugyQO34if34kTWjw) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/e_157V5rtsZ9JlbyWf4lscDHYAR0GJYvluQF79JEzeA) | Cynet Systems | Ohio | 2026-08-11 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-11 |
+| [Business/Systems Analyst - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32831722#/jobs/32831722) | Artech | Remote, TX | 2026-08-11 |
+| [Manufacturing Quality Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32830915#/jobs/32830915) | Artech | Fairfield, OH | 2026-08-11 |
+| [Engineering/Technical - Quality Assurance Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29048563#/jobs/29048563) | Mindlance | Fairfield, OH | 2026-08-11 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/DR-GQZGRXBit0jbsthRLm-PEMNcQB0Ebgt-lyyiKHDY) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/4FLFTMNaVEiFcVDS_udc3hdHI9vqFbeerz_e51lwibY) | Cynet Systems | Ohio | 2026-08-11 |
+| [Enterprise Engineer](https://job-boards.greenhouse.io/branch/jobs/7853999003) | Branch Insurance | Remote, US | 2026-08-11 |
+| [Senior Enterprise Engineer](https://job-boards.greenhouse.io/branch/jobs/7854037003) | Branch Insurance | Remote, US | 2026-08-11 |
+| [Senior Software Engineer, RF Spectrum Solutions](https://jobs.battelle.org/us/en/job/76440) | Battelle | Columbus, OH | 2026-08-11 |
+| [Commercial Lines Quality Assurance Senior Specialist (hybrid/remote)](https://recruiting.ultipro.com/GRA1009GMC/JobBoard/59c4f4ab-af79-401b-8093-07af99fb34ac/OpportunityDetail?opportunityId=52515934-2c42-489a-abbb-ff70e5e2f14d) | Grange Insurance | Columbus, OH | 2026-08-11 |
+| [Experienced Data Analyst (AI & BI)](https://uscareers-medpace.icims.com/jobs/12927/login) | Medpace | Cincinnati, Ohio | 2026-08-11 |
 <!-- JOBS:END -->
 
 ## How it works
