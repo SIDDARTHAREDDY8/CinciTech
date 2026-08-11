@@ -56,37 +56,33 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1909 tracked total · updated `2026-08-11T16:43:16+00:00`
+### 🆕 12 new roles this update · 1920 tracked total · updated `2026-08-11T19:44:40+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
 | Cynet Systems | 2 |
-| Fifth Third Bank | 2 |
-| Cintas | 2 |
-| Robert Half | 1 |
-| Vaco | 1 |
-| Net2Source | 1 |
+| Gina's Tech Jobs | 2 |
+| Next Step Systems | 2 |
+| Honda | 2 |
+| Artech | 1 |
+| AtriCure | 1 |
 | American Electric Power | 1 |
-| Sherwin-Williams | 1 |
-| Battelle | 1 |
+| Huntington Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-11 |
-| [Help Desk Analyst](https://jobs.vaco.com/job/19655/help_desk_analyst/en) | Vaco | Cleveland, Ohio | 2026-08-11 |
-| [Primary L3 SAP technology architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32832435#/jobs/32832435) | Artech | Remote, NY | 2026-08-11 |
-| [Information Technology - SAP Security Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32819498#/jobs/32819498) | Artech | Remote, CA | 2026-08-11 |
-| [Sr. Software Engineer Sr. Software Engineer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29044861#/jobs/29044861) | Net2Source | Columbus, OH | 2026-08-11 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/TYiLl7mfXaPp49utWaWQB455K3gdCsf_oXohrhxfNGU) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/w7eljT1JwIUb3f8RLjHpGrgi5p5-PEu4dQc6p3-IZa8) | Cynet Systems | Ohio | 2026-08-11 |
-| [Credit Analyst II - Healthcare/G&I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Credit-Analyst-II---Healthcare-G-I_R71594) | Fifth Third Bank | Virtual | 2026-08-11 |
-| [Lead Data Governance Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Fifth-Third-Center-Cincinnati/Lead-Data-Governance-Analyst_R71415) | Fifth Third Bank | Fifth Third Center Cincinnati | 2026-08-11 |
-| [Regulated Infrastructure Development Manager \| NEW GENERATION RESOURCE DEVELOPMENT](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Regulated-Infrastructure-Development-Manager---NEW-GENERATION-RESOURCE-DEVELOPMENT_R17820) | American Electric Power | Columbus, OH | 2026-08-11 |
-| [Data Solutions Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620304) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-11 |
-| [Senior Test Engineer, Autonomous UAS Systems](https://jobs.battelle.org/us/en/job/76441) | Battelle | Beavercreek, OH | 2026-08-11 |
-| [Software Engineer - Level 1 - Emerging Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-1-Emerging-Technology-OH-45040/1418196400/) | Cintas | OH | 2026-08-11 |
-| [SAP Developer - Level 3 - BW](https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-BW-OH-45040/1418198400/) | Cintas | OH | 2026-08-11 |
+| [Sr. Developer- Informatica PowerCenter](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32835204#/jobs/32835204) | Artech | Remote, IL | 2026-08-11 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Xk6JF8GM3F3R9PNwArxxYAt_s7aiceNHTDR9w6WUMU4) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/hzOdiepmb1twfe4zdtMbBFVfkupOvAtwcQVo1d-0eDM) | Cynet Systems | Ohio | 2026-08-11 |
+| [Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/product-owner-of-ai-internal-systems-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-08-11 |
+| [LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/llm-application-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-08-11 |
+| [Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/product-owner-of-ai-internal-systems-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-08-11 |
+| [LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/llm-application-engineer-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-08-11 |
+| [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/atricure/jobs/4362218009) | AtriCure | Mason, OH | 2026-08-11 |
+| [Solutions Architect Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Solutions-Architect-Principal_R17595) | American Electric Power | Gahanna, OH | 2026-08-11 |
+| [Enterprise Payments Solution Architect](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Enterprise-Payments-Solution-Architect_R0074362) | Huntington Bank | Columbus, OH | 2026-08-11 |
+| [Business Systems Principal Administrator - IT Liaison](https://careers.honda.com/us/en/job/12016) | Honda | Marysville, Ohio, United States | 2026-08-11 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-11 |
 <!-- JOBS:END -->
 
 ## How it works
