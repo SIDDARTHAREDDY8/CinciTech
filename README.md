@@ -56,18 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1882 tracked total · updated `2026-08-11T05:03:28+00:00`
+### 🆕 3 new roles this update · 1883 tracked total · updated `2026-08-11T07:55:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-11 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/1Pnqj7kROwyrtuWlzJaGvr2N0MsaVueacSLlZd1_Ifw) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/OXsxgMh4DfjubT6nMOxhLTXkBFO1NGjszcM2wOC9lOI) | Cynet Systems | Ohio | 2026-08-11 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Sli7rsddhZ4h9HtLy7UjlEOzsLHxImVoCIeGXmRUdNo) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/KvLc-ViejR2QBulPGnd3hPxRStamzW66hzl0j4a_Iuw) | Cynet Systems | Ohio | 2026-08-11 |
+| [Consultant, Data Product Owner (ESS Programs & E-Risk)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus/Consultant--Data-Product-Owner--ESS-Programs---E-Risk-_099520-1) | Nationwide | Ohio - Columbus | 2026-08-11 |
 <!-- JOBS:END -->
 
 ## How it works
