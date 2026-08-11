@@ -56,41 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 1880 tracked total · updated `2026-08-10T22:23:35+00:00`
+### 🆕 3 new roles this update · 1879 tracked total · updated `2026-08-11T02:53:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Insight Global | 3 |
-| Cynet Systems | 3 |
-| Motion Recruitment | 2 |
-| Mindlance | 2 |
-| Robert Half | 1 |
-| Artech | 1 |
-| Fifth Third Bank | 1 |
-| Huntington Bank | 1 |
-| OhioHealth | 1 |
-| Honda | 1 |
-| Honeywell | 1 |
+| Cynet Systems | 2 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SR Infrastructure Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/sr-infrastructure-engineer/job-562520/) | Insight Global | Columbus, OH | 2026-08-10 |
-| [Senior Java Data (CosmosDB) Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/miamisburg/senior-java-data-cosmosdb-developer/job-561108/) | Insight Global | Miamisburg, OH | 2026-08-10 |
-| [Data Analyst- Inventory Transformation](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cincinnati/data-analyst-inventory-transformation/job-562572/) | Insight Global | Cincinnati, OH | 2026-08-10 |
-| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-10 |
-| [Project Manager -Cybersecurity](https://motionrecruitment.com/tech-jobs/columbus/contract/project-manager-cybersecurity/884488) | Motion Recruitment | Columbus, Ohio | 2026-08-10 |
-| [Help Desk/M365/Columbus, OH, LOCAL](https://motionrecruitment.com/tech-jobs/westerville/direct-hire/help-desk-m365-columbus-oh-local/884650) | Motion Recruitment | Westerville, Ohio | 2026-08-10 |
-| [Java Full Stack developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32828428#/jobs/32828428) | Artech | Cincinnati, OH | 2026-08-10 |
-| [IT Security and Vulnerability Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29047644#/jobs/29047644) | Mindlance | Remote, AR | 2026-08-10 |
-| [Security and GRC Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29046080#/jobs/29046080) | Mindlance | Remote, VA | 2026-08-10 |
-| [Enterprise MDM Architect](https://candidateportal.ceipal.com/job-details/vKRGUQuqrKgeWimdBFtUK7DZzjuZw-xC4rHtjAYVnOU) | Cynet Systems | Ohio | 2026-08-10 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Tuzm6qMXXo8I-n7jOk0KzH6AWAYkPpCNXirZND-c03E) | Cynet Systems | Michigan, Ohio | 2026-08-10 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/2YnSVsY3KYgdRkEZ6r2IA2JkxzqnxmlEZx0aF4sG9YI) | Cynet Systems | Ohio | 2026-08-10 |
-| [Associate Director - Software Engineering](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Director---Software-Engineering_R71106-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-10 |
-| [Business Systems Analyst Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Lead_R0074490) | Huntington Bank | Columbus, OH | 2026-08-10 |
-| [Software Engineer](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Software-Engineer_JR156127-1) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-10 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-10 |
-| [Principal Systems Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155114) | Honeywell | Columbus, OH, United States | 2026-08-10 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Ntr4EvOx5u49y3hcIKjm-SvfWxir4ZPcvw76XE8Apsg) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/0U1-3XbvcnIO2-BhOas-LcMxQ-vpYisiBOHFEpeaDAM) | Cynet Systems | Ohio | 2026-08-11 |
+| [Tier 2 Help Desk Specialist - Part-Time (Weekend Night Shift)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0527&BRID=1324213&lang=1) | Njoyn (CGI) | Remote, United States | 2026-08-11 |
 <!-- JOBS:END -->
 
 ## How it works
