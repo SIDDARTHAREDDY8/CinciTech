@@ -56,33 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1920 tracked total · updated `2026-08-11T19:44:40+00:00`
+### 🆕 4 new roles this update · 1923 tracked total · updated `2026-08-11T22:38:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Gina's Tech Jobs | 2 |
-| Next Step Systems | 2 |
-| Honda | 2 |
-| Artech | 1 |
-| AtriCure | 1 |
-| American Electric Power | 1 |
-| Huntington Bank | 1 |
+| Dayton Children's Hospital | 1 |
+| Lubrizol | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr. Developer- Informatica PowerCenter](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32835204#/jobs/32835204) | Artech | Remote, IL | 2026-08-11 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Xk6JF8GM3F3R9PNwArxxYAt_s7aiceNHTDR9w6WUMU4) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/hzOdiepmb1twfe4zdtMbBFVfkupOvAtwcQVo1d-0eDM) | Cynet Systems | Ohio | 2026-08-11 |
-| [Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/product-owner-of-ai-internal-systems-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-08-11 |
-| [LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/llm-application-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-08-11 |
-| [Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/product-owner-of-ai-internal-systems-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-08-11 |
-| [LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/llm-application-engineer-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-08-11 |
-| [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/atricure/jobs/4362218009) | AtriCure | Mason, OH | 2026-08-11 |
-| [Solutions Architect Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Solutions-Architect-Principal_R17595) | American Electric Power | Gahanna, OH | 2026-08-11 |
-| [Enterprise Payments Solution Architect](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Enterprise-Payments-Solution-Architect_R0074362) | Huntington Bank | Columbus, OH | 2026-08-11 |
-| [Business Systems Principal Administrator - IT Liaison](https://careers.honda.com/us/en/job/12016) | Honda | Marysville, Ohio, United States | 2026-08-11 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-11 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/G_v70Ftmpo3e40i-qBz-1ayvwvRAKmh-e8w2WZnazKs) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/eCavl5QyLMGDnsoZ-wYcGH2UnNEbMF04F-K4WDSrmcE) | Cynet Systems | Ohio | 2026-08-11 |
+| [Revenue Cycle Systems Administrator](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Revenue-Cycle-Systems-Administrator_R24090) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-08-11 |
+| [Data Governance Specialist](https://jobs.lubrizol.com/job/Wickliffe-Data-Governance-Specialist-OH-44092-2298/1418450500/) | Lubrizol | OH | 2026-08-11 |
 <!-- JOBS:END -->
 
 ## How it works
