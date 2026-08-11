@@ -56,18 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1879 tracked total · updated `2026-08-11T02:53:12+00:00`
+### 🆕 3 new roles this update · 1882 tracked total · updated `2026-08-11T05:03:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Njoyn (CGI) | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/Ntr4EvOx5u49y3hcIKjm-SvfWxir4ZPcvw76XE8Apsg) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/0U1-3XbvcnIO2-BhOas-LcMxQ-vpYisiBOHFEpeaDAM) | Cynet Systems | Ohio | 2026-08-11 |
-| [Tier 2 Help Desk Specialist - Part-Time (Weekend Night Shift)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0527&BRID=1324213&lang=1) | Njoyn (CGI) | Remote, United States | 2026-08-11 |
+| [Sap Master Data Resource](https://www.roberthalf.com/us/en/job/new-york-ny/sap-master-data-resource/02940-0013474005-usen) | Robert Half | Cincinnati, 02940 | 2026-08-11 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/1Pnqj7kROwyrtuWlzJaGvr2N0MsaVueacSLlZd1_Ifw) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/OXsxgMh4DfjubT6nMOxhLTXkBFO1NGjszcM2wOC9lOI) | Cynet Systems | Ohio | 2026-08-11 |
 <!-- JOBS:END -->
 
 ## How it works
