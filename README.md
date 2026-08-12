@@ -56,31 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1954 tracked total · updated `2026-08-12T16:30:23+00:00`
+### 🆕 5 new roles this update · 1959 tracked total · updated `2026-08-12T19:42:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 2 |
-| CareSource | 2 |
-| Motion Recruitment | 1 |
-| Artech | 1 |
-| First Solar | 1 |
-| Fifth Third Bank | 1 |
-| Worldpay | 1 |
-| Safelite | 1 |
+| Mindlance | 1 |
+| Nesco Resource | 1 |
+| American Electric Power | 1 |
+| Honda | 1 |
+| CrossCountry Mortgage | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lead Info Sec - IAM Tools Engineer - Columbus, OH](https://motionrecruitment.com/tech-jobs/columbus/contract/lead-info-sec-iam-tools-engineer-columbus-oh/884917) | Motion Recruitment | Columbus, Ohio | 2026-08-12 |
-| [L3 Database and Application architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32839567#/jobs/32839567) | Artech | Remote, NY | 2026-08-12 |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/my6AmauukRI0YJKELILBBOmH-xOLaf9oJGpF6HDtCmo) | Cynet Systems | Michigan, Ohio | 2026-08-12 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/WuRr27bDWu2AV_8hgkKC3h_kvBB3kn0qNhpDIXu7Thc) | Cynet Systems | Ohio | 2026-08-12 |
-| [Architect III - Cloud, DevOps, and SRE](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Architect-III---Cloud--DevOps--and-SRE_R13442-1) | CareSource | Remote | 2026-08-12 |
-| [Business Systems Analyst II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Business-Systems-Analyst-II_R13408-1) | CareSource | Remote | 2026-08-12 |
-| [Manager I- IT USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025533) | First Solar | Perrysburg, OH, United States | 2026-08-12 |
-| [Senior Data Governance Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Governance-Analyst_R71584) | Fifth Third Bank | Cincinnati, OH | 2026-08-12 |
-| [Senior Full Stack Java Software Developer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-Full-Stack-Java-Software-Developer_JR0611210) | Worldpay | CINCINNATI, OHIO | 2026-08-12 |
-| [Lead IT Infrastructure Engineer](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Lead-IT-Infrastructure-Engineer_JR73640) | Safelite | COLUMBUS, OH | 2026-08-12 |
+| [Technical and Craft Labor - QA Technician](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29059019#/jobs/29059019) | Mindlance | Oakwood Village, OH | 2026-08-12 |
+| [Operational Analyst/Tester - (Banking)](https://www.nescoresource.com/job-details/operational-analysttester-banking-in-information-technology-jobs-1678744) | Nesco Resource | Brooklyn, OH | 2026-08-12 |
+| [IT Support Engineer Sr.](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/IT-Support-Engineer-Sr_R17983) | American Electric Power | Columbus, OH | 2026-08-12 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-12 |
+| [Full Stack Engineer](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Full-Stack-Engineer_JR03487) | CrossCountry Mortgage | Remote USA | 2026-08-12 |
 <!-- JOBS:END -->
 
 ## How it works
