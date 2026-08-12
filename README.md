@@ -56,18 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1933 tracked total · updated `2026-08-12T08:18:29+00:00`
+### 🆕 2 new roles this update · 1934 tracked total · updated `2026-08-12T10:43:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/p3NfBylicwMQMqy6vWL5gWL9ftozYZdzoQnEMOzwxXQ) | Cynet Systems | Michigan, Ohio | 2026-08-12 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/FeidEngg_x4nr-Tr-aJu8HkUX1v5HYUF1wuXBwSD2ls) | Cynet Systems | Ohio | 2026-08-12 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-12 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/PSVJfXoaRHWFBwjttfxuCOHbOYToEZFRvpPfLjqMFn0) | Cynet Systems | Michigan, Ohio | 2026-08-12 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/aE4NAWJF1aDVcnhFkVui-boGpd9-6bYeJAsDoDQ8iNE) | Cynet Systems | Ohio | 2026-08-12 |
 <!-- JOBS:END -->
 
 ## How it works
