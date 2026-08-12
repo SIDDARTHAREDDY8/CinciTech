@@ -56,20 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1923 tracked total · updated `2026-08-11T22:38:02+00:00`
+### 🆕 4 new roles this update · 1925 tracked total · updated `2026-08-12T03:10:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Dayton Children's Hospital | 1 |
-| Lubrizol | 1 |
+| Cleveland-Cliffs | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/G_v70Ftmpo3e40i-qBz-1ayvwvRAKmh-e8w2WZnazKs) | Cynet Systems | Michigan, Ohio | 2026-08-11 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/eCavl5QyLMGDnsoZ-wYcGH2UnNEbMF04F-K4WDSrmcE) | Cynet Systems | Ohio | 2026-08-11 |
-| [Revenue Cycle Systems Administrator](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Revenue-Cycle-Systems-Administrator_R24090) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-08-11 |
-| [Data Governance Specialist](https://jobs.lubrizol.com/job/Wickliffe-Data-Governance-Specialist-OH-44092-2298/1418450500/) | Lubrizol | OH | 2026-08-11 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/h3vHq-F--WtNp2TB7j49rdjhhtRx85YhDM1vC-R8SBE) | Cynet Systems | Michigan, Ohio | 2026-08-12 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/YRu6C-aNkVdbgVACF3ehAwqm_N-Q2Hu8Wt8LrM6li7M) | Cynet Systems | Ohio | 2026-08-12 |
+| [Senior Quality Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Senior-Quality-Engineer_R13227) | Cleveland-Cliffs | Cleveland Works | 2026-08-12 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-12 |
 <!-- JOBS:END -->
 
 ## How it works
