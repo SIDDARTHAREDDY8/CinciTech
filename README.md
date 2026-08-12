@@ -56,20 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1925 tracked total · updated `2026-08-12T03:10:39+00:00`
+### 🆕 6 new roles this update · 1930 tracked total · updated `2026-08-12T05:27:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| GE Aerospace | 3 |
 | Cynet Systems | 2 |
-| Cleveland-Cliffs | 1 |
-| Honda | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/h3vHq-F--WtNp2TB7j49rdjhhtRx85YhDM1vC-R8SBE) | Cynet Systems | Michigan, Ohio | 2026-08-12 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/YRu6C-aNkVdbgVACF3ehAwqm_N-Q2Hu8Wt8LrM6li7M) | Cynet Systems | Ohio | 2026-08-12 |
-| [Senior Quality Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Senior-Quality-Engineer_R13227) | Cleveland-Cliffs | Cleveland Works | 2026-08-12 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-12 |
+| [SAP Vendor Master Data Consultant](https://candidateportal.ceipal.com/job-details/yIlDY4fnHJbyu26IyRQvyRpw08nsk4H68xaLB706_GI) | Cynet Systems | Michigan, Ohio | 2026-08-12 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/8yC5hmnXQB0GEfCq2Iu753AFUL3i9xJbX-S_u9-SNrk) | Cynet Systems | Ohio | 2026-08-12 |
+| [Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Software-Engineer_R5038544-1) | GE Aerospace | Remote | 2026-08-12 |
+| [Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Software-Engineer_R5038542-1) | GE Aerospace | Remote | 2026-08-12 |
+| [Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Software-Engineer_R5038541-1) | GE Aerospace | Remote | 2026-08-12 |
+| [Senior Cloud Engineer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Cloud-Engineer_2133595) | Fidelity Investments | Covington, KY | 2026-08-12 |
 <!-- JOBS:END -->
 
 ## How it works
