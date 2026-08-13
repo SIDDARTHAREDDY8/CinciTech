@@ -56,18 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1966 tracked total · updated `2026-08-13T03:15:46+00:00`
+### 🆕 8 new roles this update · 1973 tracked total · updated `2026-08-13T05:44:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 2 |
-| Motion Recruitment | 1 |
+| Nationwide | 5 |
+| Cardinal Health | 2 |
+| TEKsystems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Quality Assurance Engineer III](https://motionrecruitment.com/tech-jobs/fairfield/contract/quality-assurance-engineer-iii/884829) | Motion Recruitment | Fairfield, Ohio | 2026-08-13 |
-| [Information Technology/Data Analytics Co-op/Intern - Summer 2027](https://careers.honda.com/us/en/job/11000) | Honda | Marysville, Ohio, United States | 2026-08-13 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-13 |
+| [Network Engineer V](https://careers.teksystems.com/us/en/job/JP-006217176/Network-Engineer-V) | TEKsystems | New Albany, Ohio | 2026-08-13 |
+| [Sr Engineer, Software Engineer - Java](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Java_099617-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-13 |
+| [Consultant, Cybersecurity (Agentic Solutions Engineer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Cybersecurity--Agentic-Solutions-Engineer-_099562) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-13 |
+| [Consultant, Cybersecurity (Data Engineer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Cybersecurity--Data-Engineer-_099565) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-13 |
+| [Specialist, Cybersecurity (Agentic Solutions Engineer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Cybersecurity--Agentic-Solutions-Engineer-_099563) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-13 |
+| [Specialist, Cybersecurity (Full Stack)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Cybersecurity--Full-Stack-_099566-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-13 |
+| [Senior Engineer - Software/Info Platform - SAP BTP](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Engineer---Software-Info-Platform---SAP-BTP-Admin_20185399) | Cardinal Health | OH-Ohio-Work from Home | 2026-08-13 |
+| [Sr. Engineer, SAP Basis / HANA](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Sr-Engineer--SAP-Basis---HANA_20184874) | Cardinal Health | OH-Ohio-Work from Home | 2026-08-13 |
 <!-- JOBS:END -->
 
 ## How it works
