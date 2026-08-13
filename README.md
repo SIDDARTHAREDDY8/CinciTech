@@ -56,27 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1994 tracked total · updated `2026-08-13T19:43:07+00:00`
+### 🆕 6 new roles this update · 1999 tracked total · updated `2026-08-13T22:21:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Mindlance | 1 |
-| Vernovis | 1 |
-| Njoyn (CGI) | 1 |
-| Sherwin-Williams | 1 |
-| FirstEnergy | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
+| CareSource | 1 |
+| Root Insurance | 1 |
+| Worldpay | 1 |
+| Nationwide Children's Hospital | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [.Net Developer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29064760#/jobs/29064760) | Mindlance | Akron, OH | 2026-08-13 |
-| [Database Administrator IV](https://vernovis.com/blog/jobs/12091/) | Vernovis | Cincinnati, | 2026-08-13 |
-| [Help Desk Lead (2pm - 12am Tuesday & Wednesday, 6pm - 6am Saturday & Sunday)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0850&BRID=1325616&lang=1) | Njoyn (CGI) | Remote, United States | 2026-08-13 |
-| [Senior Infrastructure DevOps Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620803) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-13 |
-| [Supervisor Data Engineering](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/103673) | FirstEnergy | Akron, OH, United States | 2026-08-13 |
-| [Pricing Automation & AI Enablement Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279541) | Vertiv | Westerville, OH, United States | 2026-08-13 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-13 |
+| [Cyber Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29068101#/jobs/29068101) | Mindlance | Remote, MD | 2026-08-13 |
+| [Facets Developer II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Dayton-WFH/Facets-Developer-II_R13471) | CareSource | Dayton WFH | 2026-08-13 |
+| [Senior Security Engineer](https://ats.rippling.com/joinroot/jobs/bd4002aa-91a5-4338-87f9-9816dd00e999) | Root Insurance | Remote (United States) | 2026-08-13 |
+| [Senior Software Engineer - Java/Sporing boot Engineer (Monolith Systems Development and Modernization)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Senior-Software-Engineer---Java-Sporing-boot-Engineer--Monolith-Systems-Development-and-Modernization-_JR0610663) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-08-13 |
+| [Post Doctoral Scientist - Cancer/Epigenetics/Bioinformatics/Nucleic Acid Metabolism](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Post-Doctoral-Scientist---Cancer-Epigenetics-Bioinformatics-Nucleic-Acid-Metabolism_R-22978) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-08-13 |
+| [AI Engineer](https://uscareers-medpace.icims.com/jobs/12103/login) | Medpace | Cincinnati, Ohio | 2026-08-13 |
 <!-- JOBS:END -->
 
 ## How it works
