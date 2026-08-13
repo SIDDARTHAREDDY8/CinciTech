@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1975 tracked total · updated `2026-08-13T08:18:06+00:00`
+### 🆕 1 new roles this update · 1975 tracked total · updated `2026-08-13T10:50:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
-| Honda | 1 |
+| Alldus | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT Project Coordinator](https://careers.teksystems.com/us/en/job/JP-006218456/IT-Project-Coordinator) | TEKsystems | Cleveland, Ohio | 2026-08-13 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-13 |
+| [Director Of Software Engineering Ohio](https://alldus.com/job/58776-director-of-software-engineering-ohio/) | Alldus | Ohio | 2026-08-13 |
 <!-- JOBS:END -->
 
 ## How it works
