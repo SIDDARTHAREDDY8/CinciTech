@@ -56,15 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1975 tracked total · updated `2026-08-13T10:50:49+00:00`
+### 🆕 4 new roles this update · 1979 tracked total · updated `2026-08-13T14:04:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Alldus | 1 |
+| Agility Connect | 2 |
+| Artech | 1 |
+| Belcan | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Director Of Software Engineering Ohio](https://alldus.com/job/58776-director-of-software-engineering-ohio/) | Alldus | Ohio | 2026-08-13 |
+| [Security Engineer – Data Access & Identity](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32845589#/jobs/32845589) | Artech | Remote | 2026-08-13 |
+| [QA Test Lead](https://agilityconnect.io/jobs/8342) | Agility Connect | Columbus, OH | 2026-08-13 |
+| [SDET](https://agilityconnect.io/jobs/8339) | Agility Connect | Columbus, Ohio | 2026-08-13 |
+| [(Remote)Technical Writer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367203&apply=yes&) | Belcan | Remote, RE | 2026-08-13 |
 <!-- JOBS:END -->
 
 ## How it works
