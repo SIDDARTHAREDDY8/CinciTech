@@ -56,20 +56,28 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1979 tracked total · updated `2026-08-13T14:04:46+00:00`
+### 🆕 8 new roles this update · 1987 tracked total · updated `2026-08-13T16:37:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 2 |
+| Medpace | 2 |
+| Strategic Staffing Solutions | 1 |
 | Artech | 1 |
-| Belcan | 1 |
+| 84.51° | 1 |
+| Fifth Third Bank | 1 |
+| FirstEnergy | 1 |
+| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Engineer – Data Access & Identity](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32845589#/jobs/32845589) | Artech | Remote | 2026-08-13 |
-| [QA Test Lead](https://agilityconnect.io/jobs/8342) | Agility Connect | Columbus, OH | 2026-08-13 |
-| [SDET](https://agilityconnect.io/jobs/8339) | Agility Connect | Columbus, Ohio | 2026-08-13 |
-| [(Remote)Technical Writer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367203&apply=yes&) | Belcan | Remote, RE | 2026-08-13 |
+| [Software Engineer Sitecore Asap 31 12 2026](https://jobs.strategicstaff.com/jobs/software-engineer-sitecore-asap-31-12-2026-170507/) | Strategic Staffing Solutions | Copenhagen, Hybrid | 2026-08-13 |
+| [Information Technology - Application Development - Dynamics/D365 Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32846036#/jobs/32846036) | Artech | Remote, NJ | 2026-08-13 |
+| [Senior Data Engineer (P1129)](https://job-boards.greenhouse.io/8451/jobs/8701149002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-08-13 |
+| [Finance IT - Lead Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Finance-IT---Lead-Software-Engineer_R71306-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-13 |
+| [Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104946) | FirstEnergy | Akron, OH, United States | 2026-08-13 |
+| [Senior Manager, Software Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55558&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-13 |
+| [Analytics Engineer](https://uscareers-medpace.icims.com/jobs/12932/login) | Medpace | Cincinnati, Ohio | 2026-08-13 |
+| [Experienced Analytics Engineer](https://uscareers-medpace.icims.com/jobs/12931/login) | Medpace | Cincinnati, Ohio | 2026-08-13 |
 <!-- JOBS:END -->
 
 ## How it works
