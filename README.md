@@ -56,28 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1987 tracked total · updated `2026-08-13T16:37:02+00:00`
+### 🆕 7 new roles this update · 1994 tracked total · updated `2026-08-13T19:43:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 2 |
-| Strategic Staffing Solutions | 1 |
-| Artech | 1 |
-| 84.51° | 1 |
-| Fifth Third Bank | 1 |
+| Mindlance | 1 |
+| Vernovis | 1 |
+| Njoyn (CGI) | 1 |
+| Sherwin-Williams | 1 |
 | FirstEnergy | 1 |
-| STERIS | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer Sitecore Asap 31 12 2026](https://jobs.strategicstaff.com/jobs/software-engineer-sitecore-asap-31-12-2026-170507/) | Strategic Staffing Solutions | Copenhagen, Hybrid | 2026-08-13 |
-| [Information Technology - Application Development - Dynamics/D365 Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32846036#/jobs/32846036) | Artech | Remote, NJ | 2026-08-13 |
-| [Senior Data Engineer (P1129)](https://job-boards.greenhouse.io/8451/jobs/8701149002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-08-13 |
-| [Finance IT - Lead Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Finance-IT---Lead-Software-Engineer_R71306-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-13 |
-| [Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104946) | FirstEnergy | Akron, OH, United States | 2026-08-13 |
-| [Senior Manager, Software Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55558&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-13 |
-| [Analytics Engineer](https://uscareers-medpace.icims.com/jobs/12932/login) | Medpace | Cincinnati, Ohio | 2026-08-13 |
-| [Experienced Analytics Engineer](https://uscareers-medpace.icims.com/jobs/12931/login) | Medpace | Cincinnati, Ohio | 2026-08-13 |
+| [.Net Developer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29064760#/jobs/29064760) | Mindlance | Akron, OH | 2026-08-13 |
+| [Database Administrator IV](https://vernovis.com/blog/jobs/12091/) | Vernovis | Cincinnati, | 2026-08-13 |
+| [Help Desk Lead (2pm - 12am Tuesday & Wednesday, 6pm - 6am Saturday & Sunday)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0850&BRID=1325616&lang=1) | Njoyn (CGI) | Remote, United States | 2026-08-13 |
+| [Senior Infrastructure DevOps Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620803) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-13 |
+| [Supervisor Data Engineering](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/103673) | FirstEnergy | Akron, OH, United States | 2026-08-13 |
+| [Pricing Automation & AI Enablement Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279541) | Vertiv | Westerville, OH, United States | 2026-08-13 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-13 |
 <!-- JOBS:END -->
 
 ## How it works
