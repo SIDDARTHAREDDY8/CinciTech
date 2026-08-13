@@ -56,26 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1965 tracked total · updated `2026-08-12T22:18:56+00:00`
+### 🆕 3 new roles this update · 1966 tracked total · updated `2026-08-13T03:15:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Huntington Bank | 2 |
-| Apex Systems | 1 |
+| Honda | 2 |
 | Motion Recruitment | 1 |
-| Safelite | 1 |
-| Vertiv | 1 |
-| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [.NET Developer](https://www.apexsystems.com/job/3046178_usa/net-developer) | Apex Systems | Brooklyn, OH | 2026-08-12 |
-| [Information Security Engineer 4](https://motionrecruitment.com/tech-jobs/columbus/contract/information-security-engineer-4/884847) | Motion Recruitment | Columbus, Ohio | 2026-08-12 |
-| [Senior Product Analyst, Agentic AI](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/US---REMOTE/Senior-Product-Analyst--Agentic-AI_JR73654) | Safelite | US - REMOTE | 2026-08-12 |
-| [Payment Tech - Business System Analyst - Sr](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Payment-Tech---Business-System-Analyst---Sr_R0074685) | Huntington Bank | Columbus, OH | 2026-08-12 |
-| [Payments Tech - QA Testing Analyst - Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Payments-Tech---QA-Testing-Analyst---Senior_R0074689) | Huntington Bank | Columbus, OH | 2026-08-12 |
-| [IT Systems Product Management Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | Vertiv | Westerville, OH, United States | 2026-08-12 |
-| [Project Manager, Enterprise Culture & Programs](https://jobs.battelle.org/us/en/job/76445) | Battelle | Columbus, OH | 2026-08-12 |
+| [Quality Assurance Engineer III](https://motionrecruitment.com/tech-jobs/fairfield/contract/quality-assurance-engineer-iii/884829) | Motion Recruitment | Fairfield, Ohio | 2026-08-13 |
+| [Information Technology/Data Analytics Co-op/Intern - Summer 2027](https://careers.honda.com/us/en/job/11000) | Honda | Marysville, Ohio, United States | 2026-08-13 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-13 |
 <!-- JOBS:END -->
 
 ## How it works
