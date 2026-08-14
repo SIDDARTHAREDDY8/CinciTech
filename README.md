@@ -56,25 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1999 tracked total · updated `2026-08-13T22:21:32+00:00`
+### 🆕 1 new roles this update · 1996 tracked total · updated `2026-08-14T03:05:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 1 |
-| CareSource | 1 |
-| Root Insurance | 1 |
-| Worldpay | 1 |
-| Nationwide Children's Hospital | 1 |
-| Medpace | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Cyber Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29068101#/jobs/29068101) | Mindlance | Remote, MD | 2026-08-13 |
-| [Facets Developer II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Dayton-WFH/Facets-Developer-II_R13471) | CareSource | Dayton WFH | 2026-08-13 |
-| [Senior Security Engineer](https://ats.rippling.com/joinroot/jobs/bd4002aa-91a5-4338-87f9-9816dd00e999) | Root Insurance | Remote (United States) | 2026-08-13 |
-| [Senior Software Engineer - Java/Sporing boot Engineer (Monolith Systems Development and Modernization)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Senior-Software-Engineer---Java-Sporing-boot-Engineer--Monolith-Systems-Development-and-Modernization-_JR0610663) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-08-13 |
-| [Post Doctoral Scientist - Cancer/Epigenetics/Bioinformatics/Nucleic Acid Metabolism](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Post-Doctoral-Scientist---Cancer-Epigenetics-Bioinformatics-Nucleic-Acid-Metabolism_R-22978) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-08-13 |
-| [AI Engineer](https://uscareers-medpace.icims.com/jobs/12103/login) | Medpace | Cincinnati, Ohio | 2026-08-13 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-14 |
 <!-- JOBS:END -->
 
 ## How it works
