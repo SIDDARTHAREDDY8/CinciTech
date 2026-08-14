@@ -56,23 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 2003 tracked total · updated `2026-08-14T16:28:36+00:00`
+### 🆕 8 new roles this update · 2011 tracked total · updated `2026-08-14T19:34:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 1 |
+| Artech | 3 |
+| Root Insurance | 2 |
+| Fifth Third Bank | 2 |
 | Mindlance | 1 |
-| Forge Biologics | 1 |
-| KeyBank | 1 |
-| St. Elizabeth Healthcare | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [.Net Developer](https://www.apexsystems.com/job/3046421_usa/net-developer) | Apex Systems | Brooklyn, OH | 2026-08-14 |
-| [Product Owner II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29071732#/jobs/29071732) | Mindlance | Remote, NY | 2026-08-14 |
-| [Specialist I, QA Operations](https://boards.greenhouse.io/forgebiologics/jobs/6126557004?gh_jid=6126557004) | Forge Biologics | Columbus, Ohio | 2026-08-14 |
-| [Quality Assurance Lead Analyst - Controllership](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quality-Assurance-Lead-Analyst---Controllership_R-41507) | KeyBank | Brooklyn, OH | 2026-08-14 |
-| [Business Intelligence Analyst](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Business-Intelligence-Analyst_JR311583) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-08-14 |
+| [Agentic AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32855659#/jobs/32855659) | Artech | Columbus, OH | 2026-08-14 |
+| [Android Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32854980#/jobs/32854980) | Artech | Columbus, OH | 2026-08-14 |
+| [Information Technology - Workplace Technology Engineer / Product Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32849680#/jobs/32849680) | Artech | Dallas or Montvale hybrid candidates will be preferred, NJ | 2026-08-14 |
+| [.Net Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29072178#/jobs/29072178) | Mindlance | Brooklyn, OH | 2026-08-14 |
+| [Senior Software Engineer](https://ats.rippling.com/joinroot/jobs/16e21c54-9da6-4ab6-875d-979f02d668dc) | Root Insurance | Remote (United States) | 2026-08-14 |
+| [Staff Software Engineer](https://ats.rippling.com/joinroot/jobs/913143f4-df5f-45e7-8ee8-652d907807b8) | Root Insurance | Remote (United States) | 2026-08-14 |
+| [Lead Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Platform-Engineer_R71410-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-14 |
+| [Lead Product Manager, Developer Experience](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Product-Manager--API-Platform---Developer-Experience_R71466) | Fifth Third Bank | Virtual | 2026-08-14 |
 <!-- JOBS:END -->
 
 ## How it works
