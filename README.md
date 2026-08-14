@@ -56,9 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1995** roles open total · updated `2026-08-14T10:40:29+00:00`
+### 🆕 3 new roles this update · 1998 tracked total · updated `2026-08-14T14:02:30+00:00`
 
-Nothing new since the last run — [browse all 1995 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Apex Systems | 1 |
+| Agility Connect | 1 |
+| Vertiv | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Android Developer III](https://www.apexsystems.com/job/3046367_usa/senior-android-developer-iii) | Apex Systems | Virtual, VA | 2026-08-14 |
+| [Scrum Master](https://agilityconnect.io/jobs/8345) | Agility Connect | New Albany, OH | 2026-08-14 |
+| [Sr. Electrical Test and Test Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278953) | Vertiv | Delaware, OH, United States | 2026-08-14 |
 <!-- JOBS:END -->
 
 ## How it works
