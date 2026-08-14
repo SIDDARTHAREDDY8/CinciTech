@@ -56,25 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 2011 tracked total · updated `2026-08-14T19:34:39+00:00`
+### 🆕 7 new roles this update · 2018 tracked total · updated `2026-08-14T21:55:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Root Insurance | 2 |
-| Fifth Third Bank | 2 |
+| Russell Tobin | 1 |
 | Mindlance | 1 |
+| Cynet Systems | 1 |
+| Cleveland-Cliffs | 1 |
+| Honda | 1 |
+| Cintas | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Agentic AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32855659#/jobs/32855659) | Artech | Columbus, OH | 2026-08-14 |
-| [Android Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32854980#/jobs/32854980) | Artech | Columbus, OH | 2026-08-14 |
-| [Information Technology - Workplace Technology Engineer / Product Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32849680#/jobs/32849680) | Artech | Dallas or Montvale hybrid candidates will be preferred, NJ | 2026-08-14 |
-| [.Net Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29072178#/jobs/29072178) | Mindlance | Brooklyn, OH | 2026-08-14 |
-| [Senior Software Engineer](https://ats.rippling.com/joinroot/jobs/16e21c54-9da6-4ab6-875d-979f02d668dc) | Root Insurance | Remote (United States) | 2026-08-14 |
-| [Staff Software Engineer](https://ats.rippling.com/joinroot/jobs/913143f4-df5f-45e7-8ee8-652d907807b8) | Root Insurance | Remote (United States) | 2026-08-14 |
-| [Lead Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Platform-Engineer_R71410-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-14 |
-| [Lead Product Manager, Developer Experience](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Product-Manager--API-Platform---Developer-Experience_R71466) | Fifth Third Bank | Virtual | 2026-08-14 |
+| [Information Technology - Solutions Architect](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29074158#/jobs/29074158) | Russell Tobin | Remote | 2026-08-14 |
+| [Cyber Security Analyst I](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29074410#/jobs/29074410) | Mindlance | Akron, OH | 2026-08-14 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/YENyZFWfZho8iD3IWSC2eQ5gnxrZmMTiFxcRe30EGY4) | Cynet Systems | Ohio | 2026-08-14 |
+| [Senior Quality Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Senior-Quality-Engineer_R13292) | Cleveland-Cliffs | Cleveland Works | 2026-08-14 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-14 |
+| [HRIS Product Owner](https://careers.cintas.com/job/Mason-HRIS-Product-Owner-OH-45040/1419804500/) | Cintas | OH | 2026-08-14 |
+| [Senior Specialist Quality Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-quality-engineering/4832/99225353392) | L3Harris | Mason, OH | 2026-08-14 |
 <!-- JOBS:END -->
 
 ## How it works
