@@ -56,19 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1998 tracked total · updated `2026-08-14T14:02:30+00:00`
+### 🆕 5 new roles this update · 2003 tracked total · updated `2026-08-14T16:28:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Apex Systems | 1 |
-| Agility Connect | 1 |
-| Vertiv | 1 |
+| Mindlance | 1 |
+| Forge Biologics | 1 |
+| KeyBank | 1 |
+| St. Elizabeth Healthcare | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Android Developer III](https://www.apexsystems.com/job/3046367_usa/senior-android-developer-iii) | Apex Systems | Virtual, VA | 2026-08-14 |
-| [Scrum Master](https://agilityconnect.io/jobs/8345) | Agility Connect | New Albany, OH | 2026-08-14 |
-| [Sr. Electrical Test and Test Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278953) | Vertiv | Delaware, OH, United States | 2026-08-14 |
+| [.Net Developer](https://www.apexsystems.com/job/3046421_usa/net-developer) | Apex Systems | Brooklyn, OH | 2026-08-14 |
+| [Product Owner II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29071732#/jobs/29071732) | Mindlance | Remote, NY | 2026-08-14 |
+| [Specialist I, QA Operations](https://boards.greenhouse.io/forgebiologics/jobs/6126557004?gh_jid=6126557004) | Forge Biologics | Columbus, Ohio | 2026-08-14 |
+| [Quality Assurance Lead Analyst - Controllership](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quality-Assurance-Lead-Analyst---Controllership_R-41507) | KeyBank | Brooklyn, OH | 2026-08-14 |
+| [Business Intelligence Analyst](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Business-Intelligence-Analyst_JR311583) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-08-14 |
 <!-- JOBS:END -->
 
 ## How it works
