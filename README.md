@@ -56,27 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 2018 tracked total · updated `2026-08-14T21:55:07+00:00`
+### 🆕 1 new roles this update · 2001 tracked total · updated `2026-08-15T02:12:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Russell Tobin | 1 |
-| Mindlance | 1 |
 | Cynet Systems | 1 |
-| Cleveland-Cliffs | 1 |
-| Honda | 1 |
-| Cintas | 1 |
-| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - Solutions Architect](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29074158#/jobs/29074158) | Russell Tobin | Remote | 2026-08-14 |
-| [Cyber Security Analyst I](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29074410#/jobs/29074410) | Mindlance | Akron, OH | 2026-08-14 |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/YENyZFWfZho8iD3IWSC2eQ5gnxrZmMTiFxcRe30EGY4) | Cynet Systems | Ohio | 2026-08-14 |
-| [Senior Quality Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Senior-Quality-Engineer_R13292) | Cleveland-Cliffs | Cleveland Works | 2026-08-14 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-14 |
-| [HRIS Product Owner](https://careers.cintas.com/job/Mason-HRIS-Product-Owner-OH-45040/1419804500/) | Cintas | OH | 2026-08-14 |
-| [Senior Specialist Quality Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-quality-engineering/4832/99225353392) | L3Harris | Mason, OH | 2026-08-14 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/tuknm4OJp4qKnEO67JPeY2itCR6rbbFTp5mpe_xqTWg) | Cynet Systems | Ohio | 2026-08-15 |
 <!-- JOBS:END -->
 
 ## How it works
