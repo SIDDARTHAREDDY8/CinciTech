@@ -56,15 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 2004 tracked total · updated `2026-08-15T09:53:06+00:00`
+### 🆕 3 new roles this update · 2007 tracked total · updated `2026-08-15T13:22:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
+| Agility Connect | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/BlQEQLO2pdWx1dsrvzE8TpZuqZ8HKNaXZbv4311O6UE) | Cynet Systems | Ohio | 2026-08-15 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/w98xWhDm-IW1xMC6sceZ8fYCNSYT6wFK_KlZZQRU6zE) | Cynet Systems | Ohio | 2026-08-15 |
+| [Senior Android Developer](https://agilityconnect.io/jobs/8346) | Agility Connect | Cincinnati, OH | 2026-08-15 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-15 |
 <!-- JOBS:END -->
 
 ## How it works
