@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 2003 tracked total · updated `2026-08-16T13:15:25+00:00`
+### 🆕 2 new roles this update · 2005 tracked total · updated `2026-08-16T15:50:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/f7LbUpEG2Q2H0J_DCnRl7nIHwwikd6sdl5vj5na7bb0) | Cynet Systems | Ohio | 2026-08-16 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/dWcrugfoHED2e7SbeYL9qySfdh3mUwffptVBMGEW2Zw) | Cynet Systems | Ohio | 2026-08-16 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-16 |
 <!-- JOBS:END -->
 
 ## How it works
