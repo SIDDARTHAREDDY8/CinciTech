@@ -56,7 +56,7 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 2007 tracked total · updated `2026-08-15T21:52:02+00:00`
+### 🆕 1 new roles this update · 1999 tracked total · updated `2026-08-16T02:11:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
@@ -64,7 +64,7 @@ parts that matter. Rooting for you. 💚
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/WhFURN0-m3BkIsq9nYMScB5wwTc8UBJAxf9Lbh2k2I0) | Cynet Systems | Ohio | 2026-08-15 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/WcATAp0mQtFCBudKqZ9ZUqNd2iRuZxsqdNJgwMbY-6w) | Cynet Systems | Ohio | 2026-08-16 |
 <!-- JOBS:END -->
 
 ## How it works
