@@ -56,17 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2005 tracked total · updated `2026-08-16T15:50:43+00:00`
+### 🆕 2 new roles this update · 1996 tracked total · updated `2026-08-16T19:05:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
-| Honda | 1 |
+| Nesco Resource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/dWcrugfoHED2e7SbeYL9qySfdh3mUwffptVBMGEW2Zw) | Cynet Systems | Ohio | 2026-08-16 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-16 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/9KNyNfTjJ1gt3ztp8KIEkALS_c0_z16ADYBYTt3DbD8) | Cynet Systems | Ohio | 2026-08-16 |
+| [Parts Puller – Production Support \| Mentor Area \| Full-Time](https://www.nescoresource.com/job-details/parts-puller-%E2%80%93-production-support-mentor-area-full-time-in-light-industrial-jobs-1683008) | Nesco Resource | Painesville, OH | 2026-08-16 |
 <!-- JOBS:END -->
 
 ## How it works
