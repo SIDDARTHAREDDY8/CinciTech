@@ -56,17 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1996 tracked total · updated `2026-08-16T19:05:58+00:00`
+### 🆕 2 new roles this update · 1997 tracked total · updated `2026-08-16T22:02:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Mindlance | 1 |
 | Cynet Systems | 1 |
-| Nesco Resource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/9KNyNfTjJ1gt3ztp8KIEkALS_c0_z16ADYBYTt3DbD8) | Cynet Systems | Ohio | 2026-08-16 |
-| [Parts Puller – Production Support \| Mentor Area \| Full-Time](https://www.nescoresource.com/job-details/parts-puller-%E2%80%93-production-support-mentor-area-full-time-in-light-industrial-jobs-1683008) | Nesco Resource | Painesville, OH | 2026-08-16 |
+| [Information Technology - Software Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29068544#/jobs/29068544) | Mindlance | Remote, FL | 2026-08-16 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/cUUvY5eqQLWOyS7iZcgv9RJXBB5Ixrpi0_ba-hIVHbE) | Cynet Systems | Ohio | 2026-08-16 |
 <!-- JOBS:END -->
 
 ## How it works
