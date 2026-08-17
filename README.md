@@ -56,24 +56,35 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1998 tracked total · updated `2026-08-17T13:25:08+00:00`
+### 🆕 14 new roles this update · 2012 tracked total · updated `2026-08-17T16:01:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Belcan | 2 |
-| Insight Global | 1 |
-| Cynet Systems | 1 |
-| Sherwin-Williams | 1 |
-| FirstEnergy | 1 |
+| Vaco | 4 |
+| Mindlance | 2 |
+| Cynet Systems | 2 |
+| Vertiv | 2 |
+| Artech | 1 |
+| Pinnacle Group | 1 |
+| Root Insurance | 1 |
+| Kroger | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SCADA Full Stack Application Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/scada-full-stack-application-developer/job-564785/) | Insight Global | Cleveland, OH | 2026-08-17 |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/KJfXNdbKEo97ZiRBzKw92tlx9Wwtmp1z21Zo5LM5Dbc) | Cynet Systems | Ohio | 2026-08-17 |
-| [Data Analyst](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367272&apply=yes&) | Belcan | Mason, OH | 2026-08-17 |
-| [EDI Data Analyst- Lead](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367271&apply=yes&) | Belcan | Mason, OH | 2026-08-17 |
-| [PMI-Product Owner Inventory](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620874) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-17 |
-| [Administrative Support Specialist](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105046) | FirstEnergy | Akron, OH, United States | 2026-08-17 |
+| [Help Desk Analyst](https://jobs.vaco.com/job/537/help_desk_analyst/en) | Vaco | Cleveland, Ohio | 2026-08-17 |
+| [Data Ai Platforms Manager](https://jobs.vaco.com/job/800/data_ai_platforms_manager/en) | Vaco | Columbus, Ohio | 2026-08-17 |
+| [Infrastructure Engineer 23](https://jobs.vaco.com/job/817/infrastructure_engineer_23/en) | Vaco | Columbus, Ohio | 2026-08-17 |
+| [Plsql Developer](https://jobs.vaco.com/job/827/plsql_developer_1528/en) | Vaco | New Albany, Ohio | 2026-08-17 |
+| [IT Financial Manager](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32863628#/jobs/32863628) | Artech | REMOTE | 2026-08-17 |
+| [IT - Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29077936#/jobs/29077936) | Mindlance | MASON, OH | 2026-08-17 |
+| [IT - EDI Data Analyst- Lead](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29077721#/jobs/29077721) | Mindlance | MASON, OH | 2026-08-17 |
+| [Data Analyst Operations](https://candidateportal.ceipal.com/job-details/3QzPxyu85R9w8qHwwm4-kP2kzQ_HyzIlBMfVcexkBTw) | Cynet Systems | Ohio | 2026-08-17 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/ArIs8G4AibPtby3OFm9zOeEB71LlZ_B4Sr4NznHI7IU) | Cynet Systems | Ohio | 2026-08-17 |
+| [Senior Director - Enterprise AI Strategy and Transformation](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-PA/Senior-Director---Enterprise-AI-Strategy-and-Transformation_JR1221) | Pinnacle Group | Remote PA | 2026-08-17 |
+| [Engineering Manager II, AI Systems](https://ats.rippling.com/joinroot/jobs/436fa07d-a14c-4778-9fd1-2ee5efb8430c) | Root Insurance | Remote (United States) | 2026-08-17 |
+| [FRONT END/UTILITY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/218563) | Kroger | Dayton, OH, United States | 2026-08-17 |
+| [Manufacturing Quality Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279528) | Vertiv | Franklin Furnace, OH, United States | 2026-08-17 |
+| [Supplier Quality Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279535) | Vertiv | Franklin Furnace, OH, United States | 2026-08-17 |
 <!-- JOBS:END -->
 
 ## How it works
