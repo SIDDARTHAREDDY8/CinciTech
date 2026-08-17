@@ -56,20 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1987 tracked total · updated `2026-08-17T02:13:11+00:00`
+### 🆕 3 new roles this update · 1990 tracked total · updated `2026-08-17T04:17:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CrossCountry Mortgage | 2 |
+| Strategic Staffing Solutions | 1 |
 | Cynet Systems | 1 |
-| Honda | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/XSJtM0m8ZgajTzhnRIkpQg55Qm52APvbdPxXYGTe9cY) | Cynet Systems | Ohio | 2026-08-17 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-17 |
-| [Senior Compliance Systems Analyst](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Senior-Compliance-Systems-Analyst_JR03519) | CrossCountry Mortgage | Remote USA | 2026-08-17 |
-| [Compliance Systems QA Analyst](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Compliance-Systems-QA-Analyst_JR03517) | CrossCountry Mortgage | Remote USA | 2026-08-17 |
+| [German Speaking Service Desk Specialist](https://jobs.strategicstaff.com/jobs/german-speaking-service-desk-specialist-170357/) | Strategic Staffing Solutions | Riga, hybrid | 2026-08-17 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/c1udpUwv1ndzZJGIaE8_gsNZM0JTQwd45XoIxfemWPU) | Cynet Systems | Ohio | 2026-08-17 |
+| [Claims - Data Analyst I - III](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167729) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-08-17 |
 <!-- JOBS:END -->
 
 ## How it works
