@@ -56,39 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 2026 tracked total · updated `2026-08-17T19:19:15+00:00`
+### 🆕 11 new roles this update · 2037 tracked total · updated `2026-08-17T21:57:40+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 4 |
-| Procter & Gamble | 2 |
-| TEKsystems | 1 |
-| Motion Recruitment | 1 |
-| Artech | 1 |
+| Cynet Systems | 3 |
+| Artech | 2 |
+| Honda | 2 |
 | Mindlance | 1 |
-| First Solar | 1 |
-| Diebold Nixdorf | 1 |
-| KeyBank | 1 |
-| Nationwide Children's Hospital | 1 |
-| STERIS | 1 |
+| Worldpay | 1 |
+| Huntington Bank | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Systems Administrator](https://careers.teksystems.com/us/en/job/JP-006226883/Systems-Administrator) | TEKsystems | Raymond, Ohio | 2026-08-17 |
-| [Information Security Analyst 3](https://motionrecruitment.com/tech-jobs/columbus/contract/information-security-analyst-3/884738) | Motion Recruitment | COLUMBUS, OH | 2026-08-17 |
-| [SDET / Test Automation Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32864955#/jobs/32864955) | Artech | Cleveland, OH | 2026-08-17 |
-| [Data Analytics & Engineering - Data Engineer IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29075823#/jobs/29075823) | Mindlance | Remote, CA | 2026-08-17 |
-| [EDI Data Analyst- Lead](https://candidateportal.ceipal.com/job-details/8cAt9ZRMluBoMsf27bzv-te-ISEaWVPvquQ7Hq9D-5o) | Cynet Systems | Ohio | 2026-08-17 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/8z3mc6ALf8l466QZ2h4hqzFejtAREyQkBXc0qjxy5l4) | Cynet Systems | Ohio | 2026-08-17 |
-| [Data Analyst Operations](https://candidateportal.ceipal.com/job-details/2-liAoSulhkvcn3h5HRv1ZHpfTMoSvT4ulODPGWqZ0Y) | Cynet Systems | Ohio | 2026-08-17 |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/Cfv7s1Gw8qQDFA8heHOWjoIYY-7FgOaWsGZrocDrlDc) | Cynet Systems | Ohio | 2026-08-17 |
-| [Data Scientist Intern (Fall 2026)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025547) | First Solar | Perrysburg, OH, United States | 2026-08-17 |
-| [Senior Manager Data Engineering](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813) | Diebold Nixdorf | North Canton, OH, United States | 2026-08-17 |
-| [2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384) | KeyBank | Brooklyn, OH | 2026-08-17 |
-| [Data Engineer - North America Fabric Care](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Engineer---North-America-Fabric-Care_R000157463) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-17 |
-| [Vice President, Information Security - Identity, Governance, and Cyber Risk](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Vice-President--Information-Security---Identity--Governance--and-Cyber-Risk_R000156735) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-17 |
-| [Bioinformatics Analyst I - Lung Regeneration Research](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Bioinformatics-Analyst-I---Lung-Regeneration-Research_R-27498) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-08-17 |
-| [Customer Repair Support Specialist](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55541&jobPipeline=PhenomCareerSite) | STERIS | Cleveland, Ohio | 2026-08-17 |
+| [Information Technology - ERP Consultant – Oracle (Core HR and Onboarding)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32864658#/jobs/32864658) | Artech | Remote, GA | 2026-08-17 |
+| [Full Stack Developer Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32866691#/jobs/32866691) | Artech | Cincinnati, OH | 2026-08-17 |
+| [Data Analyst-II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29084327#/jobs/29084327) | Mindlance | Remote, CA | 2026-08-17 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/5Yb_cqESVV72FTcrQQa6XcChfl1n584YOvh7dtikUAw) | Cynet Systems | Ohio | 2026-08-17 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/1Ez6C0-RX3C8rz0gLHVbKMOMTOm7o-zVTToqrzECvRg) | Cynet Systems | Michigan, Ohio | 2026-08-17 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/7lsL98xDp6mBc-MzDmUnO8aop6lDWBMfodoJX4ohEFU) | Cynet Systems | Ohio | 2026-08-17 |
+| [Product Owner](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Product-Owner_JR0611068) | Worldpay | CINCINNATI, OHIO | 2026-08-17 |
+| [Programmer/Analyst-Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Lima-OH/Programmer-Analyst-Senior_R0074657) | Huntington Bank | Lima, OH | 2026-08-17 |
+| [Programmer Analyst](https://jobs.battelle.org/us/en/job/76449) | Battelle | Columbus, OH | 2026-08-17 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-17 |
+| [IT Manager - Business Systems](https://careers.honda.com/us/en/job/12290) | Honda | Marysville, Ohio, United States | 2026-08-17 |
 <!-- JOBS:END -->
 
 ## How it works
