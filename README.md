@@ -56,17 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1997 tracked total · updated `2026-08-16T22:02:00+00:00`
+### 🆕 4 new roles this update · 1987 tracked total · updated `2026-08-17T02:13:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 1 |
+| CrossCountry Mortgage | 2 |
 | Cynet Systems | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - Software Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29068544#/jobs/29068544) | Mindlance | Remote, FL | 2026-08-16 |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/cUUvY5eqQLWOyS7iZcgv9RJXBB5Ixrpi0_ba-hIVHbE) | Cynet Systems | Ohio | 2026-08-16 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/XSJtM0m8ZgajTzhnRIkpQg55Qm52APvbdPxXYGTe9cY) | Cynet Systems | Ohio | 2026-08-17 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-17 |
+| [Senior Compliance Systems Analyst](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Senior-Compliance-Systems-Analyst_JR03519) | CrossCountry Mortgage | Remote USA | 2026-08-17 |
+| [Compliance Systems QA Analyst](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Compliance-Systems-QA-Analyst_JR03517) | CrossCountry Mortgage | Remote USA | 2026-08-17 |
 <!-- JOBS:END -->
 
 ## How it works
