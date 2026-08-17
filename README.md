@@ -56,17 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1992 tracked total · updated `2026-08-17T10:13:56+00:00`
+### 🆕 6 new roles this update · 1998 tracked total · updated `2026-08-17T13:25:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Belcan | 2 |
+| Insight Global | 1 |
 | Cynet Systems | 1 |
-| Honda | 1 |
+| Sherwin-Williams | 1 |
+| FirstEnergy | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/1mselDApaBn2p9fxMcahWpD3CIyD3l2Kl-J05XfYzYI) | Cynet Systems | Ohio | 2026-08-17 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-17 |
+| [SCADA Full Stack Application Developer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/cleveland/scada-full-stack-application-developer/job-564785/) | Insight Global | Cleveland, OH | 2026-08-17 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/KJfXNdbKEo97ZiRBzKw92tlx9Wwtmp1z21Zo5LM5Dbc) | Cynet Systems | Ohio | 2026-08-17 |
+| [Data Analyst](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367272&apply=yes&) | Belcan | Mason, OH | 2026-08-17 |
+| [EDI Data Analyst- Lead](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367271&apply=yes&) | Belcan | Mason, OH | 2026-08-17 |
+| [PMI-Product Owner Inventory](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620874) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-17 |
+| [Administrative Support Specialist](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105046) | FirstEnergy | Akron, OH, United States | 2026-08-17 |
 <!-- JOBS:END -->
 
 ## How it works
