@@ -56,19 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1990 tracked total · updated `2026-08-17T04:17:18+00:00`
+### 🆕 1 new roles this update · 1990 tracked total · updated `2026-08-17T07:35:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Strategic Staffing Solutions | 1 |
 | Cynet Systems | 1 |
-| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [German Speaking Service Desk Specialist](https://jobs.strategicstaff.com/jobs/german-speaking-service-desk-specialist-170357/) | Strategic Staffing Solutions | Riga, hybrid | 2026-08-17 |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/c1udpUwv1ndzZJGIaE8_gsNZM0JTQwd45XoIxfemWPU) | Cynet Systems | Ohio | 2026-08-17 |
-| [Claims - Data Analyst I - III](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167729) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-08-17 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/T6aZYwstSsbdZuMLA8qv226lZCmGkXhMSFN3QWCuAtg) | Cynet Systems | Ohio | 2026-08-17 |
 <!-- JOBS:END -->
 
 ## How it works
