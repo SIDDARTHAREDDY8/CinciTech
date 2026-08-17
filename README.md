@@ -56,35 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 2012 tracked total · updated `2026-08-17T16:01:10+00:00`
+### 🆕 15 new roles this update · 2026 tracked total · updated `2026-08-17T19:19:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vaco | 4 |
-| Mindlance | 2 |
-| Cynet Systems | 2 |
-| Vertiv | 2 |
+| Cynet Systems | 4 |
+| Procter & Gamble | 2 |
+| TEKsystems | 1 |
+| Motion Recruitment | 1 |
 | Artech | 1 |
-| Pinnacle Group | 1 |
-| Root Insurance | 1 |
-| Kroger | 1 |
+| Mindlance | 1 |
+| First Solar | 1 |
+| Diebold Nixdorf | 1 |
+| KeyBank | 1 |
+| Nationwide Children's Hospital | 1 |
+| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Help Desk Analyst](https://jobs.vaco.com/job/537/help_desk_analyst/en) | Vaco | Cleveland, Ohio | 2026-08-17 |
-| [Data Ai Platforms Manager](https://jobs.vaco.com/job/800/data_ai_platforms_manager/en) | Vaco | Columbus, Ohio | 2026-08-17 |
-| [Infrastructure Engineer 23](https://jobs.vaco.com/job/817/infrastructure_engineer_23/en) | Vaco | Columbus, Ohio | 2026-08-17 |
-| [Plsql Developer](https://jobs.vaco.com/job/827/plsql_developer_1528/en) | Vaco | New Albany, Ohio | 2026-08-17 |
-| [IT Financial Manager](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32863628#/jobs/32863628) | Artech | REMOTE | 2026-08-17 |
-| [IT - Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29077936#/jobs/29077936) | Mindlance | MASON, OH | 2026-08-17 |
-| [IT - EDI Data Analyst- Lead](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29077721#/jobs/29077721) | Mindlance | MASON, OH | 2026-08-17 |
-| [Data Analyst Operations](https://candidateportal.ceipal.com/job-details/3QzPxyu85R9w8qHwwm4-kP2kzQ_HyzIlBMfVcexkBTw) | Cynet Systems | Ohio | 2026-08-17 |
-| [Data Analytics](https://candidateportal.ceipal.com/job-details/ArIs8G4AibPtby3OFm9zOeEB71LlZ_B4Sr4NznHI7IU) | Cynet Systems | Ohio | 2026-08-17 |
-| [Senior Director - Enterprise AI Strategy and Transformation](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-PA/Senior-Director---Enterprise-AI-Strategy-and-Transformation_JR1221) | Pinnacle Group | Remote PA | 2026-08-17 |
-| [Engineering Manager II, AI Systems](https://ats.rippling.com/joinroot/jobs/436fa07d-a14c-4778-9fd1-2ee5efb8430c) | Root Insurance | Remote (United States) | 2026-08-17 |
-| [FRONT END/UTILITY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/218563) | Kroger | Dayton, OH, United States | 2026-08-17 |
-| [Manufacturing Quality Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279528) | Vertiv | Franklin Furnace, OH, United States | 2026-08-17 |
-| [Supplier Quality Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279535) | Vertiv | Franklin Furnace, OH, United States | 2026-08-17 |
+| [Systems Administrator](https://careers.teksystems.com/us/en/job/JP-006226883/Systems-Administrator) | TEKsystems | Raymond, Ohio | 2026-08-17 |
+| [Information Security Analyst 3](https://motionrecruitment.com/tech-jobs/columbus/contract/information-security-analyst-3/884738) | Motion Recruitment | COLUMBUS, OH | 2026-08-17 |
+| [SDET / Test Automation Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32864955#/jobs/32864955) | Artech | Cleveland, OH | 2026-08-17 |
+| [Data Analytics & Engineering - Data Engineer IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29075823#/jobs/29075823) | Mindlance | Remote, CA | 2026-08-17 |
+| [EDI Data Analyst- Lead](https://candidateportal.ceipal.com/job-details/8cAt9ZRMluBoMsf27bzv-te-ISEaWVPvquQ7Hq9D-5o) | Cynet Systems | Ohio | 2026-08-17 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/8z3mc6ALf8l466QZ2h4hqzFejtAREyQkBXc0qjxy5l4) | Cynet Systems | Ohio | 2026-08-17 |
+| [Data Analyst Operations](https://candidateportal.ceipal.com/job-details/2-liAoSulhkvcn3h5HRv1ZHpfTMoSvT4ulODPGWqZ0Y) | Cynet Systems | Ohio | 2026-08-17 |
+| [Data Analytics](https://candidateportal.ceipal.com/job-details/Cfv7s1Gw8qQDFA8heHOWjoIYY-7FgOaWsGZrocDrlDc) | Cynet Systems | Ohio | 2026-08-17 |
+| [Data Scientist Intern (Fall 2026)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025547) | First Solar | Perrysburg, OH, United States | 2026-08-17 |
+| [Senior Manager Data Engineering](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813) | Diebold Nixdorf | North Canton, OH, United States | 2026-08-17 |
+| [2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384) | KeyBank | Brooklyn, OH | 2026-08-17 |
+| [Data Engineer - North America Fabric Care](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Engineer---North-America-Fabric-Care_R000157463) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-17 |
+| [Vice President, Information Security - Identity, Governance, and Cyber Risk](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Vice-President--Information-Security---Identity--Governance--and-Cyber-Risk_R000156735) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-17 |
+| [Bioinformatics Analyst I - Lung Regeneration Research](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Bioinformatics-Analyst-I---Lung-Regeneration-Research_R-27498) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-08-17 |
+| [Customer Repair Support Specialist](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55541&jobPipeline=PhenomCareerSite) | STERIS | Cleveland, Ohio | 2026-08-17 |
 <!-- JOBS:END -->
 
 ## How it works
