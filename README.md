@@ -56,24 +56,38 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 2042 tracked total · updated `2026-08-18T13:34:36+00:00`
+### 🆕 14 new roles this update · 2056 tracked total · updated `2026-08-18T19:20:38+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 3 |
+| Artech | 2 |
 | Cynet Systems | 2 |
-| First Solar | 1 |
-| Honda | 1 |
+| Great American Insurance | 2 |
+| Stanton House | 1 |
+| 84.51° | 1 |
+| Path Robotics | 1 |
+| Sherwin-Williams | 1 |
+| Huntington Bank | 1 |
+| Nordson | 1 |
+| Medical Mutual of Ohio | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/5PQum3fdAThswHSZIh6bPIM9HhZ1NIRxApnlERv4f8Q) | Cynet Systems | Ohio | 2026-08-18 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Xv_V8qSg5GHSymqDIF8RWSxj11ZQ5FxGp7X_v23JUww) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
-| [DevOps Platform Engineer](https://agilityconnect.io/jobs/8356) | Agility Connect | Cincinnati, OH | 2026-08-18 |
-| [Senior AI Engineer](https://agilityconnect.io/jobs/8355) | Agility Connect | Cincinnati, OH | 2026-08-18 |
-| [Data Scientist](https://agilityconnect.io/jobs/8353) | Agility Connect | Cincinnati, OH | 2026-08-18 |
-| [Software Engineer- MES II USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1022790) | First Solar | Perrysburg, OH, United States | 2026-08-18 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-18 |
+| [Technical Associate Director / Director (Cybersecurity Consulting)](https://www.stantonhouse.com/us/jobs/32739-Technical-Associate-Director-Director-Cybersecurity-Consulting) | Stanton House | Remote (USA) | 2026-08-18 |
+| [Software Engineering - Software Engineer IV](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32872759#/jobs/32872759) | Artech | Remote, CA | 2026-08-18 |
+| [Senior Microsoft Fabric Data Engineer / Consultant: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32871534#/jobs/32871534) | Artech | Cleveland, OH | 2026-08-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/uW-PVvRiX1SqAjqYgK0VkKzh25IhYpteBMEtLJnyNu8) | Cynet Systems | Ohio | 2026-08-18 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/DTimnYFFcV4uEg8SiKokV4WU06y7T-XoxI3T3seLf_I) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
+| [Senior Manager, AI Reliability Engineering -Kroger Technology & Digital (P2498)](https://job-boards.greenhouse.io/8451/jobs/8722369002) | 84.51° | Cincinnati, OH | 2026-08-18 |
+| [IT Systems Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8726278002?gh_jid=8726278002) | Path Robotics | Columbus, Ohio | 2026-08-18 |
+| [Data Engineer](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer_R9388) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-18 |
+| [Information Technology (IT) Audit Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Information-Technology--IT--Audit-Intern_R9392) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-18 |
+| [Year-Round IT Database Engineer Co-Op](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-18 |
+| [Business Intelligence Senior Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Intelligence-Senior-Analyst_R0074855) | Huntington Bank | Columbus, OH | 2026-08-18 |
+| [IT Infrastructure Analyst – Vulnerability Remediation & Delivery](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Westlake/IT-Infrastructure-Analyst---Vulnerability-Remediation---Delivery_REQ50312) | Nordson | USA - Ohio - Westlake | 2026-08-18 |
+| [Product Owner](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=4b9dd54e-6ee8-4e1d-8ffd-7a916d35bd4b) | Medical Mutual of Ohio | Brooklyn OH | 2026-08-18 |
+| [Quality Assurance (QA) Intern - Spring 2027](https://uscareers-medpace.icims.com/jobs/12944/login) | Medpace | Cincinnati, Ohio | 2026-08-18 |
 <!-- JOBS:END -->
 
 ## How it works
