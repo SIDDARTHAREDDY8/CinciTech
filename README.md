@@ -56,19 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2028 tracked total · updated `2026-08-18T02:13:09+00:00`
+### 🆕 2 new roles this update · 2030 tracked total · updated `2026-08-18T04:21:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 2 |
 | Cynet Systems | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Center Audit Technician](https://careers.teksystems.com/us/en/job/JP-006227584/Data-Center-Audit-Technician) | TEKsystems | Columbus, Ohio | 2026-08-18 |
-| [Data Center Audit Technician](https://careers.teksystems.com/us/en/job/JP-006227573/Data-Center-Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-08-18 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/rDnMAc00tvjDg7XuWm3BtQeangWLZ9BzibITW4EHTBU) | Cynet Systems | Ohio | 2026-08-18 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/F6CuLurWQyLAr7BMAsncb4fHkUu9Yl3Sf5IMrrLHYig) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/7bgJJIdFQmvHWiWJvY7op_5fRfclkjk8oTb-cbkrOlM) | Cynet Systems | Ohio | 2026-08-18 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/17uvxrdTIpFPSq9e0v9L50qOC2F87DmKiXujgQWmXac) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
 <!-- JOBS:END -->
 
 ## How it works
