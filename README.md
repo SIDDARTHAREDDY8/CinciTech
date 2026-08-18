@@ -56,18 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2033 tracked total · updated `2026-08-18T07:19:57+00:00`
+### 🆕 3 new roles this update · 2035 tracked total · updated `2026-08-18T10:06:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Honda | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/FxvjewYSKiQFRzCBaLgh3Tc9ZqlFLd8N3VLkuRbwlHY) | Cynet Systems | Ohio | 2026-08-18 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/qHfif6t4haA8rHdQ8GFoZGS9qOjSSR9t3uFHiHRWB2E) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/Tl2vRndmTHTRfIP343m4VZpQbDjyJfFBMu07MCsNYtI) | Cynet Systems | Ohio | 2026-08-18 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/iKIePSCW7wjaJ1SqLBfwu-TXhLWGh2h-KB0dms_-E0Y) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
+| [SAP Digital Systems Integration & Sustainment - ERP / MES / PLM](https://careers.l3harris.com/en/job/united-states/sap-digital-systems-integration-and-sustainment-erp-mes-plm/4832/99382446528) | L3Harris | Remote | 2026-08-18 |
 <!-- JOBS:END -->
 
 ## How it works
