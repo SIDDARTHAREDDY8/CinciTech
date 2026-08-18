@@ -56,31 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 2037 tracked total · updated `2026-08-17T21:57:40+00:00`
+### 🆕 4 new roles this update · 2028 tracked total · updated `2026-08-18T02:13:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 3 |
-| Artech | 2 |
-| Honda | 2 |
-| Mindlance | 1 |
-| Worldpay | 1 |
-| Huntington Bank | 1 |
-| Battelle | 1 |
+| TEKsystems | 2 |
+| Cynet Systems | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - ERP Consultant – Oracle (Core HR and Onboarding)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32864658#/jobs/32864658) | Artech | Remote, GA | 2026-08-17 |
-| [Full Stack Developer Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32866691#/jobs/32866691) | Artech | Cincinnati, OH | 2026-08-17 |
-| [Data Analyst-II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29084327#/jobs/29084327) | Mindlance | Remote, CA | 2026-08-17 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/5Yb_cqESVV72FTcrQQa6XcChfl1n584YOvh7dtikUAw) | Cynet Systems | Ohio | 2026-08-17 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/1Ez6C0-RX3C8rz0gLHVbKMOMTOm7o-zVTToqrzECvRg) | Cynet Systems | Michigan, Ohio | 2026-08-17 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/7lsL98xDp6mBc-MzDmUnO8aop6lDWBMfodoJX4ohEFU) | Cynet Systems | Ohio | 2026-08-17 |
-| [Product Owner](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Product-Owner_JR0611068) | Worldpay | CINCINNATI, OHIO | 2026-08-17 |
-| [Programmer/Analyst-Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Lima-OH/Programmer-Analyst-Senior_R0074657) | Huntington Bank | Lima, OH | 2026-08-17 |
-| [Programmer Analyst](https://jobs.battelle.org/us/en/job/76449) | Battelle | Columbus, OH | 2026-08-17 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-17 |
-| [IT Manager - Business Systems](https://careers.honda.com/us/en/job/12290) | Honda | Marysville, Ohio, United States | 2026-08-17 |
+| [Data Center Audit Technician](https://careers.teksystems.com/us/en/job/JP-006227584/Data-Center-Audit-Technician) | TEKsystems | Columbus, Ohio | 2026-08-18 |
+| [Data Center Audit Technician](https://careers.teksystems.com/us/en/job/JP-006227573/Data-Center-Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-08-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/rDnMAc00tvjDg7XuWm3BtQeangWLZ9BzibITW4EHTBU) | Cynet Systems | Ohio | 2026-08-18 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/F6CuLurWQyLAr7BMAsncb4fHkUu9Yl3Sf5IMrrLHYig) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
 <!-- JOBS:END -->
 
 ## How it works
