@@ -56,18 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2035 tracked total · updated `2026-08-18T10:06:09+00:00`
+### 🆕 7 new roles this update · 2042 tracked total · updated `2026-08-18T13:34:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 3 |
 | Cynet Systems | 2 |
-| L3Harris | 1 |
+| First Solar | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/Tl2vRndmTHTRfIP343m4VZpQbDjyJfFBMu07MCsNYtI) | Cynet Systems | Ohio | 2026-08-18 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/iKIePSCW7wjaJ1SqLBfwu-TXhLWGh2h-KB0dms_-E0Y) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
-| [SAP Digital Systems Integration & Sustainment - ERP / MES / PLM](https://careers.l3harris.com/en/job/united-states/sap-digital-systems-integration-and-sustainment-erp-mes-plm/4832/99382446528) | L3Harris | Remote | 2026-08-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/5PQum3fdAThswHSZIh6bPIM9HhZ1NIRxApnlERv4f8Q) | Cynet Systems | Ohio | 2026-08-18 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/Xv_V8qSg5GHSymqDIF8RWSxj11ZQ5FxGp7X_v23JUww) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
+| [DevOps Platform Engineer](https://agilityconnect.io/jobs/8356) | Agility Connect | Cincinnati, OH | 2026-08-18 |
+| [Senior AI Engineer](https://agilityconnect.io/jobs/8355) | Agility Connect | Cincinnati, OH | 2026-08-18 |
+| [Data Scientist](https://agilityconnect.io/jobs/8353) | Agility Connect | Cincinnati, OH | 2026-08-18 |
+| [Software Engineer- MES II USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1022790) | First Solar | Perrysburg, OH, United States | 2026-08-18 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-18 |
 <!-- JOBS:END -->
 
 ## How it works
