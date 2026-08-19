@@ -56,25 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 2075 tracked total · updated `2026-08-19T19:20:48+00:00`
+### 🆕 4 new roles this update · 2079 tracked total · updated `2026-08-19T22:06:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 1 |
-| Mindlance | 1 |
-| Belcan | 1 |
-| Fifth Third Bank | 1 |
-| Sherwin-Williams | 1 |
-| Abbott (Columbus) | 1 |
+| OhioHealth | 2 |
+| American Electric Power | 1 |
+| Huntington Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - Solutions Architect - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32877718#/jobs/32877718) | Artech | Remote, CO | 2026-08-19 |
-| [Digital Quality Assurance Analyst II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29097677#/jobs/29097677) | Mindlance | Remote, CA | 2026-08-19 |
-| [(Remote)Design Quality Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367364&apply=yes&) | Belcan | Remote, RE | 2026-08-19 |
-| [Enterprise Valuation Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Enterprise-Valuation-Analyst_R71922) | Fifth Third Bank | Virtual | 2026-08-19 |
-| [IT - Project Manager Senior](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621183) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-19 |
-| [Manager Quality Assurance](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Manager-Quality-Assurance_31159664) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-08-19 |
+| [Telecommunication Field Construction Representative Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Telecommunication-Field-Construction-Representative-Principal_R17600) | American Electric Power | New Albany, OH | 2026-08-19 |
+| [Payments Tech - Java Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Payments-Tech---Java-Developer_R0074687) | Huntington Bank | Columbus, OH | 2026-08-19 |
+| [Senior Systems Analyst- Radiation Oncology](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-Systems-Analyst--Radiation-Oncology_JR156724) | OhioHealth | WORK AT HOME - OHIO | 2026-08-19 |
+| [Epic Senior Systems Analyst - Radiant/Cupid](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Radiant-Cupid_JR156729) | OhioHealth | WORK AT HOME - OHIO | 2026-08-19 |
 <!-- JOBS:END -->
 
 ## How it works
