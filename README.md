@@ -56,18 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2059 tracked total · updated `2026-08-19T04:18:12+00:00`
+### 🆕 2 new roles this update · 2061 tracked total · updated `2026-08-19T07:34:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/0FhWT6eC-OBLvNONRDWS0UG-p0G6hkP8BixyDx9pQow) | Cynet Systems | Ohio | 2026-08-19 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/TceKZvDkvpdowV_eb1N7EoyiqvLsxQoUvwiOs6hBxoM) | Cynet Systems | Michigan, Ohio | 2026-08-19 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-19 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/FWvUyl4SYiJj3Y0ESISvP-rn6X0kVUNrxZNHzSsGxyg) | Cynet Systems | Ohio | 2026-08-19 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/RZ3y1qrDMaWHL1iVyes6VZ_LwiTIznhMqwFEAHbxs6E) | Cynet Systems | Michigan, Ohio | 2026-08-19 |
 <!-- JOBS:END -->
 
 ## How it works
