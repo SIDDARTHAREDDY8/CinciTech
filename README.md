@@ -56,24 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 2062 tracked total · updated `2026-08-18T22:00:59+00:00`
+### 🆕 3 new roles this update · 2056 tracked total · updated `2026-08-19T02:18:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Artech | 1 |
-| Mindlance | 1 |
-| 84.51° | 1 |
-| Root Insurance | 1 |
+| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - Cyber Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32872103#/jobs/32872103) | Artech | Remote, TX | 2026-08-18 |
-| [Data Analyst-I](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29091752#/jobs/29091752) | Mindlance | Remote, CA | 2026-08-18 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/fhW3ZcPU24y1wyZou6nf7ZQg5QeNxkE-3_wnlxSq0MI) | Cynet Systems | Ohio | 2026-08-18 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/pVOGmDvlrHs73dm6za5RkC-6YroKwnAEDIP-IE0SsAk) | Cynet Systems | Michigan, Ohio | 2026-08-18 |
-| [Lead Software Engineer, AI (P4577)](https://job-boards.greenhouse.io/8451/jobs/8725891002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-08-18 |
-| [Data Scientist II, Digital Partnerships](https://ats.rippling.com/joinroot/jobs/ff8fa67c-c62d-4f7c-880c-fb35dced5fe2) | Root Insurance | Remote (United States) | 2026-08-18 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/i5FJRrhaOpIWWT0wKBUJ0bPI_oBFZtT8XkdrGQYjkFU) | Cynet Systems | Ohio | 2026-08-19 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/V36F-Ai7EcfPxiDYXK2ad5BSgwKOAar5cKSQM8Si_L8) | Cynet Systems | Michigan, Ohio | 2026-08-19 |
+| [Senior Technical Architect](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55805&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-19 |
 <!-- JOBS:END -->
 
 ## How it works
