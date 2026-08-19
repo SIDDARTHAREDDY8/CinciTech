@@ -56,7 +56,7 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2061 tracked total · updated `2026-08-19T07:34:19+00:00`
+### 🆕 2 new roles this update · 2063 tracked total · updated `2026-08-19T10:08:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
@@ -64,8 +64,8 @@ parts that matter. Rooting for you. 💚
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/FWvUyl4SYiJj3Y0ESISvP-rn6X0kVUNrxZNHzSsGxyg) | Cynet Systems | Ohio | 2026-08-19 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/RZ3y1qrDMaWHL1iVyes6VZ_LwiTIznhMqwFEAHbxs6E) | Cynet Systems | Michigan, Ohio | 2026-08-19 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/G15M317y8nmPE1jUT9KHiMV0T2vCfdkUauQepfqNjbM) | Cynet Systems | Ohio | 2026-08-19 |
+| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/IyTGYd17Vm9l-MMI8H-cnUqMR_GWGTXM15QqL61youM) | Cynet Systems | Michigan, Ohio | 2026-08-19 |
 <!-- JOBS:END -->
 
 ## How it works
