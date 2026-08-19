@@ -56,21 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2069 tracked total · updated `2026-08-19T16:16:15+00:00`
+### 🆕 6 new roles this update · 2075 tracked total · updated `2026-08-19T19:20:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Artech | 1 |
 | Mindlance | 1 |
+| Belcan | 1 |
 | Fifth Third Bank | 1 |
-| Great American Insurance | 1 |
-| Honda | 1 |
+| Sherwin-Williams | 1 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [BusinessOperations - Provider Data Management Analyst 1 - 111458](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29095104#/jobs/29095104) | Mindlance | Remote, FL | 2026-08-19 |
-| [ServiceNow Principal Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/ServiceNow-Principal-Platform-Engineer_R71084) | Fifth Third Bank | Virtual | 2026-08-19 |
-| [Junior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395) | Great American Insurance | Remote (USA) | 2026-08-19 |
-| [Senior ADAS Test Engineer II](https://careers.honda.com/us/en/job/11221) | Honda | Raymond, Ohio, United States | 2026-08-19 |
+| [Information Technology - Solutions Architect - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32877718#/jobs/32877718) | Artech | Remote, CO | 2026-08-19 |
+| [Digital Quality Assurance Analyst II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29097677#/jobs/29097677) | Mindlance | Remote, CA | 2026-08-19 |
+| [(Remote)Design Quality Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367364&apply=yes&) | Belcan | Remote, RE | 2026-08-19 |
+| [Enterprise Valuation Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Enterprise-Valuation-Analyst_R71922) | Fifth Third Bank | Virtual | 2026-08-19 |
+| [IT - Project Manager Senior](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621183) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-19 |
+| [Manager Quality Assurance](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Manager-Quality-Assurance_31159664) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-08-19 |
 <!-- JOBS:END -->
 
 ## How it works
