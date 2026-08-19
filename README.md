@@ -56,16 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2063 tracked total · updated `2026-08-19T10:08:51+00:00`
+### 🆕 3 new roles this update · 2065 tracked total · updated `2026-08-19T13:27:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 2 |
+| Cynet Systems | 1 |
+| Branch Insurance | 1 |
+| FirstEnergy | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/G15M317y8nmPE1jUT9KHiMV0T2vCfdkUauQepfqNjbM) | Cynet Systems | Ohio | 2026-08-19 |
-| [SAP Material Master Data Lead](https://candidateportal.ceipal.com/job-details/IyTGYd17Vm9l-MMI8H-cnUqMR_GWGTXM15QqL61youM) | Cynet Systems | Michigan, Ohio | 2026-08-19 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/DiXYnzusitGhgHObphwNU_-4VKO_PHfxhfSfX7ICPwA) | Cynet Systems | Ohio | 2026-08-19 |
+| [Cloud Operations Engineer](https://job-boards.greenhouse.io/branch/jobs/7902638003) | Branch Insurance | Remote, US | 2026-08-19 |
+| [Data Scientist - Innovation & Digital Factory](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105078) | FirstEnergy | Akron, OH, United States | 2026-08-19 |
 <!-- JOBS:END -->
 
 ## How it works
