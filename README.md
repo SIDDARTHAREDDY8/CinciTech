@@ -56,19 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2065 tracked total · updated `2026-08-19T13:27:54+00:00`
+### 🆕 4 new roles this update · 2069 tracked total · updated `2026-08-19T16:16:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 1 |
-| Branch Insurance | 1 |
-| FirstEnergy | 1 |
+| Mindlance | 1 |
+| Fifth Third Bank | 1 |
+| Great American Insurance | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/DiXYnzusitGhgHObphwNU_-4VKO_PHfxhfSfX7ICPwA) | Cynet Systems | Ohio | 2026-08-19 |
-| [Cloud Operations Engineer](https://job-boards.greenhouse.io/branch/jobs/7902638003) | Branch Insurance | Remote, US | 2026-08-19 |
-| [Data Scientist - Innovation & Digital Factory](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105078) | FirstEnergy | Akron, OH, United States | 2026-08-19 |
+| [BusinessOperations - Provider Data Management Analyst 1 - 111458](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29095104#/jobs/29095104) | Mindlance | Remote, FL | 2026-08-19 |
+| [ServiceNow Principal Platform Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/ServiceNow-Principal-Platform-Engineer_R71084) | Fifth Third Bank | Virtual | 2026-08-19 |
+| [Junior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395) | Great American Insurance | Remote (USA) | 2026-08-19 |
+| [Senior ADAS Test Engineer II](https://careers.honda.com/us/en/job/11221) | Honda | Raymond, Ohio, United States | 2026-08-19 |
 <!-- JOBS:END -->
 
 ## How it works
