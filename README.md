@@ -56,32 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 2099 tracked total · updated `2026-08-20T16:15:32+00:00`
+### 🆕 12 new roles this update · 2108 tracked total · updated `2026-08-20T19:28:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Sherwin-Williams | 2 |
-| TEKsystems | 1 |
+| Artech | 2 |
+| Insight Global | 1 |
+| Apex Systems | 1 |
 | Vaco | 1 |
-| Marathon Petroleum | 1 |
-| Safelite | 1 |
-| FirstEnergy | 1 |
-| Vertiv | 1 |
+| Russell Tobin | 1 |
+| CareSource | 1 |
+| American Electric Power | 1 |
 | Honda | 1 |
-| Cintas | 1 |
+| Cincinnati Insurance | 1 |
+| Fidelity Investments | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator 4](https://careers.teksystems.com/us/en/job/JP-006234025/Database-Administrator-4) | TEKsystems | Cincinnati, Ohio | 2026-08-20 |
-| [Full Stack Engineer 3 Positions](https://jobs.vaco.com/job/1510/full_stack_engineer_3_positions/en) | Vaco | Monroe, Ohio | 2026-08-20 |
-| [Portfolio Analyst & Data Administrator Manager](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Portfolio-Analyst---Data-Administrator-Manager_00023355) | Marathon Petroleum | Findlay, Ohio | 2026-08-20 |
-| [Senior Business Intelligence Engineering and Data Manager](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Business-Intelligence-Engineering-and-Data-Manager_JR73898) | Safelite | COLUMBUS, OH | 2026-08-20 |
-| [Senior Oracle Software Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621369) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-20 |
-| [Senior Full Stack Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621373) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-20 |
-| [Senior Transmission Policy & Support Specialist](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105084) | FirstEnergy | Akron, OH, United States | 2026-08-20 |
-| [ServiceNow Business Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270535) | Vertiv | Westerville, OH, United States | 2026-08-20 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-20 |
-| [SAP Functional Analyst-Level 3-Service Management](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-3-Service-Management-OH-45040/1421472500/) | Cintas | OH | 2026-08-20 |
+| [Embedded Systems Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/embedded-systems-engineer/job-567269/) | Insight Global | Columbus, OH | 2026-08-20 |
+| [Performance Test Engineer](https://www.apexsystems.com/job/3046744_usa/performance-test-engineer) | Apex Systems | Remote, MD | 2026-08-20 |
+| [Ba With Oracle Cloud Commerce](https://jobs.vaco.com/job/1516/ba_with_oracle_cloud_commerce/en) | Vaco | Eaton, Ohio | 2026-08-20 |
+| [ERP Consultant - Oracle](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29081491#/jobs/29081491) | Russell Tobin | REMOTE | 2026-08-20 |
+| [Network Support Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32886706#/jobs/32886706) | Artech | Remote, NY | 2026-08-20 |
+| [.NET Fullstack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32885759#/jobs/32885759) | Artech | Cleveland, OH | 2026-08-20 |
+| [Information Security GRC Analyst III - CISSP preferred](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-III---CISSP-preferred_R13526-1) | CareSource | Remote | 2026-08-20 |
+| [Enterprise Resilience Analyst](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Enterprise-Resilience-Analyst_R18225) | American Electric Power | Columbus, OH | 2026-08-20 |
+| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12274) | Honda | Raymond, Ohio, United States | 2026-08-20 |
+| [IT - Developer III (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167948) | Cincinnati Insurance | ["Remote"] | 2026-08-20 |
+| [ETRA Senior Data Analyst](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/ETRA-Senior-Data-Analyst_2132444-1) | Fidelity Investments | Covington, KY | 2026-08-20 |
+| [Quality Assurance (QA) Associate](https://uscareers-medpace.icims.com/jobs/12372/login) | Medpace | Cincinnati, Ohio | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
