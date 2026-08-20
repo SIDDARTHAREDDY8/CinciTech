@@ -56,9 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2079** roles open total · updated `2026-08-20T10:08:08+00:00`
+### 🆕 11 new roles this update · 2089 tracked total · updated `2026-08-20T13:27:38+00:00`
 
-Nothing new since the last run — [browse all 2079 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Fifth Third Bank | 4 |
+| TEKsystems | 1 |
+| Agility Connect | 1 |
+| Root Insurance | 1 |
+| Great American Insurance | 1 |
+| Worldpay | 1 |
+| FirstEnergy | 1 |
+| Medpace | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [IT Project Coordinator](https://careers.teksystems.com/us/en/job/JP-006233525/IT-Project-Coordinator) | TEKsystems | Cleveland, Ohio | 2026-08-20 |
+| [Platform Engineer](https://agilityconnect.io/jobs/8359) | Agility Connect | Cincinnati, OH | 2026-08-20 |
+| [Senior Software Engineer](https://ats.rippling.com/joinroot/jobs/8159283f-c1c3-4cfb-937f-616a6f19bf20) | Root Insurance | Remote (United States) | 2026-08-20 |
+| [Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
+| [Enterprise Data Office College Co-op - Fall 2026 - Cincinnati](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2026---Cincinnati_R64382) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
+| [Information Security Co-op – Code Security – Spring 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
+| [Information Security Co-op - Cyber Threat Interdiction - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
+| [Agile Product Owner - Underwriting Modernization](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Agile-Product-Owner---Underwriting-Modernization_R9403) | Great American Insurance | Remote (USA) | 2026-08-20 |
+| [AI Agent Designer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/AI-Agent-Designer_JR0611262-1) | Worldpay | CINCINNATI, OHIO | 2026-08-20 |
+| [Manager Identity and Access Management - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105083) | FirstEnergy | Akron, OH, United States | 2026-08-20 |
+| [Software QA Test Engineer/ ETL Tester](https://uscareers-medpace.icims.com/jobs/12953/login) | Medpace | Cincinnati, Ohio | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
