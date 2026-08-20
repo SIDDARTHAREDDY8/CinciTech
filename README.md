@@ -56,20 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2079 tracked total · updated `2026-08-19T22:06:47+00:00`
+### 🆕 3 new roles this update · 2077 tracked total · updated `2026-08-20T02:17:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| OhioHealth | 2 |
-| American Electric Power | 1 |
-| Huntington Bank | 1 |
+| Mindlance | 1 |
+| OhioHealth | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Telecommunication Field Construction Representative Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Telecommunication-Field-Construction-Representative-Principal_R17600) | American Electric Power | New Albany, OH | 2026-08-19 |
-| [Payments Tech - Java Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Payments-Tech---Java-Developer_R0074687) | Huntington Bank | Columbus, OH | 2026-08-19 |
-| [Senior Systems Analyst- Radiation Oncology](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-Systems-Analyst--Radiation-Oncology_JR156724) | OhioHealth | WORK AT HOME - OHIO | 2026-08-19 |
-| [Epic Senior Systems Analyst - Radiant/Cupid](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Radiant-Cupid_JR156729) | OhioHealth | WORK AT HOME - OHIO | 2026-08-19 |
+| [Software Engineering - Software Engineer IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29090373#/jobs/29090373) | Mindlance | Remote, CA | 2026-08-20 |
+| [Epic Systems Analyst- Radiant/Cupid](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst--Radiant-Cupid_JR156732) | OhioHealth | WORK AT HOME - OHIO | 2026-08-20 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
