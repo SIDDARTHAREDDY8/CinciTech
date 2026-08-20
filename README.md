@@ -56,36 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 2108 tracked total · updated `2026-08-20T19:28:42+00:00`
+### 🆕 5 new roles this update · 2113 tracked total · updated `2026-08-20T22:11:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
-| Insight Global | 1 |
-| Apex Systems | 1 |
-| Vaco | 1 |
-| Russell Tobin | 1 |
-| CareSource | 1 |
-| American Electric Power | 1 |
-| Honda | 1 |
-| Cincinnati Insurance | 1 |
+| Artech | 1 |
+| Huntington Bank | 1 |
+| Nationwide Children's Hospital | 1 |
 | Fidelity Investments | 1 |
-| Medpace | 1 |
+| Total Quality Logistics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Embedded Systems Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/embedded-systems-engineer/job-567269/) | Insight Global | Columbus, OH | 2026-08-20 |
-| [Performance Test Engineer](https://www.apexsystems.com/job/3046744_usa/performance-test-engineer) | Apex Systems | Remote, MD | 2026-08-20 |
-| [Ba With Oracle Cloud Commerce](https://jobs.vaco.com/job/1516/ba_with_oracle_cloud_commerce/en) | Vaco | Eaton, Ohio | 2026-08-20 |
-| [ERP Consultant - Oracle](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29081491#/jobs/29081491) | Russell Tobin | REMOTE | 2026-08-20 |
-| [Network Support Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32886706#/jobs/32886706) | Artech | Remote, NY | 2026-08-20 |
-| [.NET Fullstack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32885759#/jobs/32885759) | Artech | Cleveland, OH | 2026-08-20 |
-| [Information Security GRC Analyst III - CISSP preferred](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-III---CISSP-preferred_R13526-1) | CareSource | Remote | 2026-08-20 |
-| [Enterprise Resilience Analyst](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Enterprise-Resilience-Analyst_R18225) | American Electric Power | Columbus, OH | 2026-08-20 |
-| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12274) | Honda | Raymond, Ohio, United States | 2026-08-20 |
-| [IT - Developer III (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=167948) | Cincinnati Insurance | ["Remote"] | 2026-08-20 |
-| [ETRA Senior Data Analyst](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/ETRA-Senior-Data-Analyst_2132444-1) | Fidelity Investments | Covington, KY | 2026-08-20 |
-| [Quality Assurance (QA) Associate](https://uscareers-medpace.icims.com/jobs/12372/login) | Medpace | Cincinnati, Ohio | 2026-08-20 |
+| [DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32887388#/jobs/32887388) | Artech | Cincinnati, OH | 2026-08-20 |
+| [Enterprise Program Manager](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Enterprise-Program-Manager_R0075076) | Huntington Bank | Columbus, OH | 2026-08-20 |
+| [Decision Support Analyst - Data Resource Center](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Decision-Support-Analyst---Data-Resource-Center_R-27611) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-08-20 |
+| [Analyst, Fraud Data Analytics and Insights](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Analyst--Fraud-Data-Analytics-and-Insights_2131396-1) | Fidelity Investments | Covington, KY | 2026-08-20 |
+| [Data Engineer I - Finance](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Engineer-I-Finance/14474?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
