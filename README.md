@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2078 tracked total · updated `2026-08-20T04:24:42+00:00`
+### 🆕 1 new roles this update · 2079 tracked total · updated `2026-08-20T07:23:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Goodyear | 1 |
-| Kroger | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr. IT Project Manager](https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers/job/US-OH-Akron-Corp-Hdqtrs/Sr-IT-Project-Manager_JR-40112098) | Goodyear | US OH Akron Corp Hdqtrs | 2026-08-20 |
-| [Assistant Front End Leader](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/197268) | Kroger | Delaware, OH, United States | 2026-08-20 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
