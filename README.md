@@ -56,19 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2077 tracked total · updated `2026-08-20T02:17:08+00:00`
+### 🆕 2 new roles this update · 2078 tracked total · updated `2026-08-20T04:24:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 1 |
-| OhioHealth | 1 |
-| Honda | 1 |
+| Goodyear | 1 |
+| Kroger | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering - Software Engineer IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29090373#/jobs/29090373) | Mindlance | Remote, CA | 2026-08-20 |
-| [Epic Systems Analyst- Radiant/Cupid](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst--Radiant-Cupid_JR156732) | OhioHealth | WORK AT HOME - OHIO | 2026-08-20 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-20 |
+| [Sr. IT Project Manager](https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers/job/US-OH-Akron-Corp-Hdqtrs/Sr-IT-Project-Manager_JR-40112098) | Goodyear | US OH Akron Corp Hdqtrs | 2026-08-20 |
+| [Assistant Front End Leader](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/197268) | Kroger | Delaware, OH, United States | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
