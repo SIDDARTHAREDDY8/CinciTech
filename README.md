@@ -56,32 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 2089 tracked total · updated `2026-08-20T13:27:38+00:00`
+### 🆕 10 new roles this update · 2099 tracked total · updated `2026-08-20T16:15:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Fifth Third Bank | 4 |
+| Sherwin-Williams | 2 |
 | TEKsystems | 1 |
-| Agility Connect | 1 |
-| Root Insurance | 1 |
-| Great American Insurance | 1 |
-| Worldpay | 1 |
+| Vaco | 1 |
+| Marathon Petroleum | 1 |
+| Safelite | 1 |
 | FirstEnergy | 1 |
-| Medpace | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT Project Coordinator](https://careers.teksystems.com/us/en/job/JP-006233525/IT-Project-Coordinator) | TEKsystems | Cleveland, Ohio | 2026-08-20 |
-| [Platform Engineer](https://agilityconnect.io/jobs/8359) | Agility Connect | Cincinnati, OH | 2026-08-20 |
-| [Senior Software Engineer](https://ats.rippling.com/joinroot/jobs/8159283f-c1c3-4cfb-937f-616a6f19bf20) | Root Insurance | Remote (United States) | 2026-08-20 |
-| [Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
-| [Enterprise Data Office College Co-op - Fall 2026 - Cincinnati](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2026---Cincinnati_R64382) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
-| [Information Security Co-op – Code Security – Spring 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
-| [Information Security Co-op - Cyber Threat Interdiction - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582) | Fifth Third Bank | Cincinnati, OH | 2026-08-20 |
-| [Agile Product Owner - Underwriting Modernization](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Agile-Product-Owner---Underwriting-Modernization_R9403) | Great American Insurance | Remote (USA) | 2026-08-20 |
-| [AI Agent Designer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/AI-Agent-Designer_JR0611262-1) | Worldpay | CINCINNATI, OHIO | 2026-08-20 |
-| [Manager Identity and Access Management - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105083) | FirstEnergy | Akron, OH, United States | 2026-08-20 |
-| [Software QA Test Engineer/ ETL Tester](https://uscareers-medpace.icims.com/jobs/12953/login) | Medpace | Cincinnati, Ohio | 2026-08-20 |
+| [Database Administrator 4](https://careers.teksystems.com/us/en/job/JP-006234025/Database-Administrator-4) | TEKsystems | Cincinnati, Ohio | 2026-08-20 |
+| [Full Stack Engineer 3 Positions](https://jobs.vaco.com/job/1510/full_stack_engineer_3_positions/en) | Vaco | Monroe, Ohio | 2026-08-20 |
+| [Portfolio Analyst & Data Administrator Manager](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Portfolio-Analyst---Data-Administrator-Manager_00023355) | Marathon Petroleum | Findlay, Ohio | 2026-08-20 |
+| [Senior Business Intelligence Engineering and Data Manager](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Business-Intelligence-Engineering-and-Data-Manager_JR73898) | Safelite | COLUMBUS, OH | 2026-08-20 |
+| [Senior Oracle Software Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621369) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-20 |
+| [Senior Full Stack Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621373) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-20 |
+| [Senior Transmission Policy & Support Specialist](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105084) | FirstEnergy | Akron, OH, United States | 2026-08-20 |
+| [ServiceNow Business Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270535) | Vertiv | Westerville, OH, United States | 2026-08-20 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-20 |
+| [SAP Functional Analyst-Level 3-Service Management](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-3-Service-Management-OH-45040/1421472500/) | Cintas | OH | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
