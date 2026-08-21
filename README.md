@@ -56,23 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 2113 tracked total · updated `2026-08-20T22:11:17+00:00`
+### 🆕 4 new roles this update · 2114 tracked total · updated `2026-08-21T02:24:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 1 |
-| Huntington Bank | 1 |
-| Nationwide Children's Hospital | 1 |
-| Fidelity Investments | 1 |
-| Total Quality Logistics | 1 |
+| TEKsystems | 2 |
+| DHL | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32887388#/jobs/32887388) | Artech | Cincinnati, OH | 2026-08-20 |
-| [Enterprise Program Manager](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Enterprise-Program-Manager_R0075076) | Huntington Bank | Columbus, OH | 2026-08-20 |
-| [Decision Support Analyst - Data Resource Center](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Decision-Support-Analyst---Data-Resource-Center_R-27611) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-08-20 |
-| [Analyst, Fraud Data Analytics and Insights](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Analyst--Fraud-Data-Analytics-and-Insights_2131396-1) | Fidelity Investments | Covington, KY | 2026-08-20 |
-| [Data Engineer I - Finance](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Engineer-I-Finance/14474?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-08-20 |
+| [Technical Product Owner](https://careers.teksystems.com/us/en/job/JP-006234860/Technical-Product-Owner) | TEKsystems | Dayton, Ohio | 2026-08-21 |
+| [Remote IP Network Engineer I](https://careers.teksystems.com/us/en/job/JP-006234929/Remote-IP-Network-Engineer-I) | TEKsystems | Columbus, Ohio | 2026-08-21 |
+| [Data Analytics and Data Catalog Intern](https://dpdhlgroup.avature.net/jobs/ApplicationMethods?jobId=368788&source=careers.dhl.com) | DHL | Erlanger, Kentucky | 2026-08-21 |
+| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11107322.html) | DHL | Westerville, Ohio | 2026-08-21 |
 <!-- JOBS:END -->
 
 ## How it works
