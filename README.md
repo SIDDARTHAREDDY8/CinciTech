@@ -56,22 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 2135 tracked total · updated `2026-08-21T19:15:31+00:00`
+### 🆕 3 new roles this update · 2138 tracked total · updated `2026-08-21T22:02:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| TRU Staffing Partners | 1 |
-| Marathon Petroleum | 1 |
+| Mindlance | 1 |
+| Njoyn (CGI) | 1 |
+| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](https://jobs.trustaffingpartners.com/?jobid=7606#/jobs/7606) | TRU Staffing Partners | Anywhere | 2026-08-21 |
-| [SharePoint Technical Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32893002#/jobs/32893002) | Artech | Remote | 2026-08-21 |
-| [ServiceNow developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32892600#/jobs/32892600) | Artech | Columbus, OH | 2026-08-21 |
-| [Senior Devops Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32892603#/jobs/32892603) | Artech | Remote | 2026-08-21 |
-| [JD Edwards Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32892604#/jobs/32892604) | Artech | REMOTE | 2026-08-21 |
-| [Cloud Engineer](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Cloud-Engineer_00023396-1) | Marathon Petroleum | Findlay, Ohio | 2026-08-21 |
+| [Solutions Architect (Facets G6 / Healthcare Claims)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29134334#/jobs/29134334) | Mindlance | Remote, MD | 2026-08-21 |
+| [Sr. Alvaria Dialer Technical System Administrator](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0929&BRID=1327785&lang=1) | Njoyn (CGI) | Remote, United States | 2026-08-21 |
+| [Information Technology Summer 2027 Internship (Euclid, Oh)](https://jobs.lincolnelectric.com/job/Cleveland-Information-Technology-Summer-2027-Internship-%28Euclid%2C-Oh%29-OH-44117/1428894433/) | Lincoln Electric | OH | 2026-08-21 |
 <!-- JOBS:END -->
 
 ## How it works
