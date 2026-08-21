@@ -56,15 +56,40 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 2115 tracked total · updated `2026-08-21T13:37:23+00:00`
+### 🆕 15 new roles this update · 2130 tracked total · updated `2026-08-21T16:15:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 1 |
+| Sherwin-Williams | 3 |
+| Nationwide | 2 |
+| Russell Tobin | 1 |
+| First Solar | 1 |
+| Fifth Third Bank | 1 |
+| Cleveland Clinic | 1 |
+| KeyBank | 1 |
+| Huntington Bank | 1 |
+| Abbott (Columbus) | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [QA Tester](https://agilityconnect.io/jobs/8372) | Agility Connect | OH | 2026-08-21 |
+| [Lead AI Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=28964757#/jobs/28964757) | Russell Tobin | Remote, OR | 2026-08-21 |
+| [Engineer- Full Stack USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025633) | First Solar | Perrysburg, OH, United States | 2026-08-21 |
+| [Associate Director, Software Engineering](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Director--Software-Engineering_R71105-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-21 |
+| [Software Engineering Product Manager – IoT / Telematics](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Software-Engineering-Product-Manager---IoT---Telematics_099170) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-21 |
+| [Consultant, Data Engineer \| Databricks](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Data-Engineer---Databricks_099719) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-21 |
+| [Access Optimization Analyst I - Epic Cadence](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Access-Optimization-Analyst-I---Epic-Cadence_347142) | Cleveland Clinic | Remote Location | 2026-08-21 |
+| [Power Platform Developer](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Power-Platform-Developer_R-41327-1) | KeyBank | Brooklyn, OH | 2026-08-21 |
+| [SCADA Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621324) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-21 |
+| [Lead Platform Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621468) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-21 |
+| [Senior Platform Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621521) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-21 |
+| [Senior Data Scientist](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Scientist_R0074805) | Huntington Bank | Columbus, OH | 2026-08-21 |
+| [Senior Project Lead Quality Assurance - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Project-Lead-Quality-Assurance---Columbus--OH_31159751) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-08-21 |
+| [Test Engineering Technician](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278943) | Vertiv | Delaware, OH, United States | 2026-08-21 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-21 |
+| [Data Analyst II](https://careers.cintas.com/job/Mason-Data-Analyst-II-OH-45040/1421963000/) | Cintas | OH | 2026-08-21 |
 <!-- JOBS:END -->
 
 ## How it works
