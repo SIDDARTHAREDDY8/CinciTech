@@ -56,15 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 2115 tracked total · updated `2026-08-21T10:23:23+00:00`
+### 🆕 1 new roles this update · 2115 tracked total · updated `2026-08-21T13:37:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-21 |
+| [QA Tester](https://agilityconnect.io/jobs/8372) | Agility Connect | OH | 2026-08-21 |
 <!-- JOBS:END -->
 
 ## How it works
