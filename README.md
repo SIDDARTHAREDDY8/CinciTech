@@ -56,19 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2114 tracked total · updated `2026-08-21T02:24:49+00:00`
+### 🟢 No new roles this update · **2114** roles open total · updated `2026-08-21T04:32:42+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| TEKsystems | 2 |
-| DHL | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Technical Product Owner](https://careers.teksystems.com/us/en/job/JP-006234860/Technical-Product-Owner) | TEKsystems | Dayton, Ohio | 2026-08-21 |
-| [Remote IP Network Engineer I](https://careers.teksystems.com/us/en/job/JP-006234929/Remote-IP-Network-Engineer-I) | TEKsystems | Columbus, Ohio | 2026-08-21 |
-| [Data Analytics and Data Catalog Intern](https://dpdhlgroup.avature.net/jobs/ApplicationMethods?jobId=368788&source=careers.dhl.com) | DHL | Erlanger, Kentucky | 2026-08-21 |
-| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11107322.html) | DHL | Westerville, Ohio | 2026-08-21 |
+Nothing new since the last run — [browse all 2114 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
