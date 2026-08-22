@@ -56,18 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2124 tracked total · updated `2026-08-22T13:19:05+00:00`
+### 🟢 No new roles this update · **2124** roles open total · updated `2026-08-22T15:51:32+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 4 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Automation Engineer](https://agilityconnect.io/jobs/8378) | Agility Connect | OH | 2026-08-22 |
-| [SAP Sr Engineer](https://agilityconnect.io/jobs/8374) | Agility Connect | Columbus, OH | 2026-08-22 |
-| [Java Backend Services Developer](https://agilityconnect.io/jobs/8375) | Agility Connect | Cincinnati, OH | 2026-08-22 |
-| [Senior Backend Engineer](https://agilityconnect.io/jobs/8354) | Agility Connect | Cincinnati, OH | 2026-08-22 |
+Nothing new since the last run — [browse all 2124 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
