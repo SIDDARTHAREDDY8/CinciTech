@@ -56,9 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2116** roles open total · updated `2026-08-22T02:11:50+00:00`
+### 🆕 4 new roles this update · 2120 tracked total · updated `2026-08-22T04:21:59+00:00`
 
-Nothing new since the last run — [browse all 2116 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| TRU Staffing Partners | 3 |
+| Stanton House | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7492#/jobs/7492) | TRU Staffing Partners | Anywhere | 2026-08-22 |
+| [Data Scientist (Litigation)](https://jobs.trustaffingpartners.com/?jobid=7494#/jobs/7494) | TRU Staffing Partners | Anywhere | 2026-08-22 |
+| [Senior Application Engineer](https://jobs.trustaffingpartners.com/?jobid=7504#/jobs/7504) | TRU Staffing Partners | Anywhere | 2026-08-22 |
+| [Client Platform Security Engineer](https://www.stantonhouse.com/us/jobs/32026-Client-Platform-Security-Engineer) | Stanton House | US, Remote | 2026-08-22 |
 <!-- JOBS:END -->
 
 ## How it works
