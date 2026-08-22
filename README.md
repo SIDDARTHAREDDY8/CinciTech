@@ -56,19 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2138 tracked total · updated `2026-08-21T22:02:34+00:00`
+### 🟢 No new roles this update · **2116** roles open total · updated `2026-08-22T02:11:50+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Mindlance | 1 |
-| Njoyn (CGI) | 1 |
-| Lincoln Electric | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Solutions Architect (Facets G6 / Healthcare Claims)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29134334#/jobs/29134334) | Mindlance | Remote, MD | 2026-08-21 |
-| [Sr. Alvaria Dialer Technical System Administrator](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0929&BRID=1327785&lang=1) | Njoyn (CGI) | Remote, United States | 2026-08-21 |
-| [Information Technology Summer 2027 Internship (Euclid, Oh)](https://jobs.lincolnelectric.com/job/Cleveland-Information-Technology-Summer-2027-Internship-%28Euclid%2C-Oh%29-OH-44117/1428894433/) | Lincoln Electric | OH | 2026-08-21 |
+Nothing new since the last run — [browse all 2116 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
