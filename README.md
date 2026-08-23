@@ -56,9 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2107** roles open total · updated `2026-08-23T04:17:35+00:00`
+### 🆕 1 new roles this update · 2108 tracked total · updated `2026-08-23T07:20:15+00:00`
 
-Nothing new since the last run — [browse all 2107 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Fifth Third Bank | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Director, Platform Engineering - Commercial Credit Servicing](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Director--Platform-Engineering---Commercial-Credit-Servicing_R71852) | Fifth Third Bank | Cincinnati, OH | 2026-08-23 |
 <!-- JOBS:END -->
 
 ## How it works
