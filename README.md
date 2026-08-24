@@ -56,9 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2098** roles open total · updated `2026-08-24T02:13:53+00:00`
+### 🆕 1 new roles this update · 2099 tracked total · updated `2026-08-24T04:22:22+00:00`
 
-Nothing new since the last run — [browse all 2098 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| CrossCountry Mortgage | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Director, Data Engineering](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Director--Data-Engineering_JR03569) | CrossCountry Mortgage | Remote USA | 2026-08-24 |
 <!-- JOBS:END -->
 
 ## How it works
