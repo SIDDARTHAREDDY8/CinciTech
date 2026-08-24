@@ -56,17 +56,31 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2100 tracked total · updated `2026-08-24T13:42:29+00:00`
+### 🆕 10 new roles this update · 2110 tracked total · updated `2026-08-24T16:13:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Fifth Third Bank | 1 |
-| Sherwin-Williams | 1 |
+| Artech | 2 |
+| Cynet Systems | 2 |
+| Net2Source | 1 |
+| Gina's Tech Jobs | 1 |
+| Next Step Systems | 1 |
+| Harnham | 1 |
+| CareSource | 1 |
+| American Electric Power | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Systems Support Specialist-Onsite Cincinnati, Ohio](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Systems-Support-Specialist-Onsite-Cincinnati--Ohio_R69805) | Fifth Third Bank | Cincinnati, OH | 2026-08-24 |
-| [Platform Engineering Senior Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621193) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-24 |
+| [SOC Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32903100#/jobs/32903100) | Artech | Remote, NY | 2026-08-24 |
+| [GRC Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32902408#/jobs/32902408) | Artech | Remote | 2026-08-24 |
+| [Senior Full-Stack Cloud Engineer (AWS & Platform Core)](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29123349#/jobs/29123349) | Net2Source | Cincinnati, OH | 2026-08-24 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/FujrKIzlEP-zrl25dBulkMDTWtifmrWGlKj0fyFulOs) | Cynet Systems | Ohio | 2026-08-24 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/BNRwhdYgywq7KG5r1B6vxylJt8-UWBiESPVJADibt4o) | Cynet Systems | Ohio | 2026-08-24 |
+| [Engineering Manager, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/engineering-manager-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-08-24 |
+| [Engineering Manager, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/engineering-manager-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-08-24 |
+| [SENIOR DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-engineer-ohio/) | Harnham | Ohio | 2026-08-24 |
+| [AI Architect III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Architect-III_R13527-1) | CareSource | Remote | 2026-08-24 |
+| [Enterprise Leadership Development Lead](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Enterprise-Leadership-Development-Lead_R18397) | American Electric Power | Columbus, OH | 2026-08-24 |
 <!-- JOBS:END -->
 
 ## How it works
