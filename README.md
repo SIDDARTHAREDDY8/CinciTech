@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 2099 tracked total · updated `2026-08-24T04:22:22+00:00`
+### 🆕 2 new roles this update · 2101 tracked total · updated `2026-08-24T07:36:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CrossCountry Mortgage | 1 |
+| Nationwide | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Director, Data Engineering](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Director--Data-Engineering_JR03569) | CrossCountry Mortgage | Remote USA | 2026-08-24 |
+| [Consultant, Scrum Master](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Scrum-Master_099744) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-24 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-24 |
 <!-- JOBS:END -->
 
 ## How it works
