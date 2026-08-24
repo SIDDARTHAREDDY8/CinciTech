@@ -56,9 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2101** roles open total · updated `2026-08-24T10:24:46+00:00`
+### 🆕 2 new roles this update · 2100 tracked total · updated `2026-08-24T13:42:29+00:00`
 
-Nothing new since the last run — [browse all 2101 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Fifth Third Bank | 1 |
+| Sherwin-Williams | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Systems Support Specialist-Onsite Cincinnati, Ohio](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Systems-Support-Specialist-Onsite-Cincinnati--Ohio_R69805) | Fifth Third Bank | Cincinnati, OH | 2026-08-24 |
+| [Platform Engineering Senior Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621193) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-24 |
 <!-- JOBS:END -->
 
 ## How it works
