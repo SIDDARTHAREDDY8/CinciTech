@@ -56,22 +56,35 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 2135 tracked total · updated `2026-08-25T13:45:22+00:00`
+### 🆕 12 new roles this update · 2144 tracked total · updated `2026-08-25T16:27:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Artech | 2 |
 | Cynet Systems | 2 |
-| Nationwide Children's Hospital | 1 |
+| Belcan | 1 |
+| Diebold Nixdorf | 1 |
+| KeyBank | 1 |
+| Sherwin-Williams | 1 |
+| Huntington Bank | 1 |
 | OhioHealth | 1 |
-| Honda | 1 |
+| Cincinnati Children's Hospital | 1 |
+| O-I Glass | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/qc2esxIKkkJ7AF1Ev545boEw3I9J32LZAg8g2guTbBs) | Cynet Systems | Ohio | 2026-08-25 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/_UUjWnZy7jj32TODcFUvXe3gyF3NljEY0UselTesZuY) | Cynet Systems | Ohio | 2026-08-25 |
-| [Senior Cloud Infrastructure Engineer - AWS](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Senior-Cloud-Infrastructure-Engineer---AWS_R-20751-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-08-25 |
-| [Senior IT Engineer – Enterprise Storage and Backup](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Senior-IT-Engineer---Enterprise-Storage-and-Backup_JR156504) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-25 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-25 |
+| [Software Engineering - Software Engineer V](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32910072#/jobs/32910072) | Artech | Remote, CA | 2026-08-25 |
+| [Network Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32907123#/jobs/32907123) | Artech | REMOTE | 2026-08-25 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/wcZm7vHnrEhT1DCKBqnK5G-1g3OCG6XyOJwfRhircRo) | Cynet Systems | Ohio | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/tmV2DMdnPgVp0WGW4kj3NT4EJypOSxOlicCv2OZNsDE) | Cynet Systems | Ohio | 2026-08-25 |
+| [REMOTE Embedded System Security Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367488&apply=yes&) | Belcan | REMOTE, RE | 2026-08-25 |
+| [Security Manager - Global Security Operations Center (GSOC)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19792) | Diebold Nixdorf | North Canton, OH, United States | 2026-08-25 |
+| [Software Engineer - Agentic AI (Python/Azure/GCP)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Engineer---Agentic-AI--Python-Azure-GCP-_R-41786) | KeyBank | Brooklyn, OH | 2026-08-25 |
+| [Senior IT Audit Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621781) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-25 |
+| [Lead Test Data Management Engineer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Lead-Test-Data-Management-Engineer_R0074994) | Huntington Bank | Columbus, OH | 2026-08-25 |
+| [Senior IT Engineer - Cisco/Juniper](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer---Cisco-Juniper_JR156796) | OhioHealth | 2 Locations | 2026-08-25 |
+| [Senior Epic Analyst - CINCI Lab](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-Epic-Analyst---Inpatient-Ambulatory_JR223797) | Cincinnati Children's Hospital | Remote | 2026-08-25 |
+| [Information Technology Internship -Summer 2027](https://jobs.smartrecruiters.com/O-I/744000145564019) | O-I Glass | Perrysburg, OH | 2026-08-25 |
 <!-- JOBS:END -->
 
 ## How it works
