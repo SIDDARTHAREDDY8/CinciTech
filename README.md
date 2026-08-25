@@ -56,16 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2130 tracked total · updated `2026-08-25T10:12:16+00:00`
+### 🆕 5 new roles this update · 2135 tracked total · updated `2026-08-25T13:45:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
+| Nationwide Children's Hospital | 1 |
+| OhioHealth | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/OLK7p7M-L3jJ372TKXBWtZZP1AnSokybhR0jtV63Td8) | Cynet Systems | Ohio | 2026-08-25 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/Wl5Fi6KMdsEzLfVUPmpS10GKBAAQj1RYG3SJIHCj-os) | Cynet Systems | Ohio | 2026-08-25 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/qc2esxIKkkJ7AF1Ev545boEw3I9J32LZAg8g2guTbBs) | Cynet Systems | Ohio | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/_UUjWnZy7jj32TODcFUvXe3gyF3NljEY0UselTesZuY) | Cynet Systems | Ohio | 2026-08-25 |
+| [Senior Cloud Infrastructure Engineer - AWS](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Senior-Cloud-Infrastructure-Engineer---AWS_R-20751-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-08-25 |
+| [Senior IT Engineer – Enterprise Storage and Backup](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Senior-IT-Engineer---Enterprise-Storage-and-Backup_JR156504) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-08-25 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-25 |
 <!-- JOBS:END -->
 
 ## How it works
