@@ -56,42 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 2136 tracked total · updated `2026-08-24T22:04:17+00:00`
+### 🆕 3 new roles this update · 2123 tracked total · updated `2026-08-25T02:13:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Procter & Gamble | 8 |
-| OhioHealth | 4 |
 | Cynet Systems | 2 |
-| Vaco | 1 |
-| CoverMyMeds | 1 |
-| Cleveland Clinic | 1 |
-| Abbott (Columbus) | 1 |
-| GE Aerospace | 1 |
-| Honda | 1 |
+| Procter & Gamble | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Software Engineer](https://jobs.vaco.com/job/1564/sr_software_engineer/en) | Vaco | Gahanna, Ohio | 2026-08-24 |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/7AVgS0Wmd-w3r9foCGnuNFV2mueEek8RwVWIueQRwh0) | Cynet Systems | Ohio | 2026-08-24 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/WTyMPR6olGEQeK4_jL6vQoKqqDTBkU98kgIQWgT-7bc) | Cynet Systems | Ohio | 2026-08-24 |
-| [Sr. Associate Software Engineer, Identity and Access Management](https://mckesson.wd3.myworkdayjobs.com/CoverMyMeds_External_Careers/job/USA-OH-Columbus/Sr-Associate-Software-Engineer--Identity-and-Access-Management_JR0152877) | CoverMyMeds | USA, OH, Columbus | 2026-08-24 |
-| [Research Data Scientist I](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-I_350759) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-08-24 |
-| [IT Engineering (Software, Platform, & Network) (2027 Grads)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [IT Engineering Internship (Software, Platform, & Network)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [Data Scientist (Master's Degree) Internship](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [Data Science (Master’s degree) (2027 Grads)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [Data & AI Engineering Internship](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [Data & AI Engineering (2027 Grads)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [IT Project & Product Manager (2027 Grads)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager--2027-Grads-_R000157914) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [IT Project & Product Manager Internship](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-24 |
-| [Research Scientist Product Development - Nutrition - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Research-Scientist-Product-Development---Nutrition---Columbus--OH_31159040) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-08-24 |
-| [Senior IT Engineer – Enterprise Storage and Backup](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/BLOM-ADMINISTRATIVE-CAMPUS/Senior-IT-Engineer---Enterprise-Storage-and-Backup_JR156504) | OhioHealth | BLOM ADMINISTRATIVE CAMPUS | 2026-08-24 |
-| [Epic Senior Systems Analyst - Ambulatory](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Ambulatory_JR156903-1) | OhioHealth | WORK AT HOME - OHIO | 2026-08-24 |
-| [Epic Senior Systems Analyst - HIM (ROI, DT, Coding & Idenity)](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---HIM--ROI--DT--Coding---Idenity-_JR156406) | OhioHealth | WORK AT HOME - OHIO | 2026-08-24 |
-| [Epic Systems Analyst - HIM (ROI, DT, Coding & Identity)](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---HIM--ROI--DT--Coding---Identity-_JR156410) | OhioHealth | WORK AT HOME - OHIO | 2026-08-24 |
-| [Sr AI Data Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Sr-AI-Data-Engineer_R5039157-1) | GE Aerospace | Remote | 2026-08-24 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/11075) | Honda | Anna, Ohio, United States | 2026-08-24 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/VS8AXRCB8DGX40nObbjwO5jrimT_FpBzabfu7nJXRlQ) | Cynet Systems | Ohio | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/eqPE8rjdNPmYhQ3cxnsFqhAq3Uyur0y069APWM7icTo) | Cynet Systems | Ohio | 2026-08-25 |
+| [IT Security (2027 Grads)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Security--2027-Grads-_R000157917) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-25 |
 <!-- JOBS:END -->
 
 ## How it works
