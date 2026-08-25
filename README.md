@@ -56,35 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 2144 tracked total · updated `2026-08-25T16:27:39+00:00`
+### 🆕 8 new roles this update · 2152 tracked total · updated `2026-08-25T19:18:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
 | Cynet Systems | 2 |
-| Belcan | 1 |
-| Diebold Nixdorf | 1 |
-| KeyBank | 1 |
-| Sherwin-Williams | 1 |
-| Huntington Bank | 1 |
-| OhioHealth | 1 |
-| Cincinnati Children's Hospital | 1 |
-| O-I Glass | 1 |
+| Vertiv | 2 |
+| Apex Systems | 1 |
+| CareSource | 1 |
+| Fifth Third Bank | 1 |
+| Great American Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering - Software Engineer V](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32910072#/jobs/32910072) | Artech | Remote, CA | 2026-08-25 |
-| [Network Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32907123#/jobs/32907123) | Artech | REMOTE | 2026-08-25 |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/wcZm7vHnrEhT1DCKBqnK5G-1g3OCG6XyOJwfRhircRo) | Cynet Systems | Ohio | 2026-08-25 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/tmV2DMdnPgVp0WGW4kj3NT4EJypOSxOlicCv2OZNsDE) | Cynet Systems | Ohio | 2026-08-25 |
-| [REMOTE Embedded System Security Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367488&apply=yes&) | Belcan | REMOTE, RE | 2026-08-25 |
-| [Security Manager - Global Security Operations Center (GSOC)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19792) | Diebold Nixdorf | North Canton, OH, United States | 2026-08-25 |
-| [Software Engineer - Agentic AI (Python/Azure/GCP)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Engineer---Agentic-AI--Python-Azure-GCP-_R-41786) | KeyBank | Brooklyn, OH | 2026-08-25 |
-| [Senior IT Audit Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621781) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-25 |
-| [Lead Test Data Management Engineer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Lead-Test-Data-Management-Engineer_R0074994) | Huntington Bank | Columbus, OH | 2026-08-25 |
-| [Senior IT Engineer - Cisco/Juniper](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer---Cisco-Juniper_JR156796) | OhioHealth | 2 Locations | 2026-08-25 |
-| [Senior Epic Analyst - CINCI Lab](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-Epic-Analyst---Inpatient-Ambulatory_JR223797) | Cincinnati Children's Hospital | Remote | 2026-08-25 |
-| [Information Technology Internship -Summer 2027](https://jobs.smartrecruiters.com/O-I/744000145564019) | O-I Glass | Perrysburg, OH | 2026-08-25 |
+| [Remote ServiceNow Administrator](https://www.apexsystems.com/job/3047618_usa/remote-servicenow-administrator) | Apex Systems | Remote, WI | 2026-08-25 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/LpUOdQNdhntKoAxB4QVeIJ4HwZV7Mkdf4DaKBEIJYaA) | Cynet Systems | Ohio | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/4JNzzokunmWLOjOLeO4qoeDS83a6do7HR_mW0hG1aOM) | Cynet Systems | Ohio | 2026-08-25 |
+| [EDI Technical Product Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/EDI-Technical-Product-Manager_R13560) | CareSource | Remote | 2026-08-25 |
+| [Lead Data Engineer-Regulatory Reporting](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Data-Engineer-Regulatory-Reporting_R71824-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-25 |
+| [Business Intelligence Manager - Specialty Equipment](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence-Manager---Specialty-Equipment_R9410) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-25 |
+| [Associate Application Engineer - Thermal](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279500) | Vertiv | Westerville, OH, United States | 2026-08-25 |
+| [Technical Product Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280150) | Vertiv | Westerville, OH, United States | 2026-08-25 |
 <!-- JOBS:END -->
 
 ## How it works
