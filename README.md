@@ -56,27 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 2152 tracked total · updated `2026-08-25T19:18:56+00:00`
+### 🆕 9 new roles this update · 2161 tracked total · updated `2026-08-25T22:14:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Vertiv | 2 |
-| Apex Systems | 1 |
-| CareSource | 1 |
-| Fifth Third Bank | 1 |
-| Great American Insurance | 1 |
+| Russell Tobin | 1 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Procter & Gamble | 1 |
+| Abbott (Columbus) | 1 |
+| Battelle | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Remote ServiceNow Administrator](https://www.apexsystems.com/job/3047618_usa/remote-servicenow-administrator) | Apex Systems | Remote, WI | 2026-08-25 |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/LpUOdQNdhntKoAxB4QVeIJ4HwZV7Mkdf4DaKBEIJYaA) | Cynet Systems | Ohio | 2026-08-25 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/4JNzzokunmWLOjOLeO4qoeDS83a6do7HR_mW0hG1aOM) | Cynet Systems | Ohio | 2026-08-25 |
-| [EDI Technical Product Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/EDI-Technical-Product-Manager_R13560) | CareSource | Remote | 2026-08-25 |
-| [Lead Data Engineer-Regulatory Reporting](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Data-Engineer-Regulatory-Reporting_R71824-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-25 |
-| [Business Intelligence Manager - Specialty Equipment](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence-Manager---Specialty-Equipment_R9410) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-25 |
-| [Associate Application Engineer - Thermal](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279500) | Vertiv | Westerville, OH, United States | 2026-08-25 |
-| [Technical Product Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280150) | Vertiv | Westerville, OH, United States | 2026-08-25 |
+| [Product Support Specialist: Remote](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29134940#/jobs/29134940) | Russell Tobin | Remote, CA | 2026-08-25 |
+| [Information Technology - ERP Consultant - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32909003#/jobs/32909003) | Artech | Remote with Travel, GA | 2026-08-25 |
+| [Software Engineering - Software Engineer V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29146186#/jobs/29146186) | Mindlance | Remote, CA | 2026-08-25 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/M_eTT3UvuE7ENvzTwBWTgvgXhZDphpCAFQMh8Wg6b50) | Cynet Systems | Ohio | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/p0FXqTzjg9Axm3m9glrEX54axtVNd8cR9hyBwrj4Pqs) | Cynet Systems | Ohio | 2026-08-25 |
+| [QA Digital Systems Manager](https://pg.wd5.myworkdayjobs.com/1000/job/LIMA-OHIO-PLANT/QA-Digital-Systems-Manager_R000157062) | Procter & Gamble | LIMA (OHIO) PLANT | 2026-08-25 |
+| [Research Scientist Immunology -- Nutrition - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Research-Scientist-Immunology-----Nutrition---Columbus--OH_31159855) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-08-25 |
+| [IT Security Analyst IV](https://jobs.battelle.org/us/en/job/76477) | Battelle | Remote, OH | 2026-08-25 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-25 |
 <!-- JOBS:END -->
 
 ## How it works
