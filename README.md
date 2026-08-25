@@ -56,18 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2129 tracked total · updated `2026-08-25T07:25:43+00:00`
+### 🆕 2 new roles this update · 2130 tracked total · updated `2026-08-25T10:12:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/T5lOo8j3MoT5_5-tAdI8AEqsOUwwt0LZyg7rPFhoJWE) | Cynet Systems | Ohio | 2026-08-25 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/60DqUdqiPbNhFmrNmzLvE4X4QGXSLc8QgwoAWkjR_r4) | Cynet Systems | Ohio | 2026-08-25 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-25 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/OLK7p7M-L3jJ372TKXBWtZZP1AnSokybhR0jtV63Td8) | Cynet Systems | Ohio | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/Wl5Fi6KMdsEzLfVUPmpS10GKBAAQj1RYG3SJIHCj-os) | Cynet Systems | Ohio | 2026-08-25 |
 <!-- JOBS:END -->
 
 ## How it works
