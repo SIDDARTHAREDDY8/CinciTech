@@ -56,18 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 2123 tracked total · updated `2026-08-25T02:13:21+00:00`
+### 🆕 3 new roles this update · 2126 tracked total · updated `2026-08-25T04:17:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Procter & Gamble | 1 |
+| Cincinnati Children's Hospital | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/VS8AXRCB8DGX40nObbjwO5jrimT_FpBzabfu7nJXRlQ) | Cynet Systems | Ohio | 2026-08-25 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/eqPE8rjdNPmYhQ3cxnsFqhAq3Uyur0y069APWM7icTo) | Cynet Systems | Ohio | 2026-08-25 |
-| [IT Security (2027 Grads)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Security--2027-Grads-_R000157917) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-25 |
+| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/Scr9Q2Lo_QN2ENsrqIOqje6Nv8Ok8PodzJZl_1pq8N0) | Cynet Systems | Ohio | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/-IkNx4oNVpdhsAp2V3FyAwk4QZcanlkncmK0df3RleA) | Cynet Systems | Ohio | 2026-08-25 |
+| [Director - Data Engineering](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Director---Data-Engineering_JR223839-1) | Cincinnati Children's Hospital | Offices at Vernon Place | 2026-08-25 |
 <!-- JOBS:END -->
 
 ## How it works
