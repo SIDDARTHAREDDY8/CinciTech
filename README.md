@@ -56,17 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2142 tracked total · updated `2026-08-26T02:22:00+00:00`
+### 🆕 2 new roles this update · 2144 tracked total · updated `2026-08-26T04:25:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
-| Whirlpool | 1 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/sbHlHDvozdOaGQzXTfAO3-J643SMhHB-QrY1f7-zdwQ) | Cynet Systems | Ohio | 2026-08-26 |
-| [Sr. Manufacturing Test Engineer](https://jobs.whirlpool.com/careers/job/34403263505) | Whirlpool | Marion, OH, US | 2026-08-26 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/n5RklMiF8XTslRg0Y-Yt83-Mc-ISi8U5FIDtxggpELU) | Cynet Systems | Ohio | 2026-08-26 |
+| [Consultant, Software Engineer - Tech Lead](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Tech-Lead_099497) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-26 |
 <!-- JOBS:END -->
 
 ## How it works
