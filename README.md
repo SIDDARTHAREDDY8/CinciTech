@@ -56,30 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 2161 tracked total · updated `2026-08-25T22:14:19+00:00`
+### 🆕 2 new roles this update · 2142 tracked total · updated `2026-08-26T02:22:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 2 |
-| Russell Tobin | 1 |
-| Artech | 1 |
-| Mindlance | 1 |
-| Procter & Gamble | 1 |
-| Abbott (Columbus) | 1 |
-| Battelle | 1 |
-| Honda | 1 |
+| Cynet Systems | 1 |
+| Whirlpool | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Product Support Specialist: Remote](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29134940#/jobs/29134940) | Russell Tobin | Remote, CA | 2026-08-25 |
-| [Information Technology - ERP Consultant - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32909003#/jobs/32909003) | Artech | Remote with Travel, GA | 2026-08-25 |
-| [Software Engineering - Software Engineer V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29146186#/jobs/29146186) | Mindlance | Remote, CA | 2026-08-25 |
-| [Telecom Operations Analyst/Administrator](https://candidateportal.ceipal.com/job-details/M_eTT3UvuE7ENvzTwBWTgvgXhZDphpCAFQMh8Wg6b50) | Cynet Systems | Ohio | 2026-08-25 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/p0FXqTzjg9Axm3m9glrEX54axtVNd8cR9hyBwrj4Pqs) | Cynet Systems | Ohio | 2026-08-25 |
-| [QA Digital Systems Manager](https://pg.wd5.myworkdayjobs.com/1000/job/LIMA-OHIO-PLANT/QA-Digital-Systems-Manager_R000157062) | Procter & Gamble | LIMA (OHIO) PLANT | 2026-08-25 |
-| [Research Scientist Immunology -- Nutrition - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Research-Scientist-Immunology-----Nutrition---Columbus--OH_31159855) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-08-25 |
-| [IT Security Analyst IV](https://jobs.battelle.org/us/en/job/76477) | Battelle | Remote, OH | 2026-08-25 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-25 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/sbHlHDvozdOaGQzXTfAO3-J643SMhHB-QrY1f7-zdwQ) | Cynet Systems | Ohio | 2026-08-26 |
+| [Sr. Manufacturing Test Engineer](https://jobs.whirlpool.com/careers/job/34403263505) | Whirlpool | Marion, OH, US | 2026-08-26 |
 <!-- JOBS:END -->
 
 ## How it works
