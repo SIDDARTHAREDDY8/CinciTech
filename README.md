@@ -56,17 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2144 tracked total · updated `2026-08-26T04:25:10+00:00`
+### 🆕 3 new roles this update · 2147 tracked total · updated `2026-08-26T07:27:30+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 1 |
 | Nationwide | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/n5RklMiF8XTslRg0Y-Yt83-Mc-ISi8U5FIDtxggpELU) | Cynet Systems | Ohio | 2026-08-26 |
-| [Consultant, Software Engineer - Tech Lead](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Tech-Lead_099497) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-26 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/ajWJB5ITynKDK8z0nKpM4IxpZJKJgznsBsqKIh6CWMg) | Cynet Systems | Ohio | 2026-08-26 |
+| [Consultant, Scrum Master](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Scrum-Master_099873) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-26 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-26 |
 <!-- JOBS:END -->
 
 ## How it works
