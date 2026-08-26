@@ -56,15 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 2147 tracked total · updated `2026-08-26T10:14:36+00:00`
+### 🆕 6 new roles this update · 2153 tracked total · updated `2026-08-26T13:37:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Battelle | 4 |
 | Cynet Systems | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/tPaGqOd8QmOW8O5yFolMI_GdbJrKgsQkJUG0KWtELPQ) | Cynet Systems | Ohio | 2026-08-26 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/v1-hHmZoY5hDyGJiZSW0ky1VyvtATOfFAN3VouBARzg) | Cynet Systems | Ohio | 2026-08-26 |
+| [Senior Systems Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76486) | Battelle | Columbus, OH | 2026-08-26 |
+| [Senior Software Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76485) | Battelle | Columbus, OH | 2026-08-26 |
+| [Senior Test Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76484) | Battelle | Columbus, OH | 2026-08-26 |
+| [Senior Systems Engineer (MBSE)](https://jobs.battelle.org/us/en/job/76487) | Battelle | Columbus, OH | 2026-08-26 |
+| [Audit Manager](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Audit-Manager_2132769-1) | Fidelity Investments | Covington, KY | 2026-08-26 |
 <!-- JOBS:END -->
 
 ## How it works
