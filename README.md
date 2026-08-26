@@ -56,46 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 19 new roles this update · 2172 tracked total · updated `2026-08-26T16:52:15+00:00`
+### 🆕 12 new roles this update · 2183 tracked total · updated `2026-08-26T20:31:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 3 |
-| KeyBank | 2 |
-| FirstEnergy | 2 |
-| Vertiv | 2 |
-| Artech | 1 |
+| Artech | 2 |
+| Apex Systems | 1 |
 | Mindlance | 1 |
 | Cynet Systems | 1 |
-| 84.51° | 1 |
-| Marathon Petroleum | 1 |
-| Diebold Nixdorf | 1 |
+| Belcan | 1 |
 | Fifth Third Bank | 1 |
-| Sherwin-Williams | 1 |
-| OhioHealth | 1 |
-| Honda | 1 |
+| KeyBank | 1 |
+| Huntington Bank | 1 |
+| Nationwide Children's Hospital | 1 |
+| Vertiv | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [QA Test Lead – PKI / Certificate Lifecycle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32916220#/jobs/32916220) | Artech | Cleveland, OH | 2026-08-26 |
-| [Enterprise Architect](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29167191#/jobs/29167191) | Mindlance | Remote, NY | 2026-08-26 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/a9gsgovVxZ-aPWRF-JvxGsn3e_ZIcj067Idg745KeOU) | Cynet Systems | Ohio | 2026-08-26 |
-| [Lead Data Scientist - Applied AI (P4656)](https://job-boards.greenhouse.io/8451/jobs/8750678002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-08-26 |
-| [Associate Cybersecurity Engineer](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Associate-Cybersecurity-Engineer_00023404) | Marathon Petroleum | Findlay, Ohio | 2026-08-26 |
-| [Electrical Systems Engineer](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19906) | Diebold Nixdorf | North Canton, OH, United States | 2026-08-26 |
-| [Sr. Sustainable Communities & Data Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Sr-Sustainable-Communities---Data-Analyst_R71875) | Fifth Third Bank | Cincinnati, OH | 2026-08-26 |
-| [Senior Software Engineer - CTR](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Software-Engineer---CTR_R-41775) | KeyBank | Brooklyn, OH | 2026-08-26 |
-| [Data & Business Intelligence Senior Associate](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/Data---Business-Intelligence-Associate_R-41754) | KeyBank | 4910 Tiedeman Road, Brooklyn, OH | 2026-08-26 |
-| [CSOC Incident Response Lead](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621942) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-26 |
-| [Microsoft Developer - Innovation & Digital Factory - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105124) | FirstEnergy | Akron, OH, United States | 2026-08-26 |
-| [Systems Administrator - End User Services & IT Planning - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105130) | FirstEnergy | Akron, OH, United States | 2026-08-26 |
-| [Senior IT Engineer - Windows/VMWare](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer---Windows-VMWare_JR156513-1) | OhioHealth | WORK AT HOME - OHIO | 2026-08-26 |
-| [Sr. Engineer Test Engineering](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279664) | Vertiv | Delaware, OH, United States | 2026-08-26 |
-| [Lead Tech Test Engineering](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279665) | Vertiv | Delaware, OH, United States | 2026-08-26 |
-| [Software Engineer (Early Career)](https://jobs.battelle.org/us/en/job/76482) | Battelle | Columbus, OH | 2026-08-26 |
-| [Software Engineer - Embedded Systems (Entry Level)](https://jobs.battelle.org/us/en/job/76480) | Battelle | Columbus, OH | 2026-08-26 |
-| [Mid-Level Software Engineer - Embedded Systems](https://jobs.battelle.org/us/en/job/76481) | Battelle | Columbus, OH | 2026-08-26 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-26 |
+| [Java Fullstack Engineer](https://www.apexsystems.com/job/3047046_usa/java-fullstack-engineer) | Apex Systems | Remote, GA | 2026-08-26 |
+| [Information Technology - Application Development - D365 Finance Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32917209#/jobs/32917209) | Artech | Remote, NJ | 2026-08-26 |
+| [Sr Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32917690#/jobs/32917690) | Artech | COLUMBUS, OH | 2026-08-26 |
+| [AI Governance Coordinator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29169617#/jobs/29169617) | Mindlance | Remote, MD | 2026-08-26 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/Uy0HOeN68LJvZSyBi1IeFy0rNIwmOPV2JxZBNkQFP8k) | Cynet Systems | Ohio | 2026-08-26 |
+| [REMOTE ServiceNow Developer/Administrator](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367537&apply=yes&) | Belcan | Cincinnati, OH | 2026-08-26 |
+| [Business Controls Associate - Commercial and Payments IT](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Associate---Commercial-and-Payments-IT_R71969-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-26 |
+| [Senior Lead Data Engineer - Finance Data Product](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Lead-Data-Engineer---Finance-Data-Product_R-41779) | KeyBank | Brooklyn, OH | 2026-08-26 |
+| [Business Systems Analyst Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Lead_R0074387) | Huntington Bank | Columbus, OH | 2026-08-26 |
+| [Senior ETL Developer](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/525-E-Mound-St-Columbus-OH/Senior-ETL-Developer_R-27712) | Nationwide Children's Hospital | 525 E. Mound St, Columbus, OH | 2026-08-26 |
+| [Firmware Engineer Intern (Graduate Level) (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957) | Vertiv | Delaware, OH, United States | 2026-08-26 |
+| [Email Developer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Email-Developer_2133899) | Fidelity Investments | Covington, KY | 2026-08-26 |
 <!-- JOBS:END -->
 
 ## How it works
