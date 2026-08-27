@@ -56,36 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 2183 tracked total · updated `2026-08-26T20:31:13+00:00`
+### 🆕 4 new roles this update · 2186 tracked total · updated `2026-08-27T01:13:33+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
 | Apex Systems | 1 |
-| Mindlance | 1 |
 | Cynet Systems | 1 |
-| Belcan | 1 |
-| Fifth Third Bank | 1 |
-| KeyBank | 1 |
-| Huntington Bank | 1 |
-| Nationwide Children's Hospital | 1 |
-| Vertiv | 1 |
-| Fidelity Investments | 1 |
+| Worldpay | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Java Fullstack Engineer](https://www.apexsystems.com/job/3047046_usa/java-fullstack-engineer) | Apex Systems | Remote, GA | 2026-08-26 |
-| [Information Technology - Application Development - D365 Finance Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32917209#/jobs/32917209) | Artech | Remote, NJ | 2026-08-26 |
-| [Sr Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32917690#/jobs/32917690) | Artech | COLUMBUS, OH | 2026-08-26 |
-| [AI Governance Coordinator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29169617#/jobs/29169617) | Mindlance | Remote, MD | 2026-08-26 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/Uy0HOeN68LJvZSyBi1IeFy0rNIwmOPV2JxZBNkQFP8k) | Cynet Systems | Ohio | 2026-08-26 |
-| [REMOTE ServiceNow Developer/Administrator](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367537&apply=yes&) | Belcan | Cincinnati, OH | 2026-08-26 |
-| [Business Controls Associate - Commercial and Payments IT](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Associate---Commercial-and-Payments-IT_R71969-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-26 |
-| [Senior Lead Data Engineer - Finance Data Product](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Lead-Data-Engineer---Finance-Data-Product_R-41779) | KeyBank | Brooklyn, OH | 2026-08-26 |
-| [Business Systems Analyst Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Lead_R0074387) | Huntington Bank | Columbus, OH | 2026-08-26 |
-| [Senior ETL Developer](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/525-E-Mound-St-Columbus-OH/Senior-ETL-Developer_R-27712) | Nationwide Children's Hospital | 525 E. Mound St, Columbus, OH | 2026-08-26 |
-| [Firmware Engineer Intern (Graduate Level) (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957) | Vertiv | Delaware, OH, United States | 2026-08-26 |
-| [Email Developer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Email-Developer_2133899) | Fidelity Investments | Covington, KY | 2026-08-26 |
+| [Epic Senior Application Analyst](https://www.apexsystems.com/job/3047969_usa/epic-senior-application-analyst) | Apex Systems | Cleveland, OH | 2026-08-27 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/0Iz1UJoGF_Z63Dc5gbp8p3QoAPbVN5e45nA-uB_aOf4) | Cynet Systems | Ohio | 2026-08-27 |
+| [Full Stack Software Engineer II (Angular, Java)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Full-Stack-Software-Engineer-II--Angular--Java-_JR0610999) | Worldpay | CINCINNATI, OHIO | 2026-08-27 |
+| [Systems Engineer Level 1 - Endpoint](https://careers.cintas.com/job/Mason-Systems-Engineer-Level-1-Endpoint-OH-45040/1423710900/) | Cintas | OH | 2026-08-27 |
 <!-- JOBS:END -->
 
 ## How it works
