@@ -56,21 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2186 tracked total · updated `2026-08-27T01:13:33+00:00`
+### 🆕 7 new roles this update · 2193 tracked total · updated `2026-08-27T14:30:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 1 |
+| Agility Connect | 2 |
 | Cynet Systems | 1 |
-| Worldpay | 1 |
-| Cintas | 1 |
+| CareSource | 1 |
+| Huntington Bank | 1 |
+| CrossCountry Mortgage | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Epic Senior Application Analyst](https://www.apexsystems.com/job/3047969_usa/epic-senior-application-analyst) | Apex Systems | Cleveland, OH | 2026-08-27 |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/0Iz1UJoGF_Z63Dc5gbp8p3QoAPbVN5e45nA-uB_aOf4) | Cynet Systems | Ohio | 2026-08-27 |
-| [Full Stack Software Engineer II (Angular, Java)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Full-Stack-Software-Engineer-II--Angular--Java-_JR0610999) | Worldpay | CINCINNATI, OHIO | 2026-08-27 |
-| [Systems Engineer Level 1 - Endpoint](https://careers.cintas.com/job/Mason-Systems-Engineer-Level-1-Endpoint-OH-45040/1423710900/) | Cintas | OH | 2026-08-27 |
+| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/nQqtF6IuLABnRKjxFhJU_PW3PPMQy-2xEclBeA6x_rw) | Cynet Systems | Ohio | 2026-08-27 |
+| [Platform Engineer](https://agilityconnect.io/jobs/8384) | Agility Connect | Cincinnati, OH | 2026-08-27 |
+| [Software Engineer](https://agilityconnect.io/jobs/8383) | Agility Connect | Cincinnati, OH | 2026-08-27 |
+| [AI Developer](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Developer_R12673-1) | CareSource | Remote | 2026-08-27 |
+| [Data Management Operations Sr Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Management-Operations-Sr-Analyst_R0074982) | Huntington Bank | Columbus, OH | 2026-08-27 |
+| [IT Service Desk Analyst I](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/LR9---US-FL-Remote/IT-Service-Desk-Analyst-I_JR03592) | CrossCountry Mortgage | LR9 - US FL Remote | 2026-08-27 |
+| [IT Support](https://uscareers-medpace.icims.com/jobs/12966/login) | Medpace | Cincinnati, Ohio | 2026-08-27 |
 <!-- JOBS:END -->
 
 ## How it works
