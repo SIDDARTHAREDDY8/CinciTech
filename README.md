@@ -56,49 +56,40 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 2203 tracked total · updated `2026-08-28T00:41:51+00:00`
+### 🆕 16 new roles this update · 2204 tracked total · updated `2026-08-28T15:44:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 5 |
-| TRU Staffing Partners | 3 |
-| Mindlance | 3 |
-| Great American Insurance | 2 |
-| KeyBank | 2 |
-| Procter & Gamble | 2 |
-| Battelle | 2 |
-| Cardinal Health | 1 |
-| Huntington Bank | 1 |
-| Nationwide Children's Hospital | 1 |
-| Honda | 1 |
-| L3Harris | 1 |
+| Vernovis | 4 |
+| Apex Systems | 2 |
+| Worldpay | 2 |
+| Motion Recruitment | 1 |
+| Mindlance | 1 |
+| Net2Source | 1 |
+| Scion Staffing | 1 |
+| CareSource | 1 |
+| Root Insurance | 1 |
+| Nationwide | 1 |
+| Owens Corning | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Platform Engineer, U.S.](https://jobs.trustaffingpartners.com/?jobid=7610#/jobs/7610) | TRU Staffing Partners | Anywhere | 2026-08-28 |
-| [Engineering Manager, Platform Engineering](https://jobs.trustaffingpartners.com/?jobid=7612#/jobs/7612) | TRU Staffing Partners | Anywhere | 2026-08-28 |
-| [Senior Application Engineer](https://jobs.trustaffingpartners.com/?jobid=7614#/jobs/7614) | TRU Staffing Partners | Anywhere, California | 2026-08-28 |
-| [Machine Learning Engineer/AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32926007#/jobs/32926007) | Artech | Cincinnati, OH | 2026-08-28 |
-| [AI/ML Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32926252#/jobs/32926252) | Artech | REMOTE | 2026-08-28 |
-| [DevOps Engineer – GitLab CI/CD & GCP](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32925800#/jobs/32925800) | Artech | Cleveland, OH | 2026-08-28 |
-| [DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32926008#/jobs/32926008) | Artech | Cincinnati, OH | 2026-08-28 |
-| [AWS SRE/Resiliency](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32922110#/jobs/32922110) | Artech | Remote, NY | 2026-08-28 |
-| [Software Engineering - Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29176926#/jobs/29176926) | Mindlance | Remote, CA | 2026-08-28 |
-| [Product Owner II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29175754#/jobs/29175754) | Mindlance | Remote, NY | 2026-08-28 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29175579#/jobs/29175579) | Mindlance | Remote, NY | 2026-08-28 |
-| [Automation Developer](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Automation-Developer_R9429) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-28 |
-| [Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Manager_R9459) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-28 |
-| [Data Analyst, IT Service Center](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Data-Analyst--IT-Service-Center_20186226) | Cardinal Health | OH-Ohio-Work from Home | 2026-08-28 |
-| [Product Owner - Teller 21](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Digital-II_R-41440) | KeyBank | Brooklyn, OH | 2026-08-28 |
-| [Credit Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Credit-Analyst_R-41434) | KeyBank | Brooklyn, OH | 2026-08-28 |
-| [Data Scientist](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist_R000158052) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-28 |
-| [Sr. Data Scientist - AI/ML](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Sr-Data-Scientist---AI-ML_R000157901) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-28 |
-| [OS Platform Engineer III](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/OS-Platform-Engineer-III_R0074118) | Huntington Bank | Columbus, OH | 2026-08-28 |
-| [IS Business Intelligence Analyst I](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-27748-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-08-28 |
-| [Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76488) | Battelle | Columbus, OH | 2026-08-28 |
-| [Quality Assurance Regulatory Auditor](https://jobs.battelle.org/us/en/job/76490) | Battelle | Remote, OH | 2026-08-28 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-28 |
-| [Lead, IT Architecture (SAP Solution Architect)](https://careers.l3harris.com/en/job/united-states/lead-it-architecture-sap-solution-architect/4832/99812180368) | L3Harris | Remote | 2026-08-28 |
+| [AI Engineer](https://www.apexsystems.com/job/3048434_usa/ai-engineer) | Apex Systems | Cleveland, OH | 2026-08-28 |
+| [Data Integration Architect](https://www.apexsystems.com/job/3047215_usa/data-integration-architect) | Apex Systems | Mayfield Heights, OH | 2026-08-28 |
+| [Software Engineer 4 - Full Stack Java](https://motionrecruitment.com/tech-jobs/columbus/contract/software-engineer-4-full-stack-java/886146) | Motion Recruitment | COLUMBUS, OH | 2026-08-28 |
+| [IT - Project/Program Manager - IT 4](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29175032#/jobs/29175032) | Mindlance | Remote, SC | 2026-08-28 |
+| [Team Lead – Data Engineering](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29180232#/jobs/29180232) | Net2Source | Cincinatti, OH | 2026-08-28 |
+| [BI Developer](https://vernovis.com/blog/jobs/11929/) | Vernovis | Cincinnati, | 2026-08-28 |
+| [COBOL Software Developer](https://vernovis.com/blog/jobs/11979/) | Vernovis | Cincinnati, | 2026-08-28 |
+| [Software Developer II](https://vernovis.com/blog/jobs/11956/) | Vernovis | Cincinnati, | 2026-08-28 |
+| [Software Developer III](https://vernovis.com/blog/jobs/11932/) | Vernovis | Cincinnati, | 2026-08-28 |
+| [Jr. Software Engineer](https://scionstaffing.com/job/15385/?jobTitle=jr-software-engineer-remote-tx) | Scion Staffing | Location: Remote, TX | 2026-08-28 |
+| [Manager, Information Technology – Encounters IT (Transformation & Architecture Focus)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Information-Technology---Encounters-IT--Transformation---Architecture-Focus-_R12962) | CareSource | Remote | 2026-08-28 |
+| [Lead Machine Learning Engineer, Lifetime Value](https://ats.rippling.com/joinroot/jobs/dffb8ae0-e17c-49a1-8303-4ecc2a66e537) | Root Insurance | Remote (United States) | 2026-08-28 |
+| [Front End Software Engineer II – Portal](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-II---Portal--Front-End-_JR0610037) | Worldpay | CINCINNATI, OHIO | 2026-08-28 |
+| [Platform Engineer II - AWS, Kubernetes & Golang](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Platform-Engineer-II---AWS--Kubernetes---Golang_JR0609806) | Worldpay | CINCINNATI, OHIO | 2026-08-28 |
+| [Summer 2027 Enterprise Risk Management Internship](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Enterprise-Risk-Management-Internship_100097) | Nationwide | Ohio - Columbus Metro | 2026-08-28 |
+| [Field Application Engineer](https://careers.owenscorning.com/job/Granville-Field-Application-Engineer-OH-43023-1200/1424384200/) | Owens Corning | OH | 2026-08-28 |
 <!-- JOBS:END -->
 
 ## How it works
