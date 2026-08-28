@@ -56,26 +56,49 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 2193 tracked total · updated `2026-08-27T14:30:43+00:00`
+### 🆕 24 new roles this update · 2203 tracked total · updated `2026-08-28T00:41:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 2 |
-| Cynet Systems | 1 |
-| CareSource | 1 |
+| Artech | 5 |
+| TRU Staffing Partners | 3 |
+| Mindlance | 3 |
+| Great American Insurance | 2 |
+| KeyBank | 2 |
+| Procter & Gamble | 2 |
+| Battelle | 2 |
+| Cardinal Health | 1 |
 | Huntington Bank | 1 |
-| CrossCountry Mortgage | 1 |
-| Medpace | 1 |
+| Nationwide Children's Hospital | 1 |
+| Honda | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lab Support IT Administrator](https://candidateportal.ceipal.com/job-details/nQqtF6IuLABnRKjxFhJU_PW3PPMQy-2xEclBeA6x_rw) | Cynet Systems | Ohio | 2026-08-27 |
-| [Platform Engineer](https://agilityconnect.io/jobs/8384) | Agility Connect | Cincinnati, OH | 2026-08-27 |
-| [Software Engineer](https://agilityconnect.io/jobs/8383) | Agility Connect | Cincinnati, OH | 2026-08-27 |
-| [AI Developer](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Developer_R12673-1) | CareSource | Remote | 2026-08-27 |
-| [Data Management Operations Sr Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Management-Operations-Sr-Analyst_R0074982) | Huntington Bank | Columbus, OH | 2026-08-27 |
-| [IT Service Desk Analyst I](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/LR9---US-FL-Remote/IT-Service-Desk-Analyst-I_JR03592) | CrossCountry Mortgage | LR9 - US FL Remote | 2026-08-27 |
-| [IT Support](https://uscareers-medpace.icims.com/jobs/12966/login) | Medpace | Cincinnati, Ohio | 2026-08-27 |
+| [Platform Engineer, U.S.](https://jobs.trustaffingpartners.com/?jobid=7610#/jobs/7610) | TRU Staffing Partners | Anywhere | 2026-08-28 |
+| [Engineering Manager, Platform Engineering](https://jobs.trustaffingpartners.com/?jobid=7612#/jobs/7612) | TRU Staffing Partners | Anywhere | 2026-08-28 |
+| [Senior Application Engineer](https://jobs.trustaffingpartners.com/?jobid=7614#/jobs/7614) | TRU Staffing Partners | Anywhere, California | 2026-08-28 |
+| [Machine Learning Engineer/AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32926007#/jobs/32926007) | Artech | Cincinnati, OH | 2026-08-28 |
+| [AI/ML Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32926252#/jobs/32926252) | Artech | REMOTE | 2026-08-28 |
+| [DevOps Engineer – GitLab CI/CD & GCP](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32925800#/jobs/32925800) | Artech | Cleveland, OH | 2026-08-28 |
+| [DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32926008#/jobs/32926008) | Artech | Cincinnati, OH | 2026-08-28 |
+| [AWS SRE/Resiliency](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32922110#/jobs/32922110) | Artech | Remote, NY | 2026-08-28 |
+| [Software Engineering - Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29176926#/jobs/29176926) | Mindlance | Remote, CA | 2026-08-28 |
+| [Product Owner II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29175754#/jobs/29175754) | Mindlance | Remote, NY | 2026-08-28 |
+| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29175579#/jobs/29175579) | Mindlance | Remote, NY | 2026-08-28 |
+| [Automation Developer](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Automation-Developer_R9429) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-28 |
+| [Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Manager_R9459) | Great American Insurance | Cincinnati, OH (USA) | 2026-08-28 |
+| [Data Analyst, IT Service Center](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Data-Analyst--IT-Service-Center_20186226) | Cardinal Health | OH-Ohio-Work from Home | 2026-08-28 |
+| [Product Owner - Teller 21](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Digital-II_R-41440) | KeyBank | Brooklyn, OH | 2026-08-28 |
+| [Credit Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Credit-Analyst_R-41434) | KeyBank | Brooklyn, OH | 2026-08-28 |
+| [Data Scientist](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist_R000158052) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-28 |
+| [Sr. Data Scientist - AI/ML](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Sr-Data-Scientist---AI-ML_R000157901) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-08-28 |
+| [OS Platform Engineer III](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/OS-Platform-Engineer-III_R0074118) | Huntington Bank | Columbus, OH | 2026-08-28 |
+| [IS Business Intelligence Analyst I](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-27748-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-08-28 |
+| [Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76488) | Battelle | Columbus, OH | 2026-08-28 |
+| [Quality Assurance Regulatory Auditor](https://jobs.battelle.org/us/en/job/76490) | Battelle | Remote, OH | 2026-08-28 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-28 |
+| [Lead, IT Architecture (SAP Solution Architect)](https://careers.l3harris.com/en/job/united-states/lead-it-architecture-sap-solution-architect/4832/99812180368) | L3Harris | Remote | 2026-08-28 |
 <!-- JOBS:END -->
 
 ## How it works
