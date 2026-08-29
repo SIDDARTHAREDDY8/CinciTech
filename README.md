@@ -56,45 +56,41 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 2068 tracked total · updated `2026-08-29T02:07:31+00:00`
+### 🆕 20 new roles this update · 2085 tracked total · updated `2026-08-29T10:18:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 2 |
-| Beam Benefits | 2 |
-| Harnham | 1 |
-| 84.51° | 1 |
-| Marathon Petroleum | 1 |
-| American Electric Power | 1 |
-| Cleveland Clinic | 1 |
-| Sherwin-Williams | 1 |
-| OhioHealth | 1 |
-| Emerson | 1 |
-| STERIS | 1 |
+| Battelle | 8 |
+| Vernovis | 4 |
+| Collabera | 3 |
+| TRU Staffing Partners | 1 |
+| Nationwide | 1 |
 | Cintas | 1 |
 | Owens Corning | 1 |
 | Lubrizol | 1 |
-| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [STAFF ANALYTICS ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-staff-analytics-engineer-columbus-ohio/) | Harnham | Columbus, Ohio | 2026-08-29 |
-| [Lead Forward Deployed Engineer (P4570)](https://job-boards.greenhouse.io/8451/jobs/8760741002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-08-29 |
-| [Operations Research Engineer 1](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581) | Marathon Petroleum | Findlay, Ohio | 2026-08-29 |
-| [Operational Resilience Systems & Data Analyst - Analyst Sr.](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Operational-Resilience-Systems---Data-Analyst---Analyst-Sr_R18227) | American Electric Power | Columbus, OH | 2026-08-29 |
-| [Research Systems Analyst II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Systems-Analyst-II_336328) | Cleveland Clinic | Remote Location | 2026-08-29 |
-| [IT Auditor](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622152) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-29 |
-| [Senior IT Engineer- Voice Applications](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer--Voice-Applications_JR156242) | OhioHealth | WORK AT HOME - OHIO | 2026-08-29 |
-| [Advanced Quality Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009544) | Emerson | Elyria, OH, United States | 2026-08-29 |
-| [Director, IT Back Office Applications](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=51742&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-29 |
-| [Associate Robotics AI Engineer (Entry Level)](https://jobs.battelle.org/us/en/job/76285) | Battelle | Columbus, OH | 2026-08-29 |
-| [Contract Full Stack Software Developer](https://jobs.battelle.org/us/en/job/76309) | Battelle | Columbus, OH | 2026-08-29 |
-| [Senior Software Engineer](https://ats.rippling.com/beam-benefits/jobs/7a75d894-640f-44f3-9631-c1beea3a472e) | Beam Benefits | Remote (United States) | 2026-08-29 |
-| [Staff Platform Engineer](https://ats.rippling.com/beam-benefits/jobs/d8a550a8-b0ee-4794-a1c9-0cb2f6dcc35c) | Beam Benefits | Remote (Ohio, US) | 2026-08-29 |
-| [Software Engineer - Level 3 - Operational Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-3-Operational-Technology-OH-45040/1400447200/) | Cintas | OH | 2026-08-29 |
-| [Sr. Infrastructure Engineer - Distributed Hosting](https://careers.owenscorning.com/job/Toledo-Sr_-Infrastructure-Engineer-Distributed-Hosting-OH-43659-0001/1365264700/) | Owens Corning | OH | 2026-08-29 |
-| [Senior Manager, AI and Decision Science for Product & Formulation Development](https://jobs.lubrizol.com/job/Wickliffe-Senior-Manager%2C-AI-and-Decision-Science-for-Product-&-Formulation-Development-OH-44092-2298/1398042600/) | Lubrizol | OH | 2026-08-29 |
-| [Manager, IT Business Analysis](https://careers.l3harris.com/en/job/united-states/manager-it-business-analysis/4832/97433248176) | L3Harris | Remote | 2026-08-29 |
+| [Practice Support Analyst](https://jobs.trustaffingpartners.com/?jobid=7534#/jobs/7534) | TRU Staffing Partners | Anywhere | 2026-08-29 |
+| [Front End Project Manager](https://jobs.smartrecruiters.com/Collabera2/743999657694743) | Collabera | Mason, OH | 2026-08-29 |
+| [Technical/Help Desk Support](https://jobs.smartrecruiters.com/Collabera2/743999655330136) | Collabera | Mason, OH | 2026-08-29 |
+| [IT Technical Writer](https://jobs.smartrecruiters.com/Collabera2/743999652323334) | Collabera | Mason, OH | 2026-08-29 |
+| [Business Analyst - SAP FICO](https://vernovis.com/blog/jobs/11786/) | Vernovis | Cincinnati, | 2026-08-29 |
+| [Data Integration Test Engineer](https://vernovis.com/blog/jobs/11687/) | Vernovis | Cincinnati, | 2026-08-29 |
+| [Senior Mainframe System Administrator](https://vernovis.com/blog/jobs/11835/) | Vernovis | Cincinnati, | 2026-08-29 |
+| [ServiceNow Configuration Management Database (CMDB) Analyst III](https://vernovis.com/blog/jobs/11424/) | Vernovis | Cincinnati, | 2026-08-29 |
+| [Sr Engineer, Software Engineer (Test Automation Developer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Test-Automation-Developer-_099936) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-29 |
+| [Reverse Engineer/Vulnerability Research Co-op (Spring 2027)](https://jobs.battelle.org/us/en/job/76343) | Battelle | Columbus, OH | 2026-08-29 |
+| [Mid-level Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76252) | Battelle | Columbus, OH | 2026-08-29 |
+| [Senior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76230) | Battelle | Columbus, OH | 2026-08-29 |
+| [Junior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76251) | Battelle | Columbus, OH | 2026-08-29 |
+| [Principal Quality Engineer - Nuclear Energy](https://jobs.battelle.org/us/en/job/76286) | Battelle | Columbus, OH | 2026-08-29 |
+| [Maritime Systems Engineer](https://jobs.battelle.org/us/en/job/75998) | Battelle | Columbus, OH | 2026-08-29 |
+| [Early Career Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76282) | Battelle | Columbus, OH | 2026-08-29 |
+| [Sr. Network Engineer](https://jobs.battelle.org/us/en/job/76273) | Battelle | Columbus, OH | 2026-08-29 |
+| [SAP Developer-Level 3-Gateway](https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-Gateway-OH-45040/1396929300/) | Cintas | OH | 2026-08-29 |
+| [Product Owner Lead - Finished Goods](https://careers.owenscorning.com/job/Toledo-Product-Owner-Lead-Finished-Goods-OH-43659-0001/1386424400/) | Owens Corning | OH | 2026-08-29 |
+| [Infrastructure Manager](https://jobs.lubrizol.com/job/Wickliffe-Infrastructure-Manager-OH-44092-2298/1371832300/) | Lubrizol | OH | 2026-08-29 |
 <!-- JOBS:END -->
 
 ## How it works
