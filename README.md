@@ -56,40 +56,45 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 2204 tracked total · updated `2026-08-28T15:44:09+00:00`
+### 🆕 17 new roles this update · 2068 tracked total · updated `2026-08-29T02:07:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vernovis | 4 |
-| Apex Systems | 2 |
-| Worldpay | 2 |
-| Motion Recruitment | 1 |
-| Mindlance | 1 |
-| Net2Source | 1 |
-| Scion Staffing | 1 |
-| CareSource | 1 |
-| Root Insurance | 1 |
-| Nationwide | 1 |
+| Battelle | 2 |
+| Beam Benefits | 2 |
+| Harnham | 1 |
+| 84.51° | 1 |
+| Marathon Petroleum | 1 |
+| American Electric Power | 1 |
+| Cleveland Clinic | 1 |
+| Sherwin-Williams | 1 |
+| OhioHealth | 1 |
+| Emerson | 1 |
+| STERIS | 1 |
+| Cintas | 1 |
 | Owens Corning | 1 |
+| Lubrizol | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Engineer](https://www.apexsystems.com/job/3048434_usa/ai-engineer) | Apex Systems | Cleveland, OH | 2026-08-28 |
-| [Data Integration Architect](https://www.apexsystems.com/job/3047215_usa/data-integration-architect) | Apex Systems | Mayfield Heights, OH | 2026-08-28 |
-| [Software Engineer 4 - Full Stack Java](https://motionrecruitment.com/tech-jobs/columbus/contract/software-engineer-4-full-stack-java/886146) | Motion Recruitment | COLUMBUS, OH | 2026-08-28 |
-| [IT - Project/Program Manager - IT 4](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29175032#/jobs/29175032) | Mindlance | Remote, SC | 2026-08-28 |
-| [Team Lead – Data Engineering](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29180232#/jobs/29180232) | Net2Source | Cincinatti, OH | 2026-08-28 |
-| [BI Developer](https://vernovis.com/blog/jobs/11929/) | Vernovis | Cincinnati, | 2026-08-28 |
-| [COBOL Software Developer](https://vernovis.com/blog/jobs/11979/) | Vernovis | Cincinnati, | 2026-08-28 |
-| [Software Developer II](https://vernovis.com/blog/jobs/11956/) | Vernovis | Cincinnati, | 2026-08-28 |
-| [Software Developer III](https://vernovis.com/blog/jobs/11932/) | Vernovis | Cincinnati, | 2026-08-28 |
-| [Jr. Software Engineer](https://scionstaffing.com/job/15385/?jobTitle=jr-software-engineer-remote-tx) | Scion Staffing | Location: Remote, TX | 2026-08-28 |
-| [Manager, Information Technology – Encounters IT (Transformation & Architecture Focus)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Information-Technology---Encounters-IT--Transformation---Architecture-Focus-_R12962) | CareSource | Remote | 2026-08-28 |
-| [Lead Machine Learning Engineer, Lifetime Value](https://ats.rippling.com/joinroot/jobs/dffb8ae0-e17c-49a1-8303-4ecc2a66e537) | Root Insurance | Remote (United States) | 2026-08-28 |
-| [Front End Software Engineer II – Portal](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-II---Portal--Front-End-_JR0610037) | Worldpay | CINCINNATI, OHIO | 2026-08-28 |
-| [Platform Engineer II - AWS, Kubernetes & Golang](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Platform-Engineer-II---AWS--Kubernetes---Golang_JR0609806) | Worldpay | CINCINNATI, OHIO | 2026-08-28 |
-| [Summer 2027 Enterprise Risk Management Internship](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Enterprise-Risk-Management-Internship_100097) | Nationwide | Ohio - Columbus Metro | 2026-08-28 |
-| [Field Application Engineer](https://careers.owenscorning.com/job/Granville-Field-Application-Engineer-OH-43023-1200/1424384200/) | Owens Corning | OH | 2026-08-28 |
+| [STAFF ANALYTICS ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-staff-analytics-engineer-columbus-ohio/) | Harnham | Columbus, Ohio | 2026-08-29 |
+| [Lead Forward Deployed Engineer (P4570)](https://job-boards.greenhouse.io/8451/jobs/8760741002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-08-29 |
+| [Operations Research Engineer 1](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581) | Marathon Petroleum | Findlay, Ohio | 2026-08-29 |
+| [Operational Resilience Systems & Data Analyst - Analyst Sr.](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Operational-Resilience-Systems---Data-Analyst---Analyst-Sr_R18227) | American Electric Power | Columbus, OH | 2026-08-29 |
+| [Research Systems Analyst II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Systems-Analyst-II_336328) | Cleveland Clinic | Remote Location | 2026-08-29 |
+| [IT Auditor](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622152) | Sherwin-Williams | Cleveland, OH, United States | 2026-08-29 |
+| [Senior IT Engineer- Voice Applications](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer--Voice-Applications_JR156242) | OhioHealth | WORK AT HOME - OHIO | 2026-08-29 |
+| [Advanced Quality Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009544) | Emerson | Elyria, OH, United States | 2026-08-29 |
+| [Director, IT Back Office Applications](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=51742&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-08-29 |
+| [Associate Robotics AI Engineer (Entry Level)](https://jobs.battelle.org/us/en/job/76285) | Battelle | Columbus, OH | 2026-08-29 |
+| [Contract Full Stack Software Developer](https://jobs.battelle.org/us/en/job/76309) | Battelle | Columbus, OH | 2026-08-29 |
+| [Senior Software Engineer](https://ats.rippling.com/beam-benefits/jobs/7a75d894-640f-44f3-9631-c1beea3a472e) | Beam Benefits | Remote (United States) | 2026-08-29 |
+| [Staff Platform Engineer](https://ats.rippling.com/beam-benefits/jobs/d8a550a8-b0ee-4794-a1c9-0cb2f6dcc35c) | Beam Benefits | Remote (Ohio, US) | 2026-08-29 |
+| [Software Engineer - Level 3 - Operational Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-3-Operational-Technology-OH-45040/1400447200/) | Cintas | OH | 2026-08-29 |
+| [Sr. Infrastructure Engineer - Distributed Hosting](https://careers.owenscorning.com/job/Toledo-Sr_-Infrastructure-Engineer-Distributed-Hosting-OH-43659-0001/1365264700/) | Owens Corning | OH | 2026-08-29 |
+| [Senior Manager, AI and Decision Science for Product & Formulation Development](https://jobs.lubrizol.com/job/Wickliffe-Senior-Manager%2C-AI-and-Decision-Science-for-Product-&-Formulation-Development-OH-44092-2298/1398042600/) | Lubrizol | OH | 2026-08-29 |
+| [Manager, IT Business Analysis](https://careers.l3harris.com/en/job/united-states/manager-it-business-analysis/4832/97433248176) | L3Harris | Remote | 2026-08-29 |
 <!-- JOBS:END -->
 
 ## How it works
