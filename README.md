@@ -56,22 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 2091 tracked total · updated `2026-08-29T17:09:54+00:00`
+### 🟢 No new roles this update · **2089** roles open total · updated `2026-08-29T21:15:05+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 6 |
-| TEKsystems | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Qa Lead Consultant](https://careers.teksystems.com/us/en/job/JP-006252197/Qa-Lead-Consultant) | TEKsystems | Columbus, Ohio | 2026-08-29 |
-| [Information Security Data Visualization Engineer](https://agilityconnect.io/jobs/8393) | Agility Connect | Cincinnati, OH | 2026-08-29 |
-| [Business Systems Analyst III](https://agilityconnect.io/jobs/8389) | Agility Connect | OH | 2026-08-29 |
-| [Lead Information Security Engineer](https://agilityconnect.io/jobs/8395) | Agility Connect | Cincinnati, OH | 2026-08-29 |
-| [Principal Information Security Engineer](https://agilityconnect.io/jobs/8392) | Agility Connect | Cincinnati, OH | 2026-08-29 |
-| [Senior Information Security Engineer](https://agilityconnect.io/jobs/8388) | Agility Connect | Cincinnati, OH | 2026-08-29 |
-| [Senior Technical Product Owner](https://agilityconnect.io/jobs/8390) | Agility Connect | Cincinnati, OH | 2026-08-29 |
+Nothing new since the last run — [browse all 2089 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
