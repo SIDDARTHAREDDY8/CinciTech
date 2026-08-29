@@ -56,9 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2089** roles open total · updated `2026-08-29T21:15:05+00:00`
+### 🆕 1 new roles this update · 2090 tracked total · updated `2026-08-29T23:36:56+00:00`
 
-Nothing new since the last run — [browse all 2089 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Battelle | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Software Engineer](https://jobs.battelle.org/us/en/job/76185) | Battelle | Columbus, OH | 2026-08-29 |
 <!-- JOBS:END -->
 
 ## How it works
