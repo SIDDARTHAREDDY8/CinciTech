@@ -56,41 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 2085 tracked total · updated `2026-08-29T10:18:51+00:00`
+### 🆕 7 new roles this update · 2091 tracked total · updated `2026-08-29T17:09:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 8 |
-| Vernovis | 4 |
-| Collabera | 3 |
-| TRU Staffing Partners | 1 |
-| Nationwide | 1 |
-| Cintas | 1 |
-| Owens Corning | 1 |
-| Lubrizol | 1 |
+| Agility Connect | 6 |
+| TEKsystems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Practice Support Analyst](https://jobs.trustaffingpartners.com/?jobid=7534#/jobs/7534) | TRU Staffing Partners | Anywhere | 2026-08-29 |
-| [Front End Project Manager](https://jobs.smartrecruiters.com/Collabera2/743999657694743) | Collabera | Mason, OH | 2026-08-29 |
-| [Technical/Help Desk Support](https://jobs.smartrecruiters.com/Collabera2/743999655330136) | Collabera | Mason, OH | 2026-08-29 |
-| [IT Technical Writer](https://jobs.smartrecruiters.com/Collabera2/743999652323334) | Collabera | Mason, OH | 2026-08-29 |
-| [Business Analyst - SAP FICO](https://vernovis.com/blog/jobs/11786/) | Vernovis | Cincinnati, | 2026-08-29 |
-| [Data Integration Test Engineer](https://vernovis.com/blog/jobs/11687/) | Vernovis | Cincinnati, | 2026-08-29 |
-| [Senior Mainframe System Administrator](https://vernovis.com/blog/jobs/11835/) | Vernovis | Cincinnati, | 2026-08-29 |
-| [ServiceNow Configuration Management Database (CMDB) Analyst III](https://vernovis.com/blog/jobs/11424/) | Vernovis | Cincinnati, | 2026-08-29 |
-| [Sr Engineer, Software Engineer (Test Automation Developer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Test-Automation-Developer-_099936) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-08-29 |
-| [Reverse Engineer/Vulnerability Research Co-op (Spring 2027)](https://jobs.battelle.org/us/en/job/76343) | Battelle | Columbus, OH | 2026-08-29 |
-| [Mid-level Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76252) | Battelle | Columbus, OH | 2026-08-29 |
-| [Senior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76230) | Battelle | Columbus, OH | 2026-08-29 |
-| [Junior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76251) | Battelle | Columbus, OH | 2026-08-29 |
-| [Principal Quality Engineer - Nuclear Energy](https://jobs.battelle.org/us/en/job/76286) | Battelle | Columbus, OH | 2026-08-29 |
-| [Maritime Systems Engineer](https://jobs.battelle.org/us/en/job/75998) | Battelle | Columbus, OH | 2026-08-29 |
-| [Early Career Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76282) | Battelle | Columbus, OH | 2026-08-29 |
-| [Sr. Network Engineer](https://jobs.battelle.org/us/en/job/76273) | Battelle | Columbus, OH | 2026-08-29 |
-| [SAP Developer-Level 3-Gateway](https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-Gateway-OH-45040/1396929300/) | Cintas | OH | 2026-08-29 |
-| [Product Owner Lead - Finished Goods](https://careers.owenscorning.com/job/Toledo-Product-Owner-Lead-Finished-Goods-OH-43659-0001/1386424400/) | Owens Corning | OH | 2026-08-29 |
-| [Infrastructure Manager](https://jobs.lubrizol.com/job/Wickliffe-Infrastructure-Manager-OH-44092-2298/1371832300/) | Lubrizol | OH | 2026-08-29 |
+| [Qa Lead Consultant](https://careers.teksystems.com/us/en/job/JP-006252197/Qa-Lead-Consultant) | TEKsystems | Columbus, Ohio | 2026-08-29 |
+| [Information Security Data Visualization Engineer](https://agilityconnect.io/jobs/8393) | Agility Connect | Cincinnati, OH | 2026-08-29 |
+| [Business Systems Analyst III](https://agilityconnect.io/jobs/8389) | Agility Connect | OH | 2026-08-29 |
+| [Lead Information Security Engineer](https://agilityconnect.io/jobs/8395) | Agility Connect | Cincinnati, OH | 2026-08-29 |
+| [Principal Information Security Engineer](https://agilityconnect.io/jobs/8392) | Agility Connect | Cincinnati, OH | 2026-08-29 |
+| [Senior Information Security Engineer](https://agilityconnect.io/jobs/8388) | Agility Connect | Cincinnati, OH | 2026-08-29 |
+| [Senior Technical Product Owner](https://agilityconnect.io/jobs/8390) | Agility Connect | Cincinnati, OH | 2026-08-29 |
 <!-- JOBS:END -->
 
 ## How it works
