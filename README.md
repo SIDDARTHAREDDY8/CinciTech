@@ -56,9 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2065** roles open total · updated `2026-08-30T05:40:37+00:00`
+### 🆕 1 new roles this update · 2066 tracked total · updated `2026-08-30T12:22:54+00:00`
 
-Nothing new since the last run — [browse all 2065 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Honda | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-30 |
 <!-- JOBS:END -->
 
 ## How it works
