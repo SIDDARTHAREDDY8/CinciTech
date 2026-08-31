@@ -56,17 +56,28 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2034 tracked total · updated `2026-08-31T05:48:35+00:00`
+### 🆕 8 new roles this update · 2041 tracked total · updated `2026-08-31T14:05:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 1 |
-| L3Harris | 1 |
+| Battelle | 2 |
+| Alldus | 1 |
+| Kao USA | 1 |
+| Worldpay | 1 |
+| Scotts Miracle-Gro | 1 |
+| Nationwide Children's Hospital | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-31 |
-| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/99736933808) | L3Harris | Remote | 2026-08-31 |
+| [Servicenow Developer Ai Blue Ash Ohio](https://alldus.com/job/58864-servicenow-developer-ai-blue-ash-ohio/) | Alldus | Blue Ash, Ohio | 2026-08-31 |
+| [Developer, Data and Integration](https://kao.voyse.io/gh-job/4672176006?gh_jid=4672176006) | Kao USA | Cincinnati | 2026-08-31 |
+| [Senior Cloud Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-Cloud-Engineer_JR0610623) | Worldpay | CINCINNATI, OHIO | 2026-08-31 |
+| [Technician, QA](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Technician--QA_R26367) | Scotts Miracle-Gro | Marysville, OH | 2026-08-31 |
+| [IS Systems Analyst Sr. - IGM LIMS](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IS-Systems-Analyst-Sr---IGM-LIMS_R-27755-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-08-31 |
+| [Senior Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76351) | Battelle | Columbus, OH | 2026-08-31 |
+| [Manager, Information Technology - End User Support](https://jobs.battelle.org/us/en/job/76350) | Battelle | Columbus, OH | 2026-08-31 |
+| [Senior Software Engineer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Software-Engineer_2131580-1) | Fidelity Investments | Covington, KY | 2026-08-31 |
 <!-- JOBS:END -->
 
 ## How it works
