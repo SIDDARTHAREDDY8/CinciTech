@@ -56,28 +56,59 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 2041 tracked total · updated `2026-08-31T14:05:28+00:00`
+### 🆕 27 new roles this update · 2064 tracked total · updated `2026-08-31T21:13:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 2 |
-| Alldus | 1 |
-| Kao USA | 1 |
+| Fifth Third Bank | 3 |
+| OhioHealth | 3 |
+| Artech | 2 |
+| Vernovis | 2 |
+| Root Insurance | 2 |
+| Huntington Bank | 2 |
+| TEKsystems | 1 |
+| First Solar | 1 |
 | Worldpay | 1 |
-| Scotts Miracle-Gro | 1 |
+| American Electric Power | 1 |
+| IGS Energy | 1 |
 | Nationwide Children's Hospital | 1 |
-| Fidelity Investments | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
+| Owens Corning | 1 |
+| Dana Incorporated | 1 |
+| Honeywell | 1 |
+| Atlas Air Worldwide | 1 |
+| Festo | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Servicenow Developer Ai Blue Ash Ohio](https://alldus.com/job/58864-servicenow-developer-ai-blue-ash-ohio/) | Alldus | Blue Ash, Ohio | 2026-08-31 |
-| [Developer, Data and Integration](https://kao.voyse.io/gh-job/4672176006?gh_jid=4672176006) | Kao USA | Cincinnati | 2026-08-31 |
-| [Senior Cloud Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-Cloud-Engineer_JR0610623) | Worldpay | CINCINNATI, OHIO | 2026-08-31 |
-| [Technician, QA](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Technician--QA_R26367) | Scotts Miracle-Gro | Marysville, OH | 2026-08-31 |
-| [IS Systems Analyst Sr. - IGM LIMS](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IS-Systems-Analyst-Sr---IGM-LIMS_R-27755-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-08-31 |
-| [Senior Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76351) | Battelle | Columbus, OH | 2026-08-31 |
-| [Manager, Information Technology - End User Support](https://jobs.battelle.org/us/en/job/76350) | Battelle | Columbus, OH | 2026-08-31 |
-| [Senior Software Engineer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Software-Engineer_2131580-1) | Fidelity Investments | Covington, KY | 2026-08-31 |
+| [Lead Quality Engineer](https://careers.teksystems.com/us/en/job/JP-006256947/Lead-Quality-Engineer) | TEKsystems | Cincinnati, Ohio | 2026-08-31 |
+| [Technical IAM Program Manager](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32940200#/jobs/32940200) | Artech | Remote | 2026-08-31 |
+| [Snowflake Data Engineer - AI](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32939560#/jobs/32939560) | Artech | Remote | 2026-08-31 |
+| [Junior Project Manager - Workday](https://vernovis.com/blog/jobs/12137/) | Vernovis | Cincinnati, | 2026-08-31 |
+| [Project Manager - Workday](https://vernovis.com/blog/jobs/12138/) | Vernovis | Cincinnati, | 2026-08-31 |
+| [Data Scientist Intern (Fall 2026)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025724) | First Solar | Perrysburg, OH, United States | 2026-08-31 |
+| [Lead Machine Learning Engineer](https://ats.rippling.com/joinroot/jobs/215d9ec7-cc2f-472a-94b2-6299a2e86802) | Root Insurance | Remote (United States) | 2026-08-31 |
+| [Staff Machine Learning Engineer](https://ats.rippling.com/joinroot/jobs/eb244920-c537-4fdc-a01c-0fc811a35630) | Root Insurance | Remote (United States) | 2026-08-31 |
+| [Enterprise Data Office College Co-op - Summer 2027 - Cincinnati](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Summer-2027---Cincinnati_R72261) | Fifth Third Bank | Cincinnati, OH | 2026-08-31 |
+| [Enterprise Data Office Co-op - Spring 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Data-Office-Co-op---Spring-2027_R72257) | Fifth Third Bank | Cincinnati, OH | 2026-08-31 |
+| [Business Controls Manager - Commercial and Payments IT](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Manager---Commercial-and-Payments-IT_R71977-1) | Fifth Third Bank | Cincinnati, OH | 2026-08-31 |
+| [Head of Problem Management and Continuous Improvement (Sr. Director - Information Security)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Head-of-Problem-Management-and-Continuous-Improvement--Sr-Director---Information-Security-_JR0610716) | Worldpay | CINCINNATI, OHIO | 2026-08-31 |
+| [Kafka Platform Engineer](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Kafka-Platform-Engineer_R18464-1) | American Electric Power | Columbus, OH | 2026-08-31 |
+| [Software Engineer Intern](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263) | IGS Energy | Ohio Remote | 2026-08-31 |
+| [IT Talent Development Specialist III](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Talent-Development-Specialist-III_R0075283) | Huntington Bank | Columbus, OH | 2026-08-31 |
+| [IT Technical Specialist](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Technical-Specialist_R0075158) | Huntington Bank | Columbus, OH | 2026-08-31 |
+| [Data Analyst Coordinator - Research Administration](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Data-Analyst-Coordinator---Research-Administration_R-27766-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-08-31 |
+| [Epic Senior Systems Analyst - OnBase, Solarity & HIM](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---OnBase--Solarity---HIM_JR157429) | OhioHealth | WORK AT HOME - OHIO | 2026-08-31 |
+| [Epic Senior Systems Analyst - SER](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---SER_JR157427) | OhioHealth | WORK AT HOME - OHIO | 2026-08-31 |
+| [Epic Systems Analyst - RTE, Cadence & Prelude](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---RTE--Cadence---Prelude_JR157428) | OhioHealth | WORK AT HOME - OHIO | 2026-08-31 |
+| [IT Quality Assurance Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279193) | Vertiv | Westerville, OH, United States | 2026-08-31 |
+| [Manager - IT Finance and Resource Management](https://careers.honda.com/us/en/job/12454) | Honda | Marysville, Ohio, United States | 2026-08-31 |
+| [SAP Analytics Cloud (SAC) Analyst](https://careers.owenscorning.com/job/Toledo-SAP-Analytics-Cloud-%28SAC%29-Analyst-OH-43659-0001/1422676600/) | Owens Corning | OH | 2026-08-31 |
+| [Quality Engineer - CMM Systems](https://jobs.dana.com/job/Toledo-Quality-Engineer-CMM-Systems-OH-43610/1425065100/) | Dana Incorporated | OH | 2026-08-31 |
+| [Advanced Data Scientist](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155415) | Honeywell | Hamilton, NJ, United States | 2026-08-31 |
+| [Powerplant Engineer](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4386756009) | Atlas Air Worldwide | Erlanger, KY, USA | 2026-08-31 |
+| [Production Quality Engineer](https://jobs.festo.com/job/Mason-Production-Quality-Engineer-IL-45039/1415913233/) | Festo | Mason, US, 45039 | 2026-08-31 |
 <!-- JOBS:END -->
 
 ## How it works
