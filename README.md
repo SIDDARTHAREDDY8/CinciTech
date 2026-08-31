@@ -56,9 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **2036** roles open total · updated `2026-08-31T00:07:26+00:00`
+### 🆕 2 new roles this update · 2034 tracked total · updated `2026-08-31T05:48:35+00:00`
 
-Nothing new since the last run — [browse all 2036 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Honda | 1 |
+| L3Harris | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-08-31 |
+| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/99736933808) | L3Harris | Remote | 2026-08-31 |
 <!-- JOBS:END -->
 
 ## How it works
