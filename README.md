@@ -56,20 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2057 tracked total · updated `2026-09-01T18:51:13+00:00`
+### 🆕 8 new roles this update · 2062 tracked total · updated `2026-09-01T23:40:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Lubrizol | 2 |
+| Artech | 1 |
+| Belcan | 1 |
+| Worldpay | 1 |
 | American Electric Power | 1 |
-| Abbott (Columbus) | 1 |
+| Sherwin-Williams | 1 |
+| GE Aerospace | 1 |
+| Battelle | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Strategy & AI Transformation Manager](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Technology-Mgr_R18549) | American Electric Power | Columbus, OH | 2026-09-01 |
-| [Area Vice President -Enterprise Accounts](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Area-Vice-President--Enterprise-Accounts_31160748) | Abbott (Columbus) | United States of America : Remote | 2026-09-01 |
-| [Information Technology Co-op (Spring 2027)](https://jobs.lubrizol.com/job/Wickliffe-Information-Technology-Co-op-%28Spring-2027%29-OH-44092-2298/1425406400/) | Lubrizol | OH | 2026-09-01 |
-| [Information Technology Co-op (Summer 2027)](https://jobs.lubrizol.com/job/Wickliffe-Information-Technology-Co-op-%28Summer-2027%29-OH-44092-2298/1425407200/) | Lubrizol | OH | 2026-09-01 |
+| [IAM Operations & Automation Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32947212#/jobs/32947212) | Artech | Remote | 2026-09-01 |
+| [UM Support Analyst/Admin](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367666&apply=yes&) | Belcan | Mason, OH | 2026-09-01 |
+| [Audit Manager](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Audit-Manager_JR0611359-1) | Worldpay | CINCINNATI, OHIO | 2026-09-01 |
+| [Infrastructure Engineer Sr](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Infrastructure-Engineer-Sr_R18535) | American Electric Power | Columbus, OH | 2026-09-01 |
+| [Senior Full Stack Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622506) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-01 |
+| [Senior Staff Engineer - Engine Dynamics](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Staff-Engineer---Engine-Dynamics_R5039545-1) | GE Aerospace | Evendale | 2026-09-01 |
+| [Software Engineer](https://jobs.battelle.org/us/en/job/76503) | Battelle | Columbus, OH | 2026-09-01 |
+| [SAP Developer-Level 3 ABAP HANA](https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-ABAP-HANA-OH-45040/1425604000/) | Cintas | OH | 2026-09-01 |
 <!-- JOBS:END -->
 
 ## How it works
