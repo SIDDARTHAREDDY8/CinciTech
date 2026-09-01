@@ -56,22 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 2043 tracked total · updated `2026-09-01T01:03:50+00:00`
+### 🆕 8 new roles this update · 2050 tracked total · updated `2026-09-01T08:58:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Root Insurance | 5 |
-| Abercrombie & Fitch | 2 |
+| Gina's Tech Jobs | 3 |
+| Next Step Systems | 3 |
+| Brooksource | 1 |
+| Fifth Third Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lead Software Engineer, AI Enablement](https://ats.rippling.com/joinroot/jobs/6f4ad8fd-60b0-4dd0-b2f5-783fb91bc264) | Root Insurance | Remote (United States) | 2026-09-01 |
-| [Lead Software Engineer, AI Platform](https://ats.rippling.com/joinroot/jobs/3c8a3de6-12c7-4fa8-aa35-5ba7909145d0) | Root Insurance | Remote (United States) | 2026-09-01 |
-| [Senior Software Engineer, AI Platform](https://ats.rippling.com/joinroot/jobs/4768e34d-630c-44f8-8444-a6822dcac074) | Root Insurance | Remote (United States) | 2026-09-01 |
-| [Staff Software Engineer, AI Enablement](https://ats.rippling.com/joinroot/jobs/69c109a0-4e47-4def-8f88-8fcaf1fbfb23) | Root Insurance | Remote (United States) | 2026-09-01 |
-| [Staff Software Engineer, AI Platform](https://ats.rippling.com/joinroot/jobs/81f9b048-86d1-40cf-bdc4-200643cf551f) | Root Insurance | Remote (United States) | 2026-09-01 |
-| [Senior Platform Engineer, Product Facing Systems (Remote)](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Senior-Platform-Engineer--Product-Facing-Systems--Remote-_JR103690) | Abercrombie & Fitch | Columbus, Ohio | 2026-09-01 |
-| [Sr. Engineer 1, Data Engineering](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Sr-Engineer-1--Data-Engineering_JR103689-1) | Abercrombie & Fitch | Columbus, Ohio | 2026-09-01 |
+| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/ai-backend-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-01 |
+| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/android-software-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-01 |
+| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/applied-ai-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-01 |
+| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/ai-backend-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-01 |
+| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/android-software-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-01 |
+| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-ai-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-01 |
+| [Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000ysybeai-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-09-01 |
+| [Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587) | Fifth Third Bank | Cincinnati, OH | 2026-09-01 |
 <!-- JOBS:END -->
 
 ## How it works
