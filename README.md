@@ -56,25 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 2050 tracked total · updated `2026-09-01T08:58:03+00:00`
+### 🆕 5 new roles this update · 2054 tracked total · updated `2026-09-01T14:39:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Gina's Tech Jobs | 3 |
-| Next Step Systems | 3 |
-| Brooksource | 1 |
-| Fifth Third Bank | 1 |
+| CareSource | 2 |
+| Gina's Tech Jobs | 1 |
+| Vernovis | 1 |
+| Sherwin-Williams | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/ai-backend-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-01 |
-| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/android-software-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-01 |
-| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/applied-ai-engineer-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-01 |
-| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/ai-backend-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-01 |
-| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/android-software-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-01 |
-| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-ai-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-01 |
-| [Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000ysybeai-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-09-01 |
-| [Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587) | Fifth Third Bank | Cincinnati, OH | 2026-09-01 |
+| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-09-01 |
+| [Cloud Engineer](https://vernovis.com/blog/jobs/11633/) | Vernovis | Cincinnati, | 2026-09-01 |
+| [Data Scientist III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-III_R13600) | CareSource | Remote | 2026-09-01 |
+| [Data Scientist II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-II_R13599) | CareSource | Remote | 2026-09-01 |
+| [IT Analyst I](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620653) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-01 |
 <!-- JOBS:END -->
 
 ## How it works
