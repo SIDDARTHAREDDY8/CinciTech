@@ -56,22 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 2054 tracked total · updated `2026-09-01T14:39:07+00:00`
+### 🆕 4 new roles this update · 2057 tracked total · updated `2026-09-01T18:51:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CareSource | 2 |
-| Gina's Tech Jobs | 1 |
-| Vernovis | 1 |
-| Sherwin-Williams | 1 |
+| Lubrizol | 2 |
+| American Electric Power | 1 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-09-01 |
-| [Cloud Engineer](https://vernovis.com/blog/jobs/11633/) | Vernovis | Cincinnati, | 2026-09-01 |
-| [Data Scientist III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-III_R13600) | CareSource | Remote | 2026-09-01 |
-| [Data Scientist II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-II_R13599) | CareSource | Remote | 2026-09-01 |
-| [IT Analyst I](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620653) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-01 |
+| [Data Strategy & AI Transformation Manager](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Technology-Mgr_R18549) | American Electric Power | Columbus, OH | 2026-09-01 |
+| [Area Vice President -Enterprise Accounts](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Area-Vice-President--Enterprise-Accounts_31160748) | Abbott (Columbus) | United States of America : Remote | 2026-09-01 |
+| [Information Technology Co-op (Spring 2027)](https://jobs.lubrizol.com/job/Wickliffe-Information-Technology-Co-op-%28Spring-2027%29-OH-44092-2298/1425406400/) | Lubrizol | OH | 2026-09-01 |
+| [Information Technology Co-op (Summer 2027)](https://jobs.lubrizol.com/job/Wickliffe-Information-Technology-Co-op-%28Summer-2027%29-OH-44092-2298/1425407200/) | Lubrizol | OH | 2026-09-01 |
 <!-- JOBS:END -->
 
 ## How it works
