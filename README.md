@@ -56,42 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 2072 tracked total · updated `2026-09-02T16:52:16+00:00`
+### 🆕 7 new roles this update · 2078 tracked total · updated `2026-09-02T21:34:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Sherwin-Williams | 2 |
-| TEKsystems | 1 |
-| Robert Half | 1 |
-| Alldus | 1 |
-| Russell Tobin | 1 |
-| Artech | 1 |
-| CareSource | 1 |
-| Cleveland Clinic | 1 |
-| FirstEnergy | 1 |
-| Cincinnati Children's Hospital | 1 |
-| Honda | 1 |
-| Lincoln Electric | 1 |
-| Lubrizol | 1 |
-| DHL | 1 |
+| Artech | 2 |
+| Cynet Systems | 2 |
+| Honda | 2 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Junior GRC Analyst](https://careers.teksystems.com/us/en/job/JP-006261936/Junior-GRC-Analyst) | TEKsystems | Columbus, Ohio | 2026-09-02 |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-02 |
-| [Servicenow Developer Ai Ohio](https://alldus.com/job/58864-servicenow-developer-ai-ohio/) | Alldus | Ohio | 2026-09-02 |
-| [AI Agent Operations Specialist - Part-time](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29204771#/jobs/29204771) | Russell Tobin | Remote, CA | 2026-09-02 |
-| [SAP BTP Integration Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32950110#/jobs/32950110) | Artech | Remote | 2026-09-02 |
-| [Health Plan Data Analyst II (Health Plan Experience)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Health-Plan-Data-Analyst-II--Health-Plan-Experience-_R13272-1) | CareSource | Remote | 2026-09-02 |
-| [Program Manager III - Center for Cardiovascular Genomics and Data Science (HVTI)](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Program-Manager-III---Center-for-Cardiovascular-Genomics-and-Data-Science--HVTI-_332880) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-02 |
-| [Lead Platform Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622599) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-02 |
-| [Year-Round IT Co-op, Cybersecurity](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622615) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-02 |
-| [Cyber Security Systems Administrator - Cyber Security & TSOC - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105202) | FirstEnergy | Akron, OH, United States | 2026-09-02 |
-| [Senior Developer - Digital Health - HL7](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-Developer---Digital-Health---HL7_JR223552) | Cincinnati Children's Hospital | Remote | 2026-09-02 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-09-02 |
-| [Automation Applications Engineer](https://jobs.lincolnelectric.com/job/Fort-Loramie-Automation-Applications-Engineer-OH-45845/1428842833/) | Lincoln Electric | OH | 2026-09-02 |
-| [Security Engineer](https://jobs.lubrizol.com/job/Wickliffe-Security-Engineer-OH-44092-2298/1393159800/) | Lubrizol | OH | 2026-09-02 |
-| [Quality Assurance Specialist](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/QA-Specialist-USN-job-Lockbourne-OH-US-11118231.html) | DHL | Lockbourne, Ohio | 2026-09-02 |
+| [AI Product Engineer — Cisco Domain SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32953954#/jobs/32953954) | Artech | Remote, CA | 2026-09-02 |
+| [Mainframe DB2 DBA / System Programmer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32952894#/jobs/32952894) | Artech | Cleveland, OH | 2026-09-02 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/a9p4o4KYMXkAZydiG-8CcZq3hNIzsBkECHK876DrVuc) | Cynet Systems | Ohio | 2026-09-02 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/qNsbDHOzkdF6s1PWUdb2k0FH27CJ-IezKIAidMbyGJg) | Cynet Systems | Ohio | 2026-09-02 |
+| [Data Modeler/Engineering Programmer Intern (Summer 2027)](https://jobs.battelle.org/us/en/job/76472) | Battelle | Columbus, OH | 2026-09-02 |
+| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/12398) | Honda | Anna, Ohio, United States | 2026-09-02 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-02 |
 <!-- JOBS:END -->
 
 ## How it works
