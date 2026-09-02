@@ -56,24 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 2078 tracked total · updated `2026-09-02T21:34:10+00:00`
+### 🆕 4 new roles this update · 2081 tracked total · updated `2026-09-02T23:50:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
 | Cynet Systems | 2 |
-| Honda | 2 |
-| Battelle | 1 |
+| Robert Half | 1 |
+| Worldpay | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Product Engineer — Cisco Domain SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32953954#/jobs/32953954) | Artech | Remote, CA | 2026-09-02 |
-| [Mainframe DB2 DBA / System Programmer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32952894#/jobs/32952894) | Artech | Cleveland, OH | 2026-09-02 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/a9p4o4KYMXkAZydiG-8CcZq3hNIzsBkECHK876DrVuc) | Cynet Systems | Ohio | 2026-09-02 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/qNsbDHOzkdF6s1PWUdb2k0FH27CJ-IezKIAidMbyGJg) | Cynet Systems | Ohio | 2026-09-02 |
-| [Data Modeler/Engineering Programmer Intern (Summer 2027)](https://jobs.battelle.org/us/en/job/76472) | Battelle | Columbus, OH | 2026-09-02 |
-| [Quality Assurance Specialist](https://careers.honda.com/us/en/job/12398) | Honda | Anna, Ohio, United States | 2026-09-02 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-02 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-02 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/27KO6G6AiMrp7vu2v7Xew9cI8zOsMO8y-2pbULApJZM) | Cynet Systems | Ohio | 2026-09-02 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/u8rNOgsAhgaDC08JVGu__6ysftetPagDVuRonC4e4gY) | Cynet Systems | Ohio | 2026-09-02 |
+| [Technical Support Representative Specialist](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Technical-Support-Representative-Specialist_JR0611345) | Worldpay | CINCINNATI, OHIO | 2026-09-02 |
 <!-- JOBS:END -->
 
 ## How it works
