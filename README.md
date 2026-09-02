@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 2057 tracked total · updated `2026-09-02T04:58:17+00:00`
+### 🆕 1 new roles this update · 2058 tracked total · updated `2026-09-02T11:40:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 1 |
-| Honda | 1 |
+| Strategic Staffing Solutions | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Engineer, Software Engineer (Full Stack)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-02 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-02 |
+| [German Speaking Service Desk Specialist](https://jobs.strategicstaff.com/jobs/german-speaking-service-desk-specialist-170357/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-09-02 |
 <!-- JOBS:END -->
 
 ## How it works
