@@ -56,20 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2081 tracked total · updated `2026-09-02T23:50:57+00:00`
+### 🆕 4 new roles this update · 2083 tracked total · updated `2026-09-03T04:52:40+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Worldpay | 1 |
+| Nationwide | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-02 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/27KO6G6AiMrp7vu2v7Xew9cI8zOsMO8y-2pbULApJZM) | Cynet Systems | Ohio | 2026-09-02 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/u8rNOgsAhgaDC08JVGu__6ysftetPagDVuRonC4e4gY) | Cynet Systems | Ohio | 2026-09-02 |
-| [Technical Support Representative Specialist](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Technical-Support-Representative-Specialist_JR0611345) | Worldpay | CINCINNATI, OHIO | 2026-09-02 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/PjaqLxP_3oB4CGyIIZAaWv-u0mLp_MrJMb-Bv_w7xMU) | Cynet Systems | Ohio | 2026-09-03 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/GUoOV7n05pVp9TB6sacMlBslk-AyRxv1yqPKoNsb82o) | Cynet Systems | Ohio | 2026-09-03 |
+| [Sr Engineer, Software Engineer - Full-stack (Java/Angular) 2 - 5 years' experience](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Full-stack--Java-Angular--2---5-years--experience_099996-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-03 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-03 |
 <!-- JOBS:END -->
 
 ## How it works
