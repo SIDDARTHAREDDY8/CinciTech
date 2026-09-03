@@ -56,20 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2083 tracked total · updated `2026-09-03T04:52:40+00:00`
+### 🆕 2 new roles this update · 2085 tracked total · updated `2026-09-03T11:26:38+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| Nationwide | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/PjaqLxP_3oB4CGyIIZAaWv-u0mLp_MrJMb-Bv_w7xMU) | Cynet Systems | Ohio | 2026-09-03 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/GUoOV7n05pVp9TB6sacMlBslk-AyRxv1yqPKoNsb82o) | Cynet Systems | Ohio | 2026-09-03 |
-| [Sr Engineer, Software Engineer - Full-stack (Java/Angular) 2 - 5 years' experience](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Full-stack--Java-Angular--2---5-years--experience_099996-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-03 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-03 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/EHoeucyoX7MIsYszQtnQSkutNwdr_IZ_f6hjBWUIJq8) | Cynet Systems | Ohio | 2026-09-03 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/c9SwmUh6J8W9PUyeTUCLEoaALyjBCssmvWmTUTEKVTc) | Cynet Systems | Ohio | 2026-09-03 |
 <!-- JOBS:END -->
 
 ## How it works
