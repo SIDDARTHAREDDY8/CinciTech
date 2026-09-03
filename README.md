@@ -56,38 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 2102 tracked total · updated `2026-09-03T16:42:27+00:00`
+### 🆕 13 new roles this update · 2114 tracked total · updated `2026-09-03T21:28:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Sherwin-Williams | 6 |
-| Agility Connect | 3 |
-| Artech | 2 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Belcan | 1 |
-| J.M. Smucker | 1 |
-| ProMedica | 1 |
+| American Electric Power | 2 |
+| Sherwin-Williams | 2 |
+| Artech | 1 |
+| Brooksource | 1 |
+| Fast Switch | 1 |
+| Nationwide | 1 |
+| Cleveland Clinic | 1 |
+| FirstEnergy | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-03 |
-| [Test Automation Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32957968#/jobs/32957968) | Artech | Columbus, OH | 2026-09-03 |
-| [Test Automation Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32957816#/jobs/32957816) | Artech | Columbus, OH | 2026-09-03 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/tfN96_xb8b3x0752S6hToCixXUuX1ZV3mIdFvuUwoxE) | Cynet Systems | Ohio | 2026-09-03 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/hgs0WGhnkR3EIU7WeIiKQwbstiTcYcoGwl9keK-NRuo) | Cynet Systems | Ohio | 2026-09-03 |
-| [Full Stack Java Developer](https://agilityconnect.io/jobs/8402) | Agility Connect | Columbus, OH | 2026-09-03 |
-| [Software Development Engineer in Test](https://agilityconnect.io/jobs/8400) | Agility Connect | Cincinnati, OH | 2026-09-03 |
-| [System Administrator, Stores Platform Engineering](https://agilityconnect.io/jobs/8403) | Agility Connect | New Albany, OH | 2026-09-03 |
-| [Program Quality Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=367681&apply=yes&) | Belcan | Remote, RE | 2026-09-03 |
-| [Plant Systems Engineering Intern, Orrville, OH Spring 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Plant-Systems-Engineering-Intern--Orrville--OH-Spring-2027_115712) | J.M. Smucker | Orrville, OH | 2026-09-03 |
-| [Manager AI and Process Excellence - Downtown Headquarters](https://promedica.wd12.myworkdayjobs.com/External_Careers/job/Toledo/Manager-AI-and-Process-Excellence---Downtown-Headquarters_JR-8930) | ProMedica | Toledo | 2026-09-03 |
-| [Senior Full Stack Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622612) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
-| [Full Stack Application Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622619) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
-| [Associate Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
-| [Senior Business Intelligence Analyst, Finance](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622647) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
-| [SCADA Lead Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622649) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
-| [SCADA Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622657) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
+| [Information Technology - Technical Services, Help Desk And Technical Support - Flexera Administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32960473#/jobs/32960473) | Artech | Remote, VA | 2026-09-03 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ZSVeFzsmgwBYNJ1sGQLka7K3pmVhmWntSjsIMhHz5UE) | Cynet Systems | Ohio | 2026-09-03 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/XfmWOJFpJEog6WvBh-_O6B9fmu7UE-6OiHP6glbMI9I) | Cynet Systems | Ohio | 2026-09-03 |
+| [Security Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000j8hneaq-security-engineer-cincinnati-ohio/) | Brooksource | Cincinnati, Ohio | 2026-09-03 |
+| [Scrum Master](https://fastswitch.com/jobs/scrum-master-61813/) | Fast Switch | Location: Cleveland, Ohio | 2026-09-03 |
+| [Consultant, Software Engineer - AWD NF Tech Lead (Java, APIs, Oracle)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---AWD-NF-Tech-Lead--Java--APIs--Oracle-_099726-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-03 |
+| [Telecomms Apprentice II - Telecomms Apprentice I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Chillicothe-OH/Telecomms-Apprentice-II---Telecomms-Apprentice-I_R17439) | American Electric Power | Chillicothe, OH | 2026-09-03 |
+| [Telecomms Apprentice II - Telecomms Apprentice I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Groveport-OH/Telecomms-Apprentice-II---Telecomms-Apprentice-I_R17433) | American Electric Power | Groveport, OH | 2026-09-03 |
+| [Full Stack Software Engineer - AI](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Full-Stack-Software-Engineer---AI_350735) | Cleveland Clinic | Remote Location | 2026-09-03 |
+| [Senior Java Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622747) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
+| [Senior Developer, API Platforms](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622790) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
+| [Developer - Innovation & Digital Enablement Automation](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104057) | FirstEnergy | Akron, OH, United States | 2026-09-03 |
+| [Cloud Applications Engineer](https://careers.honda.com/us/en/job/12412) | Honda | Marysville, Ohio, United States | 2026-09-03 |
 <!-- JOBS:END -->
 
 ## How it works
