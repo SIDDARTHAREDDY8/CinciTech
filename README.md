@@ -56,36 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 2114 tracked total · updated `2026-09-03T21:28:00+00:00`
+### 🆕 5 new roles this update · 2118 tracked total · updated `2026-09-03T23:44:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| American Electric Power | 2 |
-| Sherwin-Williams | 2 |
-| Artech | 1 |
-| Brooksource | 1 |
-| Fast Switch | 1 |
-| Nationwide | 1 |
-| Cleveland Clinic | 1 |
-| FirstEnergy | 1 |
-| Honda | 1 |
+| OhioHealth | 2 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - Technical Services, Help Desk And Technical Support - Flexera Administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32960473#/jobs/32960473) | Artech | Remote, VA | 2026-09-03 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ZSVeFzsmgwBYNJ1sGQLka7K3pmVhmWntSjsIMhHz5UE) | Cynet Systems | Ohio | 2026-09-03 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/XfmWOJFpJEog6WvBh-_O6B9fmu7UE-6OiHP6glbMI9I) | Cynet Systems | Ohio | 2026-09-03 |
-| [Security Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000j8hneaq-security-engineer-cincinnati-ohio/) | Brooksource | Cincinnati, Ohio | 2026-09-03 |
-| [Scrum Master](https://fastswitch.com/jobs/scrum-master-61813/) | Fast Switch | Location: Cleveland, Ohio | 2026-09-03 |
-| [Consultant, Software Engineer - AWD NF Tech Lead (Java, APIs, Oracle)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---AWD-NF-Tech-Lead--Java--APIs--Oracle-_099726-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-03 |
-| [Telecomms Apprentice II - Telecomms Apprentice I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Chillicothe-OH/Telecomms-Apprentice-II---Telecomms-Apprentice-I_R17439) | American Electric Power | Chillicothe, OH | 2026-09-03 |
-| [Telecomms Apprentice II - Telecomms Apprentice I](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Groveport-OH/Telecomms-Apprentice-II---Telecomms-Apprentice-I_R17433) | American Electric Power | Groveport, OH | 2026-09-03 |
-| [Full Stack Software Engineer - AI](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Full-Stack-Software-Engineer---AI_350735) | Cleveland Clinic | Remote Location | 2026-09-03 |
-| [Senior Java Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622747) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
-| [Senior Developer, API Platforms](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622790) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-03 |
-| [Developer - Innovation & Digital Enablement Automation](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104057) | FirstEnergy | Akron, OH, United States | 2026-09-03 |
-| [Cloud Applications Engineer](https://careers.honda.com/us/en/job/12412) | Honda | Marysville, Ohio, United States | 2026-09-03 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-03 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/u_i3U7iJ3J01rSnk6n4mf9xFyBeiY-t8sFILL0xCTFE) | Cynet Systems | Ohio | 2026-09-03 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ubRUhCT5YizFhwZJuMGaTNJAa5Q9C4jHQlYqJDcU0Z4) | Cynet Systems | Ohio | 2026-09-03 |
+| [Sr IT Engineer VDI](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Sr-IT-Engineer-VDI_JR157602) | OhioHealth | 2 Locations | 2026-09-03 |
+| [Senior IT Engineer - MDM](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer---MDM_JR157600-1) | OhioHealth | 2 Locations | 2026-09-03 |
 <!-- JOBS:END -->
 
 ## How it works
