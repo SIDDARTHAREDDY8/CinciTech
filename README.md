@@ -56,20 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2118 tracked total · updated `2026-09-04T04:55:41+00:00`
+### 🆕 7 new roles this update · 2125 tracked total · updated `2026-09-04T11:43:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
+| Agility Connect | 2 |
+| Robert Half | 1 |
 | Nationwide | 1 |
 | Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vhKVped8-9yr8sMyDmmlMn8O1KgFtMWIddG8c5XYU1c) | Cynet Systems | Ohio | 2026-09-04 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/m7UHx76QbCgeySuFosw9tvo0Fkuhtd8oxwsjCe7nzJM) | Cynet Systems | Ohio | 2026-09-04 |
-| [Specialist, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer_099958) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-04 |
-| [Quality Assurance Senior Specialist](https://careers.honda.com/us/en/job/12435) | Honda | Anna, Ohio, United States | 2026-09-04 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-04 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/q4eXOXqV4lkQgZHDcZ2ed1xPYDoLGemd27Ao-ozZptM) | Cynet Systems | Ohio | 2026-09-04 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/YFnh2a6uCFIhKQZJUbzBtlQSyqGWNZYz9607T82lhpA) | Cynet Systems | Ohio | 2026-09-04 |
+| [AI Software Engineer](https://agilityconnect.io/jobs/8406) | Agility Connect | Cincinnati, OH | 2026-09-04 |
+| [Full Stack Software Engineer](https://agilityconnect.io/jobs/8404) | Agility Connect | Cincinnati, OH | 2026-09-04 |
+| [Specialist, Quality Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Quality-Engineer_100020) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-04 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-04 |
 <!-- JOBS:END -->
 
 ## How it works
