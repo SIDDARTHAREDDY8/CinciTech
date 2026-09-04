@@ -56,21 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 2118 tracked total · updated `2026-09-03T23:44:37+00:00`
+### 🆕 4 new roles this update · 2118 tracked total · updated `2026-09-04T04:55:41+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 2 |
-| OhioHealth | 2 |
-| Robert Half | 1 |
+| Nationwide | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-03 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/u_i3U7iJ3J01rSnk6n4mf9xFyBeiY-t8sFILL0xCTFE) | Cynet Systems | Ohio | 2026-09-03 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ubRUhCT5YizFhwZJuMGaTNJAa5Q9C4jHQlYqJDcU0Z4) | Cynet Systems | Ohio | 2026-09-03 |
-| [Sr IT Engineer VDI](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Sr-IT-Engineer-VDI_JR157602) | OhioHealth | 2 Locations | 2026-09-03 |
-| [Senior IT Engineer - MDM](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer---MDM_JR157600-1) | OhioHealth | 2 Locations | 2026-09-03 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/vhKVped8-9yr8sMyDmmlMn8O1KgFtMWIddG8c5XYU1c) | Cynet Systems | Ohio | 2026-09-04 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/m7UHx76QbCgeySuFosw9tvo0Fkuhtd8oxwsjCe7nzJM) | Cynet Systems | Ohio | 2026-09-04 |
+| [Specialist, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer_099958) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-04 |
+| [Quality Assurance Senior Specialist](https://careers.honda.com/us/en/job/12435) | Honda | Anna, Ohio, United States | 2026-09-04 |
 <!-- JOBS:END -->
 
 ## How it works
