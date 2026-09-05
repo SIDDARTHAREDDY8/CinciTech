@@ -56,20 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 2051 tracked total · updated `2026-09-05T15:37:58+00:00`
+### 🆕 4 new roles this update · 2052 tracked total · updated `2026-09-05T17:45:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-05 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/LYGgEH8fW2C3nJEZZTfDXsQLX6LTkwg0xhMjwDYemcs) | Cynet Systems | Ohio | 2026-09-05 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/1SvMR_HWOifc2mtAL-KXCpWaalUfDyxe9PyxGkFWH0I) | Cynet Systems | Ohio | 2026-09-05 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-05 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-05 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-05 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/EAwy4q5NPv1nU4-1BoVbbZisKP6H9MQpI6mTaBf0beo) | Cynet Systems | Ohio | 2026-09-05 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/xQZ7fNs2KtkkK7sypZE_fZM9YII5HmycaS5iBihY4KM) | Cynet Systems | Ohio | 2026-09-05 |
 <!-- JOBS:END -->
 
 ## How it works
