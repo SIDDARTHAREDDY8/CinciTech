@@ -56,25 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 2033 tracked total · updated `2026-09-06T15:48:38+00:00`
+### 🆕 6 new roles this update · 2032 tracked total · updated `2026-09-06T20:44:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 4 |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
+| Kroger | 1 |
 | Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-06 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Z1HrH2lHvD0jLvfdPQaxlHw5cm7frEBKL_MlKZ3-ZGw) | Cynet Systems | Ohio | 2026-09-06 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/G5dfYpBY12sKT8uupU8K7KcXyMDcPFL_9YeUhg3AbjU) | Cynet Systems | Ohio | 2026-09-06 |
-| [Android Engineer](https://agilityconnect.io/jobs/8411) | Agility Connect | Cincinnati, OH | 2026-09-06 |
-| [iOS Engineer](https://agilityconnect.io/jobs/8412) | Agility Connect | Cincinnati, OH | 2026-09-06 |
-| [Android Platform Engineer](https://agilityconnect.io/jobs/8410) | Agility Connect | Cincinnati, OH | 2026-09-06 |
-| [iOS Platform Engineer](https://agilityconnect.io/jobs/8409) | Agility Connect | Cincinnati, OH | 2026-09-06 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-06 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-06 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Mw1WMTy_ILmW2AZ1tR7411MB54lGJP58elYMe6ZhbFU) | Cynet Systems | Ohio | 2026-09-06 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/m4bIjmZYxoqQ3-Pfo3mJ3WUZ9v0TA_bjmEAwP1tjdB4) | Cynet Systems | Ohio | 2026-09-06 |
+| [Utility Clerk/Front End](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/226902) | Kroger | Florence, KY, United States | 2026-09-06 |
+| [Senior ADAS Test Engineer I](https://careers.honda.com/us/en/job/12472) | Honda | Raymond, Ohio, United States | 2026-09-06 |
 <!-- JOBS:END -->
 
 ## How it works
