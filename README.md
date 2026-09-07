@@ -56,19 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1978 tracked total · updated `2026-09-07T04:58:46+00:00`
+### 🆕 6 new roles this update · 1980 tracked total · updated `2026-09-07T12:52:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 2 |
+| Battelle | 2 |
+| Robert Half | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-07 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-07 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/rEJGHVGhfi_Jf7_G9XhRxxdxjZ-9zxPqp3IWbBTN6h8) | Cynet Systems | Ohio | 2026-09-07 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/im9c1hSp46YoxuqYD0wrMt3uqty8Rlq0jha51d1ZeQ8) | Cynet Systems | Ohio | 2026-09-07 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-07 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/IgWyge85NbU7OY8uKIeH-l3xfBiNtVFw9usiHIa_qTQ) | Cynet Systems | Ohio | 2026-09-07 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/7BtszYfp9bG6S5IErk2aLaC_ehRMhoIXaIJ-jB1JUDI) | Cynet Systems | Ohio | 2026-09-07 |
+| [Embedded Systems Developer, Cyber Research](https://jobs.battelle.org/us/en/job/76362) | Battelle | Columbus, OH | 2026-09-07 |
+| [Junior Embedded Systems Developer](https://jobs.battelle.org/us/en/job/76361) | Battelle | Columbus, OH | 2026-09-07 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-07 |
 <!-- JOBS:END -->
 
 ## How it works
