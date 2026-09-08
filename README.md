@@ -56,28 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1920 tracked total · updated `2026-09-08T21:31:56+00:00`
+### 🆕 7 new roles this update · 1925 tracked total · updated `2026-09-08T23:46:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 3 |
+| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Robert Half | 1 |
-| Motion Recruitment | 1 |
-| Njoyn (CGI) | 1 |
-| L3Harris | 1 |
+| TRU Staffing Partners | 1 |
+| Worldpay | 1 |
+| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-08 |
-| [IT Helpdesk Analyst](https://motionrecruitment.com/tech-jobs/westerville/contract/it-helpdesk-analyst/886931) | Motion Recruitment | Westerville, Ohio | 2026-09-08 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/o-5Z3SeiLPaICz0W4goL9uppoNArW5kZUIUe46fRNTs) | Cynet Systems | Ohio | 2026-09-08 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/rYGSPWc0oowxd1w3I4B3i3lKQwE-yLMLqA8qwLDpckQ) | Cynet Systems | Ohio | 2026-09-08 |
-| [Software Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0476&BRID=1331345&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-08 |
-| [Software Engineer – Medical Imaging](https://uscareers-medpace.icims.com/jobs/11967/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Scientific Technical Writer](https://uscareers-medpace.icims.com/jobs/11955/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Business Systems Analyst - Imaging](https://uscareers-medpace.icims.com/jobs/11961/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/associate-quality-engineering/4832/97563771088) | L3Harris | Cincinnati, OH | 2026-09-08 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-08 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-08 |
+| [CONTRACT2HIRE AI Governance Consultant](https://jobs.trustaffingpartners.com/?jobid=7623#/jobs/7623) | TRU Staffing Partners | Anywhere | 2026-09-08 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/dZYL3f5M3659IdQKRwBc69jpFCkK_qs1R1d3B7yN2dg) | Cynet Systems | Ohio | 2026-09-08 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Ap2aqw2T9lj81T9lxBNR_TufXcmQjpT15JbUGrW__zQ) | Cynet Systems | Ohio | 2026-09-08 |
+| [Quality Assurance Analyst I](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Quality-Assurance-Analyst-I_JR0610205) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-09-08 |
+| [Senior Supplier Quality Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Senior-Supplier-Quality-Engineer-OH-44117/1413512633/) | Lincoln Electric | OH | 2026-09-08 |
 <!-- JOBS:END -->
 
 ## How it works
