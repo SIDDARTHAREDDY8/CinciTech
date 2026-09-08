@@ -56,64 +56,28 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 38 new roles this update · 1916 tracked total · updated `2026-09-08T17:13:39+00:00`
+### 🆕 9 new roles this update · 1920 tracked total · updated `2026-09-08T21:31:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 24 |
-| Robert Half | 2 |
+| Medpace | 3 |
 | Cynet Systems | 2 |
-| Apex Systems | 1 |
+| Robert Half | 1 |
 | Motion Recruitment | 1 |
-| J.M. Smucker | 1 |
-| Sherwin-Williams | 1 |
-| Huntington Bank | 1 |
-| Nationwide Children's Hospital | 1 |
-| OhioHealth | 1 |
-| GE Aerospace | 1 |
-| Vertiv | 1 |
-| Battelle | 1 |
+| Njoyn (CGI) | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Forward Deployed Engineer (FDE)](https://www.apexsystems.com/job/3050965_usa/forward-deployed-engineer-fde) | Apex Systems | Cincinnati, OH | 2026-09-08 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-08 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-08 |
-| [Information Security Engineer - CipherTrust Transparent Encryption (CTE)](https://motionrecruitment.com/tech-jobs/columbus/contract/information-security-engineer-ciphertrust-transparent-encryption-cte/884847) | Motion Recruitment | Columbus, Ohio | 2026-09-08 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6sy1iVLoqDjF5KllwN64eQ03lm89a-nsPSFP0ZrGsS0) | Cynet Systems | Ohio | 2026-09-08 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/udzRomjAVhqimjdITlM12hiqfSv-iFGzEbPc9r1bMqs) | Cynet Systems | Ohio | 2026-09-08 |
-| [Operations QA Intern, Summer 2027-Columbus, GA](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Columbus-GA/Operations-QA-Intern--Summer-2027-Columbus--GA_115774) | J.M. Smucker | Columbus, GA | 2026-09-08 |
-| [Senior Platform Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622781) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-08 |
-| [Programmer/Analyst Sr](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-Sr_R0075511) | Huntington Bank | Columbus, OH | 2026-09-08 |
-| [964 - IS Systems Analyst II](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/XMLNAME-964---IS-Systems-Analyst-II_R-27882-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-09-08 |
-| [Manager - Network Engineering](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Manager---Network-Engineering_JR157596) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-09-08 |
-| [AI/ML Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/AI-ML-Software-Engineer_R5039862-1) | GE Aerospace | Remote | 2026-09-08 |
-| [Monitoring Technical Support Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281036) | Vertiv | Westerville, OH, United States | 2026-09-08 |
-| [Sr. Nuclear Systems Engineer](https://jobs.battelle.org/us/en/job/76521) | Battelle | Remote, OH | 2026-09-08 |
-| [Clinical Informatics Intern - Summer 2027](https://uscareers-medpace.icims.com/jobs/12988/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Feasibility Informatics Internship/Co-Op Summer 2027](https://uscareers-medpace.icims.com/jobs/12987/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Systems Engineer (Azure Cloud Engineer)](https://uscareers-medpace.icims.com/jobs/12284/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Software Engineer](https://uscareers-medpace.icims.com/jobs/12287/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [ServiceNow Platform Engineer](https://uscareers-medpace.icims.com/jobs/12281/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Software Development Engineer in Test (SDET)](https://uscareers-medpace.icims.com/jobs/12282/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Senior Data Engineer](https://uscareers-medpace.icims.com/jobs/12453/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [QA Software Testing Manager](https://uscareers-medpace.icims.com/jobs/12277/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Network Information Security Engineer](https://uscareers-medpace.icims.com/jobs/12276/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Manager, Infrastructure (Endpoint Engineering)](https://uscareers-medpace.icims.com/jobs/12273/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Lead Software Engineer](https://uscareers-medpace.icims.com/jobs/12288/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Junior Software Engineer](https://uscareers-medpace.icims.com/jobs/12385/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Lead/Principal Software QA Test Engineer](https://uscareers-medpace.icims.com/jobs/12271/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Junior QA Test Engineer](https://uscareers-medpace.icims.com/jobs/12268/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Information Security Analyst](https://uscareers-medpace.icims.com/jobs/12762/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Junior Network Engineer](https://uscareers-medpace.icims.com/jobs/12666/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Junior Data Engineer](https://uscareers-medpace.icims.com/jobs/12454/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [DevOps Engineer](https://uscareers-medpace.icims.com/jobs/12452/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Dynamics 365 Developer](https://uscareers-medpace.icims.com/jobs/12451/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Clinical Application Support](https://uscareers-medpace.icims.com/jobs/12774/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Data Engineer Intern - Fall 2026](https://uscareers-medpace.icims.com/jobs/12767/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Business Intelligence Analyst - Data Engineering](https://uscareers-medpace.icims.com/jobs/12564/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Data Engineer](https://uscareers-medpace.icims.com/jobs/12470/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
-| [Application Architect](https://uscareers-medpace.icims.com/jobs/12291/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-08 |
+| [IT Helpdesk Analyst](https://motionrecruitment.com/tech-jobs/westerville/contract/it-helpdesk-analyst/886931) | Motion Recruitment | Westerville, Ohio | 2026-09-08 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/o-5Z3SeiLPaICz0W4goL9uppoNArW5kZUIUe46fRNTs) | Cynet Systems | Ohio | 2026-09-08 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/rYGSPWc0oowxd1w3I4B3i3lKQwE-yLMLqA8qwLDpckQ) | Cynet Systems | Ohio | 2026-09-08 |
+| [Software Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0476&BRID=1331345&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-08 |
+| [Software Engineer – Medical Imaging](https://uscareers-medpace.icims.com/jobs/11967/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
+| [Scientific Technical Writer](https://uscareers-medpace.icims.com/jobs/11955/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
+| [Business Systems Analyst - Imaging](https://uscareers-medpace.icims.com/jobs/11961/login) | Medpace | Cincinnati, Ohio | 2026-09-08 |
+| [Associate, Quality Engineering](https://careers.l3harris.com/en/job/cincinnati/associate-quality-engineering/4832/97563771088) | L3Harris | Cincinnati, OH | 2026-09-08 |
 <!-- JOBS:END -->
 
 ## How it works
