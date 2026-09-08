@@ -56,19 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1979 tracked total · updated `2026-09-07T19:38:29+00:00`
+### 🆕 3 new roles this update · 1882 tracked total · updated `2026-09-08T00:02:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 2 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-07 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-07 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/QOrSUHwcsefxZRPpbzxP7X32wMXreHPyuW3dXJ7XIhE) | Cynet Systems | Ohio | 2026-09-07 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/ekm9TEIhvE7vbc60D7WHG-PJat7HT9Ab3hx1ztZlBqI) | Cynet Systems | Ohio | 2026-09-07 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-08 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/6-a7mWbTH5qub9JOwnNAg97oqDDZy8VP2bZtAMPxE6M) | Cynet Systems | Ohio | 2026-09-08 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/7zyYosg7T_KhVzHFe8LGOedoCWYcoeficLbRvVbUKc0) | Cynet Systems | Ohio | 2026-09-08 |
 <!-- JOBS:END -->
 
 ## How it works
