@@ -56,21 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1884 tracked total · updated `2026-09-08T04:57:45+00:00`
+### 🆕 3 new roles this update · 1884 tracked total · updated `2026-09-08T11:41:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 2 |
-| Honda | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-08 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-08 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/W-O8ZvMT73qtyhI1VhHxFaE6IGVtoFw6L7987OA96-s) | Cynet Systems | Ohio | 2026-09-08 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/fuCbIU0BbNz_5f_OREVdqV7PUr1GN-20Nk7NtQMrJDo) | Cynet Systems | Ohio | 2026-09-08 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-08 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-08 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/oLbLpOivnCo3HzdMAe6UFAfegy8ifSaXmMaL11DHqp8) | Cynet Systems | Ohio | 2026-09-08 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/j44gBCB4Wjl0By7Zb-S_OE1X_g9_EdUhMLgeeRTyW8M) | Cynet Systems | Ohio | 2026-09-08 |
 <!-- JOBS:END -->
 
 ## How it works
