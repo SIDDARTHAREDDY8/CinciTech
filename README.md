@@ -56,21 +56,46 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1919 tracked total · updated `2026-09-09T11:44:36+00:00`
+### 🆕 18 new roles this update · 1930 tracked total · updated `2026-09-09T17:11:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 2 |
-| Cynet Systems | 2 |
-| Agility Connect | 1 |
+| Sherwin-Williams | 2 |
+| Honda | 2 |
+| Kforce | 1 |
+| Russell Tobin | 1 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Cynet Systems | 1 |
+| Njoyn (CGI) | 1 |
+| CareSource | 1 |
+| Root Insurance | 1 |
+| Fifth Third Bank | 1 |
+| Cleveland Clinic | 1 |
+| FirstEnergy | 1 |
+| Huntington Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-09 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-09 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/PX3StiwnvxlsvGuyC2No6rOSGLJEAXa1ULoIs-IBEd8) | Cynet Systems | Ohio | 2026-09-09 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/mUbNxh2dCXPxQiVf-P3TW-lgulXsgo5hZbEMsYTSDQo) | Cynet Systems | Ohio | 2026-09-09 |
-| [Forward Deployed Engineer](https://agilityconnect.io/jobs/8416) | Agility Connect | Cincinnati, OH | 2026-09-09 |
+| [Lead QA Test Analyst](http://www.kforce.com/Jobs/1696~EQG~2187066T1~99/) | Kforce | Columbus, OH | 2026-09-09 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-09 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-09 |
+| [IT Help Desk / IT Customer Support (Open to Recent Grads)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29233271#/jobs/29233271) | Russell Tobin | Columbus, OH | 2026-09-09 |
+| [Technical Project/Program Management - Technical Program Manager III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32979282#/jobs/32979282) | Artech | Remote Location, CA | 2026-09-09 |
+| [Process & Experience Optimization - Business Tester](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29225953#/jobs/29225953) | Mindlance | Brooklyn,, OH | 2026-09-09 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/qepZhh4r1wdTpJjNyGk4W-533xa_nlpvem5qTJjP53I) | Cynet Systems | Ohio | 2026-09-09 |
+| [Senior Automated Test Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0719&BRID=1324442&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-09 |
+| [LTSS & Dual Eligible Program Report Developer IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/LTSS---Dual-Eligible-Program-Report-Developer-IV_R13047-1) | CareSource | Remote | 2026-09-09 |
+| [Staff Data Engineer](https://ats.rippling.com/joinroot/jobs/273bd499-90f1-47fd-9ea5-bf5e427260d5) | Root Insurance | Remote (United States) | 2026-09-09 |
+| [Associate Director, Software Engineering](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Director--Software-Engineering_R72372-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-09 |
+| [Staff/Senior Machine Learning Scientist](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Staff-Senior-Machine-Learning-Scientist_353997) | Cleveland Clinic | Remote Location | 2026-09-09 |
+| [Cybersecurity Senior IT Analyst - Risk and Controls](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623028) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-09 |
+| [Cybersecurity Security Operations Center Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623041) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-09 |
+| [Asset Management Systems Analyst - Asset & Records Control](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104091) | FirstEnergy | Akron, OH, United States | 2026-09-09 |
+| [AI Product Owner: Columbus, OH](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/HBI-Corporate-Offices-Cols-C-OH/AI-Product-Owner--Columbus--OH_R0075275) | Huntington Bank | HBI Corporate Offices Cols C OH | 2026-09-09 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-09 |
+| [Market Quality Engineer](https://careers.honda.com/us/en/job/12568) | Honda | Raymond, Ohio, United States | 2026-09-09 |
 <!-- JOBS:END -->
 
 ## How it works
