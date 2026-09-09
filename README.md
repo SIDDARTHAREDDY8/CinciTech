@@ -56,25 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1925 tracked total · updated `2026-09-08T23:46:09+00:00`
+### 🆕 3 new roles this update · 1915 tracked total · updated `2026-09-09T05:04:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 2 |
-| TRU Staffing Partners | 1 |
-| Worldpay | 1 |
-| Lincoln Electric | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-08 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-08 |
-| [CONTRACT2HIRE AI Governance Consultant](https://jobs.trustaffingpartners.com/?jobid=7623#/jobs/7623) | TRU Staffing Partners | Anywhere | 2026-09-08 |
-| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/dZYL3f5M3659IdQKRwBc69jpFCkK_qs1R1d3B7yN2dg) | Cynet Systems | Ohio | 2026-09-08 |
-| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/Ap2aqw2T9lj81T9lxBNR_TufXcmQjpT15JbUGrW__zQ) | Cynet Systems | Ohio | 2026-09-08 |
-| [Quality Assurance Analyst I](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Quality-Assurance-Analyst-I_JR0610205) | Worldpay | VIRTUAL, MASSACHUSETTS | 2026-09-08 |
-| [Senior Supplier Quality Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Senior-Supplier-Quality-Engineer-OH-44117/1413512633/) | Lincoln Electric | OH | 2026-09-08 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-09 |
+| [z/OS System Programmer (z/VM sysprog) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/-TeFKI0oJvCwE_HkuCUsTdqM_AaEpprG1XJ1V4JpsjE) | Cynet Systems | Ohio | 2026-09-09 |
+| [z/OS System Programmer (sysprog / ISV) - Remote / Telecommute](https://candidateportal.ceipal.com/job-details/nfG0uHfolW0bUUUu15_iAk2UnotGF55YurxdkIUCgIM) | Cynet Systems | Ohio | 2026-09-09 |
 <!-- JOBS:END -->
 
 ## How it works
