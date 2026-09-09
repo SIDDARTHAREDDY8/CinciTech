@@ -56,43 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 1941 tracked total · updated `2026-09-09T21:20:47+00:00`
+### 🆕 4 new roles this update · 1943 tracked total · updated `2026-09-09T23:45:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 2 |
-| Artech | 2 |
-| Cincinnati Children's Hospital | 2 |
-| Battelle | 2 |
-| TEKsystems | 1 |
-| Mindlance | 1 |
-| First Solar | 1 |
-| Fifth Third Bank | 1 |
-| Nationwide | 1 |
-| Cleveland Clinic | 1 |
-| The Andersons | 1 |
+| Artech | 1 |
 | Honda | 1 |
-| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Windows Systems Engineer](https://careers.teksystems.com/us/en/job/JP-006274233/Windows-Systems-Engineer) | TEKsystems | Columbus, Ohio | 2026-09-09 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-09 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-09 |
-| [SAP ABAP Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32980024#/jobs/32980024) | Artech | Whitehall, OH | 2026-09-09 |
-| [SAP MM Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32980001#/jobs/32980001) | Artech | Whitehall, OH | 2026-09-09 |
-| [Web Methods Developer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29235585#/jobs/29235585) | Mindlance | Akron, OH | 2026-09-09 |
-| [Sr Manager - Data Science](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025653) | First Solar | OH, United States | 2026-09-09 |
-| [IT Business Controls Associate - Digital Channels](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Business-Controls-Associate---Digital-Channels_R71566) | Fifth Third Bank | Cincinnati, OH | 2026-09-09 |
-| [Sr. Consultant, Software Engineer \| Engineering Strategy & Modernization Lead](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineer---Engineering-Strategy---Modernization-Lead_098984) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-09 |
-| [Research Data Scientist III - DDI](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-III---DDI_349700) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-09 |
-| [Postdoctoral Research Fellow (Woods) Hyperpolarized gas imaging](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Postdoctoral-Research-Fellow--Woods--Hyperpolarized-gas-imaging_JR225097) | Cincinnati Children's Hospital | Burnet Campus | 2026-09-09 |
-| [Analyst I (Woods) Image Informatics](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Analyst-I--Woods--Image-Informatics_JR224867-1) | Cincinnati Children's Hospital | Burnet Campus | 2026-09-09 |
-| [SAP Intern, Information Services (Summer 2027)](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/SAP-Intern--Information-Services--Summer-2027-_R12473) | The Andersons | Maumee, OH | 2026-09-09 |
-| [Junior Embedded Reverse Engineer/Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76523) | Battelle | Columbus, OH | 2026-09-09 |
-| [Early Embedded Reverse Engineer/Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76524) | Battelle | Columbus, OH | 2026-09-09 |
-| [IT Support - Audio-Visual (AV) and Executive](https://careers.honda.com/us/en/job/12492) | Honda | Raymond, Ohio, United States | 2026-09-09 |
-| [SAP Security Administrator - Level 2](https://careers.cintas.com/job/Mason-SAP-Security-Administrator-Level-2-OH-45040/1407580700/) | Cintas | OH | 2026-09-09 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-09 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-09 |
+| [SAP S/4HANA PEO Consultant / Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32982048#/jobs/32982048) | Artech | Columbus, OH | 2026-09-09 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-09 |
 <!-- JOBS:END -->
 
 ## How it works
