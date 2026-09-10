@@ -56,21 +56,55 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1942 tracked total · updated `2026-09-10T11:42:55+00:00`
+### 🆕 30 new roles this update · 1969 tracked total · updated `2026-09-10T16:54:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Medpace | 12 |
+| Agility Connect | 5 |
+| Cleveland-Cliffs | 3 |
 | Robert Half | 2 |
-| DHL | 2 |
-| Mindlance | 1 |
+| Strategic Staffing Solutions | 1 |
+| Cardinal Health | 1 |
+| Cleveland Clinic | 1 |
+| FirstEnergy | 1 |
+| Kroger | 1 |
+| GE Aerospace | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-10 |
-| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-10 |
-| [Data Engineer – BI/Analytics](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29238840#/jobs/29238840) | Mindlance | Remote, Karnataka | 2026-09-10 |
-| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-Lockbourne-OH-US-11118539.html) | DHL | Lockbourne, Ohio | 2026-09-10 |
-| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-New-Albany-OH-US-11118537.html) | DHL | New Albany, Ohio | 2026-09-10 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-10 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-10 |
+| [Java Developer](https://jobs.strategicstaff.com/jobs/java-developer-170551/) | Strategic Staffing Solutions | San Jose, Hybrid | 2026-09-10 |
+| [AWS Cloud & AI Platform Engineer](https://agilityconnect.io/jobs/8420) | Agility Connect | Cincinnati, OH | 2026-09-10 |
+| [Fullstack Java Developer](https://agilityconnect.io/jobs/8423) | Agility Connect | OH | 2026-09-10 |
+| [Mainframe / COBOL Developer – Financial Systems](https://agilityconnect.io/jobs/8419) | Agility Connect | OH | 2026-09-10 |
+| [Sr Software Engineer Java](https://agilityconnect.io/jobs/8422) | Agility Connect | Columbus, OH | 2026-09-10 |
+| [Sr Software Engineer .Net](https://agilityconnect.io/jobs/8424) | Agility Connect | Columbus, OH | 2026-09-10 |
+| [Manager, Infrastructure Governance](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Manager--Infrastructure-Governance_20187062-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-09-10 |
+| [System Analyst I - Financial Reporting](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/System-Analyst-I---Financial-Reporting_334987) | Cleveland Clinic | Remote Location | 2026-09-10 |
+| [Cyber Threat Hunting Analyst - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105258) | FirstEnergy | Akron, OH, United States | 2026-09-10 |
+| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/228168) | Kroger | Cincinnati, OH, United States | 2026-09-10 |
+| [Quality Engineering Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Middletown-Works/Quality-Engineering-Intern_R13512) | Cleveland-Cliffs | Middletown Works | 2026-09-10 |
+| [Quality Engineering Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Columbus/Quality-Engineering-Intern_R13507) | Cleveland-Cliffs | Columbus | 2026-09-10 |
+| [Quality Engineering Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Quality-Engineering-Intern_R13505) | Cleveland-Cliffs | Cleveland Works | 2026-09-10 |
+| [Executive, Global Security Operations Center (GSOC)](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Executive--Global-Security-Operations-Center--GSOC-_R5036710-1) | GE Aerospace | Evendale | 2026-09-10 |
+| [Senior Manager, Product Data Governance & Master Data Strategy](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280978) | Vertiv | Westerville, OH, United States | 2026-09-10 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-10 |
+| [SAS Programmer - Entry Level](https://uscareers-medpace.icims.com/jobs/11881/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [SAS Programmer - Experienced](https://uscareers-medpace.icims.com/jobs/11882/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [SAS Programmer - Advanced Degrees](https://uscareers-medpace.icims.com/jobs/11879/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [Feasibility Informatics Internship/Co-Op Spring 2027](https://uscareers-medpace.icims.com/jobs/12803/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [Feasibility Informatics Analyst](https://uscareers-medpace.icims.com/jobs/12699/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [Data Engineer (AI) - Cincinnati](https://uscareers-medpace.icims.com/jobs/12786/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [Clinical Informatics Manager](https://uscareers-medpace.icims.com/jobs/12842/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [Clinical Informatics Intern - Spring 2027](https://uscareers-medpace.icims.com/jobs/12801/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [Clinical Informatics Analyst](https://uscareers-medpace.icims.com/jobs/12446/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [AI Engineering Intern - Fall 2026](https://uscareers-medpace.icims.com/jobs/12729/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [AI Project Manager](https://uscareers-medpace.icims.com/jobs/12764/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [AI Scientist](https://uscareers-medpace.icims.com/jobs/12097/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
 <!-- JOBS:END -->
 
 ## How it works
