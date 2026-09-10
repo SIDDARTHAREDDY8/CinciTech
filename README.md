@@ -56,20 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1943 tracked total · updated `2026-09-09T23:45:16+00:00`
+### 🆕 3 new roles this update · 1940 tracked total · updated `2026-09-10T05:05:33+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 2 |
-| Artech | 1 |
-| Honda | 1 |
+| Medical Mutual of Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-09 |
-| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-09 |
-| [SAP S/4HANA PEO Consultant / Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32982048#/jobs/32982048) | Artech | Columbus, OH | 2026-09-09 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-09 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-10 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-10 |
+| [Enterprise Architect](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=f5e2368c-1aec-4983-8586-b25e3530774d) | Medical Mutual of Ohio | Brooklyn OH | 2026-09-10 |
 <!-- JOBS:END -->
 
 ## How it works
