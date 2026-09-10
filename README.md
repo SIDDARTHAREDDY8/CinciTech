@@ -56,18 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1940 tracked total · updated `2026-09-10T05:05:33+00:00`
+### 🆕 5 new roles this update · 1942 tracked total · updated `2026-09-10T11:42:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 2 |
-| Medical Mutual of Ohio | 1 |
+| DHL | 2 |
+| Mindlance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-10 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-10 |
-| [Enterprise Architect](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=f5e2368c-1aec-4983-8586-b25e3530774d) | Medical Mutual of Ohio | Brooklyn OH | 2026-09-10 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-10 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-10 |
+| [Data Engineer – BI/Analytics](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29238840#/jobs/29238840) | Mindlance | Remote, Karnataka | 2026-09-10 |
+| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-Lockbourne-OH-US-11118539.html) | DHL | Lockbourne, Ohio | 2026-09-10 |
+| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-New-Albany-OH-US-11118537.html) | DHL | New Albany, Ohio | 2026-09-10 |
 <!-- JOBS:END -->
 
 ## How it works
