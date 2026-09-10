@@ -56,55 +56,48 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 30 new roles this update · 1969 tracked total · updated `2026-09-10T16:54:07+00:00`
+### 🆕 19 new roles this update · 1985 tracked total · updated `2026-09-10T21:23:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 12 |
-| Agility Connect | 5 |
-| Cleveland-Cliffs | 3 |
 | Robert Half | 2 |
-| Strategic Staffing Solutions | 1 |
+| Nesco Resource | 2 |
+| Cincinnati Insurance | 2 |
+| Artech | 1 |
+| Njoyn (CGI) | 1 |
+| Marathon Petroleum | 1 |
+| J.M. Smucker | 1 |
 | Cardinal Health | 1 |
 | Cleveland Clinic | 1 |
-| FirstEnergy | 1 |
-| Kroger | 1 |
-| GE Aerospace | 1 |
+| Sherwin-Williams | 1 |
+| Abbott (Columbus) | 1 |
 | Vertiv | 1 |
 | Honda | 1 |
+| Lincoln Electric | 1 |
+| Lubrizol | 1 |
+| DHL | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-10 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-10 |
-| [Java Developer](https://jobs.strategicstaff.com/jobs/java-developer-170551/) | Strategic Staffing Solutions | San Jose, Hybrid | 2026-09-10 |
-| [AWS Cloud & AI Platform Engineer](https://agilityconnect.io/jobs/8420) | Agility Connect | Cincinnati, OH | 2026-09-10 |
-| [Fullstack Java Developer](https://agilityconnect.io/jobs/8423) | Agility Connect | OH | 2026-09-10 |
-| [Mainframe / COBOL Developer – Financial Systems](https://agilityconnect.io/jobs/8419) | Agility Connect | OH | 2026-09-10 |
-| [Sr Software Engineer Java](https://agilityconnect.io/jobs/8422) | Agility Connect | Columbus, OH | 2026-09-10 |
-| [Sr Software Engineer .Net](https://agilityconnect.io/jobs/8424) | Agility Connect | Columbus, OH | 2026-09-10 |
-| [Manager, Infrastructure Governance](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Manager--Infrastructure-Governance_20187062-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-09-10 |
-| [System Analyst I - Financial Reporting](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/System-Analyst-I---Financial-Reporting_334987) | Cleveland Clinic | Remote Location | 2026-09-10 |
-| [Cyber Threat Hunting Analyst - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105258) | FirstEnergy | Akron, OH, United States | 2026-09-10 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/228168) | Kroger | Cincinnati, OH, United States | 2026-09-10 |
-| [Quality Engineering Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Middletown-Works/Quality-Engineering-Intern_R13512) | Cleveland-Cliffs | Middletown Works | 2026-09-10 |
-| [Quality Engineering Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Columbus/Quality-Engineering-Intern_R13507) | Cleveland-Cliffs | Columbus | 2026-09-10 |
-| [Quality Engineering Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Quality-Engineering-Intern_R13505) | Cleveland-Cliffs | Cleveland Works | 2026-09-10 |
-| [Executive, Global Security Operations Center (GSOC)](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Executive--Global-Security-Operations-Center--GSOC-_R5036710-1) | GE Aerospace | Evendale | 2026-09-10 |
-| [Senior Manager, Product Data Governance & Master Data Strategy](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280978) | Vertiv | Westerville, OH, United States | 2026-09-10 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-10 |
-| [SAS Programmer - Entry Level](https://uscareers-medpace.icims.com/jobs/11881/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [SAS Programmer - Experienced](https://uscareers-medpace.icims.com/jobs/11882/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [SAS Programmer - Advanced Degrees](https://uscareers-medpace.icims.com/jobs/11879/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [Feasibility Informatics Internship/Co-Op Spring 2027](https://uscareers-medpace.icims.com/jobs/12803/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [Feasibility Informatics Analyst](https://uscareers-medpace.icims.com/jobs/12699/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [Data Engineer (AI) - Cincinnati](https://uscareers-medpace.icims.com/jobs/12786/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [Clinical Informatics Manager](https://uscareers-medpace.icims.com/jobs/12842/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [Clinical Informatics Intern - Spring 2027](https://uscareers-medpace.icims.com/jobs/12801/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [Clinical Informatics Analyst](https://uscareers-medpace.icims.com/jobs/12446/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [AI Engineering Intern - Fall 2026](https://uscareers-medpace.icims.com/jobs/12729/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [AI Project Manager](https://uscareers-medpace.icims.com/jobs/12764/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
-| [AI Scientist](https://uscareers-medpace.icims.com/jobs/12097/login) | Medpace | Cincinnati, Ohio | 2026-09-10 |
+| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-10 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-10 |
+| [MES Developer (Proficy PfMD & Plant Applications)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33078567#/jobs/33078567) | Artech | Reading, OH | 2026-09-10 |
+| [Infrastructure Discovery Analyst](https://www.nescoresource.com/job-details/infrastructure-discovery-analyst-in-information-technology-jobs-1716034) | Nesco Resource | Westerville, OH | 2026-09-10 |
+| [ServiceNow SPM Enablement Specialist](https://www.nescoresource.com/job-details/servicenow-spm-enablement-specialist-in-information-technology-jobs-1716036) | Nesco Resource | Westerville, OH | 2026-09-10 |
+| [Senior ServiceNow Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0426-2379&BRID=1295225&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-10 |
+| [Senior Data Analyst](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Data-Analyst_00024134) | Marathon Petroleum | Findlay, Ohio | 2026-09-10 |
+| [Vice President, Quality Assurance](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Vice-President--Quality-Assurance_115833) | J.M. Smucker | Orrville, OH | 2026-09-10 |
+| [Manager, Quality Assurance](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-FIELD/Manager--Quality-Assurance_20187007) | Cardinal Health | OH-Ohio-FIELD | 2026-09-10 |
+| [Data Analyst - DDI Research and Innovations](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Data-Analyst---DDI-Research-and-Innovations_351736) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-10 |
+| [Senior Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623384) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-10 |
+| [Automation Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Automation-Engineer_31161852-2) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-10 |
+| [IT Oracle CPQ Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279229) | Vertiv | Westerville, OH, United States | 2026-09-10 |
+| [Assistant Manager, Quality Assurance](https://careers.honda.com/us/en/job/12595) | Honda | Anna, Ohio, United States | 2026-09-10 |
+| [IT - Solutions Engineer III (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=168228) | Cincinnati Insurance | ["Remote"] | 2026-09-10 |
+| [IT - Developer I - V (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=168248) | Cincinnati Insurance | ["Remote"] | 2026-09-10 |
+| [Automation Engineering Technician - Robot Programming](https://jobs.lincolnelectric.com/job/Fort-Loramie-Automation-Engineering-Technician-Robot-Programming-OH-45845/1413953933/) | Lincoln Electric | OH | 2026-09-10 |
+| [Solutions Architect, Data Intelligence AI](https://jobs.lubrizol.com/job/Wickliffe-Solutions-Architect%2C-Data-Intelligence-AI-OH-44092-2298/1427467500/) | Lubrizol | OH | 2026-09-10 |
+| [Lead Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Lead-Business-Data-Analyst-USO-job-Westerville-OH-US-11119348.html) | DHL | Westerville, Ohio | 2026-09-10 |
 <!-- JOBS:END -->
 
 ## How it works
