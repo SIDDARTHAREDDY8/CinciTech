@@ -56,17 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1987 tracked total · updated `2026-09-11T04:55:38+00:00`
+### 🆕 4 new roles this update · 1988 tracked total · updated `2026-09-11T11:49:44+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
+| Robert Half | 2 |
+| Agility Connect | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-11 |
-| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-11 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-11 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-11 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-11 |
+| [Senior Infrastructure Engineer](https://agilityconnect.io/jobs/8427) | Agility Connect | Columbus, OH | 2026-09-11 |
+| [Java Developer](https://jobs.brooksource.com/jobs/job/a1wcv0000010gbneaq-java-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-09-11 |
 <!-- JOBS:END -->
 
 ## How it works
