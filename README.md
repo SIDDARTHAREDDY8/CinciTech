@@ -56,40 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 2000 tracked total · updated `2026-09-11T16:55:47+00:00`
+### 🆕 14 new roles this update · 2010 tracked total · updated `2026-09-11T21:27:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| Artech | 1 |
-| Mindlance | 1 |
-| Njoyn (CGI) | 1 |
-| Fifth Third Bank | 1 |
-| Cleveland Clinic | 1 |
-| Abbott (Columbus) | 1 |
+| Next Step Systems | 3 |
+| Robert Half | 2 |
+| Gina's Tech Jobs | 2 |
+| Honda | 2 |
+| Kforce | 1 |
+| Apex Systems | 1 |
+| Great American Insurance | 1 |
 | Nationwide Children's Hospital | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
-| Cintas | 1 |
 | L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Netsuite Consultant](https://www.roberthalf.com/us/en/job/cincinnati-oh/netsuite-consultant/01500-0013489268-usen) | Robert Half | Cincinnati, 01500 | 2026-09-11 |
-| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-11 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-11 |
-| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-11 |
-| [Solutions Principal – Application Engineering & Digital Solutions](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33079597#/jobs/33079597) | Artech | Remote | 2026-09-11 |
-| [Data Analytics & Engineering - Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29245710#/jobs/29245710) | Mindlance | Remote, CA | 2026-09-11 |
-| [Senior Oracle Software Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1007&BRID=1332159&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-11 |
-| [Principal Information Security Architect](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal-Information-Security-Architect_R72408) | Fifth Third Bank | Virtual | 2026-09-11 |
-| [System Analyst II - Operational Reporting](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/System-Analyst-II---Operational-Reporting_338327-1) | Cleveland Clinic | Remote Location | 2026-09-11 |
-| [Sr. AI/ML Engineer- Life Sciences](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Sr-AI-ML-Engineer--Life-Sciences_35000015) | Abbott (Columbus) | United States of America : Remote | 2026-09-11 |
-| [Behavior Support Specialist - Psychiatry](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Behavior-Support-Specialist---Psychiatry_R-27942-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-09-11 |
-| [Predictive Analytics Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281153) | Vertiv | Westerville, OH, United States | 2026-09-11 |
-| [Technical Support and Spare Parts Engineer](https://careers.honda.com/us/en/job/12556) | Honda | Marysville, Ohio, United States | 2026-09-11 |
-| [Commerce Modernization Developer - Level 3](https://careers.cintas.com/job/Mason-Commerce-Modernization-Developer-Level-3-OH-45040/1428984400/) | Cintas | OH | 2026-09-11 |
-| [Specialist Software Engineering (Embedded)](https://careers.l3harris.com/en/job/mason/specialist-software-engineering-embedded/4832/100486595536) | L3Harris | Mason, OH | 2026-09-11 |
+| [Credit Analyst](http://www.kforce.com/Jobs/1696~TVF~2187636T1~99/) | Kforce | Columbus, OH | 2026-09-11 |
+| [Technical Project/Program Management - Technical Program Manager V](https://www.apexsystems.com/job/3051222_usa/technical-projectprogram-management---technical-program-manager-v) | Apex Systems | Remote, CA | 2026-09-11 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-11 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-11 |
+| [Senior Technical Product Manager – AI Agents, Evals & Reliability, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/senior-technical-product-manager-ai-agents-evals-reliability-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-11 |
+| [Machine Learning Lead Engineer, Machine Learning (ML) Required, Work From Home](https://www.ginastechjobs.com/job/machine-learning-lead-engineer-machine-learning-ml-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-09-11 |
+| [Senior Technical Product Manager – AI Agents, Evals & Reliability, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/senior-technical-product-manager-ai-agents-evals-reliability-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-11 |
+| [Machine Learning Platform Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/machine-learning-platform-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-11 |
+| [Machine Learning Lead Engineer, Machine Learning (ML) Required, Work From Home](https://www.nextstepsystems.com/job/machine-learning-lead-engineer-machine-learning-ml-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-09-11 |
+| [Senior Business Intelligence Analyst - Enterprise Analytics](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Business-Intelligence-Analyst---Enterprise-Analytics_R9559) | Great American Insurance | Cincinnati, OH (USA) | 2026-09-11 |
+| [IS Epic Application Coordinator - Epic Population Health and Continuing Care](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Application-Coordinator---Epic-Population-Health-and-Continuing-Care_R-27988) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-09-11 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-11 |
+| [Data Analytics & BI Principal Specialist](https://careers.honda.com/us/en/job/12572) | Honda | Raymond, Ohio, United States | 2026-09-11 |
+| [Specialist Systems Engineer](https://careers.l3harris.com/en/job/mason/specialist-systems-engineer/4832/100498293744) | L3Harris | Mason, OH | 2026-09-11 |
 <!-- JOBS:END -->
 
 ## How it works
