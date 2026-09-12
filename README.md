@@ -56,24 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 2015 tracked total · updated `2026-09-11T23:39:40+00:00`
+### 🆕 2 new roles this update · 1992 tracked total · updated `2026-09-12T04:51:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 4 |
-| Robert Half | 3 |
-| Njoyn (CGI) | 1 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior IAM Engineer](https://careers.teksystems.com/us/en/job/JP-006276850/Senior-IAM-Engineer) | TEKsystems | Cincinnati, Ohio | 2026-09-11 |
-| [Product Owner (SAGE Platform)](https://careers.teksystems.com/us/en/job/JP-006280600/Product-Owner-SAGE-Platform) | TEKsystems | Blue Ash, Ohio | 2026-09-11 |
-| [Infrastructure Technician Level III](https://careers.teksystems.com/us/en/job/JP-006281365/Infrastructure-Technician-Level-III) | TEKsystems | New Albany, Ohio | 2026-09-11 |
-| [Lead Infrastructure Technician](https://careers.teksystems.com/us/en/job/JP-006281371/Lead-Infrastructure-Technician) | TEKsystems | New Albany, Ohio | 2026-09-11 |
-| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-11 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-11 |
-| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-11 |
-| [Interface Developer (Pentaho)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0898&BRID=1332337&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-11 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-12 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-12 |
 <!-- JOBS:END -->
 
 ## How it works
