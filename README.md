@@ -56,16 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1988 tracked total · updated `2026-09-12T15:48:10+00:00`
+### 🆕 4 new roles this update · 1986 tracked total · updated `2026-09-12T20:48:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| Robert Half | 3 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-12 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-12 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-12 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-12 |
+| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-12 |
+| [Systems Administrator-Level 2-Operational Technology](https://careers.cintas.com/job/Mason-Systems-Administrator-Level-2-Operational-Technology-OH-45040/1408130600/) | Cintas | OH | 2026-09-12 |
 <!-- JOBS:END -->
 
 ## How it works
