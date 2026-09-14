@@ -56,18 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1880 tracked total · updated `2026-09-14T05:22:03+00:00`
+### 🆕 7 new roles this update · 1884 tracked total · updated `2026-09-14T13:06:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| Robert Half | 3 |
+| Sherwin-Williams | 2 |
 | Nationwide | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-14 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-14 |
-| [Consultant, Scrum Master](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Scrum-Master_100295) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-14 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-14 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-14 |
+| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-14 |
+| [Software Engineering Leader (P&C Technology)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Software-Engineering-Leader--P-C-Technology-_100190-1) | Nationwide | Ohio - Columbus Metro | 2026-09-14 |
+| [Senior Palantir Forward Deployed Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623319) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-14 |
+| [Senior Machine Learning Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623332) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-14 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-14 |
 <!-- JOBS:END -->
 
 ## How it works
