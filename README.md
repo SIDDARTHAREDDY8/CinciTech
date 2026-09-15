@@ -56,43 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 1856 tracked total · updated `2026-09-15T17:24:16+00:00`
+### 🆕 14 new roles this update · 1865 tracked total · updated `2026-09-15T21:49:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Huntington Bank | 2 |
-| Apex Systems | 1 |
+| Robert Half | 3 |
+| TRU Staffing Partners | 1 |
+| Artech | 1 |
 | Mindlance | 1 |
-| Cynet Systems | 1 |
-| AtriCure | 1 |
+| Diebold Nixdorf | 1 |
+| Forge Biologics | 1 |
 | Fifth Third Bank | 1 |
-| Nationwide | 1 |
-| American Electric Power | 1 |
-| Sherwin-Williams | 1 |
-| Cincinnati Children's Hospital | 1 |
+| Huntington Bank | 1 |
 | Vertiv | 1 |
-| Fidelity Investments | 1 |
-| Atlas Air Worldwide | 1 |
+| Battelle | 1 |
+| Honda | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Transmit Security Engineer](https://www.apexsystems.com/job/3052179_usa/transmit-security-engineer) | Apex Systems | Brooklyn, OH | 2026-09-15 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-15 |
-| [IT Project Manager](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29300457#/jobs/29300457) | Mindlance | Remote, AR | 2026-09-15 |
-| [Principal Architect – Cloud, AI & Data](https://candidateportal.ceipal.com/job-details/AyWCfYPneNDbYNq-5bGQRfW9Xa438scyFwWoq5gue5E) | Cynet Systems | Ohio | 2026-09-15 |
-| [Senior Supplier Quality Engineer](https://job-boards.greenhouse.io/atricure/jobs/4339445009) | AtriCure | Mason, OH | 2026-09-15 |
-| [Associate Data Scientist](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Data-Scientist_R72860) | Fifth Third Bank | Cincinnati, OH | 2026-09-15 |
-| [Specialist, Data Engineer Test Lead - ETL, Python, Perl](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Engineer-Test-Lead---ETL--Python--Perl_099010) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-15 |
-| [Data & AI Technology Delivery Manager](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data---AI-Technology-Delivery-Manager_R19032) | American Electric Power | Columbus, OH | 2026-09-15 |
-| [Senior Microservice Domain API Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623767) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-15 |
-| [Data Scientist](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Scientist_R0075782-1) | Huntington Bank | Columbus, OH | 2026-09-15 |
-| [Data Scientist - Machine Learning Focus](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Scientist---Machine-Learning-Focus_R0075784-1) | Huntington Bank | Columbus, OH | 2026-09-15 |
-| [Lead Research Data Scientist - Multimodal Clinical Data](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Exploration-Avenue/Lead-Research-Data-Scientist---Multimodal-Clinical-Data_JR225403) | Cincinnati Children's Hospital | Exploration Avenue | 2026-09-15 |
-| [Senior Solutions Architect - Thermal Management](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271923) | Vertiv | Westerville, OH, United States | 2026-09-15 |
-| [Director, Software Engineering](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Director--Software-Engineering_2133898) | Fidelity Investments | Covington, KY | 2026-09-15 |
-| [Manager Powerplant Programs](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4399715009) | Atlas Air Worldwide | Erlanger, KY, USA | 2026-09-15 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-15 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
+| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
+| [Data Scientist](https://jobs.trustaffingpartners.com/?jobid=7629#/jobs/7629) | TRU Staffing Partners | Anywhere | 2026-09-15 |
+| [Enterprise Architect - I](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33097707#/jobs/33097707) | Artech | Remote, FL | 2026-09-15 |
+| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29302094#/jobs/29302094) | Mindlance | Remote, CA | 2026-09-15 |
+| [Global Fleet Data and Systems Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20160) | Diebold Nixdorf | Remote, OH, United States | 2026-09-15 |
+| [Specialist I, QA Operations](https://boards.greenhouse.io/forgebiologics/jobs/6192845004?gh_jid=6192845004) | Forge Biologics | Columbus, Ohio | 2026-09-15 |
+| [Principle Software Engineer - Service Development](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principle-Software-Engineer---Service-Development_R71267-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-15 |
+| [IS Technical Specialist (Senior Application Developer and Technical Lead)](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist--Senior-Application-Developer-and-Technical-Lead-_R0071765-1) | Huntington Bank | Columbus, OH | 2026-09-15 |
+| [Internal Audit Specialist, Global Risk Oversight](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281841) | Vertiv | Westerville, OH, United States | 2026-09-15 |
+| [Network Systems Administrator](https://jobs.battelle.org/us/en/job/76370) | Battelle | Columbus, OH | 2026-09-15 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-15 |
+| [Lead, Data Governance](https://careers.l3harris.com/en/job/united-states/lead-data-governance/4832/100679988464) | L3Harris | Remote | 2026-09-15 |
 <!-- JOBS:END -->
 
 ## How it works
