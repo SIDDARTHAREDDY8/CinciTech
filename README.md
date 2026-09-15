@@ -56,48 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 1892 tracked total · updated `2026-09-14T20:24:46+00:00`
+### 🆕 6 new roles this update · 1843 tracked total · updated `2026-09-15T00:19:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 3 |
-| Robert Half | 2 |
-| Net2Source | 2 |
-| Worldpay | 2 |
-| Motion Recruitment | 1 |
-| Artech | 1 |
-| Root Insurance | 1 |
+| Robert Half | 3 |
+| Mindlance | 1 |
+| Axuall | 1 |
 | Cleveland Clinic | 1 |
-| Kroger | 1 |
-| Procter & Gamble | 1 |
-| Materion | 1 |
-| Nationwide Children's Hospital | 1 |
-| Kettering Health | 1 |
-| Lubrizol | 1 |
-| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-14 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-14 |
-| [IT Engineer (SAP S/4HANA, BTP & Service Cloud)](https://motionrecruitment.com/tech-jobs/columbus/contract/it-engineer-sap-s-4hana-btp-and-service-cloud/886777) | Motion Recruitment | Columbus, Ohio | 2026-09-14 |
-| [Technical Project/Program Management - Technical Program Manager III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33089798#/jobs/33089798) | Artech | Remote, CA | 2026-09-14 |
-| [Chromeleon System Administrator](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29249270#/jobs/29249270) | Net2Source | Cincinnati, OH | 2026-09-14 |
-| [DevOps Lead/Architect](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29250301#/jobs/29250301) | Net2Source | Cleveland, OH | 2026-09-14 |
-| [Lead Machine Learning Engineer, Lifetime Value](https://ats.rippling.com/joinroot/jobs/159a1223-df30-4e6f-b9ce-e3a67157aece) | Root Insurance | Remote (United States) | 2026-09-14 |
-| [Senior Full-Stack Software Engineer (Java, Angular)](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Senior-Full-Stack-Software-Engineer--Java--Angular-_JR0610996) | Worldpay | CINCINNATI, OHIO | 2026-09-14 |
-| [Security Architect Specialist](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Security-Architect-Specialist_JR0611294) | Worldpay | CINCINNATI, OHIO | 2026-09-14 |
-| [Bioinformatics Technologist I/II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Bioinformatics-Technologist-I-II_354815) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-14 |
-| [Senior Software Engineer](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/227298) | Kroger | Blue Ash, OH, United States | 2026-09-14 |
-| [Senior Sailpoint Security Operations Analyst - Identity & Access Management](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-Sailpoint-Security-Operations-Analyst---Identity---Access-Management_R000155686) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-09-14 |
-| [Customer Support Specialist - Manufacturing](https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Customer-Support-Specialist---Manufacturing_2026-R8024) | Materion | Cleveland, OH | 2026-09-14 |
-| [IT Project Scientist I - Research Data Navigation](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-Project-Scientist-I---Research-Data-Navigation_R-27881-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-09-14 |
-| [Decision Support Analyst II-Finance](https://careers-ketteringhealth.icims.com/jobs/62802/decision-support-analyst-ii-finance/job?in_iframe=1) | Kettering Health | Miamisburg, OH | 2026-09-14 |
-| [Hardware Reverse Engineer/Vulnerability Research Internship (Summer 2027)](https://jobs.battelle.org/us/en/job/76529) | Battelle | Columbus, OH | 2026-09-14 |
-| [Data Science Internship (Summer 2027)](https://jobs.battelle.org/us/en/job/76528) | Battelle | Columbus, OH | 2026-09-14 |
-| [Sr. Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76531) | Battelle | Columbus, OH | 2026-09-14 |
-| [Enterprise ServiceNow Governance & Platform Owner](https://jobs.lubrizol.com/job/Wickliffe-Enterprise-ServiceNow-Governance-&-Platform-Owner-OH-44092-2298/1429783100/) | Lubrizol | OH | 2026-09-14 |
-| [Audit Analyst](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Audit-Analyst_2131100-1) | Fidelity Investments | Covington, KY | 2026-09-14 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-15 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
+| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
+| [IT - Project Manager](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29296992#/jobs/29296992) | Mindlance | Mason, OH | 2026-09-15 |
+| [Support Engineer](https://job-boards.greenhouse.io/axuall/jobs/4733815005) | Axuall | Remote - US (Central or Eastern Time) | 2026-09-15 |
+| [Research Data Scientist I - Cole Eye](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-I---Cole-Eye_341987-1) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-15 |
 <!-- JOBS:END -->
 
 ## How it works
