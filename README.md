@@ -56,24 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1846 tracked total · updated `2026-09-15T05:18:42+00:00`
+### 🆕 7 new roles this update · 1848 tracked total · updated `2026-09-15T12:10:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Vaco | 1 |
-| Marathon Petroleum | 1 |
-| Honda | 1 |
-| L3Harris | 1 |
+| Robert Half | 3 |
+| Agility Connect | 3 |
+| TEKsystems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-15 |
-| [Data Ai Platforms Manager](https://jobs.vaco.com/job/800/data_ai_platforms_manager/en) | Vaco | Columbus, Ohio | 2026-09-15 |
-| [Intern/Co-op - Midstream Logistics and Storage Engineering (L&SE) Project Controls (Summer 2027)](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Logistics-and-Storage-Engineering--L-SE--Project-Controls--Summer-2027-_00024212) | Marathon Petroleum | Findlay, Ohio | 2026-09-15 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-15 |
-| [Specialist, Systems Engineer (EE) 1](https://careers.l3harris.com/en/job/cincinnati/specialist-systems-engineer-ee-1/4832/100645645104) | L3Harris | Cincinnati, OH | 2026-09-15 |
+| [Technical Support Tech I](https://careers.teksystems.com/us/en/job/JP-006283656/Technical-Support-Tech-I) | TEKsystems | New Albany, Ohio | 2026-09-15 |
+| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-15 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
+| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
+| [Scrum Master](https://agilityconnect.io/jobs/8437) | Agility Connect | Columbus, OH | 2026-09-15 |
+| [Senior Workday Financials Engineer](https://agilityconnect.io/jobs/8432) | Agility Connect | OH | 2026-09-15 |
+| [Senior Product Owner](https://agilityconnect.io/jobs/8434) | Agility Connect | Cincinnati, OH | 2026-09-15 |
 <!-- JOBS:END -->
 
 ## How it works
