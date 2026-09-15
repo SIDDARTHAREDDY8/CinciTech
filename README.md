@@ -56,23 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1843 tracked total · updated `2026-09-15T00:19:01+00:00`
+### 🆕 6 new roles this update · 1846 tracked total · updated `2026-09-15T05:18:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| Mindlance | 1 |
-| Axuall | 1 |
-| Cleveland Clinic | 1 |
+| Robert Half | 2 |
+| Vaco | 1 |
+| Marathon Petroleum | 1 |
+| Honda | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-15 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
-| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
-| [IT - Project Manager](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29296992#/jobs/29296992) | Mindlance | Mason, OH | 2026-09-15 |
-| [Support Engineer](https://job-boards.greenhouse.io/axuall/jobs/4733815005) | Axuall | Remote - US (Central or Eastern Time) | 2026-09-15 |
-| [Research Data Scientist I - Cole Eye](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-I---Cole-Eye_341987-1) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-15 |
+| [Data Ai Platforms Manager](https://jobs.vaco.com/job/800/data_ai_platforms_manager/en) | Vaco | Columbus, Ohio | 2026-09-15 |
+| [Intern/Co-op - Midstream Logistics and Storage Engineering (L&SE) Project Controls (Summer 2027)](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Logistics-and-Storage-Engineering--L-SE--Project-Controls--Summer-2027-_00024212) | Marathon Petroleum | Findlay, Ohio | 2026-09-15 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-15 |
+| [Specialist, Systems Engineer (EE) 1](https://careers.l3harris.com/en/job/cincinnati/specialist-systems-engineer-ee-1/4832/100645645104) | L3Harris | Cincinnati, OH | 2026-09-15 |
 <!-- JOBS:END -->
 
 ## How it works
