@@ -56,18 +56,33 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1827 tracked total · updated `2026-09-16T11:54:52+00:00`
+### 🆕 11 new roles this update · 1834 tracked total · updated `2026-09-16T17:14:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 2 |
-| GE Aerospace | 1 |
+| Cleveland Clinic | 2 |
+| Apex Systems | 1 |
+| Artech | 1 |
+| Brooksource | 1 |
+| Fast Switch | 1 |
+| Kao USA | 1 |
+| Fifth Third Bank | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
-| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
-| [Sr Staff Technical Program Manager - Solumina](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Sr-Staff-Technical-Program-Manager---Solumina_R5038756-2) | GE Aerospace | Evendale | 2026-09-16 |
+| [Transmit Core Developer](https://www.apexsystems.com/job/3052179_usa/transmit-core-developer) | Apex Systems | Brooklyn, OH | 2026-09-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-16 |
+| [Workday Solutions Engineer (Core HCM)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33097748#/jobs/33097748) | Artech | Remote | 2026-09-16 |
+| [Senior BI Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000011vqheay-senior-bi-analyst-cincinnati-ohio/) | Brooksource | Cincinnati, Ohio | 2026-09-16 |
+| [Transmit Core Developer](https://fastswitch.com/jobs/transmit-core-developer-61853/) | Fast Switch | Location: Cleveland, Ohio | 2026-09-16 |
+| [IT Project Manager](https://kao.voyse.io/gh-job/4713766006?gh_jid=4713766006) | Kao USA | Cincinnati | 2026-09-16 |
+| [Principal Business Information Security Officer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Business-Information-Security-Officer_R72516) | Fifth Third Bank | Cincinnati, OH | 2026-09-16 |
+| [EBI Database Developer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Database-Developer-II_339676-1) | Cleveland Clinic | Remote Location | 2026-09-16 |
+| [Software Developer II - Pathology Informatics](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Software-Developer-II---Pathology-Informatics_352653) | Cleveland Clinic | Remote Location | 2026-09-16 |
+| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/100716887248) | L3Harris | Remote | 2026-09-16 |
 <!-- JOBS:END -->
 
 ## How it works
