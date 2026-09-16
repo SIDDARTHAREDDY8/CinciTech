@@ -56,33 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1834 tracked total · updated `2026-09-16T17:14:57+00:00`
+### 🆕 10 new roles this update · 1839 tracked total · updated `2026-09-16T21:46:24+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Cleveland Clinic | 2 |
-| Apex Systems | 1 |
-| Artech | 1 |
-| Brooksource | 1 |
-| Fast Switch | 1 |
-| Kao USA | 1 |
-| Fifth Third Bank | 1 |
-| L3Harris | 1 |
+| FirstEnergy | 2 |
+| TEKsystems | 1 |
+| Robert Half | 1 |
+| KeyBank | 1 |
+| Huntington Bank | 1 |
+| Abbott (Columbus) | 1 |
+| Vertiv | 1 |
+| CrossCountry Mortgage | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Transmit Core Developer](https://www.apexsystems.com/job/3052179_usa/transmit-core-developer) | Apex Systems | Brooklyn, OH | 2026-09-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-16 |
-| [Workday Solutions Engineer (Core HCM)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33097748#/jobs/33097748) | Artech | Remote | 2026-09-16 |
-| [Senior BI Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000011vqheay-senior-bi-analyst-cincinnati-ohio/) | Brooksource | Cincinnati, Ohio | 2026-09-16 |
-| [Transmit Core Developer](https://fastswitch.com/jobs/transmit-core-developer-61853/) | Fast Switch | Location: Cleveland, Ohio | 2026-09-16 |
-| [IT Project Manager](https://kao.voyse.io/gh-job/4713766006?gh_jid=4713766006) | Kao USA | Cincinnati | 2026-09-16 |
-| [Principal Business Information Security Officer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Business-Information-Security-Officer_R72516) | Fifth Third Bank | Cincinnati, OH | 2026-09-16 |
-| [EBI Database Developer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Database-Developer-II_339676-1) | Cleveland Clinic | Remote Location | 2026-09-16 |
-| [Software Developer II - Pathology Informatics](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Software-Developer-II---Pathology-Informatics_352653) | Cleveland Clinic | Remote Location | 2026-09-16 |
-| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/100716887248) | L3Harris | Remote | 2026-09-16 |
+| [Desktop Support](https://careers.teksystems.com/us/en/job/JP-006289306/Desktop-Support) | TEKsystems | West Chester, Ohio | 2026-09-16 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
+| [Enterprise Architect - Infrastructure](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/Enterprise-Architect---Infrastructure_R-42173-1) | KeyBank | 4910 Tiedeman Road, Brooklyn, OH | 2026-09-16 |
+| [HR Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105318) | FirstEnergy | Akron, OH, United States | 2026-09-16 |
+| [HR Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105321) | FirstEnergy | Akron, OH, United States | 2026-09-16 |
+| [Data Engineer Sr – Home Lending Data Delivery](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Sr---Home-Lending-Data-Delivery_R0075734) | Huntington Bank | Columbus, OH | 2026-09-16 |
+| [Senior Laboratory Information Systems (LIMS) Specialist – Quality Assurance - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Laboratory-Information-Systems--LIMS--Specialist---Quality-Assurance---Columbus--OH_31162237) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-16 |
+| [Logistics Data Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280366) | Vertiv | Westerville, OH, United States | 2026-09-16 |
+| [Loan Support Specialist - West](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Loan-Support-Specialist---West_JR03649) | CrossCountry Mortgage | Remote USA | 2026-09-16 |
+| [Manager, Data Analytics and Insights](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Manager--Data-Analytics-and-Insights_2131698-1) | Fidelity Investments | Covington, KY | 2026-09-16 |
 <!-- JOBS:END -->
 
 ## How it works
