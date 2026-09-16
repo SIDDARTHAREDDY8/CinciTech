@@ -56,39 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1865 tracked total · updated `2026-09-15T21:49:48+00:00`
+### 🆕 4 new roles this update · 1828 tracked total · updated `2026-09-16T05:12:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| TRU Staffing Partners | 1 |
+| Robert Half | 2 |
 | Artech | 1 |
-| Mindlance | 1 |
-| Diebold Nixdorf | 1 |
-| Forge Biologics | 1 |
-| Fifth Third Bank | 1 |
-| Huntington Bank | 1 |
-| Vertiv | 1 |
-| Battelle | 1 |
-| Honda | 1 |
-| L3Harris | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Technician I](https://www.roberthalf.com/us/en/job/blue-ash-oh/desktop-technician-i/03320-0013495025-usen) | Robert Half | Cincinnati, 03320 | 2026-09-15 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
-| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-15 |
-| [Data Scientist](https://jobs.trustaffingpartners.com/?jobid=7629#/jobs/7629) | TRU Staffing Partners | Anywhere | 2026-09-15 |
-| [Enterprise Architect - I](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33097707#/jobs/33097707) | Artech | Remote, FL | 2026-09-15 |
-| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29302094#/jobs/29302094) | Mindlance | Remote, CA | 2026-09-15 |
-| [Global Fleet Data and Systems Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20160) | Diebold Nixdorf | Remote, OH, United States | 2026-09-15 |
-| [Specialist I, QA Operations](https://boards.greenhouse.io/forgebiologics/jobs/6192845004?gh_jid=6192845004) | Forge Biologics | Columbus, Ohio | 2026-09-15 |
-| [Principle Software Engineer - Service Development](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principle-Software-Engineer---Service-Development_R71267-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-15 |
-| [IS Technical Specialist (Senior Application Developer and Technical Lead)](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist--Senior-Application-Developer-and-Technical-Lead-_R0071765-1) | Huntington Bank | Columbus, OH | 2026-09-15 |
-| [Internal Audit Specialist, Global Risk Oversight](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281841) | Vertiv | Westerville, OH, United States | 2026-09-15 |
-| [Network Systems Administrator](https://jobs.battelle.org/us/en/job/76370) | Battelle | Columbus, OH | 2026-09-15 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-15 |
-| [Lead, Data Governance](https://careers.l3harris.com/en/job/united-states/lead-data-governance/4832/100679988464) | L3Harris | Remote | 2026-09-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-16 |
+| [Workday Solutions Engineer (Talent)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33097496#/jobs/33097496) | Artech | Remote, CA | 2026-09-16 |
+| [Power BI Report Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1097&BRID=1333030&lang=1) | Njoyn (CGI) | Remote, Henderson, Phoenix, San Diego, United States | 2026-09-16 |
 <!-- JOBS:END -->
 
 ## How it works
