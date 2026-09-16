@@ -56,20 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1828 tracked total · updated `2026-09-16T05:12:55+00:00`
+### 🆕 3 new roles this update · 1827 tracked total · updated `2026-09-16T11:54:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 2 |
-| Artech | 1 |
-| Njoyn (CGI) | 1 |
+| GE Aerospace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-16 |
-| [Workday Solutions Engineer (Talent)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33097496#/jobs/33097496) | Artech | Remote, CA | 2026-09-16 |
-| [Power BI Report Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1097&BRID=1333030&lang=1) | Njoyn (CGI) | Remote, Henderson, Phoenix, San Diego, United States | 2026-09-16 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
+| [Oracle Fusion Cloud Projectsppm Functional Lead](https://www.roberthalf.com/us/en/job/cincinnati-oh/oracle-fusion-cloud-projectsppm-functional-lead/04130-0013486538-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
+| [Sr Staff Technical Program Manager - Solumina](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Sr-Staff-Technical-Program-Manager---Solumina_R5038756-2) | GE Aerospace | Evendale | 2026-09-16 |
 <!-- JOBS:END -->
 
 ## How it works
