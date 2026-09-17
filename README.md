@@ -56,19 +56,42 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1840 tracked total · updated `2026-09-17T11:59:46+00:00`
+### 🆕 16 new roles this update · 1854 tracked total · updated `2026-09-17T17:24:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Agility Connect | 2 |
+| Diebold Nixdorf | 3 |
+| Artech | 2 |
+| Robert Half | 1 |
+| Nesco Resource | 1 |
+| CareSource | 1 |
+| Great American Insurance | 1 |
+| Nationwide | 1 |
+| KeyBank | 1 |
+| Sherwin-Williams | 1 |
+| Honda | 1 |
+| Medical Mutual of Ohio | 1 |
+| Cintas | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-17 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-17 |
-| [Cloud Engineer](https://agilityconnect.io/jobs/8442) | Agility Connect | Columbus, OH | 2026-09-17 |
-| [IT Service Delivery Manager](https://agilityconnect.io/jobs/8443) | Agility Connect | OH | 2026-09-17 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-17 |
+| [US Infrastructure Specialist - Platform Engineering Services](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33102694#/jobs/33102694) | Artech | Columbus, OH | 2026-09-17 |
+| [US Quality Engineer - Test Quality](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33102473#/jobs/33102473) | Artech | Columbus, OH | 2026-09-17 |
+| [Quality Assurance Specialist](https://www.nescoresource.com/job-details/quality-assurance-specialist-in-light-industrial-jobs-1724494) | Nesco Resource | Defiance, OH | 2026-09-17 |
+| [Manager, Enrollment Operations (Health Plan Enrollment experience required)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Enrollment-Operations--Health-Plan-Enrollment-experience-required-_R13740) | CareSource | Remote | 2026-09-17 |
+| [Senior Director, Strategic IT Partner, Revenue](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20023) | Diebold Nixdorf | Remote, United States | 2026-09-17 |
+| [Senior Director, Infrastructure & Operations](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20073) | Diebold Nixdorf | Remote, United States | 2026-09-17 |
+| [Senior Director, Strategic IT Partner, Administration & Finance](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20254) | Diebold Nixdorf | Remote, United States | 2026-09-17 |
+| [Catastrophe Modeling & Data Analytics Intern (Spring 2027)](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Spring-2027-_R9576) | Great American Insurance | Cincinnati, OH (USA) | 2026-09-17 |
+| [Sr Engineer, Software Engineer - Java/Angular (2 - 5 years' experience)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Java-Angular--2---5-years--experience-_099086) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-17 |
+| [Senior Adobe Experience Manager (AEM) Developer](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Adobe-Experience-Manager--AEM--Developer_R-42108) | KeyBank | Brooklyn, OH | 2026-09-17 |
+| [Senior Application Integration Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623991) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-17 |
+| [Principal Vehicle Platform Engineer - Fleet-as-a-Service (FaaS) Program](https://careers.honda.com/us/en/job/11865) | Honda | Marysville, Ohio, United States | 2026-09-17 |
+| [Data Engineer](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=0a92d6ab-6c56-4465-957b-dbbd7afae809) | Medical Mutual of Ohio | Brooklyn OH | 2026-09-17 |
+| [IT Data Engineer-Level 3](https://careers.cintas.com/job/Mason-IT-Data-Engineer-Level-3-OH-45040/1426468300/) | Cintas | OH | 2026-09-17 |
+| [Systems Engineer (Enterprise Applications)](https://uscareers-medpace.icims.com/jobs/13002/login) | Medpace | Cincinnati, Ohio | 2026-09-17 |
 <!-- JOBS:END -->
 
 ## How it works
