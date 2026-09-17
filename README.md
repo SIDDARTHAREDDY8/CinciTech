@@ -56,32 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1839 tracked total · updated `2026-09-16T21:46:24+00:00`
+### 🆕 2 new roles this update · 1837 tracked total · updated `2026-09-17T00:09:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| FirstEnergy | 2 |
-| TEKsystems | 1 |
-| Robert Half | 1 |
-| KeyBank | 1 |
-| Huntington Bank | 1 |
-| Abbott (Columbus) | 1 |
-| Vertiv | 1 |
-| CrossCountry Mortgage | 1 |
-| Fidelity Investments | 1 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support](https://careers.teksystems.com/us/en/job/JP-006289306/Desktop-Support) | TEKsystems | West Chester, Ohio | 2026-09-16 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-16 |
-| [Enterprise Architect - Infrastructure](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/Enterprise-Architect---Infrastructure_R-42173-1) | KeyBank | 4910 Tiedeman Road, Brooklyn, OH | 2026-09-16 |
-| [HR Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105318) | FirstEnergy | Akron, OH, United States | 2026-09-16 |
-| [HR Data Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105321) | FirstEnergy | Akron, OH, United States | 2026-09-16 |
-| [Data Engineer Sr – Home Lending Data Delivery](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Sr---Home-Lending-Data-Delivery_R0075734) | Huntington Bank | Columbus, OH | 2026-09-16 |
-| [Senior Laboratory Information Systems (LIMS) Specialist – Quality Assurance - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Laboratory-Information-Systems--LIMS--Specialist---Quality-Assurance---Columbus--OH_31162237) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-16 |
-| [Logistics Data Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280366) | Vertiv | Westerville, OH, United States | 2026-09-16 |
-| [Loan Support Specialist - West](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Loan-Support-Specialist---West_JR03649) | CrossCountry Mortgage | Remote USA | 2026-09-16 |
-| [Manager, Data Analytics and Insights](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Manager--Data-Analytics-and-Insights_2131698-1) | Fidelity Investments | Covington, KY | 2026-09-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-17 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-17 |
 <!-- JOBS:END -->
 
 ## How it works
