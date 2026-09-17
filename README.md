@@ -56,23 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1839 tracked total · updated `2026-09-17T05:16:30+00:00`
+### 🆕 4 new roles this update · 1840 tracked total · updated `2026-09-17T11:59:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Fifth Third Bank | 1 |
-| Nationwide | 1 |
-| Honda | 1 |
-| L3Harris | 1 |
+| Robert Half | 2 |
+| Agility Connect | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-17 |
-| [Credit Analyst - Healthcare/G&I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Credit-Analyst-II---Healthcare-G-I_R71904-1) | Fifth Third Bank | Virtual | 2026-09-17 |
-| [Specialist, Quality Engineer - Playwright](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Quality-Engineer---Playwright_100232) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-17 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-17 |
-| [Specialist, Systems Engineer](https://careers.l3harris.com/en/job/cincinnati/specialist-systems-engineer/4832/100741476496) | L3Harris | Cincinnati, OH | 2026-09-17 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-17 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-17 |
+| [Cloud Engineer](https://agilityconnect.io/jobs/8442) | Agility Connect | Columbus, OH | 2026-09-17 |
+| [IT Service Delivery Manager](https://agilityconnect.io/jobs/8443) | Agility Connect | OH | 2026-09-17 |
 <!-- JOBS:END -->
 
 ## How it works
