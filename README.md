@@ -56,43 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 18 new roles this update · 1871 tracked total · updated `2026-09-17T21:47:02+00:00`
+### 🆕 4 new roles this update · 1870 tracked total · updated `2026-09-18T04:56:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Artech | 2 |
-| Nesco Resource | 2 |
-| Fifth Third Bank | 2 |
-| Cleveland Clinic | 2 |
-| Sherwin-Williams | 2 |
-| Strategic Staffing Solutions | 1 |
-| CareSource | 1 |
-| Huntington Bank | 1 |
-| Vertiv | 1 |
-| STERIS | 1 |
-| Honda | 1 |
+| Honda | 2 |
+| Robert Half | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013490746-usen) | Robert Half | Cincinnati, 04130 | 2026-09-17 |
-| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-17 |
-| [Technical Support Engineer Cr](https://jobs.strategicstaff.com/jobs/technical-support-engineer-cr-170572/) | Strategic Staffing Solutions | Costa Rica, Remote | 2026-09-17 |
-| [Software Engineering - Software Engineer I](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33112801#/jobs/33112801) | Artech | Remote, CA | 2026-09-17 |
-| [Information Technology - Application Development - Application Developer - Oracle Recruiting Cloud](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33110554#/jobs/33110554) | Artech | Remote, IN | 2026-09-17 |
-| [Transmit Core Developer](https://www.nescoresource.com/job-details/transmit-core-developer-in-information-technology-jobs-1726146) | Nesco Resource | Brooklyn, OH | 2026-09-17 |
-| [AutoTime Application Support Developer](https://www.nescoresource.com/job-details/autotime-application-support-developer-in-information-technology-jobs-1726180) | Nesco Resource | Remote, FL | 2026-09-17 |
-| [Business Analyst III (Health Plan Enrollment experience a must)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Business-Analyst-III_R13623) | CareSource | Remote | 2026-09-17 |
-| [Senior Data Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Engineer_R72678-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-17 |
-| [IT Portfolio Analyst - Finance](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Portfolio-Analyst_R72737-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-17 |
-| [Software Developer III - Next.js and Sanity](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Software-Developer-III---Nextjs-and-Sanity_337902) | Cleveland Clinic | Remote Location | 2026-09-17 |
-| [Software Developer I - Front End](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Software-Developer-I---Front-End_345139) | Cleveland Clinic | Remote Location | 2026-09-17 |
-| [Senior Director, Cybersecurity Architecture](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624057) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-17 |
-| [Senior Shared Data Platforms Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624061) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-17 |
-| [Application Architect](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Application-Architect_R0075688) | Huntington Bank | Columbus, OH | 2026-09-17 |
-| [Application Engineer - AC Power, Hyperscale](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282169) | Vertiv | Delaware, OH, United States | 2026-09-17 |
-| [Manager, Finance Systems & Oracle ERP](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55592&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-17 |
-| [ADAS Test Engineer](https://careers.honda.com/us/en/job/12684) | Honda | Raymond, Ohio, United States | 2026-09-17 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-18 |
+| [Principal Applications Engineer](https://careers.honda.com/us/en/job/12571) | Honda | Raymond, Ohio, United States | 2026-09-18 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-18 |
+| [IT Global Trade Systems Analyst](https://careers.l3harris.com/en/job/united-states/it-global-trade-systems-analyst/4832/100786699136) | L3Harris | Remote | 2026-09-18 |
 <!-- JOBS:END -->
 
 ## How it works
