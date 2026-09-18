@@ -56,46 +56,28 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 1892 tracked total · updated `2026-09-18T16:54:06+00:00`
+### 🆕 8 new roles this update · 1898 tracked total · updated `2026-09-18T21:20:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 4 |
-| Battelle | 3 |
-| Robert Half | 2 |
-| Kroger | 2 |
-| Fifth Third Bank | 1 |
-| Great American Insurance | 1 |
-| Worldpay | 1 |
-| Cardinal Health | 1 |
-| Procter & Gamble | 1 |
-| Huntington Bank | 1 |
+| Mindlance | 2 |
+| Vernovis | 1 |
+| Sherwin-Williams | 1 |
+| Scotts Miracle-Gro | 1 |
 | Vertiv | 1 |
-| STERIS | 1 |
-| Dana Incorporated | 1 |
+| Honda | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-18 |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-18 |
-| [Java Developer](https://agilityconnect.io/jobs/8454) | Agility Connect | Cincinnati, OH | 2026-09-18 |
-| [Sr Cloud/Devops Engineer](https://agilityconnect.io/jobs/8449) | Agility Connect | Columbus, OH | 2026-09-18 |
-| [D&A Product Owner](https://agilityconnect.io/jobs/8451) | Agility Connect | Columbus, OH | 2026-09-18 |
-| [ServiceNow Platform Engineer](https://agilityconnect.io/jobs/8447) | Agility Connect | OH | 2026-09-18 |
-| [Software Engineer II-4](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-II-4_R72713) | Fifth Third Bank | Cincinnati, OH | 2026-09-18 |
-| [Senior Business Intelligence Analyst](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Business-Intelligence-Analyst_R9550) | Great American Insurance | Cincinnati, OH (USA) | 2026-09-18 |
-| [Actimize Senior Developer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Actimize-Senior-Developer_JR0611636) | Worldpay | CINCINNATI, OHIO | 2026-09-18 |
-| [Software Engineer, Commercial Technologies (Specialty Networks)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Software-Engineer--Commercial-Technologies--Specialty-Networks-_20187636-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-09-18 |
-| [MFG PLANT QA ASSISTANT MANAGER/RESOURCE LEADER](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/230162) | Kroger | Cincinnati, OH, United States | 2026-09-18 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/231206) | Kroger | Oxford, OH, United States | 2026-09-18 |
-| [Senior Data Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-Data-Engineer_R000155516) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-09-18 |
-| [IT Service Delivery Manager](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Service-Delivery-Manager_R0075309) | Huntington Bank | Columbus, OH | 2026-09-18 |
-| [Project Manager, Master Data Management](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282373) | Vertiv | Westerville, OH, United States | 2026-09-18 |
-| [Senior Software Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56134&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-18 |
-| [Reverse Engineering/Vulnerability Research Internship (Summer 2027)](https://jobs.battelle.org/us/en/job/76543) | Battelle | Columbus, OH | 2026-09-18 |
-| [Software Engineering Co-Op (Spring-Summer 2027)](https://jobs.battelle.org/us/en/job/76549) | Battelle | Columbus, OH | 2026-09-18 |
-| [Software Engineering Internship (Summer 2027)](https://jobs.battelle.org/us/en/job/76554) | Battelle | Beavercreek, OH | 2026-09-18 |
-| [Sr. ePowertrain Product Platform Engineer](https://jobs.dana.com/job/Maumee-Sr_-ePowertrain-Product-Platform-Engineer-OH-43537/1429513300/) | Dana Incorporated | OH | 2026-09-18 |
+| [Software Engineer I](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29317438#/jobs/29317438) | Mindlance | Remote, CA | 2026-09-18 |
+| [IT Program Manager - 8](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29316619#/jobs/29316619) | Mindlance | Warren, OH | 2026-09-18 |
+| [Cloud Solutions Architect](https://vernovis.com/blog/jobs/12179/) | Vernovis | Cincinnati, | 2026-09-18 |
+| [Senior Application Developer, Full Stack](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624202) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-18 |
+| [Automation Engineering Manager](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Ohio---Field/Automation-Engineering-Manager_R26468) | Scotts Miracle-Gro | Ohio - Field | 2026-09-18 |
+| [Power Management Technical Support Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282380) | Vertiv | Westerville, OH, United States | 2026-09-18 |
+| [Senior ADAS Test Engineer II](https://careers.honda.com/us/en/job/12692) | Honda | Raymond, Ohio, United States | 2026-09-18 |
+| [Senior Process Automation Engineer (Power Apps, SQL, RPA, JavaScript)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Process-Automation-Engineer--Power-Apps--SQL--RPA--JavaScript-_2128624) | Fidelity Investments | Covington, KY | 2026-09-18 |
 <!-- JOBS:END -->
 
 ## How it works
