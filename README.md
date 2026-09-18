@@ -56,20 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1870 tracked total · updated `2026-09-18T04:56:28+00:00`
+### 🆕 4 new roles this update · 1873 tracked total · updated `2026-09-18T11:45:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 2 |
 | Robert Half | 1 |
-| L3Harris | 1 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-18 |
-| [Principal Applications Engineer](https://careers.honda.com/us/en/job/12571) | Honda | Raymond, Ohio, United States | 2026-09-18 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-18 |
-| [IT Global Trade Systems Analyst](https://careers.l3harris.com/en/job/united-states/it-global-trade-systems-analyst/4832/100786699136) | L3Harris | Remote | 2026-09-18 |
+| [Senior Manager Ad Cybersecurity](https://www.roberthalf.com/us/en/job/cincinnati-oh/senior-manager-ad-cybersecurity/04838-0013481041-usen) | Robert Half | Cincinnati, 04838 | 2026-09-18 |
+| [IT Program Manager - 8](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33112146#/jobs/33112146) | Artech | Warren, OH | 2026-09-18 |
+| [Transmit Core Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29314157#/jobs/29314157) | Mindlance | Brooklyn,, OH | 2026-09-18 |
+| [Sr. Systems Engineer](https://jobs.battelle.org/us/en/job/76557) | Battelle | Remote, OH | 2026-09-18 |
 <!-- JOBS:END -->
 
 ## How it works
