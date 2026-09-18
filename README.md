@@ -56,28 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1898 tracked total · updated `2026-09-18T21:20:04+00:00`
+### 🆕 3 new roles this update · 1900 tracked total · updated `2026-09-18T23:50:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 2 |
-| Vernovis | 1 |
-| Sherwin-Williams | 1 |
-| Scotts Miracle-Gro | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
-| Fidelity Investments | 1 |
+| Robert Half | 2 |
+| Mindlance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer I](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29317438#/jobs/29317438) | Mindlance | Remote, CA | 2026-09-18 |
-| [IT Program Manager - 8](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29316619#/jobs/29316619) | Mindlance | Warren, OH | 2026-09-18 |
-| [Cloud Solutions Architect](https://vernovis.com/blog/jobs/12179/) | Vernovis | Cincinnati, | 2026-09-18 |
-| [Senior Application Developer, Full Stack](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624202) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-18 |
-| [Automation Engineering Manager](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Ohio---Field/Automation-Engineering-Manager_R26468) | Scotts Miracle-Gro | Ohio - Field | 2026-09-18 |
-| [Power Management Technical Support Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282380) | Vertiv | Westerville, OH, United States | 2026-09-18 |
-| [Senior ADAS Test Engineer II](https://careers.honda.com/us/en/job/12692) | Honda | Raymond, Ohio, United States | 2026-09-18 |
-| [Senior Process Automation Engineer (Power Apps, SQL, RPA, JavaScript)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Process-Automation-Engineer--Power-Apps--SQL--RPA--JavaScript-_2128624) | Fidelity Investments | Covington, KY | 2026-09-18 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-18 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-18 |
+| [Microsoft Entra ID / IAM Engineer (Remote)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29322971#/jobs/29322971) | Mindlance | Remote, PA | 2026-09-18 |
 <!-- JOBS:END -->
 
 ## How it works
