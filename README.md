@@ -56,18 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1873 tracked total · updated `2026-09-19T11:21:10+00:00`
+### 🆕 3 new roles this update · 1874 tracked total · updated `2026-09-19T16:19:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| L3Harris | 1 |
+| Lubrizol | 2 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-19 |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-19 |
-| [Lead, Data Engineer](https://careers.l3harris.com/en/job/united-states/lead-data-engineer/4832/100415258224) | L3Harris | Remote | 2026-09-19 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-19 |
+| [Senior Cloud Engineer](https://jobs.lubrizol.com/job/Wickliffe-Senior-Cloud-Engineer-OH-44092-2298/1431766500/) | Lubrizol | OH | 2026-09-19 |
+| [Systems Engineer](https://jobs.lubrizol.com/job/Wickliffe-Systems-Engineer-OH-44092-2298/1431766100/) | Lubrizol | OH | 2026-09-19 |
 <!-- JOBS:END -->
 
 ## How it works
