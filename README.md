@@ -56,18 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1874 tracked total · updated `2026-09-19T16:19:06+00:00`
+### 🆕 2 new roles this update · 1869 tracked total · updated `2026-09-19T21:01:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Lubrizol | 2 |
-| Honda | 1 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-19 |
-| [Senior Cloud Engineer](https://jobs.lubrizol.com/job/Wickliffe-Senior-Cloud-Engineer-OH-44092-2298/1431766500/) | Lubrizol | OH | 2026-09-19 |
-| [Systems Engineer](https://jobs.lubrizol.com/job/Wickliffe-Systems-Engineer-OH-44092-2298/1431766100/) | Lubrizol | OH | 2026-09-19 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-19 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-19 |
 <!-- JOBS:END -->
 
 ## How it works
