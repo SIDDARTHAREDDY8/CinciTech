@@ -56,16 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1869 tracked total · updated `2026-09-19T21:01:59+00:00`
+### 🆕 3 new roles this update · 1869 tracked total · updated `2026-09-19T23:24:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| Battelle | 2 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-19 |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-19 |
+| [Quality Engineer](https://jobs.battelle.org/us/en/job/76381) | Battelle | Columbus, OH | 2026-09-19 |
+| [Mid-level Linux Infrastructure Administrator](https://jobs.battelle.org/us/en/job/76380) | Battelle | Columbus, OH | 2026-09-19 |
+| [Specialist, Quality Engineer](https://careers.l3harris.com/en/job/cincinnati/specialist-quality-engineer/4832/98057907696) | L3Harris | Cincinnati, OH | 2026-09-19 |
 <!-- JOBS:END -->
 
 ## How it works
