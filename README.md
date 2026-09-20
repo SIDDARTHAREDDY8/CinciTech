@@ -56,15 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1842 tracked total · updated `2026-09-20T21:12:23+00:00`
+### 🆕 4 new roles this update · 1846 tracked total · updated `2026-09-20T23:33:33+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 1 |
+| Robert Half | 2 |
+| Artech | 1 |
+| Lubrizol | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-20 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-20 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-20 |
+| [ServiceNow Business Process Consultant (BPC)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33117640#/jobs/33117640) | Artech | Remote | 2026-09-20 |
+| [Enterprise Data & AI Solutions Architect](https://jobs.lubrizol.com/job/Wickliffe-Enterprise-Data-&-AI-Solutions-Architect-OH-44092-2298/1427467500/) | Lubrizol | OH | 2026-09-20 |
 <!-- JOBS:END -->
 
 ## How it works
