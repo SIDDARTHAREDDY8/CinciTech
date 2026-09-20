@@ -56,17 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1851 tracked total · updated `2026-09-20T11:43:52+00:00`
+### 🆕 2 new roles this update · 1845 tracked total · updated `2026-09-20T16:27:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 1 |
-| Honda | 1 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Cloud Infrastructure Engineer](https://agilityconnect.io/jobs/8459) | Agility Connect | Columbus, OH | 2026-09-20 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-20 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-20 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-20 |
 <!-- JOBS:END -->
 
 ## How it works
