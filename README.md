@@ -56,16 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1824 tracked total · updated `2026-09-21T05:16:01+00:00`
+### 🆕 2 new roles this update · 1826 tracked total · updated `2026-09-21T13:13:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 2 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Consultant, Software Engineer(Guidewire Policy Center)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer-Guidewire-Policy-Center-_100344) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-21 |
-| [Full Stack Tech Lead (Java)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---App-Suite-Technical-Lead_099262) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-21 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-21 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-21 |
 <!-- JOBS:END -->
 
 ## How it works
