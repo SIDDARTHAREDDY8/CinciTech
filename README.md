@@ -56,20 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1846 tracked total · updated `2026-09-20T23:33:33+00:00`
+### 🆕 2 new roles this update · 1824 tracked total · updated `2026-09-21T05:16:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Artech | 1 |
-| Lubrizol | 1 |
+| Nationwide | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-20 |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-20 |
-| [ServiceNow Business Process Consultant (BPC)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33117640#/jobs/33117640) | Artech | Remote | 2026-09-20 |
-| [Enterprise Data & AI Solutions Architect](https://jobs.lubrizol.com/job/Wickliffe-Enterprise-Data-&-AI-Solutions-Architect-OH-44092-2298/1427467500/) | Lubrizol | OH | 2026-09-20 |
+| [Consultant, Software Engineer(Guidewire Policy Center)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer-Guidewire-Policy-Center-_100344) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-21 |
+| [Full Stack Tech Lead (Java)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---App-Suite-Technical-Lead_099262) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-21 |
 <!-- JOBS:END -->
 
 ## How it works
