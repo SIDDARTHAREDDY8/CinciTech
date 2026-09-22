@@ -56,53 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 23 new roles this update · 1842 tracked total · updated `2026-09-21T20:25:53+00:00`
+### 🆕 10 new roles this update · 1783 tracked total · updated `2026-09-22T00:38:14+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vernovis | 4 |
-| Mindlance | 3 |
-| STERIS | 2 |
+| Robert Half | 2 |
 | Cynet Systems | 1 |
-| CareSource | 1 |
-| Oxford Solutions | 1 |
-| Path Robotics | 1 |
-| Root Insurance | 1 |
-| Nationwide | 1 |
-| Cleveland Clinic | 1 |
-| Sherwin-Williams | 1 |
-| Vertiv | 1 |
-| Kettering Health | 1 |
-| Battelle | 1 |
-| Honda | 1 |
-| Fidelity Investments | 1 |
-| Medpace | 1 |
+| Brooksource | 1 |
+| Njoyn (CGI) | 1 |
+| Worldpay | 1 |
+| Procter & Gamble | 1 |
+| Cincinnati Children's Hospital | 1 |
+| STERIS | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - Business Systems Analyst III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29336609#/jobs/29336609) | Mindlance | Remote, FL | 2026-09-21 |
-| [Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29336472#/jobs/29336472) | Mindlance | Remote, NY | 2026-09-21 |
-| [Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29336469#/jobs/29336469) | Mindlance | Remote, NY | 2026-09-21 |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/8OVQ2VYjbZcELb-d5Y53ceqjifOyxB6j87vjBwUh8LA) | Cynet Systems | Ohio | 2026-09-21 |
-| [AI Developer](https://vernovis.com/blog/jobs/12180/) | Vernovis | Cincinnati, | 2026-09-21 |
-| [Cisco Network Engineer](https://vernovis.com/blog/jobs/12178/) | Vernovis | Cincinnati, | 2026-09-21 |
-| [SAP Platform Lead](https://vernovis.com/blog/jobs/12184/) | Vernovis | Cincinnati, | 2026-09-21 |
-| [Senior Software Developer - Cloud](https://vernovis.com/blog/jobs/12181/) | Vernovis | Cincinnati, | 2026-09-21 |
-| [Software Engineer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Software-Engineer-III_R13738) | CareSource | Remote | 2026-09-21 |
-| [Technical Support Specialist](https://www2.jobdiva.com/portal/?a=ivjdnwu0r609x50e4thxxkiwyvkswu0a2f9x8iqw7jko9f3twhxazezmpwvj7suj&compid=0&jobid=29335124#/jobs/29335124) | Oxford Solutions | Canton, OH | 2026-09-21 |
-| [Software Engineer – ML Infrastructure](https://boards.greenhouse.io/pathrobotics/jobs/8827576002?gh_jid=8827576002) | Path Robotics | Columbus, Ohio | 2026-09-21 |
-| [Principal Software Engineer](https://ats.rippling.com/joinroot/jobs/4d54fd0e-2d2d-48e8-803a-e4b4720c80a0) | Root Insurance | Remote (United States) | 2026-09-21 |
-| [Manager, Software Engineering Product Manager (NF) - Post-Issue Optimization](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager--NF----Post-Issue-Optimization_099689-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-21 |
-| [Senior Data Scientist](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Senior-Data-Scientist_336251-1) | Cleveland Clinic | Remote Location | 2026-09-21 |
-| [Enterprise AI Literacy & Adoption Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624323) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-21 |
-| [Principal Engineer Software Engineering XIII](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260192) | Vertiv | Westerville, OH, United States | 2026-09-21 |
-| [Senior Training Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56161&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-21 |
-| [Quality Engineer II](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56318&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-21 |
-| [Health Unit Coordinator - ICU](https://careers-ketteringhealth.icims.com/jobs/62924/health-unit-coordinator---icu/job?in_iframe=1) | Kettering Health | Kettering, OH | 2026-09-21 |
-| [Quality Engineer](https://jobs.battelle.org/us/en/job/76561) | Battelle | Columbus, OH | 2026-09-21 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-21 |
-| [Director, Data Analytics and Insights](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Director--Data-Analytics-and-Insights_2132834-1) | Fidelity Investments | Covington, KY | 2026-09-21 |
-| [IT Software Development Project Manager](https://uscareers-medpace.icims.com/jobs/13005/login) | Medpace | Cincinnati, Ohio | 2026-09-21 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-22 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-22 |
+| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/6jqzkh2qv4wHOOaES-DWjqvjPqWB3u6KA6afFxAg28U) | Cynet Systems | Ohio | 2026-09-22 |
+| [Software Engineer – Fabric](https://jobs.brooksource.com/jobs/job/a1wcv0000010eujeai-software-engineer-fabric-remote-oregon/) | Brooksource | Remote, Oregon | 2026-09-22 |
+| [Solutions Architect](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1620&BRID=1335133&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-22 |
+| [Business Data Analyst I - Predictive Modeling, Statistics, Finance & Strategic Planning](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Business-Data-Analyst-I---Predictive-Modeling--Statistics--Finance---Strategic-Planning_JR0609752) | Worldpay | CINCINNATI, OHIO | 2026-09-22 |
+| [Executive Advisor, IT Service Delivery Manager](https://pg.wd5.myworkdayjobs.com/1000/job/Cincinnati/Executive-Advisor--IT-Service-Delivery-Manager_R000158290-1) | Procter & Gamble | Cincinnati | 2026-09-22 |
+| [Business Intelligence Analyst II](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Business-Intelligence-Analyst-II_JR225752) | Cincinnati Children's Hospital | Burnet Campus | 2026-09-22 |
+| [Cybersecurity Engineer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56005&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-22 |
+| [Software Engineer-Level 2-Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1389900700/) | Cintas | OH | 2026-09-22 |
 <!-- JOBS:END -->
 
 ## How it works
