@@ -56,21 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1788 tracked total · updated `2026-09-22T11:59:26+00:00`
+### 🆕 10 new roles this update · 1795 tracked total · updated `2026-09-22T17:38:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Brooksource | 2 |
+| FirstEnergy | 2 |
 | Cynet Systems | 1 |
+| 84.51° | 1 |
+| Sherwin-Williams | 1 |
+| Nationwide Children's Hospital | 1 |
+| Vertiv | 1 |
+| Kettering Health | 1 |
+| Honda | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-22 |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-22 |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/JnBUlsVcRb89VDiWyzg2Ievz1UmLW97-jwrvvOmYicQ) | Cynet Systems | Ohio | 2026-09-22 |
-| [Junior Java Developer](https://jobs.brooksource.com/jobs/job/a1wcv0000012orneaq-junior-java-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-09-22 |
-| [Junior Systems Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000012nqteaq-junior-systems-analyst-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-09-22 |
+| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/vQO8m-EZpRYaZolFzReWY6cBHvZE4LDwzJSNqj1fSP8) | Cynet Systems | Ohio | 2026-09-22 |
+| [Director, Software Engineering (P4474)](https://job-boards.greenhouse.io/8451/jobs/8618229002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-09-22 |
+| [SCADA Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624433) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-22 |
+| [Application Configuration Analyst - IT Transmission Systems & Compliance](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104800) | FirstEnergy | Akron, OH, United States | 2026-09-22 |
+| [Manager Data Management - IT Data Management - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105362) | FirstEnergy | Akron, OH, United States | 2026-09-22 |
+| [Bioinformatics Scientist II](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Bioinformatics-Scientist-II_R-28116-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-09-22 |
+| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260434) | Vertiv | Delaware, OH, United States | 2026-09-22 |
+| [Administrative Intern - Workday Implementation Project](https://careers-ketteringhealth.icims.com/jobs/63114/administrative-intern---workday-implementation-project/job?in_iframe=1) | Kettering Health | Miamisburg, OH | 2026-09-22 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-22 |
+| [Quality Assurance Auditor - First Aid and Safety - 2nd Shift](https://careers.cintas.com/job/Middletown-Quality-Assurance-Auditor-First-Aid-and-Safety-2nd-Shift-OH-45044/1432424300/) | Cintas | OH | 2026-09-22 |
 <!-- JOBS:END -->
 
 ## How it works
