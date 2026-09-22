@@ -56,32 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1783 tracked total · updated `2026-09-22T00:38:14+00:00`
+### 🆕 3 new roles this update · 1784 tracked total · updated `2026-09-22T05:21:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
 | Cynet Systems | 1 |
-| Brooksource | 1 |
-| Njoyn (CGI) | 1 |
-| Worldpay | 1 |
-| Procter & Gamble | 1 |
-| Cincinnati Children's Hospital | 1 |
-| STERIS | 1 |
-| Cintas | 1 |
+| Honda | 1 |
+| Givaudan | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-22 |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-22 |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/6jqzkh2qv4wHOOaES-DWjqvjPqWB3u6KA6afFxAg28U) | Cynet Systems | Ohio | 2026-09-22 |
-| [Software Engineer – Fabric](https://jobs.brooksource.com/jobs/job/a1wcv0000010eujeai-software-engineer-fabric-remote-oregon/) | Brooksource | Remote, Oregon | 2026-09-22 |
-| [Solutions Architect](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1620&BRID=1335133&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-22 |
-| [Business Data Analyst I - Predictive Modeling, Statistics, Finance & Strategic Planning](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Business-Data-Analyst-I---Predictive-Modeling--Statistics--Finance---Strategic-Planning_JR0609752) | Worldpay | CINCINNATI, OHIO | 2026-09-22 |
-| [Executive Advisor, IT Service Delivery Manager](https://pg.wd5.myworkdayjobs.com/1000/job/Cincinnati/Executive-Advisor--IT-Service-Delivery-Manager_R000158290-1) | Procter & Gamble | Cincinnati | 2026-09-22 |
-| [Business Intelligence Analyst II](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Business-Intelligence-Analyst-II_JR225752) | Cincinnati Children's Hospital | Burnet Campus | 2026-09-22 |
-| [Cybersecurity Engineer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56005&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-22 |
-| [Software Engineer-Level 2-Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1389900700/) | Cintas | OH | 2026-09-22 |
+| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/C7nrYdCc5Lvvo2SygCwYf2uieeBgZNOywCS-mxZJHjM) | Cynet Systems | Ohio | 2026-09-22 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-22 |
+| [Research Scientist - Delivery Systems (Flavors and Ingredients)](https://careers.givaudan.com/us/en/job/119973) | Givaudan | Cincinnati, United States | 2026-09-22 |
 <!-- JOBS:END -->
 
 ## How it works
