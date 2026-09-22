@@ -56,19 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1784 tracked total · updated `2026-09-22T05:21:32+00:00`
+### 🆕 5 new roles this update · 1788 tracked total · updated `2026-09-22T11:59:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 2 |
+| Brooksource | 2 |
 | Cynet Systems | 1 |
-| Honda | 1 |
-| Givaudan | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/C7nrYdCc5Lvvo2SygCwYf2uieeBgZNOywCS-mxZJHjM) | Cynet Systems | Ohio | 2026-09-22 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-22 |
-| [Research Scientist - Delivery Systems (Flavors and Ingredients)](https://careers.givaudan.com/us/en/job/119973) | Givaudan | Cincinnati, United States | 2026-09-22 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-22 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-22 |
+| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/JnBUlsVcRb89VDiWyzg2Ievz1UmLW97-jwrvvOmYicQ) | Cynet Systems | Ohio | 2026-09-22 |
+| [Junior Java Developer](https://jobs.brooksource.com/jobs/job/a1wcv0000012orneaq-junior-java-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-09-22 |
+| [Junior Systems Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000012nqteaq-junior-systems-analyst-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-09-22 |
 <!-- JOBS:END -->
 
 ## How it works
