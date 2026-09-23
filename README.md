@@ -56,20 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1804 tracked total · updated `2026-09-23T05:11:55+00:00`
+### 🆕 2 new roles this update · 1804 tracked total · updated `2026-09-23T11:58:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 2 |
-| Robert Half | 1 |
 | Cynet Systems | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-23 |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/Di84lLUlU-AtDD-K9IUjqFtqJHvHRf62lUYt1i7uu9A) | Cynet Systems | Ohio | 2026-09-23 |
-| [Specialist, Software Engineer (Full Stack, AWS)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer--Full-Stack--AWS-_100338) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-23 |
-| [Consultant, Software Engineer (Apigee, APIs, Kong)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--Apigee--APIs--Kong-_100389) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-23 |
+| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/R-i1QFJ6vrRsUArt3EMPER4c-cIaeZnEsl2Q7l5rsrM) | Cynet Systems | Ohio | 2026-09-23 |
+| [Junior Analytics Engineer](https://agilityconnect.io/jobs/8465) | Agility Connect | Columbus, OH | 2026-09-23 |
 <!-- JOBS:END -->
 
 ## How it works
