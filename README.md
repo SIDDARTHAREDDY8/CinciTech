@@ -56,45 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 1813 tracked total · updated `2026-09-22T21:48:13+00:00`
+### 🆕 2 new roles this update · 1800 tracked total · updated `2026-09-23T00:11:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Mindlance | 4 |
-| Robert Half | 2 |
-| Cleveland Clinic | 2 |
-| Kforce | 1 |
 | Cynet Systems | 1 |
-| American Electric Power | 1 |
-| Procter & Gamble | 1 |
-| Applied Industrial Technologies | 1 |
-| GE Aerospace | 1 |
-| Battelle | 1 |
-| Park National Bank | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2188990T1~99/) | Kforce | Covington, KY | 2026-09-22 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-09-22 |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-22 |
-| [ServiceNow Business Process Consultant (BPC)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33134491#/jobs/33134491) | Artech | Remote | 2026-09-22 |
-| [Information Technology - Software Development - ServiceNow Product Owner – Security Portfolio](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33133613#/jobs/33133613) | Artech | Remote, MI | 2026-09-22 |
-| [GRC - Vendor Risk Assessment Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33133023#/jobs/33133023) | Artech | Remote, MD | 2026-09-22 |
-| [Information Technology - ServiceNow Technical Lead – Custom Apps /App Engine](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33133106#/jobs/33133106) | Artech | Remote, TX | 2026-09-22 |
-| [Sr. Full Stack Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29344907#/jobs/29344907) | Mindlance | Remote, MD | 2026-09-22 |
-| [Sr. AWS Cloud Migration Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29344906#/jobs/29344906) | Mindlance | Remote, MD | 2026-09-22 |
-| [Sr. AWS Cloud Migration Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29344875#/jobs/29344875) | Mindlance | Remote, MD | 2026-09-22 |
-| [Sr. AWS Cloud Migration Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29344874#/jobs/29344874) | Mindlance | Remote, MD | 2026-09-22 |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/Vcd2ZxkgBW9I5hnAkd3eBsbYHZ6NObHy4G4TtE7g_nc) | Cynet Systems | Ohio | 2026-09-22 |
-| [Infrastructure Engineer Lead – Cloud AI](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Lead---Cloud-AI_R19366) | American Electric Power | Gahanna, OH | 2026-09-22 |
-| [Research Engineer - Nuclear Medicine](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Engineer---Nuclear-Medicine_344011) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-22 |
-| [Senior Research Engineer - MR Image Analysis](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Senior-Research-Engineer---MR-Image-Analysis_348854-1) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-22 |
-| [Site Reliability Engineer - Identity & Access Management](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Site-Reliability-Engineer---Identity---Access-Management_R000155236) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-09-22 |
-| [SAP OTC ABAP Developer](https://applied.wd501.myworkdayjobs.com/Applied/job/Cleveland-OH/SAP-OTC-ABAP-Developer_JR105518) | Applied Industrial Technologies | Cleveland, OH | 2026-09-22 |
-| [Principal - Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Principal---Software-Engineer_R5040578-1) | GE Aerospace | Remote | 2026-09-22 |
-| [Software Engineer (Embedded Systems & Vulnerability Research)](https://jobs.battelle.org/us/en/job/76565) | Battelle | Columbus, OH | 2026-09-22 |
-| [IAM Control Analyst](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c5c61f19-7553-4e48-af97-85f2694bb355) | Park National Bank | CEN Newark Alford Bldg | 2026-09-22 |
+| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/5w7h7A6cZOE5RILWhSLH0c9_piTiYVTkmSRTi0-L-qI) | Cynet Systems | Ohio | 2026-09-23 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-23 |
 <!-- JOBS:END -->
 
 ## How it works
