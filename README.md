@@ -56,17 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1800 tracked total · updated `2026-09-23T00:11:06+00:00`
+### 🆕 4 new roles this update · 1804 tracked total · updated `2026-09-23T05:11:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Nationwide | 2 |
+| Robert Half | 1 |
 | Cynet Systems | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/5w7h7A6cZOE5RILWhSLH0c9_piTiYVTkmSRTi0-L-qI) | Cynet Systems | Ohio | 2026-09-23 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-23 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-23 |
+| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/Di84lLUlU-AtDD-K9IUjqFtqJHvHRf62lUYt1i7uu9A) | Cynet Systems | Ohio | 2026-09-23 |
+| [Specialist, Software Engineer (Full Stack, AWS)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer--Full-Stack--AWS-_100338) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-23 |
+| [Consultant, Software Engineer (Apigee, APIs, Kong)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--Apigee--APIs--Kong-_100389) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-23 |
 <!-- JOBS:END -->
 
 ## How it works
