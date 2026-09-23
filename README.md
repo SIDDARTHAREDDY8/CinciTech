@@ -56,17 +56,46 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1804 tracked total · updated `2026-09-23T11:58:25+00:00`
+### 🆕 19 new roles this update · 1823 tracked total · updated `2026-09-23T17:24:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 1 |
-| Agility Connect | 1 |
+| Cleveland Clinic | 4 |
+| CareSource | 3 |
+| Robert Half | 1 |
+| Russell Tobin | 1 |
+| Motion Recruitment | 1 |
+| Nationwide | 1 |
+| FirstEnergy | 1 |
+| Huntington Bank | 1 |
+| The Andersons | 1 |
+| GE Aerospace | 1 |
+| STERIS | 1 |
+| Honda | 1 |
+| Cintas | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior OMS Java Developer](https://candidateportal.ceipal.com/job-details/R-i1QFJ6vrRsUArt3EMPER4c-cIaeZnEsl2Q7l5rsrM) | Cynet Systems | Ohio | 2026-09-23 |
-| [Junior Analytics Engineer](https://agilityconnect.io/jobs/8465) | Agility Connect | Columbus, OH | 2026-09-23 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-23 |
+| [Workday Analyst](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29347179#/jobs/29347179) | Russell Tobin | Seattle (Remote), WA | 2026-09-23 |
+| [IT Engineer - SAP Solution Lead](https://motionrecruitment.com/tech-jobs/columbus/contract/it-engineer-sap-solution-lead/888173) | Motion Recruitment | Columbus, Ohio | 2026-09-23 |
+| [Data Solutions AI Application Developer II - Working knowledge of React, Node.js, Python UI frameworks, such as Streamlit, Flask, FastAPI, or Django](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Solutions-AI-Application-Developer-II---Working-knowledge-of-Python-UI-frameworks--such-as-Streamlit--Flask--FastAPI--or-Django_R13784) | CareSource | Remote | 2026-09-23 |
+| [Program Integrity Data Scientist III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Program-Integrity-Data-Scientist-III_R13780) | CareSource | Remote | 2026-09-23 |
+| [Data Scientist IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-IV_R13785) | CareSource | Remote | 2026-09-23 |
+| [Manager, Software Engineering Product Manager (NF) - Post-Issue Optimization](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Manager--Software-Engineering-Product-Manager--NF----Post-Issue-Optimization_099689-1) | Nationwide | Ohio - Columbus Metro | 2026-09-23 |
+| [EBI Database Developer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Database-Developer-III_306536-1) | Cleveland Clinic | Remote Location | 2026-09-23 |
+| [Clinical Systems Analyst](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Department-Analyst---340B-Pharmacy_351219) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-23 |
+| [Systems Analyst III](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EPIC-Resolute--Revenue-Cycle-Analyst-II_309370) | Cleveland Clinic | Remote Location | 2026-09-23 |
+| [Systems Analyst III](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Systems-Analyst-III_343037) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-23 |
+| [Network & Transport Specialist - IT Infrastructure & Operations](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105367) | FirstEnergy | Akron, OH, United States | 2026-09-23 |
+| [Elite Credit Modernization Product Owner](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Elite-Credit-Modernization-Product-Owner_R0076102) | Huntington Bank | Columbus, OH | 2026-09-23 |
+| [Solution Architect, SAP Application Development](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Solution-Architect--SAP-Application-Development_R12520) | The Andersons | Maumee, OH | 2026-09-23 |
+| [Senior Business Intelligence Manager](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Senior-Business-Intelligence-Manager_R5040001) | GE Aerospace | Remote | 2026-09-23 |
+| [Senior Data Analyst - Distribution and Transportation](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56191&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-23 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-23 |
+| [Software Engineer II](https://careers.cintas.com/job/Mason-Software-Engineer-II-OH-45040/1432982000/) | Cintas | OH | 2026-09-23 |
+| [Senior Specialist, Software Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-software-engineering/4832/101037353712) | L3Harris | Mason, OH | 2026-09-23 |
 <!-- JOBS:END -->
 
 ## How it works
