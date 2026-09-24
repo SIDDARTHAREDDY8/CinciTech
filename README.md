@@ -56,19 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1828 tracked total · updated `2026-09-24T05:15:48+00:00`
+### 🆕 5 new roles this update · 1832 tracked total · updated `2026-09-24T12:06:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Cardinal Health | 1 |
+| Agility Connect | 3 |
+| Battelle | 1 |
 | Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-24 |
-| [Manager, IT Infrastructure PMO](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Manager--IT-Infrastructure-PMO_20187618) | Cardinal Health | OH-Ohio-Work from Home | 2026-09-24 |
-| [Senior Semiconductor Development Research Engineer I](https://careers.honda.com/us/en/job/12741) | Honda | Raymond, Ohio, United States | 2026-09-24 |
+| [Automation Controls Tester](https://agilityconnect.io/jobs/8468) | Agility Connect | OH | 2026-09-24 |
+| [Platform Engineer](https://agilityconnect.io/jobs/8470) | Agility Connect | Cincinnati, OH | 2026-09-24 |
+| [Sr Scrum Master](https://agilityconnect.io/jobs/8469) | Agility Connect | OH | 2026-09-24 |
+| [Systems Engineer](https://jobs.battelle.org/us/en/job/76569) | Battelle | Remote, OH | 2026-09-24 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-24 |
 <!-- JOBS:END -->
 
 ## How it works
