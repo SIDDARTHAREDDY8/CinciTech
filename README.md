@@ -56,21 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1832 tracked total · updated `2026-09-24T12:06:36+00:00`
+### 🆕 5 new roles this update · 1836 tracked total · updated `2026-09-24T17:38:33+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 3 |
-| Battelle | 1 |
-| Honda | 1 |
+| Vertiv | 2 |
+| Mindlance | 1 |
+| Worldpay | 1 |
+| Whirlpool | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Automation Controls Tester](https://agilityconnect.io/jobs/8468) | Agility Connect | OH | 2026-09-24 |
-| [Platform Engineer](https://agilityconnect.io/jobs/8470) | Agility Connect | Cincinnati, OH | 2026-09-24 |
-| [Sr Scrum Master](https://agilityconnect.io/jobs/8469) | Agility Connect | OH | 2026-09-24 |
-| [Systems Engineer](https://jobs.battelle.org/us/en/job/76569) | Battelle | Remote, OH | 2026-09-24 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-24 |
+| [Sr. Scrum Master](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29358249#/jobs/29358249) | Mindlance | Remote, MD | 2026-09-24 |
+| [Payments Data Scientist I](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Payments-Data-Scientist-I_JR0611458) | Worldpay | CINCINNATI, OHIO | 2026-09-24 |
+| [Senior Network Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282299) | Vertiv | Westerville, OH, United States | 2026-09-24 |
+| [Senior Network Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282784) | Vertiv | Westerville, OH, United States | 2026-09-24 |
+| [Quality Engineering Technician](https://jobs.whirlpool.com/careers/job/34401428456) | Whirlpool | Findlay, OH, US | 2026-09-24 |
 <!-- JOBS:END -->
 
 ## How it works
