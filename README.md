@@ -56,31 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1830 tracked total · updated `2026-09-23T21:54:41+00:00`
+### 🆕 3 new roles this update · 1828 tracked total · updated `2026-09-24T05:15:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Russell Tobin | 1 |
-| Mindlance | 1 |
-| 84.51° | 1 |
-| Fifth Third Bank | 1 |
-| Nationwide | 1 |
-| Cleveland Clinic | 1 |
-| FirstEnergy | 1 |
-| Huntington Bank | 1 |
-| Lincoln Electric | 1 |
+| Robert Half | 1 |
+| Cardinal Health | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [QA Lab Specialist](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29351814#/jobs/29351814) | Russell Tobin | Reynoldsburg, OH | 2026-09-23 |
-| [SAP Functional Consultant](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29352627#/jobs/29352627) | Mindlance | REMOTE, IL | 2026-09-23 |
-| [Lead Product Manager - APPLIED AI (P4560)](https://job-boards.greenhouse.io/8451/jobs/8631401002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-09-23 |
-| [Senior Product Owner - Data Governance](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Product-Owner---Data-Governance_R72727-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-23 |
-| [Director, Systems Analysis (Quality Engineering Capabilities)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Systems-Analysis--Quality-Engineering-Capabilities-_099732) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-23 |
-| [Product Manager - Healthcare AI](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Product-Manager---Healthcare-AI_337413) | Cleveland Clinic | Remote Location | 2026-09-23 |
-| [Data Analyst III - Asset & Records Control - Akron Fairlawn](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105378) | FirstEnergy | Akron, OH, United States | 2026-09-23 |
-| [Automation Developer Analyst Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Automation-Developer-Analyst-Lead_R0075830) | Huntington Bank | Columbus, OH | 2026-09-23 |
-| [Welding Applications Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Welding-Applications-Engineer-OH-44117/1440726933/) | Lincoln Electric | OH | 2026-09-23 |
+| [Sap Public Cloud Support](https://www.roberthalf.com/us/en/job/cincinnati-oh/sap-public-cloud-support/04160-0013480965-usen) | Robert Half | Cincinnati, 04160 | 2026-09-24 |
+| [Manager, IT Infrastructure PMO](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Manager--IT-Infrastructure-PMO_20187618) | Cardinal Health | OH-Ohio-Work from Home | 2026-09-24 |
+| [Senior Semiconductor Development Research Engineer I](https://careers.honda.com/us/en/job/12741) | Honda | Raymond, Ohio, United States | 2026-09-24 |
 <!-- JOBS:END -->
 
 ## How it works
