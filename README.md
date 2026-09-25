@@ -56,34 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1847 tracked total · updated `2026-09-24T21:56:33+00:00`
+### 🆕 3 new roles this update · 1848 tracked total · updated `2026-09-25T05:23:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 2 |
-| Artech | 1 |
-| Mindlance | 1 |
-| Worldpay | 1 |
-| American Electric Power | 1 |
-| Sherwin-Williams | 1 |
-| The Andersons | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
+| Robert Half | 1 |
+| Duke Energy | 1 |
 | L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SharePoint Web Parts Developer](https://www.apexsystems.com/job/3053261_usa/sharepoint-web-parts-developer) | Apex Systems | Columbus, OH | 2026-09-24 |
-| [Technical Project/Program Management - Technical Program Manager V](https://www.apexsystems.com/job/3053591_usa/technical-projectprogram-management---technical-program-manager-v) | Apex Systems | Remote, CA | 2026-09-24 |
-| [Power BI Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33147421#/jobs/33147421) | Artech | Remote | 2026-09-24 |
-| [IT - IT Business Analyst/QA- Lead](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29359268#/jobs/29359268) | Mindlance | Mason, OH | 2026-09-24 |
-| [Risk Portfolio Data Analyst Senior](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Risk-Portfolio-Data-Analyst-Senior_JR0611563) | Worldpay | CINCINNATI, OHIO | 2026-09-24 |
-| [Infrastructure Engineer Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Infrastructure-Engineer-Principal_R19322) | American Electric Power | Columbus, OH | 2026-09-24 |
-| [Lead AI Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623931) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-24 |
-| [Data Engineer](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Data-Engineer_R12521) | The Andersons | Maumee, OH | 2026-09-24 |
-| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260433) | Vertiv | Delaware, OH, United States | 2026-09-24 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/10245) | Honda | Anna, Ohio, United States | 2026-09-24 |
-| [Lead Systems Engineer](https://careers.l3harris.com/en/job/mason/lead-systems-engineer/4832/101095077968) | L3Harris | Mason, OH | 2026-09-24 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-25 |
+| [Meter Testers Assistant](https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Cincinnati-OH/Meter-Testers-Assistant_R41705) | Duke Energy | Cincinnati, OH | 2026-09-25 |
+| [Manufacturing Process Quality Engineer](https://careers.l3harris.com/en/job/cincinnati/manufacturing-process-quality-engineer/4832/101109853984) | L3Harris | Cincinnati, OH | 2026-09-25 |
 <!-- JOBS:END -->
 
 ## How it works
