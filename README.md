@@ -56,19 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1848 tracked total · updated `2026-09-25T05:23:54+00:00`
+### 🆕 3 new roles this update · 1850 tracked total · updated `2026-09-25T12:21:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Duke Energy | 1 |
-| L3Harris | 1 |
+| Agility Connect | 1 |
+| OhioHealth | 1 |
+| Total Quality Logistics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-25 |
-| [Meter Testers Assistant](https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Cincinnati-OH/Meter-Testers-Assistant_R41705) | Duke Energy | Cincinnati, OH | 2026-09-25 |
-| [Manufacturing Process Quality Engineer](https://careers.l3harris.com/en/job/cincinnati/manufacturing-process-quality-engineer/4832/101109853984) | L3Harris | Cincinnati, OH | 2026-09-25 |
+| [Senior Mainframe Developer](https://agilityconnect.io/jobs/8474) | Agility Connect | Cincinnati, OH | 2026-09-25 |
+| [Senior Tech Specialist - Infrastructure](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---INFORMATION-SERVICES/Senior-Tech-Specialist---Infrastructure_JR158405-1) | OhioHealth | HYBRID - INFORMATION SERVICES | 2026-09-25 |
+| [Platform Engineer II](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Platform-Engineer-II/16402?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-09-25 |
 <!-- JOBS:END -->
 
 ## How it works
