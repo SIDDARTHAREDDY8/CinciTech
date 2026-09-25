@@ -56,38 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 1865 tracked total · updated `2026-09-25T17:36:43+00:00`
+### 🆕 15 new roles this update · 1879 tracked total · updated `2026-09-25T22:00:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vaco | 4 |
-| Mindlance | 3 |
-| Robert Half | 1 |
-| CareSource | 1 |
-| AtriCure | 1 |
-| Fifth Third Bank | 1 |
-| Sherwin-Williams | 1 |
-| Kroger | 1 |
-| Huntington Bank | 1 |
+| Artech | 4 |
+| Sherwin-Williams | 3 |
+| Mindlance | 2 |
+| Honda | 2 |
+| Russell Tobin | 1 |
+| KeyBank | 1 |
 | Abbott (Columbus) | 1 |
+| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-25 |
-| [Rpg Developer](https://jobs.vaco.com/job/1920/rpg_developer/en) | Vaco | Cincinnati, Ohio | 2026-09-25 |
-| [Quality Engineer 2 Mkt 24](https://jobs.vaco.com/job/2026/quality_engineer_2_mkt_24/en) | Vaco | Cincinnati, Ohio | 2026-09-25 |
-| [Software Engineering Manager](https://jobs.vaco.com/job/2043/software_engineering_manager/en) | Vaco | Findlay, Ohio | 2026-09-25 |
-| [It Support Analyst](https://jobs.vaco.com/job/2131/it_support_analyst/en) | Vaco | Monroe, Ohio | 2026-09-25 |
-| [Business Systems Analyst V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29370166#/jobs/29370166) | Mindlance | Remote, NY | 2026-09-25 |
-| [Business Systems Analyst III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29368687#/jobs/29368687) | Mindlance | Remote, NY | 2026-09-25 |
-| [Solution Architect - Gen AI](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29358873#/jobs/29358873) | Mindlance | Remote, NY | 2026-09-25 |
-| [Encounters Systems Analyst II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Encounters-Systems-Analyst-II_R13781) | CareSource | Remote | 2026-09-25 |
-| [Associate Business Data Analyst](https://job-boards.greenhouse.io/atricure/jobs/4420412009) | AtriCure | Mason, OH | 2026-09-25 |
-| [Principal Technical Engineer - Citrix](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Technical-Engineer---Citrix_R72910-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-25 |
-| [Senior Application Developer, Full Stack](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624789) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/233691) | Kroger | Springfield, OH, United States | 2026-09-25 |
-| [QA Testing Analyst: III (Senior)](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Testing-Analyst--III--Senior-_R0075977) | Huntington Bank | Columbus, OH | 2026-09-25 |
-| [Food Safety Quality Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Food-Safety-Quality-Engineer_31163256) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-25 |
+| [Workday Developer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29347178#/jobs/29347178) | Russell Tobin | Seattle (Remote), WA | 2026-09-25 |
+| [Technical Project/Program Management - Technical Project Manager III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155122#/jobs/33155122) | Artech | Remote, CA | 2026-09-25 |
+| [Technical Project Manager](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155571#/jobs/33155571) | Artech | Remote, CA | 2026-09-25 |
+| [Technology and Data - Software Engineer 4 - Contingent](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33153778#/jobs/33153778) | Artech | COLUMBUS, OH | 2026-09-25 |
+| [Remote Systems Engineer -- NPSS (Numerical Propulsion System Simulation)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33154229#/jobs/33154229) | Artech | Remote, AZ | 2026-09-25 |
+| [IT - Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29371714#/jobs/29371714) | Mindlance | MASON, OH | 2026-09-25 |
+| [Cyber Security Analyst II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29372009#/jobs/29372009) | Mindlance | Akron, OH | 2026-09-25 |
+| [Data & Business Intelligence Manager](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data---Business-Intelligence-Manager_R-42089) | KeyBank | Brooklyn, OH | 2026-09-25 |
+| [IT - Senior Project Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624664) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
+| [IT - Senior Business Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624670) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
+| [Lead AI / Machine Learning Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624761) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
+| [Director, Technical Product Owner](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Remote/Director-Design-Transfer-and-Technical-Product-Ownership_31146199) | Abbott (Columbus) | United States - California - Remote | 2026-09-25 |
+| [Sr. IT Project Manager (Engineering Systems - PLM/CAD)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281434) | Vertiv | Westerville, OH, United States | 2026-09-25 |
+| [Operational Technology Security Engineer](https://careers.honda.com/us/en/job/12788) | Honda | Marysville, Ohio, United States | 2026-09-25 |
+| [Market Quality Engineer](https://careers.honda.com/us/en/job/12733) | Honda | Raymond, Ohio, United States | 2026-09-25 |
 <!-- JOBS:END -->
 
 ## How it works
