@@ -56,19 +56,38 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1850 tracked total · updated `2026-09-25T12:21:36+00:00`
+### 🆕 15 new roles this update · 1865 tracked total · updated `2026-09-25T17:36:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 1 |
-| OhioHealth | 1 |
-| Total Quality Logistics | 1 |
+| Vaco | 4 |
+| Mindlance | 3 |
+| Robert Half | 1 |
+| CareSource | 1 |
+| AtriCure | 1 |
+| Fifth Third Bank | 1 |
+| Sherwin-Williams | 1 |
+| Kroger | 1 |
+| Huntington Bank | 1 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Mainframe Developer](https://agilityconnect.io/jobs/8474) | Agility Connect | Cincinnati, OH | 2026-09-25 |
-| [Senior Tech Specialist - Infrastructure](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---INFORMATION-SERVICES/Senior-Tech-Specialist---Infrastructure_JR158405-1) | OhioHealth | HYBRID - INFORMATION SERVICES | 2026-09-25 |
-| [Platform Engineer II](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Platform-Engineer-II/16402?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-09-25 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-25 |
+| [Rpg Developer](https://jobs.vaco.com/job/1920/rpg_developer/en) | Vaco | Cincinnati, Ohio | 2026-09-25 |
+| [Quality Engineer 2 Mkt 24](https://jobs.vaco.com/job/2026/quality_engineer_2_mkt_24/en) | Vaco | Cincinnati, Ohio | 2026-09-25 |
+| [Software Engineering Manager](https://jobs.vaco.com/job/2043/software_engineering_manager/en) | Vaco | Findlay, Ohio | 2026-09-25 |
+| [It Support Analyst](https://jobs.vaco.com/job/2131/it_support_analyst/en) | Vaco | Monroe, Ohio | 2026-09-25 |
+| [Business Systems Analyst V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29370166#/jobs/29370166) | Mindlance | Remote, NY | 2026-09-25 |
+| [Business Systems Analyst III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29368687#/jobs/29368687) | Mindlance | Remote, NY | 2026-09-25 |
+| [Solution Architect - Gen AI](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29358873#/jobs/29358873) | Mindlance | Remote, NY | 2026-09-25 |
+| [Encounters Systems Analyst II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Encounters-Systems-Analyst-II_R13781) | CareSource | Remote | 2026-09-25 |
+| [Associate Business Data Analyst](https://job-boards.greenhouse.io/atricure/jobs/4420412009) | AtriCure | Mason, OH | 2026-09-25 |
+| [Principal Technical Engineer - Citrix](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Technical-Engineer---Citrix_R72910-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-25 |
+| [Senior Application Developer, Full Stack](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624789) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
+| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/233691) | Kroger | Springfield, OH, United States | 2026-09-25 |
+| [QA Testing Analyst: III (Senior)](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Testing-Analyst--III--Senior-_R0075977) | Huntington Bank | Columbus, OH | 2026-09-25 |
+| [Food Safety Quality Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Food-Safety-Quality-Engineer_31163256) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-25 |
 <!-- JOBS:END -->
 
 ## How it works
