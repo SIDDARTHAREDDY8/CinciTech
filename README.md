@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1863 tracked total · updated `2026-09-26T11:46:11+00:00`
+### 🆕 2 new roles this update · 1863 tracked total · updated `2026-09-26T16:43:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| DHL | 1 |
+| Robert Half | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11136444.html) | DHL | Westerville, Ohio | 2026-09-26 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-26 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-09-26 |
 <!-- JOBS:END -->
 
 ## How it works
