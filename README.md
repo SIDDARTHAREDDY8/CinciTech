@@ -56,23 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1864 tracked total · updated `2026-09-26T05:19:39+00:00`
+### 🆕 1 new roles this update · 1863 tracked total · updated `2026-09-26T11:46:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| First Solar | 3 |
-| Robert Half | 1 |
-| Abbott (Columbus) | 1 |
-| Vertiv | 1 |
+| DHL | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-26 |
-| [Data Engineering Intern (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026045) | First Solar | Perrysburg, OH, United States | 2026-09-26 |
-| [Data Analytics Intern (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026042) | First Solar | Perrysburg, OH, United States | 2026-09-26 |
-| [Data Science Intern (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026043) | First Solar | Perrysburg, OH, United States | 2026-09-26 |
-| [Technical Program Manager - Quality Systems](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Technical-Program-Manager---Quality-Systems_31162901) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-26 |
-| [Contract Recruiting Coordinator/Analyst – Engineering and IT](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282905) | Vertiv | Westerville, OH, United States | 2026-09-26 |
+| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11136444.html) | DHL | Westerville, Ohio | 2026-09-26 |
 <!-- JOBS:END -->
 
 ## How it works
