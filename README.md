@@ -56,36 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 1879 tracked total · updated `2026-09-25T22:00:13+00:00`
+### 🆕 6 new roles this update · 1864 tracked total · updated `2026-09-26T05:19:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Sherwin-Williams | 3 |
-| Mindlance | 2 |
-| Honda | 2 |
-| Russell Tobin | 1 |
-| KeyBank | 1 |
+| First Solar | 3 |
+| Robert Half | 1 |
 | Abbott (Columbus) | 1 |
 | Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Workday Developer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29347178#/jobs/29347178) | Russell Tobin | Seattle (Remote), WA | 2026-09-25 |
-| [Technical Project/Program Management - Technical Project Manager III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155122#/jobs/33155122) | Artech | Remote, CA | 2026-09-25 |
-| [Technical Project Manager](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155571#/jobs/33155571) | Artech | Remote, CA | 2026-09-25 |
-| [Technology and Data - Software Engineer 4 - Contingent](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33153778#/jobs/33153778) | Artech | COLUMBUS, OH | 2026-09-25 |
-| [Remote Systems Engineer -- NPSS (Numerical Propulsion System Simulation)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33154229#/jobs/33154229) | Artech | Remote, AZ | 2026-09-25 |
-| [IT - Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29371714#/jobs/29371714) | Mindlance | MASON, OH | 2026-09-25 |
-| [Cyber Security Analyst II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29372009#/jobs/29372009) | Mindlance | Akron, OH | 2026-09-25 |
-| [Data & Business Intelligence Manager](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data---Business-Intelligence-Manager_R-42089) | KeyBank | Brooklyn, OH | 2026-09-25 |
-| [IT - Senior Project Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624664) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
-| [IT - Senior Business Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624670) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
-| [Lead AI / Machine Learning Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624761) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-25 |
-| [Director, Technical Product Owner](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Remote/Director-Design-Transfer-and-Technical-Product-Ownership_31146199) | Abbott (Columbus) | United States - California - Remote | 2026-09-25 |
-| [Sr. IT Project Manager (Engineering Systems - PLM/CAD)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281434) | Vertiv | Westerville, OH, United States | 2026-09-25 |
-| [Operational Technology Security Engineer](https://careers.honda.com/us/en/job/12788) | Honda | Marysville, Ohio, United States | 2026-09-25 |
-| [Market Quality Engineer](https://careers.honda.com/us/en/job/12733) | Honda | Raymond, Ohio, United States | 2026-09-25 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-26 |
+| [Data Engineering Intern (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026045) | First Solar | Perrysburg, OH, United States | 2026-09-26 |
+| [Data Analytics Intern (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026042) | First Solar | Perrysburg, OH, United States | 2026-09-26 |
+| [Data Science Intern (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026043) | First Solar | Perrysburg, OH, United States | 2026-09-26 |
+| [Technical Program Manager - Quality Systems](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Technical-Program-Manager---Quality-Systems_31162901) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-26 |
+| [Contract Recruiting Coordinator/Analyst – Engineering and IT](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282905) | Vertiv | Westerville, OH, United States | 2026-09-26 |
 <!-- JOBS:END -->
 
 ## How it works
