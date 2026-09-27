@@ -56,16 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1812 tracked total · updated `2026-09-27T17:24:45+00:00`
+### 🆕 5 new roles this update · 1816 tracked total · updated `2026-09-27T21:42:30+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 2 |
+| Robert Half | 1 |
+| Mindlance | 1 |
+| Worldpay | 1 |
+| Kroger | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering Test Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305) | Vertiv | Delaware, OH, United States | 2026-09-27 |
-| [IT Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279839) | Vertiv | Westerville, OH, United States | 2026-09-27 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-27 |
+| [IT - Software Developer - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29365964#/jobs/29365964) | Mindlance | Remote, TX | 2026-09-27 |
+| [Network Security Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Network-Security-Engineer_JR0610761-1) | Worldpay | CINCINNATI, OHIO | 2026-09-27 |
+| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/223279) | Kroger | Springboro, OH, United States | 2026-09-27 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-09-27 |
 <!-- JOBS:END -->
 
 ## How it works
