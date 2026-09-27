@@ -56,9 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1813** roles open total · updated `2026-09-27T05:40:10+00:00`
+### 🆕 5 new roles this update · 1815 tracked total · updated `2026-09-27T12:21:14+00:00`
 
-Nothing new since the last run — [browse all 1813 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Agility Connect | 3 |
+| Robert Half | 1 |
+| Honda | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-27 |
+| [Fullstack Software Engineer](https://agilityconnect.io/jobs/8478) | Agility Connect | OH | 2026-09-27 |
+| [Information Security Analyst](https://agilityconnect.io/jobs/8476) | Agility Connect | Cincinnati, OH | 2026-09-27 |
+| [Senior Data Engineer](https://agilityconnect.io/jobs/8479) | Agility Connect | Cincinnati, OH | 2026-09-27 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-09-27 |
 <!-- JOBS:END -->
 
 ## How it works
