@@ -56,15 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1863 tracked total · updated `2026-09-26T23:59:03+00:00`
+### 🟢 No new roles this update · **1813** roles open total · updated `2026-09-27T05:40:10+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-26 |
+Nothing new since the last run — [browse all 1813 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
