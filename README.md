@@ -56,21 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1815 tracked total · updated `2026-09-27T12:21:14+00:00`
+### 🆕 2 new roles this update · 1812 tracked total · updated `2026-09-27T17:24:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 3 |
-| Robert Half | 1 |
-| Honda | 1 |
+| Vertiv | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-27 |
-| [Fullstack Software Engineer](https://agilityconnect.io/jobs/8478) | Agility Connect | OH | 2026-09-27 |
-| [Information Security Analyst](https://agilityconnect.io/jobs/8476) | Agility Connect | Cincinnati, OH | 2026-09-27 |
-| [Senior Data Engineer](https://agilityconnect.io/jobs/8479) | Agility Connect | Cincinnati, OH | 2026-09-27 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-09-27 |
+| [Software Engineering Test Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305) | Vertiv | Delaware, OH, United States | 2026-09-27 |
+| [IT Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279839) | Vertiv | Westerville, OH, United States | 2026-09-27 |
 <!-- JOBS:END -->
 
 ## How it works
