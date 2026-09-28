@@ -56,9 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1781** roles open total · updated `2026-09-28T05:41:37+00:00`
+### 🆕 8 new roles this update · 1788 tracked total · updated `2026-09-28T14:16:33+00:00`
 
-Nothing new since the last run — [browse all 1781 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Huntington Bank | 3 |
+| Robert Half | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
+| Cintas | 1 |
+| Lubrizol | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-28 |
+| [Lead Data Scientist-Machine Learning](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Lead-Data-Scientist-Machine-Learning_R0076184) | Huntington Bank | Columbus, OH | 2026-09-28 |
+| [Programmer/Analyst Sr](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-Sr_R0076163) | Huntington Bank | Columbus, OH | 2026-09-28 |
+| [Data Management Operations Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Management-Operations-Lead_R0076026) | Huntington Bank | Columbus, OH | 2026-09-28 |
+| [Sr. Application Engineer - Thermal](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282389) | Vertiv | Westerville, OH, United States | 2026-09-28 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-09-28 |
+| [IT Security Engineer-Level 2](https://careers.cintas.com/job/Mason-IT-Security-Engineer-Level-2-OH-45040/1413521200/) | Cintas | OH | 2026-09-28 |
+| [Senior Corporate Software Quality Engineer](https://jobs.lubrizol.com/job/Brecksville-Senior-Corporate-Software-Quality-Engineer-OH-44141-3247/1434279900/) | Lubrizol | OH | 2026-09-28 |
 <!-- JOBS:END -->
 
 ## How it works
