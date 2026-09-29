@@ -56,50 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 1803 tracked total · updated `2026-09-28T21:43:05+00:00`
+### 🆕 4 new roles this update · 1779 tracked total · updated `2026-09-29T01:27:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 3 |
-| Mindlance | 2 |
-| Russell Tobin | 1 |
-| Compunnel | 1 |
-| Njoyn (CGI) | 1 |
-| 84.51° | 1 |
-| ProMedica | 1 |
-| Fifth Third Bank | 1 |
+| Robert Half | 1 |
 | Nationwide | 1 |
-| Cleveland Clinic | 1 |
-| Sherwin-Williams | 1 |
-| Crane Company | 1 |
-| Honda | 1 |
-| Lincoln Electric | 1 |
-| Fidelity Investments | 1 |
-| Medpace | 1 |
-| Total Quality Logistics | 1 |
+| Huntington Bank | 1 |
+| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Quality Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29377267#/jobs/29377267) | Russell Tobin | New Albany, OH | 2026-09-28 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29381923#/jobs/29381923) | Mindlance | Remote, NY | 2026-09-28 |
-| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29360781#/jobs/29360781) | Mindlance | Remote, CA | 2026-09-28 |
-| [System Administrator-Mobile Device Management MDM, Android, POS/](https://jobs.compunnel.com/jobs/5888370) | Compunnel | Columbus, Ohio, United States | 2026-09-28 |
-| [Quality Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1949&BRID=1336726&lang=1) | Njoyn (CGI) | Remote, United States | 2026-09-28 |
-| [Director, Software Engineering (P4130)](https://job-boards.greenhouse.io/8451/jobs/8844520002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-09-28 |
-| [Supply Chain Information Systems Analyst II - Downtown Headquarters](https://promedica.wd12.myworkdayjobs.com/External_Careers/job/Toledo/Supply-Chain-Information-Systems-Analyst-II---Downtown-Headquarters_JR-9264) | ProMedica | Toledo | 2026-09-28 |
-| [Financial Crimes Product Owner – AML Monitoring](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Financial-Crimes-Product-Owner---AML-Monitoring_R73212) | Fifth Third Bank | Cincinnati, OH | 2026-09-28 |
-| [Consultant, Scrum Master](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Scrum-Master_100449-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-09-28 |
-| [Quantum Research Data Scientist I](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Quantum-Research-Data-Scientist-I_353073) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-09-28 |
-| [Senior IT Methods & Procedures Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624903) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-28 |
-| [Test Engineer](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Test-Engineer_JR102543) | Crane Company | Elyria, Ohio | 2026-09-28 |
-| [Research Scientist Domain Lead - Power Systems & Conversion](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282304) | Vertiv | Delaware, OH, United States | 2026-09-28 |
-| [Research Scientist Domain Lead - Thermodynamics](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282305) | Vertiv | Delaware, OH, United States | 2026-09-28 |
-| [Research Scientist Domain Lead - Advanced Materials](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282306) | Vertiv | Delaware, OH, United States | 2026-09-28 |
-| [IT Infrastructure Administrator](https://careers.honda.com/us/en/job/12759) | Honda | Marysville, Ohio, United States | 2026-09-28 |
-| [Quality Assurance Technician - Electronics Manufacturing](https://jobs.lincolnelectric.com/job/Cleveland-Quality-Assurance-Technician-Electronics-Manufacturing-OH-44117/1442045633/) | Lincoln Electric | OH | 2026-09-28 |
-| [Senior Data Engineer (Snowflake, MySQL, Python)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Data-Engineer--Snowflake--MySQL--Python-_2136324) | Fidelity Investments | Covington, KY | 2026-09-28 |
-| [Junior Business Intelligence Engineer](https://uscareers-medpace.icims.com/jobs/13026/login) | Medpace | Cincinnati, Ohio | 2026-09-28 |
-| [HR Systems Analyst](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/HR-Systems-Analyst/16536?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-09-28 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-29 |
+| [Sr Actuarial Associate, Enterprise Catastrophe Risk](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Sr-Consultant--Risk-Researcher_099032) | Nationwide | Ohio | 2026-09-29 |
+| [Application Architect Sr.](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Application-Architect-Sr_R0075487) | Huntington Bank | Columbus, OH | 2026-09-29 |
+| [Vice President & Chief Data and Artificial Intelligence Officer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56504&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-29 |
 <!-- JOBS:END -->
 
 ## How it works
