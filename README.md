@@ -56,21 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1779 tracked total · updated `2026-09-29T01:27:06+00:00`
+### 🟢 No new roles this update · **1775** roles open total · updated `2026-09-29T10:13:09+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 1 |
-| Nationwide | 1 |
-| Huntington Bank | 1 |
-| STERIS | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-29 |
-| [Sr Actuarial Associate, Enterprise Catastrophe Risk](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Sr-Consultant--Risk-Researcher_099032) | Nationwide | Ohio | 2026-09-29 |
-| [Application Architect Sr.](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Application-Architect-Sr_R0075487) | Huntington Bank | Columbus, OH | 2026-09-29 |
-| [Vice President & Chief Data and Artificial Intelligence Officer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56504&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-09-29 |
+Nothing new since the last run — [browse all 1775 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
