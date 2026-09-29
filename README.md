@@ -56,9 +56,37 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1775** roles open total · updated `2026-09-29T10:13:09+00:00`
+### 🆕 13 new roles this update · 1787 tracked total · updated `2026-09-29T18:36:49+00:00`
 
-Nothing new since the last run — [browse all 1775 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Vertiv | 3 |
+| Robert Half | 1 |
+| Kao USA | 1 |
+| Root Insurance | 1 |
+| Abercrombie & Fitch | 1 |
+| Crane Company | 1 |
+| Abbott (Columbus) | 1 |
+| Nationwide Children's Hospital | 1 |
+| GE Aerospace | 1 |
+| Dana Incorporated | 1 |
+| Lubrizol | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-29 |
+| [IT Service Team Leader](https://kao.voyse.io/gh-job/4715209006?gh_jid=4715209006) | Kao USA | Cincinnati | 2026-09-29 |
+| [Lead Data Scientist, Telematics](https://ats.rippling.com/joinroot/jobs/bae91667-0606-40bb-9ff5-ee606d82ef72) | Root Insurance | Remote (United States) | 2026-09-29 |
+| [Platform Engineer, Content Delivery and Engineering Tools (Remote)](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Platform-Engineer--Content-Delivery-and-Engineering-Tools--Remote-_JR103889) | Abercrombie & Fitch | Columbus, Ohio | 2026-09-29 |
+| [Quality Engineer- APQP](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Quality-Engineer--APQP_JR102526) | Crane Company | Elyria, Ohio | 2026-09-29 |
+| [Sr. AI/ML Engineer - Life Science](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Sr-AI-ML-Engineer---Life-Science_35000034) | Abbott (Columbus) | United States of America : Remote | 2026-09-29 |
+| [IS Network Engineer Sr.](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Network-Engineer-Sr_R-28215-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-09-29 |
+| [Supplier Fulfillment Leader](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Supplier-Fulfillment-Leader_R5039784-1) | GE Aerospace | Evendale | 2026-09-29 |
+| [Controls Scrum Master](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281143) | Vertiv | Westerville, OH, United States | 2026-09-29 |
+| [Sr Applied AI/ML Software Developer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283126) | Vertiv | Westerville, OH, United States | 2026-09-29 |
+| [Applied AI/ML Software Developer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283127) | Vertiv | Westerville, OH, United States | 2026-09-29 |
+| [Test Engineer](https://jobs.dana.com/job/Maumee-Test-Engineer-OH-43537/1434982900/) | Dana Incorporated | OH | 2026-09-29 |
+| [Senior Corporate Quality Engineer](https://jobs.lubrizol.com/job/Brecksville-Senior-Corporate-Quality-Engineer-OH-44141-3247/1434966200/) | Lubrizol | OH | 2026-09-29 |
 <!-- JOBS:END -->
 
 ## How it works
