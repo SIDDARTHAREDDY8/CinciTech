@@ -56,37 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1787 tracked total · updated `2026-09-29T18:36:49+00:00`
+### 🆕 8 new roles this update · 1790 tracked total · updated `2026-09-29T22:42:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 3 |
-| Robert Half | 1 |
-| Kao USA | 1 |
-| Root Insurance | 1 |
-| Abercrombie & Fitch | 1 |
-| Crane Company | 1 |
-| Abbott (Columbus) | 1 |
-| Nationwide Children's Hospital | 1 |
-| GE Aerospace | 1 |
-| Dana Incorporated | 1 |
-| Lubrizol | 1 |
+| GE Aerospace | 3 |
+| Abbott (Columbus) | 2 |
+| CareSource | 1 |
+| STERIS | 1 |
+| Levi Strauss | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-29 |
-| [IT Service Team Leader](https://kao.voyse.io/gh-job/4715209006?gh_jid=4715209006) | Kao USA | Cincinnati | 2026-09-29 |
-| [Lead Data Scientist, Telematics](https://ats.rippling.com/joinroot/jobs/bae91667-0606-40bb-9ff5-ee606d82ef72) | Root Insurance | Remote (United States) | 2026-09-29 |
-| [Platform Engineer, Content Delivery and Engineering Tools (Remote)](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Platform-Engineer--Content-Delivery-and-Engineering-Tools--Remote-_JR103889) | Abercrombie & Fitch | Columbus, Ohio | 2026-09-29 |
-| [Quality Engineer- APQP](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Quality-Engineer--APQP_JR102526) | Crane Company | Elyria, Ohio | 2026-09-29 |
-| [Sr. AI/ML Engineer - Life Science](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Sr-AI-ML-Engineer---Life-Science_35000034) | Abbott (Columbus) | United States of America : Remote | 2026-09-29 |
-| [IS Network Engineer Sr.](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Network-Engineer-Sr_R-28215-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-09-29 |
-| [Supplier Fulfillment Leader](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Supplier-Fulfillment-Leader_R5039784-1) | GE Aerospace | Evendale | 2026-09-29 |
-| [Controls Scrum Master](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281143) | Vertiv | Westerville, OH, United States | 2026-09-29 |
-| [Sr Applied AI/ML Software Developer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283126) | Vertiv | Westerville, OH, United States | 2026-09-29 |
-| [Applied AI/ML Software Developer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283127) | Vertiv | Westerville, OH, United States | 2026-09-29 |
-| [Test Engineer](https://jobs.dana.com/job/Maumee-Test-Engineer-OH-43537/1434982900/) | Dana Incorporated | OH | 2026-09-29 |
-| [Senior Corporate Quality Engineer](https://jobs.lubrizol.com/job/Brecksville-Senior-Corporate-Quality-Engineer-OH-44141-3247/1434966200/) | Lubrizol | OH | 2026-09-29 |
+| [Applied AI Scientist IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Applied-AI-Scientist-IV_R13786) | CareSource | Remote | 2026-09-29 |
+| [Senior Application Analyst — Epic Beaker/EpicCare Link](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-Application-Analyst---Epic-Beaker-EpicCare-Link_31162257) | Abbott (Columbus) | United States of America : Remote | 2026-09-29 |
+| [Senior Application Analyst — Epic Beaker/EpicCare Link](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-Application-Analyst---Epic-Beaker-EpicCare-Link_31162255) | Abbott (Columbus) | United States of America : Remote | 2026-09-29 |
+| [Staff Data Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Data-Engineer_R5040528-2) | GE Aerospace | Evendale | 2026-09-29 |
+| [Senior Business Intelligence Developer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Business-Intelligence-Developer_R5040919-1) | GE Aerospace | Evendale | 2026-09-29 |
+| [Lead Engineer - Engine Dynamics](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Engineer---Engine-Dynamics_R5039384) | GE Aerospace | Evendale | 2026-09-29 |
+| [Chief Enterprise Architect](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56288&jobPipeline=PhenomCareerSite) | STERIS | Mentor, OH, Ohio | 2026-09-29 |
+| [Lead Technical Product Manager – Commerce Platform](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Lead-Technical-Product-Manager---Commerce-Platform_R-0157056) | Levi Strauss | Remote - USA | 2026-09-29 |
 <!-- JOBS:END -->
 
 ## How it works
