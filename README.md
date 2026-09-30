@@ -56,25 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1782 tracked total · updated `2026-09-30T05:55:54+00:00`
+### 🆕 4 new roles this update · 1785 tracked total · updated `2026-09-30T12:58:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 7 |
-| Robert Half | 1 |
-| American Electric Power | 1 |
+| Agility Connect | 1 |
+| 84.51° | 1 |
+| Fifth Third Bank | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-30 |
-| [Information Technology - Application Development - ERP Architect – Oracle/ NetSuite](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33168394#/jobs/33168394) | Artech | Remote, CA | 2026-09-30 |
-| [IBM Systems Automation Software Systems Programmer/Administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33166777#/jobs/33166777) | Artech | Remote, NY | 2026-09-30 |
-| [Data Engineer Senior](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163954#/jobs/33163954) | Artech | Remote, NY | 2026-09-30 |
-| [Full Stack Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163720#/jobs/33163720) | Artech | Remote, NY | 2026-09-30 |
-| [Full Stack Java Developer-2](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163730#/jobs/33163730) | Artech | Remote, NY | 2026-09-30 |
-| [Data Engineer Senior-2](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163961#/jobs/33163961) | Artech | Remote, NY | 2026-09-30 |
-| [Sr. QA Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163694#/jobs/33163694) | Artech | Remote, NY | 2026-09-30 |
-| [Engineer Sr- Engineer Prin (Substation Network Engineer)](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Engineer-Sr--Engineer-Prin--Substation-Network-Engineer-_R19156) | American Electric Power | New Albany, OH | 2026-09-30 |
+| [AI Architect](https://agilityconnect.io/jobs/8483) | Agility Connect | Columbus, Ohio | 2026-09-30 |
+| [Lead Data Scientist - Relevancy Sciences (P3764)](https://job-boards.greenhouse.io/8451/jobs/8618262002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-09-30 |
+| [Principle Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principle-Software-Engineer_R72983-1) | Fifth Third Bank | Cincinnati, OH | 2026-09-30 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-09-30 |
 <!-- JOBS:END -->
 
 ## How it works
