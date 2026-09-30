@@ -56,26 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1790 tracked total · updated `2026-09-29T22:42:08+00:00`
+### 🆕 9 new roles this update · 1782 tracked total · updated `2026-09-30T05:55:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| GE Aerospace | 3 |
-| Abbott (Columbus) | 2 |
-| CareSource | 1 |
-| STERIS | 1 |
-| Levi Strauss | 1 |
+| Artech | 7 |
+| Robert Half | 1 |
+| American Electric Power | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Applied AI Scientist IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Applied-AI-Scientist-IV_R13786) | CareSource | Remote | 2026-09-29 |
-| [Senior Application Analyst — Epic Beaker/EpicCare Link](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-Application-Analyst---Epic-Beaker-EpicCare-Link_31162257) | Abbott (Columbus) | United States of America : Remote | 2026-09-29 |
-| [Senior Application Analyst — Epic Beaker/EpicCare Link](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-Application-Analyst---Epic-Beaker-EpicCare-Link_31162255) | Abbott (Columbus) | United States of America : Remote | 2026-09-29 |
-| [Staff Data Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Data-Engineer_R5040528-2) | GE Aerospace | Evendale | 2026-09-29 |
-| [Senior Business Intelligence Developer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Business-Intelligence-Developer_R5040919-1) | GE Aerospace | Evendale | 2026-09-29 |
-| [Lead Engineer - Engine Dynamics](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Engineer---Engine-Dynamics_R5039384) | GE Aerospace | Evendale | 2026-09-29 |
-| [Chief Enterprise Architect](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56288&jobPipeline=PhenomCareerSite) | STERIS | Mentor, OH, Ohio | 2026-09-29 |
-| [Lead Technical Product Manager – Commerce Platform](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Lead-Technical-Product-Manager---Commerce-Platform_R-0157056) | Levi Strauss | Remote - USA | 2026-09-29 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-30 |
+| [Information Technology - Application Development - ERP Architect – Oracle/ NetSuite](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33168394#/jobs/33168394) | Artech | Remote, CA | 2026-09-30 |
+| [IBM Systems Automation Software Systems Programmer/Administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33166777#/jobs/33166777) | Artech | Remote, NY | 2026-09-30 |
+| [Data Engineer Senior](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163954#/jobs/33163954) | Artech | Remote, NY | 2026-09-30 |
+| [Full Stack Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163720#/jobs/33163720) | Artech | Remote, NY | 2026-09-30 |
+| [Full Stack Java Developer-2](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163730#/jobs/33163730) | Artech | Remote, NY | 2026-09-30 |
+| [Data Engineer Senior-2](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163961#/jobs/33163961) | Artech | Remote, NY | 2026-09-30 |
+| [Sr. QA Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163694#/jobs/33163694) | Artech | Remote, NY | 2026-09-30 |
+| [Engineer Sr- Engineer Prin (Substation Network Engineer)](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Engineer-Sr--Engineer-Prin--Substation-Network-Engineer-_R19156) | American Electric Power | New Albany, OH | 2026-09-30 |
 <!-- JOBS:END -->
 
 ## How it works
