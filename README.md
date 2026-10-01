@@ -56,22 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1798 tracked total · updated `2026-10-01T00:59:46+00:00`
+### 🆕 1 new roles this update · 1798 tracked total · updated `2026-10-01T10:38:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 2 |
-| Russell Tobin | 1 |
-| Vernovis | 1 |
-| Kroger | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Machine Learning Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29397906#/jobs/29397906) | Russell Tobin | REMOTE, CA | 2026-10-01 |
-| [Internal Audit Manager](https://vernovis.com/blog/jobs/12211/) | Vernovis | Cincinnati, | 2026-10-01 |
-| [FRONT END/LEAD CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/234306) | Kroger | Columbus, WI, United States | 2026-10-01 |
-| [Senior Financial Systems Analyst - SAP & Power BI](https://careers.honda.com/us/en/job/12827) | Honda | Marysville, Ohio, United States | 2026-10-01 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-01 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-01 |
 <!-- JOBS:END -->
 
 ## How it works
