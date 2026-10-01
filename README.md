@@ -56,15 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1798 tracked total · updated `2026-10-01T10:38:09+00:00`
+### 🆕 16 new roles this update · 1813 tracked total · updated `2026-10-01T18:54:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
+| Gina's Tech Jobs | 3 |
+| Next Step Systems | 3 |
+| Sherwin-Williams | 2 |
+| Honda | 2 |
+| Forge Biologics | 1 |
+| Root Insurance | 1 |
+| FirstEnergy | 1 |
+| Vertiv | 1 |
+| Cintas | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-01 |
+| [AWS Infrastructure Engineer – Work From Home](https://www.ginastechjobs.com/job/aws-infrastructure-engineer-work-from-home/) | Gina's Tech Jobs | Des Plaines, IL, USA (Remote) | 2026-10-01 |
+| [Machine Learning Engineer – Work From Home](https://www.ginastechjobs.com/job/machine-learning-engineer-work-from-home/) | Gina's Tech Jobs | Chicago, IL, USA (Remote) | 2026-10-01 |
+| [UNIX Systems Administrator – Work From Home](https://www.ginastechjobs.com/job/unix-systems-administrator-work-from-home/) | Gina's Tech Jobs | Miramar, FL, USA (Remote) | 2026-10-01 |
+| [Web Technical Lead, Spring Boot, Angular.js, DevOps – Work From Home](https://www.nextstepsystems.com/job/web-technical-lead-spring-boot-angular-js-devops-work-from-home/) | Next Step Systems | Oakland, CA, USA (Remote) | 2026-10-01 |
+| [Business Systems Analyst with SQL Experience – Work From Home](https://www.nextstepsystems.com/job/business-systems-analyst-work-from-home/) | Next Step Systems | New Orleans, LA, USA (Remote) | 2026-10-01 |
+| [Senior Business Systems Analyst with SQL Experience – Work From Home](https://www.nextstepsystems.com/job/senior-business-systems-analyst-work-from-home/) | Next Step Systems | New Orleans, LA, USA (Remote) | 2026-10-01 |
+| [Veeva IT Systems Analyst II](https://boards.greenhouse.io/forgebiologics/jobs/6212122004?gh_jid=6212122004) | Forge Biologics | Columbus, Ohio | 2026-10-01 |
+| [Staff Data Scientist, LTV](https://ats.rippling.com/joinroot/jobs/478d6fff-8380-4fa1-beaa-cc8b1c063b23) | Root Insurance | Remote (United States) | 2026-10-01 |
+| [AI Adoption & Change Management Consultant](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625255) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-01 |
+| [Scrum Master](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625292) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-01 |
+| [Asset Management Systems Analyst](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105133) | FirstEnergy | Akron, OH, United States | 2026-10-01 |
+| [Global Applications Engineer - Thermal Systems](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283328) | Vertiv | Columbus, OH, United States | 2026-10-01 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-01 |
+| [Department Lead, Global IT Strategic Sourcing](https://careers.honda.com/us/en/job/10922) | Honda | Marysville, Ohio, United States | 2026-10-01 |
+| [IT Manager - Operational Technology](https://careers.cintas.com/job/Mason-IT-Manager-Operational-Technology-OH-45040/1435842600/) | Cintas | OH | 2026-10-01 |
+| [Senior Product Data Analyst - Stock Plan Services](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Product-Data-Analyst---Stock-Plan-Services_2135166) | Fidelity Investments | Covington, KY | 2026-10-01 |
 <!-- JOBS:END -->
 
 ## How it works
