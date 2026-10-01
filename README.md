@@ -56,46 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 19 new roles this update · 1801 tracked total · updated `2026-09-30T20:33:18+00:00`
+### 🆕 5 new roles this update · 1798 tracked total · updated `2026-10-01T00:59:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Vertiv | 3 |
-| Fidelity Investments | 2 |
-| Apex Systems | 1 |
-| Robert Half | 1 |
-| Mindlance | 1 |
-| AtriCure | 1 |
-| Branch Insurance | 1 |
-| Great American Insurance | 1 |
-| Sherwin-Williams | 1 |
-| Abbott (Columbus) | 1 |
-| Battelle | 1 |
-| Cincinnati Insurance | 1 |
-| Owens Corning | 1 |
+| Honda | 2 |
+| Russell Tobin | 1 |
+| Vernovis | 1 |
+| Kroger | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Intelligent Automation Engineer - RPA Automation](https://www.apexsystems.com/job/3054252_usa/intelligent-automation-engineer---rpa-automation) | Apex Systems | Brooklyn, OH | 2026-09-30 |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-09-30 |
-| [Graph Data Engineer / SPARQL Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33176471#/jobs/33176471) | Artech | Remote | 2026-09-30 |
-| [ServiceNow Client Software Distribution (CSD) Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33175362#/jobs/33175362) | Artech | Beachwood, OH | 2026-09-30 |
-| [Business Data Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33175573#/jobs/33175573) | Artech | Virtual | 2026-09-30 |
-| [Intelligent Automation Engineer - RPA Automation Anywhere](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29395978#/jobs/29395978) | Mindlance | Brooklyn, OH | 2026-09-30 |
-| [Quality Engineer](https://job-boards.greenhouse.io/atricure/jobs/4372675009) | AtriCure | Mason, OH | 2026-09-30 |
-| [Staff Cloud Operations Engineer](https://job-boards.greenhouse.io/branch/jobs/8009222003) | Branch Insurance | Remote, US | 2026-09-30 |
-| [Senior Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Product-Manager_R9617) | Great American Insurance | Cincinnati, OH (USA) | 2026-09-30 |
-| [Lead Software Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625231) | Sherwin-Williams | Cleveland, OH, United States | 2026-09-30 |
-| [Principal OT Systems Engineer - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Principal-OT-Systems-Engineer---Columbus--OH_31163476) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-09-30 |
-| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280262) | Vertiv | Columbus, OH, United States | 2026-09-30 |
-| [IT Data Analytics Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282142) | Vertiv | Ironton, OH, United States | 2026-09-30 |
-| [IT Data Analytics Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282143) | Vertiv | Delaware, OH, United States | 2026-09-30 |
-| [Data Scientist](https://jobs.battelle.org/us/en/job/76588) | Battelle | Columbus, OH | 2026-09-30 |
-| [IT - Developer II - IV (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=166106) | Cincinnati Insurance | ["Remote"] | 2026-09-30 |
-| [Operational Technology (OT/ICS) Network Engineer](https://careers.owenscorning.com/job/Toledo-Operational-Technology-%28OTICS%29-Network-Engineer-OH-43659-0001/1435475300/) | Owens Corning | OH | 2026-09-30 |
-| [Principal Full Stack Engineer (Node.js, Angular, REST APIs)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal-Full-Stack-Engineer--Nodejs--Angular--REST-APIs-_2134818-1) | Fidelity Investments | Covington, KY | 2026-09-30 |
-| [Senior Software Engineer (Node.js, Angular, REST APIs)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Software-Engineer--Nodejs--Angular--REST-APIs-_2134809-1) | Fidelity Investments | Covington, KY | 2026-09-30 |
+| [Machine Learning Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29397906#/jobs/29397906) | Russell Tobin | REMOTE, CA | 2026-10-01 |
+| [Internal Audit Manager](https://vernovis.com/blog/jobs/12211/) | Vernovis | Cincinnati, | 2026-10-01 |
+| [FRONT END/LEAD CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/234306) | Kroger | Columbus, WI, United States | 2026-10-01 |
+| [Senior Financial Systems Analyst - SAP & Power BI](https://careers.honda.com/us/en/job/12827) | Honda | Marysville, Ohio, United States | 2026-10-01 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-01 |
 <!-- JOBS:END -->
 
 ## How it works
