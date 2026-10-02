@@ -56,20 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1814 tracked total · updated `2026-10-02T01:12:46+00:00`
+### 🆕 5 new roles this update · 1818 tracked total · updated `2026-10-02T10:12:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cincinnati Children's Hospital | 2 |
-| Robert Half | 1 |
-| CareSource | 1 |
+| Nationwide | 3 |
+| Artech | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-02 |
-| [Data Scientist I](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Scientist-I_R13840) | CareSource | Remote | 2026-10-02 |
-| [Software Engineer I - Web Services](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Software-Engineer-I---Web-Services_JR225073) | Cincinnati Children's Hospital | Remote | 2026-10-02 |
-| [Translational Pharmacology, Omics, & AI - Assistant/Associate Professor - Tenure Track](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Translational-and-Clinical-Pharmacology---Assistant-Associate-Professor_JR225332) | Cincinnati Children's Hospital | Burnet Campus | 2026-10-02 |
+| [Product Support Engineer/ Customer Technical Support](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33183681#/jobs/33183681) | Artech | Remote, NY | 2026-10-02 |
+| [Specialist, Software Engineer - ServiceNow Platform](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---ServiceNow-Platform_100552) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-02 |
+| [Sr Engineer, Software Engineer (ServiceNow Developer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--ServiceNow-Developer-_100148-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-02 |
+| [Sr Engineer, Software Engineering - ServiceNow Platform Admin](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineering---ServiceNow-Platform-Admin_100467) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-02 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-02 |
 <!-- JOBS:END -->
 
 ## How it works
