@@ -56,51 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 25 new roles this update · 1843 tracked total · updated `2026-10-02T18:17:14+00:00`
+### 🆕 13 new roles this update · 1853 tracked total · updated `2026-10-02T22:34:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 7 |
-| Robert Half | 3 |
-| Artech | 2 |
-| Great American Insurance | 2 |
-| KeyBank | 2 |
-| Huntington Bank | 2 |
-| TEKsystems | 1 |
-| TRU Staffing Partners | 1 |
+| Artech | 4 |
 | Mindlance | 1 |
-| Marathon Petroleum | 1 |
-| Grange Insurance | 1 |
-| Cintas | 1 |
+| First Solar | 1 |
+| Fifth Third Bank | 1 |
+| Great American Insurance | 1 |
+| American Electric Power | 1 |
+| Cincinnati Children's Hospital | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
 | Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Technical Solutions Consultant](https://careers.teksystems.com/us/en/job/JP-006320345/Technical-Solutions-Consultant) | TEKsystems | Dayton, Ohio | 2026-10-02 |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-02 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-02 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-02 |
-| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7645#/jobs/7645) | TRU Staffing Partners | Anywhere | 2026-10-02 |
-| [Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188511#/jobs/33188511) | Artech | Columbus, OH | 2026-10-02 |
-| [Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188326#/jobs/33188326) | Artech | Columbus, OH | 2026-10-02 |
-| [Info Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29402134#/jobs/29402134) | Mindlance | Brooklyn,, OH | 2026-10-02 |
-| [Sr Software Engineer](https://agilityconnect.io/jobs/8491) | Agility Connect | Columbus, OH | 2026-10-02 |
-| [AI Engineer](https://agilityconnect.io/jobs/8496) | Agility Connect | OH | 2026-10-02 |
-| [Information Security Analyst](https://agilityconnect.io/jobs/8489) | Agility Connect | Cincinnati, OH | 2026-10-02 |
-| [Principal AI Engineer](https://agilityconnect.io/jobs/8497) | Agility Connect | OH | 2026-10-02 |
-| [Sr. Software Engineer](https://agilityconnect.io/jobs/8490) | Agility Connect | Columbus, OH | 2026-10-02 |
-| [AI Integration Engineer](https://agilityconnect.io/jobs/8492) | Agility Connect | Columbus, Ohio | 2026-10-02 |
-| [Enterprise Architect](https://agilityconnect.io/jobs/8495) | Agility Connect | Columbus, Ohio | 2026-10-02 |
-| [Intern/Co-op - Midstream Logistics and Storage Engineering (L&SE) Project Controls (Spring 2027)](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Engineering--L-SE--Project-Controls--Spring-2027-_00024513) | Marathon Petroleum | Findlay, Ohio | 2026-10-02 |
-| [Senior Business Intelligence Analyst - Enterprise Analytics](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Business-Intelligence-Analyst---Enterprise-Analytics_R9559) | Great American Insurance | Remote (USA) | 2026-10-02 |
-| [Enterprise Analytics Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-02 |
-| [GenAI Communications & Enablement Lead](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/GenAI-Communications---Enablement-Lead_R-42370-1) | KeyBank | 4910 Tiedeman Road, Brooklyn, OH | 2026-10-02 |
-| [Enterprise GenAI Product Manager](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Enterprise-GenAI-Product-Manager_R-42460-1) | KeyBank | Brooklyn, OH | 2026-10-02 |
-| [IT Service Delivery Director](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Service-Delivery-Director_R0076162) | Huntington Bank | Columbus, OH | 2026-10-02 |
-| [Business Systems Analyst Sr-Contact Center](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Sr-Contact-Center_R0075787) | Huntington Bank | Columbus, OH | 2026-10-02 |
-| [Internal IT Audit Consultant (hybrid)](https://recruiting.ultipro.com/GRA1009GMC/JobBoard/59c4f4ab-af79-401b-8093-07af99fb34ac/OpportunityDetail?opportunityId=c0598819-538c-4a77-a6d0-01ac21c2dac8) | Grange Insurance | Columbus, OH | 2026-10-02 |
-| [Software Engineer - Level 2 - Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1436191900/) | Cintas | OH | 2026-10-02 |
-| [IT Project Manager](https://uscareers-medpace.icims.com/jobs/13033/login) | Medpace | Cincinnati, Ohio | 2026-10-02 |
+| [Software Engineering - Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190116#/jobs/33190116) | Artech | Remote, CA | 2026-10-02 |
+| [Gaming - Gameplay Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189557#/jobs/33189557) | Artech | Remote, CA | 2026-10-02 |
+| [Agronomic Modeling -- Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188736#/jobs/33188736) | Artech | Remote, IA | 2026-10-02 |
+| [Data Modeler / Data Architect (Databricks & Erwin)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188327#/jobs/33188327) | Artech | Columbus, OH | 2026-10-02 |
+| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29411305#/jobs/29411305) | Mindlance | Remote, CA | 2026-10-02 |
+| [Product Strategy & AI (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026166) | First Solar | Perrysburg, OH, United States | 2026-10-02 |
+| [Principal Platform Engineer Tech Lead](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Platform-Engineer-Tech-Lead_R73140-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-02 |
+| [Senior Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Product-Manager_R9616) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-02 |
+| [Telecom Analyst Associate](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Telecom-Analyst-Associate_R18837) | American Electric Power | Gahanna, OH | 2026-10-02 |
+| [EMR Analyst I - Epic Billing](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/EMR-Analyst-I---Epic-Billing_JR225598) | Cincinnati Children's Hospital | Remote | 2026-10-02 |
+| [System Test Engineering Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279306) | Vertiv | Delaware, OH, United States | 2026-10-02 |
+| [Electrical Powertrain Software Engineer](https://careers.honda.com/us/en/job/12837) | Honda | Raymond, Ohio, United States | 2026-10-02 |
+| [HR Systems Analyst](https://uscareers-medpace.icims.com/jobs/12895/login) | Medpace | Cincinnati, Ohio | 2026-10-02 |
 <!-- JOBS:END -->
 
 ## How it works
