@@ -56,21 +56,51 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1818 tracked total · updated `2026-10-02T10:12:34+00:00`
+### 🆕 25 new roles this update · 1843 tracked total · updated `2026-10-02T18:17:14+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 3 |
-| Artech | 1 |
-| Honda | 1 |
+| Agility Connect | 7 |
+| Robert Half | 3 |
+| Artech | 2 |
+| Great American Insurance | 2 |
+| KeyBank | 2 |
+| Huntington Bank | 2 |
+| TEKsystems | 1 |
+| TRU Staffing Partners | 1 |
+| Mindlance | 1 |
+| Marathon Petroleum | 1 |
+| Grange Insurance | 1 |
+| Cintas | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Product Support Engineer/ Customer Technical Support](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33183681#/jobs/33183681) | Artech | Remote, NY | 2026-10-02 |
-| [Specialist, Software Engineer - ServiceNow Platform](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---ServiceNow-Platform_100552) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-02 |
-| [Sr Engineer, Software Engineer (ServiceNow Developer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--ServiceNow-Developer-_100148-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-02 |
-| [Sr Engineer, Software Engineering - ServiceNow Platform Admin](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineering---ServiceNow-Platform-Admin_100467) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-02 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-02 |
+| [Technical Solutions Consultant](https://careers.teksystems.com/us/en/job/JP-006320345/Technical-Solutions-Consultant) | TEKsystems | Dayton, Ohio | 2026-10-02 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-02 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-02 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-02 |
+| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7645#/jobs/7645) | TRU Staffing Partners | Anywhere | 2026-10-02 |
+| [Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188511#/jobs/33188511) | Artech | Columbus, OH | 2026-10-02 |
+| [Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188326#/jobs/33188326) | Artech | Columbus, OH | 2026-10-02 |
+| [Info Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29402134#/jobs/29402134) | Mindlance | Brooklyn,, OH | 2026-10-02 |
+| [Sr Software Engineer](https://agilityconnect.io/jobs/8491) | Agility Connect | Columbus, OH | 2026-10-02 |
+| [AI Engineer](https://agilityconnect.io/jobs/8496) | Agility Connect | OH | 2026-10-02 |
+| [Information Security Analyst](https://agilityconnect.io/jobs/8489) | Agility Connect | Cincinnati, OH | 2026-10-02 |
+| [Principal AI Engineer](https://agilityconnect.io/jobs/8497) | Agility Connect | OH | 2026-10-02 |
+| [Sr. Software Engineer](https://agilityconnect.io/jobs/8490) | Agility Connect | Columbus, OH | 2026-10-02 |
+| [AI Integration Engineer](https://agilityconnect.io/jobs/8492) | Agility Connect | Columbus, Ohio | 2026-10-02 |
+| [Enterprise Architect](https://agilityconnect.io/jobs/8495) | Agility Connect | Columbus, Ohio | 2026-10-02 |
+| [Intern/Co-op - Midstream Logistics and Storage Engineering (L&SE) Project Controls (Spring 2027)](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Engineering--L-SE--Project-Controls--Spring-2027-_00024513) | Marathon Petroleum | Findlay, Ohio | 2026-10-02 |
+| [Senior Business Intelligence Analyst - Enterprise Analytics](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Business-Intelligence-Analyst---Enterprise-Analytics_R9559) | Great American Insurance | Remote (USA) | 2026-10-02 |
+| [Enterprise Analytics Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-02 |
+| [GenAI Communications & Enablement Lead](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/GenAI-Communications---Enablement-Lead_R-42370-1) | KeyBank | 4910 Tiedeman Road, Brooklyn, OH | 2026-10-02 |
+| [Enterprise GenAI Product Manager](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Enterprise-GenAI-Product-Manager_R-42460-1) | KeyBank | Brooklyn, OH | 2026-10-02 |
+| [IT Service Delivery Director](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Service-Delivery-Director_R0076162) | Huntington Bank | Columbus, OH | 2026-10-02 |
+| [Business Systems Analyst Sr-Contact Center](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Sr-Contact-Center_R0075787) | Huntington Bank | Columbus, OH | 2026-10-02 |
+| [Internal IT Audit Consultant (hybrid)](https://recruiting.ultipro.com/GRA1009GMC/JobBoard/59c4f4ab-af79-401b-8093-07af99fb34ac/OpportunityDetail?opportunityId=c0598819-538c-4a77-a6d0-01ac21c2dac8) | Grange Insurance | Columbus, OH | 2026-10-02 |
+| [Software Engineer - Level 2 - Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1436191900/) | Cintas | OH | 2026-10-02 |
+| [IT Project Manager](https://uscareers-medpace.icims.com/jobs/13033/login) | Medpace | Cincinnati, Ohio | 2026-10-02 |
 <!-- JOBS:END -->
 
 ## How it works
