@@ -56,15 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1833 tracked total · updated `2026-10-03T11:58:06+00:00`
+### 🆕 4 new roles this update · 1833 tracked total · updated `2026-10-03T16:36:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
+| Robert Half | 3 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [QA/QC Fiber Infrastructure Lead - Data Center Construction - OH](https://careers.teksystems.com/us/en/job/JP-006322008/QA-QC-Fiber-Infrastructure-Lead-Data-Center-Construction-OH) | TEKsystems | New Albany, Ohio | 2026-10-03 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-03 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-03 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-03 |
 <!-- JOBS:END -->
 
 ## How it works
