@@ -56,36 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1853 tracked total · updated `2026-10-02T22:34:17+00:00`
+### 🆕 5 new roles this update · 1836 tracked total · updated `2026-10-03T05:40:41+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Mindlance | 1 |
-| First Solar | 1 |
-| Fifth Third Bank | 1 |
-| Great American Insurance | 1 |
-| American Electric Power | 1 |
-| Cincinnati Children's Hospital | 1 |
-| Vertiv | 1 |
+| Robert Half | 3 |
 | Honda | 1 |
-| Medpace | 1 |
+| Medical Mutual of Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering - Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190116#/jobs/33190116) | Artech | Remote, CA | 2026-10-02 |
-| [Gaming - Gameplay Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189557#/jobs/33189557) | Artech | Remote, CA | 2026-10-02 |
-| [Agronomic Modeling -- Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188736#/jobs/33188736) | Artech | Remote, IA | 2026-10-02 |
-| [Data Modeler / Data Architect (Databricks & Erwin)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188327#/jobs/33188327) | Artech | Columbus, OH | 2026-10-02 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29411305#/jobs/29411305) | Mindlance | Remote, CA | 2026-10-02 |
-| [Product Strategy & AI (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026166) | First Solar | Perrysburg, OH, United States | 2026-10-02 |
-| [Principal Platform Engineer Tech Lead](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Platform-Engineer-Tech-Lead_R73140-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-02 |
-| [Senior Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Product-Manager_R9616) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-02 |
-| [Telecom Analyst Associate](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Telecom-Analyst-Associate_R18837) | American Electric Power | Gahanna, OH | 2026-10-02 |
-| [EMR Analyst I - Epic Billing](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/EMR-Analyst-I---Epic-Billing_JR225598) | Cincinnati Children's Hospital | Remote | 2026-10-02 |
-| [System Test Engineering Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279306) | Vertiv | Delaware, OH, United States | 2026-10-02 |
-| [Electrical Powertrain Software Engineer](https://careers.honda.com/us/en/job/12837) | Honda | Raymond, Ohio, United States | 2026-10-02 |
-| [HR Systems Analyst](https://uscareers-medpace.icims.com/jobs/12895/login) | Medpace | Cincinnati, Ohio | 2026-10-02 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-03 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-03 |
+| [IT Manager Client Engineering and Endpoint Platforms](https://careers.honda.com/us/en/job/12916) | Honda | Marysville, Ohio, United States | 2026-10-03 |
+| [Provider Contract Support Specialist](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=78d7b2eb-cd34-47c4-831a-3740bd02a1a8) | Medical Mutual of Ohio | West Chester OH | 2026-10-03 |
 <!-- JOBS:END -->
 
 ## How it works
