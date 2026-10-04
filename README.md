@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1826 tracked total · updated `2026-10-03T21:39:04+00:00`
+### 🆕 3 new roles this update · 1802 tracked total · updated `2026-10-04T00:15:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 1 |
+| Robert Half | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Principal Modern Endpoint IT Engineer - Microsoft Intune](https://careers.honda.com/us/en/job/12771) | Honda | Marysville, Ohio, United States | 2026-10-03 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-04 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
 <!-- JOBS:END -->
 
 ## How it works
