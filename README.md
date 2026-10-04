@@ -56,22 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1805 tracked total · updated `2026-10-04T12:43:57+00:00`
+### 🟢 No new roles this update · **1798** roles open total · updated `2026-10-04T19:05:01+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 4 |
-| Robert Half | 3 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-04 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
-| [Data Engineer](https://agilityconnect.io/jobs/8502) | Agility Connect | Cincinnati, OH | 2026-10-04 |
-| [Data Engineer - DataStage ETL](https://agilityconnect.io/jobs/8504) | Agility Connect | Cincinnati, OH | 2026-10-04 |
-| [Data Scientist](https://agilityconnect.io/jobs/8499) | Agility Connect | Cincinnati, OH | 2026-10-04 |
-| [Machine Learning Engineer](https://agilityconnect.io/jobs/8505) | Agility Connect | Cincinnati, OH | 2026-10-04 |
+Nothing new since the last run — [browse all 1798 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
