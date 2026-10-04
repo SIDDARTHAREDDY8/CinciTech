@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1802 tracked total · updated `2026-10-04T00:15:22+00:00`
+### 🆕 1 new roles this update · 1799 tracked total · updated `2026-10-04T06:11:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-04 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-04 |
 <!-- JOBS:END -->
 
 ## How it works
