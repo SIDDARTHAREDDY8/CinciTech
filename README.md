@@ -56,19 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1733 tracked total · updated `2026-10-05T00:18:34+00:00`
+### 🆕 2 new roles this update · 1731 tracked total · updated `2026-10-05T05:58:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| L3Harris | 1 |
+| Nationwide | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-05 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
-| [Sr. Specialist, Supplier Quality Engineer - International Suppliers](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-international-suppliers/4832/100716887248) | L3Harris | Remote | 2026-10-05 |
+| [Manager, Software Engineering Product Manager (Workforce & Legal Tech)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager--Workforce---Legal-Tech-_100551) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-05 |
+| [Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
