@@ -56,16 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1731 tracked total · updated `2026-10-05T05:58:50+00:00`
+### 🆕 8 new roles this update · 1738 tracked total · updated `2026-10-05T14:54:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 2 |
+| Robert Half | 3 |
+| First Solar | 1 |
+| American Electric Power | 1 |
+| Sherwin-Williams | 1 |
+| Honda | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manager, Software Engineering Product Manager (Workforce & Legal Tech)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager--Workforce---Legal-Tech-_100551) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-05 |
-| [Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-05 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-05 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [Software Engineer Intern (1st Shift) - Spring 2027](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025352) | First Solar | Perrysburg, OH, United States | 2026-10-05 |
+| [Senior Vice President IT - Generation, Transmission & Distribution](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Senior-Vice-President-IT---Generation--Transmission---Distribution_R19591) | American Electric Power | Columbus, OH | 2026-10-05 |
+| [Senior Full Stack Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624563) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-05 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-05 |
+| [Software Engineer-Level 2-Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1436636800/) | Cintas | OH | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
