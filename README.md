@@ -56,9 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1798** roles open total · updated `2026-10-04T19:05:01+00:00`
+### 🆕 4 new roles this update · 1733 tracked total · updated `2026-10-05T00:18:34+00:00`
 
-Nothing new since the last run — [browse all 1798 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 3 |
+| L3Harris | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-05 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [Sr. Specialist, Supplier Quality Engineer - International Suppliers](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-international-suppliers/4832/100716887248) | L3Harris | Remote | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
