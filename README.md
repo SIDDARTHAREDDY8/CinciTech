@@ -56,21 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1677 tracked total · updated `2026-10-06T13:42:29+00:00`
+### 🆕 11 new roles this update · 1686 tracked total · updated `2026-10-06T20:43:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 3 |
+| Medical Mutual of Ohio | 3 |
+| Path Robotics | 2 |
+| Cleveland Clinic | 1 |
 | FirstEnergy | 1 |
-| Huntington Bank | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Supervisor OT Network Security - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105483) | FirstEnergy | Akron, OH, United States | 2026-10-06 |
-| [Senior Data Scientist](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Scientist_R0076409) | Huntington Bank | Columbus, OH | 2026-10-06 |
-| [Quality Engineer Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279268) | Vertiv | Ironton, OH, United States | 2026-10-06 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-06 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-06 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
+| [Robotic Operations Support Specialist, Weekend Shift](https://boards.greenhouse.io/pathrobotics/jobs/8649408002?gh_jid=8649408002) | Path Robotics | Columbus, Ohio | 2026-10-06 |
+| [Software Engineer, Fleet Engineering](https://boards.greenhouse.io/pathrobotics/jobs/8870735002?gh_jid=8870735002) | Path Robotics | Columbus, Ohio | 2026-10-06 |
+| [Epic Access Optimization Analyst I - Capacity Management](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Epic-Access-Optimization-Analyst-I---Capacity-Management_351650) | Cleveland Clinic | Remote Location | 2026-10-06 |
+| [Voice & Video Specialist - IT Networks](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104886) | FirstEnergy | Akron, OH, United States | 2026-10-06 |
+| [Systems Engineer II - Mid Level](https://jobs.battelle.org/us/en/job/76595) | Battelle | Columbus, OH | 2026-10-06 |
+| [Senior Operations Data Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=226f7f2f-1f6c-4f28-aca2-20020a565dca) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-06 |
+| [Value-Based Contracting Data Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=3a252347-ca79-41af-90a5-37c0211f1dfc) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-06 |
+| [IT Data Scientist III](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=8553cbba-0468-402b-97e1-639d08430f49) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-06 |
 <!-- JOBS:END -->
 
 ## How it works
