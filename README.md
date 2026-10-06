@@ -56,27 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1676 tracked total · updated `2026-10-06T06:43:10+00:00`
+### 🆕 4 new roles this update · 1677 tracked total · updated `2026-10-06T13:42:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| Mindlance | 3 |
-| TEKsystems | 1 |
-| Vaco | 1 |
-| Motion Recruitment | 1 |
+| FirstEnergy | 1 |
+| Huntington Bank | 1 |
+| Vertiv | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sourcing Manager Technology And Telecom](https://careers.teksystems.com/us/en/job/JP-006329453/Sourcing-Manager-Technology-And-Telecom) | TEKsystems | Columbus, Ohio | 2026-10-06 |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-06 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
-| [Data Analytics Engineer Telematics](https://jobs.vaco.com/job/2243/data_analytics_engineer_telematics/en) | Vaco | Cincinnati, Ohio | 2026-10-06 |
-| [IT Security Analyst - Intermediate - VF](https://motionrecruitment.com/tech-jobs/columbus/contract/it-security-analyst-intermediate-vf/891675) | Motion Recruitment | Columbus, Ohio | 2026-10-06 |
-| [Data Scientist - Data Analytics & Engineering - Data Analyst V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420120#/jobs/29420120) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
-| [CX Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420115#/jobs/29420115) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
-| [Data Scientist](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29419891#/jobs/29419891) | Mindlance | Remote (EST), NY | 2026-10-06 |
+| [Supervisor OT Network Security - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105483) | FirstEnergy | Akron, OH, United States | 2026-10-06 |
+| [Senior Data Scientist](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Scientist_R0076409) | Huntington Bank | Columbus, OH | 2026-10-06 |
+| [Quality Engineer Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279268) | Vertiv | Ironton, OH, United States | 2026-10-06 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-06 |
 <!-- JOBS:END -->
 
 ## How it works
