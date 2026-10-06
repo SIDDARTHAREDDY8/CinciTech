@@ -56,34 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1742 tracked total · updated `2026-10-05T22:27:48+00:00`
+### 🆕 9 new roles this update · 1676 tracked total · updated `2026-10-06T06:43:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medical Mutual of Ohio | 2 |
-| Vernovis | 1 |
-| First Solar | 1 |
-| Path Robotics | 1 |
-| Root Insurance | 1 |
-| Fifth Third Bank | 1 |
-| Sherwin-Williams | 1 |
-| Huntington Bank | 1 |
-| Battelle | 1 |
-| L3Harris | 1 |
+| Robert Half | 3 |
+| Mindlance | 3 |
+| TEKsystems | 1 |
+| Vaco | 1 |
+| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analytics Engineer](https://vernovis.com/blog/jobs/12222/) | Vernovis | Cincinnati, | 2026-10-05 |
-| [Data Science Intern – Device Characterization (Spring 2027)](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026161) | First Solar | Perrysburg, OH, United States | 2026-10-05 |
-| [Data Engineer, ML Ops](https://boards.greenhouse.io/pathrobotics/jobs/8868497002?gh_jid=8868497002) | Path Robotics | Columbus, Ohio | 2026-10-05 |
-| [Software Engineer Intern: Agent Commerce](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) | Root Insurance | Remote (United States) | 2026-10-05 |
-| [Enterprise Domains IT Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Domains-IT-Product-Owner_R73244-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-05 |
-| [SCADA Lead Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625640) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-05 |
-| [IS Technical Specialist (Full-Stack SDE)](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist--Full-Stack-SDE-_R0076340) | Huntington Bank | Columbus, OH | 2026-10-05 |
-| [HR AI Automation Internship (Summer 2027)](https://jobs.battelle.org/us/en/job/76591) | Battelle | Columbus, OH | 2026-10-05 |
-| [MS Dynamics 365 Technical Architect](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=cfbeef41-5ccc-4e22-8ddf-b290e03225e2) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-05 |
-| [Manager, Data Engineering](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=26142d75-4bb9-400e-9fb5-b606c030df4c) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-05 |
-| [Associate, Systems Engineer](https://careers.l3harris.com/en/job/mason/associate-systems-engineer/4832/101569326352) | L3Harris | Mason, OH | 2026-10-05 |
+| [Sourcing Manager Technology And Telecom](https://careers.teksystems.com/us/en/job/JP-006329453/Sourcing-Manager-Technology-And-Telecom) | TEKsystems | Columbus, Ohio | 2026-10-06 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-06 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
+| [Data Analytics Engineer Telematics](https://jobs.vaco.com/job/2243/data_analytics_engineer_telematics/en) | Vaco | Cincinnati, Ohio | 2026-10-06 |
+| [IT Security Analyst - Intermediate - VF](https://motionrecruitment.com/tech-jobs/columbus/contract/it-security-analyst-intermediate-vf/891675) | Motion Recruitment | Columbus, Ohio | 2026-10-06 |
+| [Data Scientist - Data Analytics & Engineering - Data Analyst V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420120#/jobs/29420120) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
+| [CX Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420115#/jobs/29420115) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
+| [Data Scientist](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29419891#/jobs/29419891) | Mindlance | Remote (EST), NY | 2026-10-06 |
 <!-- JOBS:END -->
 
 ## How it works
