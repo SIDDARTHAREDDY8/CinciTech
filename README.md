@@ -56,24 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1625 tracked total · updated `2026-10-07T01:04:08+00:00`
+### 🆕 11 new roles this update · 1633 tracked total · updated `2026-10-07T10:40:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 2 |
-| Vernovis | 1 |
-| Forge Biologics | 1 |
-| OhioHealth | 1 |
-| GE Aerospace | 1 |
+| DHL | 4 |
+| Robert Half | 3 |
+| Artech | 1 |
+| Nationwide | 1 |
+| Battelle | 1 |
+| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Platform Engineer](https://jobs.compunnel.com/jobs/5938520) | Compunnel | Cincinnati, Ohio, United States | 2026-10-07 |
-| [Senior Kafka Platform Engineer](https://jobs.compunnel.com/jobs/5938521) | Compunnel | Blue Ash, Ohio, United States | 2026-10-07 |
-| [Senior Software Developer](https://vernovis.com/blog/jobs/12075/) | Vernovis | Cincinnati, | 2026-10-07 |
-| [Associate Manager, QA Operations - AAV Manufacturing (2nd Shift)](https://boards.greenhouse.io/forgebiologics/jobs/6212385004?gh_jid=6212385004) | Forge Biologics | Columbus, Ohio | 2026-10-07 |
-| [Cybersecurity IAM Engineer](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---INFORMATION-SERVICES/Cybersecurity-IAM-Engineer_JR159347) | OhioHealth | HYBRID - INFORMATION SERVICES | 2026-10-07 |
-| [NGP5 - Advanced Military Engine Systems Integration](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/NGP5---Advanced-Military-Engine-Systems--Integration_R5040751) | GE Aerospace | Evendale | 2026-10-07 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-07 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
+| [Senior GCP Cloud Engineer / Architect / SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33201789#/jobs/33201789) | Artech | Remote, NY | 2026-10-07 |
+| [Sr Analyst, System Analyst](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Analyst--System-Analyst_100532-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-07 |
+| [IT Infrastructure Administrator](https://jobs.battelle.org/us/en/job/76601) | Battelle | Columbus, OH | 2026-10-07 |
+| [QA Technician](https://jobs.lincolnelectric.com/job/Cleveland-QA-Technician-OH-44117/1424076933/) | Lincoln Electric | OH | 2026-10-07 |
+| [Sr HR Data Engineer](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-HR-Data-Engineer-USO-job-Westerville-OH-US-11144292.html) | DHL | Westerville, Ohio | 2026-10-07 |
+| [Business Data Analyst II](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Business-Data-Analyst-II-USN--job-Westerville-OH-US-11130814.html) | DHL | Westerville, Ohio | 2026-10-07 |
+| [Sr Application Support Engineer](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Application-Support-Engineer-USO-job-Westerville-OH-US-11137404.html) | DHL | Westerville, Ohio | 2026-10-07 |
+| [HR Data Engineer](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/HR-Data-Engineer-USO-job-Westerville-OH-US-11144291.html) | DHL | Westerville, Ohio | 2026-10-07 |
 <!-- JOBS:END -->
 
 ## How it works
