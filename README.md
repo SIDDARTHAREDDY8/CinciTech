@@ -56,29 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1659 tracked total · updated `2026-10-08T01:23:25+00:00`
+### 🆕 5 new roles this update · 1661 tracked total · updated `2026-10-08T10:49:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| L3Harris | 3 |
-| Russell Tobin | 1 |
-| Brooksource | 1 |
-| CareSource | 1 |
+| Njoyn (CGI) | 2 |
+| Strategic Staffing Solutions | 1 |
+| Nationwide | 1 |
 | Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-08 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [Invoice-to-Cash Support Specialist (Billing Operations)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29432322#/jobs/29432322) | Russell Tobin | Remote, CA | 2026-10-08 |
-| [Business Systems Analyst (IT): III (Senior)](https://jobs.brooksource.com/jobs/job/a1wcv000001624zeaa-business-systems-analyst-it-iii-senior-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-10-08 |
-| [Systems Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Systems-Analyst-III_R13052) | CareSource | Remote | 2026-10-08 |
-| [Senior Systems Engineer](https://jobs.battelle.org/us/en/job/76597) | Battelle | Columbus, OH | 2026-10-08 |
-| [Senior Specialist, Supplier Quality Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-supplier-quality-engineering/4832/101667662352) | L3Harris | Mason, OH | 2026-10-08 |
-| [Senior Specialist, Supplier Quality Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-supplier-quality-engineering/4832/101667662336) | L3Harris | Mason, OH | 2026-10-08 |
-| [Manager, Quality Engineering](https://careers.l3harris.com/en/job/mason/manager-quality-engineering/4832/101667662320) | L3Harris | Mason, OH | 2026-10-08 |
+| [Cybersecurity Engineer](https://jobs.strategicstaff.com/jobs/cybersecurity-engineer-170607/) | Strategic Staffing Solutions | Kaunas, Hybrid | 2026-10-08 |
+| [ERP Functional Business Analyst – Performance Budgeting (PB)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0575&BRID=1339619&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-08 |
+| [ERP Functional Business Analyst – Finance](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0576&BRID=1339615&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-08 |
+| [Specialist, Data Engineer - SQL and Snowflake](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Engineer---SQL-and-Snowflake_100578) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-08 |
+| [Test Engineer, Autonomous sUAS Systems](https://jobs.battelle.org/us/en/job/76434) | Battelle | Beavercreek, OH | 2026-10-08 |
 <!-- JOBS:END -->
 
 ## How it works
