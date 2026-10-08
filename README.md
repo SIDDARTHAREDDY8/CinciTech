@@ -56,47 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 22 new roles this update · 1652 tracked total · updated `2026-10-07T19:16:05+00:00`
+### 🆕 10 new roles this update · 1659 tracked total · updated `2026-10-08T01:23:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Mindlance | 3 |
-| Sherwin-Williams | 3 |
-| Agility Connect | 2 |
-| Vertiv | 2 |
-| Battelle | 2 |
-| Honda | 2 |
-| Path Robotics | 1 |
-| Great American Insurance | 1 |
-| Nationwide Children's Hospital | 1 |
-| Park National Bank | 1 |
-| L3Harris | 1 |
+| Robert Half | 3 |
+| L3Harris | 3 |
+| Russell Tobin | 1 |
+| Brooksource | 1 |
+| CareSource | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [.NET + Angular Full Stack engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33208576#/jobs/33208576) | Artech | Remote | 2026-10-07 |
-| [.NET Full Stack Engineer (Healthcare Domain)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33208575#/jobs/33208575) | Artech | Remote, FL | 2026-10-07 |
-| [ML Ops Enterprise Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33206776#/jobs/33206776) | Artech | Remote | 2026-10-07 |
-| [Information Technology - Alteryx Administrator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29430857#/jobs/29430857) | Mindlance | Remote, FL | 2026-10-07 |
-| [Information Technology - Systems Support - Tibco](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29430850#/jobs/29430850) | Mindlance | Remote, FL | 2026-10-07 |
-| [IT - Data Analyst - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29430292#/jobs/29430292) | Mindlance | Cincinnati, OH | 2026-10-07 |
-| [Software Engineer - Angular](https://agilityconnect.io/jobs/8510) | Agility Connect | Cincinnati, OH | 2026-10-07 |
-| [Scrum Master](https://agilityconnect.io/jobs/8507) | Agility Connect | Columbus, Ohio | 2026-10-07 |
-| [Machine Learning Engineer, Robot Learning](https://boards.greenhouse.io/pathrobotics/jobs/8116143002?gh_jid=8116143002) | Path Robotics | Columbus, Ohio | 2026-10-07 |
-| [Application Engineering Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Engineering-Manager_R9673) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-07 |
-| [Lead Product Manager - Enterprise Data & Insights](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625954) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-07 |
-| [B2B/EDI Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625645) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-07 |
-| [Lead Product Manager - Enterprise Data & Insights](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625991) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-07 |
-| [IGM Bioinformatics Analyst I](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Bioinformatics-Analyst-I_R-28359) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-10-07 |
-| [IT Data Analytics Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279095) | Vertiv | Westerville, OH, United States | 2026-10-07 |
-| [IT Data Analytics Specialist - Reporting](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279773) | Vertiv | Westerville, OH, United States | 2026-10-07 |
-| [Systems Engineer I - Entry Level](https://jobs.battelle.org/us/en/job/76596) | Battelle | Columbus, OH | 2026-10-07 |
-| [Lead Systems Engineer](https://jobs.battelle.org/us/en/job/76600) | Battelle | Columbus, OH | 2026-10-07 |
-| [Assistance Manager, Manufacturing Quality Engineering](https://careers.honda.com/us/en/job/12865) | Honda | Anna, Ohio, United States | 2026-10-07 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-07 |
-| [Cloud Endpoint Engineer](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=7cdafbba-def3-475f-82ac-88c22d6c5e93) | Park National Bank | CEN Newark Alford Bldg | 2026-10-07 |
-| [Senior Specialist Systems Engineer](https://careers.l3harris.com/en/job/mason/senior-specialist-systems-engineer/4832/98865265024) | L3Harris | Mason, OH | 2026-10-07 |
+| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-08 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
+| [Invoice-to-Cash Support Specialist (Billing Operations)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29432322#/jobs/29432322) | Russell Tobin | Remote, CA | 2026-10-08 |
+| [Business Systems Analyst (IT): III (Senior)](https://jobs.brooksource.com/jobs/job/a1wcv000001624zeaa-business-systems-analyst-it-iii-senior-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-10-08 |
+| [Systems Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Systems-Analyst-III_R13052) | CareSource | Remote | 2026-10-08 |
+| [Senior Systems Engineer](https://jobs.battelle.org/us/en/job/76597) | Battelle | Columbus, OH | 2026-10-08 |
+| [Senior Specialist, Supplier Quality Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-supplier-quality-engineering/4832/101667662352) | L3Harris | Mason, OH | 2026-10-08 |
+| [Senior Specialist, Supplier Quality Engineering](https://careers.l3harris.com/en/job/mason/senior-specialist-supplier-quality-engineering/4832/101667662336) | L3Harris | Mason, OH | 2026-10-08 |
+| [Manager, Quality Engineering](https://careers.l3harris.com/en/job/mason/manager-quality-engineering/4832/101667662320) | L3Harris | Mason, OH | 2026-10-08 |
 <!-- JOBS:END -->
 
 ## How it works
