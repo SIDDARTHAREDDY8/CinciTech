@@ -56,24 +56,50 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1675 tracked total · updated `2026-10-09T11:00:37+00:00`
+### 🆕 21 new roles this update · 1694 tracked total · updated `2026-10-09T18:47:41+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| Agility Connect | 2 |
+| Cleveland Clinic | 2 |
+| FirstEnergy | 2 |
+| Honda | 2 |
+| Fidelity Investments | 2 |
+| Kforce | 1 |
+| TEKsystems | 1 |
 | Artech | 1 |
+| Mindlance | 1 |
+| CareSource | 1 |
+| Root Insurance | 1 |
 | Nationwide | 1 |
-| DHL | 1 |
-| L3Harris | 1 |
+| American Electric Power | 1 |
+| IGS Energy | 1 |
+| GE Aerospace | 1 |
+| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
-| [Appian Production Support Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33219152#/jobs/33219152) | Artech | Remote | 2026-10-09 |
-| [Director, Software Engineering Product Manager (Annuity Data Platform)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Software-Engineering-Product-Manager--Annuity-Data-Platform-_100555-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-09 |
-| [Software Development Engineer in Test](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Software-Development-Engineer-in-Test-USN-job-Columbus-OH-US-11140729.html) | DHL | Columbus, Ohio | 2026-10-09 |
-| [Specialist, Systems Engineer (EE)](https://careers.l3harris.com/en/job/cincinnati/specialist-systems-engineer-ee/4832/100645645104) | L3Harris | Cincinnati, OH | 2026-10-09 |
+| [Data Analyst Level 2](http://www.kforce.com/Jobs/1696~EQG~2190957T1~99/) | Kforce | Cincinnati, OH | 2026-10-09 |
+| [ATM Hardware Tester](https://careers.teksystems.com/us/en/job/JP-006336506/ATM-Hardware-Tester) | TEKsystems | Columbus, Ohio | 2026-10-09 |
+| [Senior Backbase Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33222976#/jobs/33222976) | Artech | Remote | 2026-10-09 |
+| [IT - Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29442031#/jobs/29442031) | Mindlance | MASON, OH | 2026-10-09 |
+| [MLOps Engineer](https://agilityconnect.io/jobs/8518) | Agility Connect | Cincinnati, OH | 2026-10-09 |
+| [Senior Business Systems Analyst / Testing Lead](https://agilityconnect.io/jobs/8516) | Agility Connect | OH | 2026-10-09 |
+| [AI Program Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Program-Manager_R13956) | CareSource | Remote | 2026-10-09 |
+| [Senior Data Engineer, Data Platform](https://ats.rippling.com/joinroot/jobs/7ebf4e4a-2f22-4694-90c0-d76e157ed819) | Root Insurance | Remote (United States) | 2026-10-09 |
+| [AVP, Technology Infrastructure and Operations](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/AVP--Technology-Infrastructure-and-Operations_100616-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-09 |
+| [CX Systems Engineering Lead](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/CX-Systems-Engineering-Lead_R19816-1) | American Electric Power | Columbus, OH | 2026-10-09 |
+| [Lead, Residential Solar QA & Partner Success](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Lead--Residential-Solar-QA---Partner-Success_R6381) | IGS Energy | Ohio Remote | 2026-10-09 |
+| [Azure Cloud Engineer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Azure-Cloud-Engineer-II_351982) | Cleveland Clinic | Remote Location | 2026-10-09 |
+| [AWS Cloud Engineer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/AWS-Cloud-Engineer-II_351986) | Cleveland Clinic | Remote Location | 2026-10-09 |
+| [Administrative Technician I - HR Help Desk - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105517) | FirstEnergy | Akron, OH, United States | 2026-10-09 |
+| [Business Analyst - Power Billing & Supplier Operations - Akron, OH](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105522) | FirstEnergy | Akron, OH, United States | 2026-10-09 |
+| [Sr Data Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Sr-Data-Engineer_R5040900-2) | GE Aerospace | Dayton | 2026-10-09 |
+| [IT Data Analytics Specialist - Data Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279228) | Vertiv | Westerville, OH, United States | 2026-10-09 |
+| [Data Analytics & BI Analyst](https://careers.honda.com/us/en/job/12985) | Honda | Marysville, Ohio, United States | 2026-10-09 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-09 |
+| [Principal Systems Analyst](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal-Systems-Analyst_2133217) | Fidelity Investments | Covington, KY | 2026-10-09 |
+| [Principal Python QA Engineer (Test Automation, SQL, PyTest/ ETL)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal-Python-QA-Engineer--Test-Automation--SQL--PyTest--ETL-_2132836) | Fidelity Investments | Covington, KY | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
