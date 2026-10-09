@@ -56,35 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1674 tracked total · updated `2026-10-08T19:14:29+00:00`
+### 🆕 4 new roles this update · 1670 tracked total · updated `2026-10-09T01:39:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| American Electric Power | 3 |
-| Agility Connect | 2 |
-| KeyBank | 2 |
-| Artech | 1 |
-| Njoyn (CGI) | 1 |
-| CareSource | 1 |
-| Kettering Health | 1 |
+| American Electric Power | 1 |
+| Kroger | 1 |
+| STERIS | 1 |
+| Lubrizol | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Database Administrator](https://www.roberthalf.com/us/en/job/cincinnati-oh/database-administrator/04130-0013499702-usen) | Robert Half | Cincinnati, 04130 | 2026-10-08 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [.Net RUST Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33216565#/jobs/33216565) | Artech | Remote, FL | 2026-10-08 |
-| [Senior SAP Program Director](https://agilityconnect.io/jobs/8511) | Agility Connect | Columbus, OH | 2026-10-08 |
-| [Senior Software Engineer](https://agilityconnect.io/jobs/8515) | Agility Connect | Cincinnati, OH | 2026-10-08 |
-| [SAP BW Consultant](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0550&BRID=1339938&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-08 |
-| [AI Platform Enablement Engineer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Platform-Enablement-Engineer-III_R13967) | CareSource | Remote | 2026-10-08 |
-| [Solution Architect: AI & Automation](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Architect--AI---Automation_R19775) | American Electric Power | Columbus, OH | 2026-10-08 |
-| [Data Scientist Intern - Columbus, OH](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884) | American Electric Power | Columbus, OH | 2026-10-08 |
-| [Business Analyst: AI & Automation](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Tech-Business-Analyst-Prin_R19777) | American Electric Power | Columbus, OH | 2026-10-08 |
-| [2027 Key Technology & Services: Cyber/Information Security Track Rotational Analyst Program - Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Key-Technology---Services--Cyber-Information-Security-Track-Rotational-Analyst-Program---Cleveland_R-41389-1) | KeyBank | Brooklyn, OH | 2026-10-08 |
-| [Software Engineer - GCP GenAI](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/Software-Engineer---GCP-GenAI_R-42585) | KeyBank | 4910 Tiedeman Road, Brooklyn, OH | 2026-10-08 |
-| [myHR Service Center Rep-Workday Implementation](https://careers-ketteringhealth.icims.com/jobs/63545/myhr-service-center-rep-workday-implementation/job?in_iframe=1) | Kettering Health | Miamisburg, OH | 2026-10-08 |
+| [Telecom Consultant Assc- Telecom Sr](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Telecom-Consultant-Assc--Telecom-Sr_R19485) | American Electric Power | New Albany, OH | 2026-10-09 |
+| [Strategic Sourcing Category Manager, Corporate Information Security Technology](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/235121) | Kroger | Cincinnati, OH, United States | 2026-10-09 |
+| [Manager, Product & Platform Cybersecurity Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53422&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-09 |
+| [Senior Data Scientist, AI & Product Development](https://jobs.lubrizol.com/job/Wickliffe-Senior-Data-Scientist%2C-AI-&-Product-Development-OH-44092-2298/1438407000/) | Lubrizol | OH | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
