@@ -56,21 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1670 tracked total · updated `2026-10-09T01:39:05+00:00`
+### 🆕 6 new roles this update · 1675 tracked total · updated `2026-10-09T11:00:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| American Electric Power | 1 |
-| Kroger | 1 |
-| STERIS | 1 |
-| Lubrizol | 1 |
+| Robert Half | 2 |
+| Artech | 1 |
+| Nationwide | 1 |
+| DHL | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Telecom Consultant Assc- Telecom Sr](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Telecom-Consultant-Assc--Telecom-Sr_R19485) | American Electric Power | New Albany, OH | 2026-10-09 |
-| [Strategic Sourcing Category Manager, Corporate Information Security Technology](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/235121) | Kroger | Cincinnati, OH, United States | 2026-10-09 |
-| [Manager, Product & Platform Cybersecurity Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53422&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-09 |
-| [Senior Data Scientist, AI & Product Development](https://jobs.lubrizol.com/job/Wickliffe-Senior-Data-Scientist%2C-AI-&-Product-Development-OH-44092-2298/1438407000/) | Lubrizol | OH | 2026-10-09 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
+| [Appian Production Support Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33219152#/jobs/33219152) | Artech | Remote | 2026-10-09 |
+| [Director, Software Engineering Product Manager (Annuity Data Platform)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Director--Software-Engineering-Product-Manager--Annuity-Data-Platform-_100555-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-09 |
+| [Software Development Engineer in Test](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Software-Development-Engineer-in-Test-USN-job-Columbus-OH-US-11140729.html) | DHL | Columbus, Ohio | 2026-10-09 |
+| [Specialist, Systems Engineer (EE)](https://careers.l3harris.com/en/job/cincinnati/specialist-systems-engineer-ee/4832/100645645104) | L3Harris | Cincinnati, OH | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
