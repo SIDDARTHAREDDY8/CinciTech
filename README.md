@@ -56,23 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1664 tracked total · updated `2026-10-10T10:15:17+00:00`
+### 🆕 7 new roles this update · 1667 tracked total · updated `2026-10-10T17:46:44+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 2 |
-| L3Harris | 2 |
-| Artech | 1 |
-| Safelite | 1 |
+| Agility Connect | 5 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software AG webMethods Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33225937#/jobs/33225937) | Artech | Cleveland, OH, OH | 2026-10-10 |
-| [Specialist, IT App Development](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--IT-App-Development_100648) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-10 |
-| [Specialist, IT Analysis - Systems Analyst](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--IT-Analysis---Systems-Analyst_100646) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-10 |
-| [Lead Data Scientist](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Lead-Data-Scientist_JR75426-1) | Safelite | COLUMBUS, OH | 2026-10-10 |
-| [Senior Associate, Application Developer - Data Engineer](https://careers.l3harris.com/en/job/united-states/senior-associate-application-developer-data-engineer/4832/101662090320) | L3Harris | Remote | 2026-10-10 |
-| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101656983792) | L3Harris | Remote | 2026-10-10 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-10 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-10 |
+| [Application Support Analyst](https://agilityconnect.io/jobs/8524) | Agility Connect | OH | 2026-10-10 |
+| [Java Software Engineer](https://agilityconnect.io/jobs/8521) | Agility Connect | Cincinnati, OH | 2026-10-10 |
+| [Scrum Master](https://agilityconnect.io/jobs/8527) | Agility Connect | OH | 2026-10-10 |
+| [Senior Genesys & API Integration Developer](https://agilityconnect.io/jobs/8528) | Agility Connect | OH | 2026-10-10 |
+| [Lead ETL Developer](https://agilityconnect.io/jobs/8519) | Agility Connect | OH | 2026-10-10 |
 <!-- JOBS:END -->
 
 ## How it works
