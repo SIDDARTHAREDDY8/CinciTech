@@ -56,22 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1667 tracked total · updated `2026-10-10T17:46:44+00:00`
+### 🟢 No new roles this update · **1665** roles open total · updated `2026-10-10T22:07:05+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 5 |
-| Robert Half | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-10 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-10 |
-| [Application Support Analyst](https://agilityconnect.io/jobs/8524) | Agility Connect | OH | 2026-10-10 |
-| [Java Software Engineer](https://agilityconnect.io/jobs/8521) | Agility Connect | Cincinnati, OH | 2026-10-10 |
-| [Scrum Master](https://agilityconnect.io/jobs/8527) | Agility Connect | OH | 2026-10-10 |
-| [Senior Genesys & API Integration Developer](https://agilityconnect.io/jobs/8528) | Agility Connect | OH | 2026-10-10 |
-| [Lead ETL Developer](https://agilityconnect.io/jobs/8519) | Agility Connect | OH | 2026-10-10 |
+Nothing new since the last run — [browse all 1665 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
