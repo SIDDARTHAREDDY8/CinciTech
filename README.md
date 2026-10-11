@@ -56,18 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1640 tracked total · updated `2026-10-11T13:14:29+00:00`
+### 🆕 3 new roles this update · 1637 tracked total · updated `2026-10-11T19:53:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Gina's Tech Jobs | 2 |
-| Cintas | 1 |
+| Robert Half | 2 |
+| Worthington Steel | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/llm-application-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-11 |
-| [Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/product-owner-of-ai-internal-systems-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-11 |
-| [Direct Sale Support Specialist](https://careers.cintas.com/job/Mason-Direct-Sale-Support-Specialist-OH-45040/1438849600/) | Cintas | OH | 2026-10-11 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [Internal Audit Manager](https://cbdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WorthingtonSteelCareers/job/43223) | Worthington Steel | Columbus, OH, United States | 2026-10-11 |
 <!-- JOBS:END -->
 
 ## How it works
