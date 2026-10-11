@@ -56,9 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1665** roles open total · updated `2026-10-10T22:07:05+00:00`
+### 🆕 8 new roles this update · 1642 tracked total · updated `2026-10-11T06:02:37+00:00`
 
-Nothing new since the last run — [browse all 1665 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| L3Harris | 5 |
+| Robert Half | 2 |
+| Honda | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-11 |
+| [Lead, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/lead-application-developer-full-stack-developer/4832/101656983568) | L3Harris | Remote | 2026-10-11 |
+| [Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/specialist-application-developer-full-stack-developer/4832/101656983648) | L3Harris | Remote | 2026-10-11 |
+| [Senior Associate, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-associate-application-developer-full-stack-developer/4832/101656983264) | L3Harris | Remote | 2026-10-11 |
+| [Senior Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-specialist-application-developer-full-stack-developer/4832/101656983536) | L3Harris | Remote | 2026-10-11 |
+| [Lead, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/lead-application-developer-full-stack-developer/4832/101656983472) | L3Harris | Remote | 2026-10-11 |
 <!-- JOBS:END -->
 
 ## How it works
