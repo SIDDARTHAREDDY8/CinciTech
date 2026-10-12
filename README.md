@@ -56,20 +56,44 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1620 tracked total · updated `2026-10-12T11:10:35+00:00`
+### 🆕 19 new roles this update · 1630 tracked total · updated `2026-10-12T21:45:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Honda | 1 |
-| Lubrizol | 1 |
+| Artech | 6 |
+| Huntington Bank | 2 |
+| L3Harris | 2 |
+| Mindlance | 1 |
+| CareSource | 1 |
+| Nationwide | 1 |
+| KeyBank | 1 |
+| Vertiv | 1 |
+| Battelle | 1 |
+| Medical Mutual of Ohio | 1 |
+| Cintas | 1 |
+| Atlas Air Worldwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-12 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-12 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-12 |
-| [Data Governance Specialist](https://jobs.lubrizol.com/job/Wickliffe-Data-Governance-Specialist-OH-44092-2298/1418450500/) | Lubrizol | OH | 2026-10-12 |
+| [Jr. ServiceNow Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33234546#/jobs/33234546) | Artech | Remote | 2026-10-12 |
+| [Site Reliability Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233882#/jobs/33233882) | Artech | Remote, FL | 2026-10-12 |
+| [Senior Infrastructure DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233881#/jobs/33233881) | Artech | Remote | 2026-10-12 |
+| [Senior Cloud Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233781#/jobs/33233781) | Artech | Remote | 2026-10-12 |
+| [Cloud AP Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33232630#/jobs/33232630) | Artech | Columbus, OH | 2026-10-12 |
+| [Amazon Connect Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33229789#/jobs/33229789) | Artech | Columbus, OH | 2026-10-12 |
+| [Senior Full Sack & GenAI Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29443365#/jobs/29443365) | Mindlance | Remote, OH | 2026-10-12 |
+| [Compliance Data Analyst II (Health Plan/MCO experience)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Compliance-Data-Analyst-II_R13863) | CareSource | Remote | 2026-10-12 |
+| [AVP, Software Engineer - Artificial Intelligence](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/AVP--Software-Engineer---Artificial-Intelligence_100809) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-12 |
+| [IT Senior Business Analyst](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/IT-Senior-Business-Analyst_R-42573) | KeyBank | Brooklyn, OH | 2026-10-12 |
+| [Lead Java/GCP Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Lead-Java-GCP-Developer_R0076586) | Huntington Bank | Columbus, OH | 2026-10-12 |
+| [Sr. Java/GCP Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Sr-Java-GCP-Developer_R0076590) | Huntington Bank | Columbus, OH | 2026-10-12 |
+| [IT PMO Portfolio Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283054) | Vertiv | Westerville, OH, United States | 2026-10-12 |
+| [AI/ML Engineer - Entry Level](https://jobs.battelle.org/us/en/job/76620) | Battelle | Columbus, OH | 2026-10-12 |
+| [Provider Network Informatics Summer Intern](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=30930100-04f9-4800-911e-48e311aa501d) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-12 |
+| [Software Engineer - Level 1 - Emerging Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-1-Emerging-Technology-OH-45040/1418196400/) | Cintas | OH | 2026-10-12 |
+| [Director, Enterprise Platform Leader](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4449040009) | Atlas Air Worldwide | Erlanger, KY, USA | 2026-10-12 |
+| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101876635584) | L3Harris | Remote | 2026-10-12 |
+| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101876635488) | L3Harris | Remote | 2026-10-12 |
 <!-- JOBS:END -->
 
 ## How it works
