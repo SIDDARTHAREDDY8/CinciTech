@@ -56,18 +56,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1637 tracked total · updated `2026-10-11T19:53:26+00:00`
+### 🆕 3 new roles this update · 1616 tracked total · updated `2026-10-12T01:04:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Worthington Steel | 1 |
+| Battelle | 2 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
-| [Internal Audit Manager](https://cbdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WorthingtonSteelCareers/job/43223) | Worthington Steel | Columbus, OH, United States | 2026-10-11 |
+| [Senior Software Engineer, RF Spectrum Solutions](https://jobs.battelle.org/us/en/job/76440) | Battelle | Columbus, OH | 2026-10-12 |
+| [Senior Test Engineer, Autonomous UAS Systems](https://jobs.battelle.org/us/en/job/76441) | Battelle | Beavercreek, OH | 2026-10-12 |
+| [SAP Developer - Level 3 - BW](https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-BW-OH-45040/1418198400/) | Cintas | OH | 2026-10-12 |
 <!-- JOBS:END -->
 
 ## How it works
