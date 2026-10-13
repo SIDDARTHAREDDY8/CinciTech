@@ -56,15 +56,47 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1606 tracked total · updated `2026-10-13T11:05:17+00:00`
+### 🆕 20 new roles this update · 1625 tracked total · updated `2026-10-13T19:41:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Alldus | 1 |
+| Artech | 3 |
+| Robert Half | 2 |
+| Mindlance | 2 |
+| Sherwin-Williams | 2 |
+| Medpace | 2 |
+| Vernovis | 1 |
+| KeyBank | 1 |
+| Huntington Bank | 1 |
+| Scotts Miracle-Gro | 1 |
+| OhioHealth | 1 |
+| Vertiv | 1 |
+| STERIS | 1 |
+| Honda | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Director Of Software Engineering Ohio](https://alldus.com/job/58776-director-of-software-engineering-ohio/) | Alldus | Ohio | 2026-10-13 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
+| [Software Engineering - Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238877#/jobs/33238877) | Artech | Remote Location, CA | 2026-10-13 |
+| [Software Developer - .Net](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238159#/jobs/33238159) | Artech | Remote | 2026-10-13 |
+| [Cloud Financial Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238784#/jobs/33238784) | Artech | Columbus, OH | 2026-10-13 |
+| [Enrollment/Billing Representative](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29456768#/jobs/29456768) | Mindlance | Remote, IL | 2026-10-13 |
+| [IT Application Configuration Analyst III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29453691#/jobs/29453691) | Mindlance | Akron, OH | 2026-10-13 |
+| [Data Engineer - SQL Server - Microsoft Fabric - Power BI](https://vernovis.com/blog/jobs/12146/) | Vernovis | Cincinnati, | 2026-10-13 |
+| [Enterprise GenAI Product Manager](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Enterprise-GenAI-Product-Manager_R-42650-1) | KeyBank | Brooklyn, OH | 2026-10-13 |
+| [Senior Data Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625251) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-13 |
+| [Cybersecurity Analyst - Risk and Controls](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626397) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-13 |
+| [HR Systems Analyst II](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/HR-Systems-Analyst-II_R0076556) | Huntington Bank | Columbus, OH | 2026-10-13 |
+| [Senior Analyst, SAP Security](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Ohio---Field/Senior-Analyst--SAP-Security_R26604-1) | Scotts Miracle-Gro | Ohio - Field | 2026-10-13 |
+| [IT Tech Lead - Enterprise Automation](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Tech-Lead---Enterprise-Automation_JR159029-1) | OhioHealth | WORK AT HOME - OHIO | 2026-10-13 |
+| [Data Analytics Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852) | Vertiv | Delaware, OH, United States | 2026-10-13 |
+| [Software Engineering Co-op - Spring 2027](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56661&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-13 |
+| [Technical Project Manager](https://careers.honda.com/us/en/job/13027) | Honda | Raymond, Ohio, United States | 2026-10-13 |
+| [Python Developer Internship - Summer 2027](https://uscareers-medpace.icims.com/jobs/13059/login) | Medpace | Cincinnati, Ohio | 2026-10-13 |
+| [Junior Business Intelligence Analyst](https://uscareers-medpace.icims.com/jobs/13058/login) | Medpace | Cincinnati, Ohio | 2026-10-13 |
+| [Senior Associate, Systems Engineer](https://careers.l3harris.com/en/job/mason/senior-associate-systems-engineer/4832/101569326352) | L3Harris | Mason, OH | 2026-10-13 |
 <!-- JOBS:END -->
 
 ## How it works
