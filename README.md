@@ -56,20 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1612 tracked total · updated `2026-10-13T03:05:19+00:00`
+### 🆕 1 new roles this update · 1606 tracked total · updated `2026-10-13T11:05:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Strategic Staffing Solutions | 1 |
-| Nesco Resource | 1 |
+| Alldus | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
-| [L2 L3 Support Engineer](https://jobs.strategicstaff.com/jobs/l2-l3-support-engineer-170558/) | Strategic Staffing Solutions | San Jose, Hybrid | 2026-10-13 |
-| [Telecom Shipping Coordinator](https://www.nescoresource.com/job-details/telecom-shipping-coordinator-in-administrative-clerical-jobs-1533496) | Nesco Resource | Columbus, OH | 2026-10-13 |
+| [Director Of Software Engineering Ohio](https://alldus.com/job/58776-director-of-software-engineering-ohio/) | Alldus | Ohio | 2026-10-13 |
 <!-- JOBS:END -->
 
 ## How it works
