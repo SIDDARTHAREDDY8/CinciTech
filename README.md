@@ -56,22 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1595 tracked total · updated `2026-10-14T05:22:29+00:00`
+### 🆕 2 new roles this update · 1595 tracked total · updated `2026-10-14T12:25:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Vernovis | 1 |
-| Root Insurance | 1 |
-| Battelle | 1 |
+| Agility Connect | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
-| [Database Administrator IV](https://vernovis.com/blog/jobs/12091/) | Vernovis | Cincinnati, | 2026-10-14 |
-| [Senior Security Engineer - Data Security](https://ats.rippling.com/joinroot/jobs/bd4002aa-91a5-4338-87f9-9816dd00e999) | Root Insurance | Remote (United States) | 2026-10-14 |
-| [Bioinformatics Program Manager](https://jobs.battelle.org/us/en/job/76627) | Battelle | Remote, OH | 2026-10-14 |
+| [Full Stack Java Developer](https://agilityconnect.io/jobs/8533) | Agility Connect | Columbus, OH | 2026-10-14 |
+| [Senior Java Developer](https://agilityconnect.io/jobs/8532) | Agility Connect | OH | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
