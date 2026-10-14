@@ -56,32 +56,34 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1607 tracked total · updated `2026-10-14T17:36:46+00:00`
+### 🆕 12 new roles this update · 1611 tracked total · updated `2026-10-14T22:02:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 3 |
-| Robert Half | 2 |
-| Artech | 2 |
-| Medpace | 2 |
-| Great American Insurance | 1 |
-| Cincinnati Insurance | 1 |
-| DHL | 1 |
+| Sherwin-Williams | 3 |
+| Vernovis | 2 |
+| Kforce | 1 |
+| Artech | 1 |
+| Pinnacle Group | 1 |
+| American Electric Power | 1 |
+| KeyBank | 1 |
+| Scotts Miracle-Gro | 1 |
+| GE Aerospace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
-| [Penetration Tester (PEN Tester)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33244290#/jobs/33244290) | Artech | Remote | 2026-10-14 |
-| [STUDIO OPERATOR - TECHNICAL SUPPORT ENGINEER](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33244295#/jobs/33244295) | Artech | Remote, NY | 2026-10-14 |
-| [Principal Information Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29463765#/jobs/29463765) | Mindlance | Remote, CA | 2026-10-14 |
-| [Advisor Information Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29463758#/jobs/29463758) | Mindlance | Remote, CA | 2026-10-14 |
-| [Senior Product Owner](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29459703#/jobs/29459703) | Mindlance | Remote, NY | 2026-10-14 |
-| [Senior Quality Assurance Analyst](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Quality-Assurance-Analyst_R9730) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-14 |
-| [IT - Developer III - V (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=168908) | Cincinnati Insurance | ["Remote"] | 2026-10-14 |
-| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-Lockbourne-OH-US-11154803.html) | DHL | Lockbourne, Ohio | 2026-10-14 |
-| [Quality Assurance (QA) Intern - Summer 2027](https://uscareers-medpace.icims.com/jobs/13064/login) | Medpace | Cincinnati, Ohio | 2026-10-14 |
-| [Quality Assurance (QA) Auditor](https://uscareers-medpace.icims.com/jobs/13056/login) | Medpace | Cincinnati, Ohio | 2026-10-14 |
+| [Application Support Engineer](http://www.kforce.com/Jobs/1696~EQG~2191365T1~99/) | Kforce | Westerville, OH | 2026-10-14 |
+| [Senior Information Security Operations Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33245488#/jobs/33245488) | Artech | Remote, NC | 2026-10-14 |
+| [GRC Manager - Technology Risk & Governance](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-US/GRC-Manager---Technology-Risk---Governance_JR1263) | Pinnacle Group | Remote US | 2026-10-14 |
+| [Senior Security Analyst (SecOps)](https://vernovis.com/blog/jobs/12257/) | Vernovis | Cincinnati, | 2026-10-14 |
+| [Software Engineer](https://vernovis.com/blog/jobs/12258/) | Vernovis | Cincinnati, | 2026-10-14 |
+| [TSOE Tools & Analytics Engineer](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/TSOE-Tools---Analytics-Engineer_R19939) | American Electric Power | New Albany, OH | 2026-10-14 |
+| [Sr. Full Stack Engineer](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Remote-United-States/Sr-Full-Stack-Engineer_R-42449) | KeyBank | Remote, United States | 2026-10-14 |
+| [Principal Enterprise Architect, Strategic Initiatives – ERP Program](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626537) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-14 |
+| [Principal Practice Enterprise Architect Data](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626554) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-14 |
+| [Principal Practice Enterprise Architect AI](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626549) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-14 |
+| [Senior Analyst, Cloud Computing Engineering](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Senior-Analyst--Cloud-Computing-Engineering_R26657) | Scotts Miracle-Gro | Marysville, OH | 2026-10-14 |
+| [Advanced Military Ceramics Materials Application Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Advanced-Military-Ceramics-Materials-Application-Engineer_R5041590-1) | GE Aerospace | Evendale | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
