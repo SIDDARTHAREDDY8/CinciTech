@@ -56,31 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1590 tracked total · updated `2026-10-14T00:47:41+00:00`
+### 🆕 5 new roles this update · 1595 tracked total · updated `2026-10-14T05:22:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 3 |
-| Artech | 2 |
-| Honda | 2 |
-| TEKsystems | 1 |
-| Mindlance | 1 |
-| Brooksource | 1 |
-| CareSource | 1 |
+| Robert Half | 2 |
+| Vernovis | 1 |
+| Root Insurance | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Management Operations Lead](https://careers.teksystems.com/us/en/job/JP-006349095/Data-Management-Operations-Lead) | TEKsystems | Columbus, Ohio | 2026-10-14 |
-| [Slack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238202#/jobs/33238202) | Artech | Remote | 2026-10-14 |
-| [Kinaxis Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238595#/jobs/33238595) | Artech | Remote | 2026-10-14 |
-| [Information Technology - Software Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29460824#/jobs/29460824) | Mindlance | Remote, FL | 2026-10-14 |
-| [Network Engineer II](https://jobs.brooksource.com/jobs/job/a1wcv0000017hbdeam-network-engineer-ii-cincinnati-ohio/) | Brooksource | Cincinnati, Ohio | 2026-10-14 |
-| [Senior Test Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0992&BRID=1340925&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-14 |
-| [Senior Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1006&BRID=1340923&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-14 |
-| [Network Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1130&BRID=1340873&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-14 |
-| [Configuration Systems Analyst III - CES](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Configuration-Systems-Analyst-III---CES_R14013) | CareSource | Remote | 2026-10-14 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-14 |
-| [Senior Vehicle Controls and Systems Integration Engineer I](https://careers.honda.com/us/en/job/12941) | Honda | Raymond, Ohio, United States | 2026-10-14 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
+| [Database Administrator IV](https://vernovis.com/blog/jobs/12091/) | Vernovis | Cincinnati, | 2026-10-14 |
+| [Senior Security Engineer - Data Security](https://ats.rippling.com/joinroot/jobs/bd4002aa-91a5-4338-87f9-9816dd00e999) | Root Insurance | Remote (United States) | 2026-10-14 |
+| [Bioinformatics Program Manager](https://jobs.battelle.org/us/en/job/76627) | Battelle | Remote, OH | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
