@@ -56,16 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1595 tracked total · updated `2026-10-14T12:25:17+00:00`
+### 🆕 12 new roles this update · 1607 tracked total · updated `2026-10-14T17:36:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 2 |
+| Mindlance | 3 |
+| Robert Half | 2 |
+| Artech | 2 |
+| Medpace | 2 |
+| Great American Insurance | 1 |
+| Cincinnati Insurance | 1 |
+| DHL | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack Java Developer](https://agilityconnect.io/jobs/8533) | Agility Connect | Columbus, OH | 2026-10-14 |
-| [Senior Java Developer](https://agilityconnect.io/jobs/8532) | Agility Connect | OH | 2026-10-14 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
+| [Penetration Tester (PEN Tester)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33244290#/jobs/33244290) | Artech | Remote | 2026-10-14 |
+| [STUDIO OPERATOR - TECHNICAL SUPPORT ENGINEER](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33244295#/jobs/33244295) | Artech | Remote, NY | 2026-10-14 |
+| [Principal Information Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29463765#/jobs/29463765) | Mindlance | Remote, CA | 2026-10-14 |
+| [Advisor Information Security Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29463758#/jobs/29463758) | Mindlance | Remote, CA | 2026-10-14 |
+| [Senior Product Owner](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29459703#/jobs/29459703) | Mindlance | Remote, NY | 2026-10-14 |
+| [Senior Quality Assurance Analyst](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Quality-Assurance-Analyst_R9730) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-14 |
+| [IT - Developer III - V (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=168908) | Cincinnati Insurance | ["Remote"] | 2026-10-14 |
+| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-Lockbourne-OH-US-11154803.html) | DHL | Lockbourne, Ohio | 2026-10-14 |
+| [Quality Assurance (QA) Intern - Summer 2027](https://uscareers-medpace.icims.com/jobs/13064/login) | Medpace | Cincinnati, Ohio | 2026-10-14 |
+| [Quality Assurance (QA) Auditor](https://uscareers-medpace.icims.com/jobs/13056/login) | Medpace | Cincinnati, Ohio | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
