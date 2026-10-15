@@ -56,34 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1621 tracked total · updated `2026-10-15T04:56:28+00:00`
+### 🟢 No new roles this update · **1619** roles open total · updated `2026-10-15T11:50:25+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Vaco | 3 |
-| Robert Half | 2 |
-| TEKsystems | 1 |
-| Root Insurance | 1 |
-| Nationwide | 1 |
-| STERIS | 1 |
-| Honda | 1 |
-| Whirlpool | 1 |
-| L3Harris | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Senior Quality Assurance Analyst](https://careers.teksystems.com/us/en/job/JP-006352157/Senior-Quality-Assurance-Analyst) | TEKsystems | Columbus, Ohio | 2026-10-15 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
-| [Security Engineer](https://jobs.vaco.com/job/2353/security_engineer/en) | Vaco | Cincinnati, Ohio | 2026-10-15 |
-| [Cloud Engineerdevops](https://jobs.vaco.com/job/2399/cloud_engineerdevops/en) | Vaco | Columbus, Ohio | 2026-10-15 |
-| [Data Engineer Fabric](https://jobs.vaco.com/job/2429/data_engineer_fabric/en) | Vaco | Cincinnati, Ohio | 2026-10-15 |
-| [Staff Software Engineer](https://ats.rippling.com/joinroot/jobs/913143f4-df5f-45e7-8ee8-652d907807b8) | Root Insurance | Remote (United States) | 2026-10-15 |
-| [Consultant, Site Reliability Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Site-Reliability-Engineer_100444-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-15 |
-| [Advanced Quality Engineer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56716&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-15 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-15 |
-| [Sr Supplier Quality Engineer](https://jobs.whirlpool.com/careers/job/34404294408) | Whirlpool | Greenville, OH, US | 2026-10-15 |
-| [Associate, Software Engineer](https://careers.l3harris.com/en/job/mason/associate-software-engineer/4832/101971810576) | L3Harris | Mason, OH | 2026-10-15 |
+Nothing new since the last run — [browse all 1619 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
