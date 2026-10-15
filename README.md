@@ -56,9 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1619** roles open total · updated `2026-10-15T11:50:25+00:00`
+### 🆕 10 new roles this update · 1628 tracked total · updated `2026-10-15T17:22:38+00:00`
 
-Nothing new since the last run — [browse all 1619 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 3 |
+| Honeywell | 2 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Fifth Third Bank | 1 |
+| Huntington Bank | 1 |
+| Medical Mutual of Ohio | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013508488-usen) | Robert Half | Cincinnati, 04130 | 2026-10-15 |
+| [AWS PySpark Databricks Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33249512#/jobs/33249512) | Artech | Remote | 2026-10-15 |
+| [Data Analytics & Engineering - Data Scientist V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29461971#/jobs/29461971) | Mindlance | Remote, CA | 2026-10-15 |
+| [Data Scientist](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Scientist_R73982) | Fifth Third Bank | Cincinnati, OH | 2026-10-15 |
+| [Programmer/Analyst Sr](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-Sr_R0075292) | Huntington Bank | Columbus, OH | 2026-10-15 |
+| [Business Systems Analyst III](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=0b7cc435-508f-4491-8b43-d1ebd7146089) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-15 |
+| [Advanced Application Engineer- Testing](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159939) | Honeywell | Independence, OH, United States | 2026-10-15 |
+| [Advanced Application Engineer- Trainer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159944) | Honeywell | Independence, OH, United States | 2026-10-15 |
 <!-- JOBS:END -->
 
 ## How it works
