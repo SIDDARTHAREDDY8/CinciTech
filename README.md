@@ -56,35 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1638 tracked total · updated `2026-10-15T21:46:10+00:00`
+### 🆕 3 new roles this update · 1638 tracked total · updated `2026-10-16T04:50:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| TEKsystems | 2 |
-| Honda | 2 |
-| Mindlance | 1 |
-| Marathon Petroleum | 1 |
-| Fifth Third Bank | 1 |
-| KeyBank | 1 |
-| Avient | 1 |
-| Medpace | 1 |
+| Robert Half | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [HTML/Platform Full Stack Developer](https://careers.teksystems.com/us/en/job/JP-006355208/HTML-Platform-Full-Stack-Developer) | TEKsystems | Beavercreek, Ohio | 2026-10-15 |
-| [Atlassian Developer/Administrator](https://careers.teksystems.com/us/en/job/JP-006355292/Atlassian-Developer-Administrator) | TEKsystems | Beavercreek, Ohio | 2026-10-15 |
-| [Remote -- IT Project Manager -- AI/ML, Physical AI](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33253125#/jobs/33253125) | Artech | hybrid, GA | 2026-10-15 |
-| [ServiceNow Service Portal Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33252473#/jobs/33252473) | Artech | Remote | 2026-10-15 |
-| [Business Systems Analyst – API Integrations](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33252304#/jobs/33252304) | Artech | Remote | 2026-10-15 |
-| [ProfessionalServices - Provider Data Management Analyst II - 111457](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29473527#/jobs/29473527) | Mindlance | Remote, GA | 2026-10-15 |
-| [Laboratory Tester](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canton-Ohio/Laboratory-Tester_00024675) | Marathon Petroleum | Canton, Ohio | 2026-10-15 |
-| [Senior Data Governance Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Governance-Analyst_R71584) | Fifth Third Bank | Cincinnati, OH | 2026-10-15 |
-| [Lead Data Engineer - Technology Data Product](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Lead-Data-Engineer---Technology-Data-Product_R-42648) | KeyBank | Brooklyn, OH | 2026-10-15 |
-| [Sr. Manager, Digital Infrastructure](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Avient/job/40001553) | Avient | Avon Lake, OH, United States | 2026-10-15 |
-| [Lead Systems Engineer - Software Defined Vehicle (SDV)](https://careers.honda.com/us/en/job/13056) | Honda | Raymond, Ohio, United States | 2026-10-15 |
-| [SAP Basis Architect](https://careers.honda.com/us/en/job/13060) | Honda | Marysville, Ohio, United States | 2026-10-15 |
-| [Director, IT Project Management Office (PMO)](https://uscareers-medpace.icims.com/jobs/13076/login) | Medpace | Cincinnati, Ohio | 2026-10-15 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013508488-usen) | Robert Half | Cincinnati, 04130 | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
