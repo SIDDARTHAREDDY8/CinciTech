@@ -56,36 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 1652 tracked total · updated `2026-10-16T16:57:33+00:00`
+### 🆕 15 new roles this update · 1661 tracked total · updated `2026-10-16T21:27:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| Honda | 4 |
-| Medpace | 2 |
-| Cleveland Clinic | 1 |
-| GE Aerospace | 1 |
-| Avient | 1 |
-| Dana Incorporated | 1 |
-| Atlas Air Worldwide | 1 |
+| Gina's Tech Jobs | 2 |
+| Next Step Systems | 2 |
+| Huntington Bank | 2 |
+| Medical Mutual of Ohio | 2 |
+| Artech | 1 |
+| Mindlance | 1 |
+| J.M. Smucker | 1 |
+| Fifth Third Bank | 1 |
+| The Andersons | 1 |
+| Worthington Enterprises | 1 |
+| Whirlpool | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013508488-usen) | Robert Half | Cincinnati, 04130 | 2026-10-16 |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-16 |
-| [AI Product Manager](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/AI-Product-Manager_355250) | Cleveland Clinic | Remote Location | 2026-10-16 |
-| [Sr Enterprise Application Engineer - PLM](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Cincinnati/Sr-Enterprise-Application-Engineer---PLM_R5041209-2) | GE Aerospace | Cincinnati | 2026-10-16 |
-| [Incident Response Analyst II](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Avient/job/40001558) | Avient | Avon Lake, OH, United States | 2026-10-16 |
-| [Market Quality Engineer](https://careers.honda.com/us/en/job/13057) | Honda | Anna, Ohio, United States | 2026-10-16 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-16 |
-| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12992) | Honda | Raymond, Ohio, United States | 2026-10-16 |
-| [Design Quality Assurance Engineer](https://careers.honda.com/us/en/job/12986) | Honda | Marysville, Ohio, United States | 2026-10-16 |
-| [CMM Programmer](https://jobs.dana.com/job/Toledo-CMM-Programmer-OH-43610/1425065100/) | Dana Incorporated | OH | 2026-10-16 |
-| [Financial Pricing Systems Analyst](https://uscareers-medpace.icims.com/jobs/13078/login) | Medpace | Cincinnati, Ohio | 2026-10-16 |
-| [Entry Business Systems Analyst - Commercial Finance](https://uscareers-medpace.icims.com/jobs/13077/login) | Medpace | Cincinnati, Ohio | 2026-10-16 |
-| [Data Engineer](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4455456009) | Atlas Air Worldwide | Erlanger, KY, USA; Miami, FL, USA | 2026-10-16 |
+| [Information Technology - ITDR Function Lead, IT Resilience (Information Technology Disaster Recovery Lead)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33258479#/jobs/33258479) | Artech | Remote, TX | 2026-10-16 |
+| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29473320#/jobs/29473320) | Mindlance | Remote, CA | 2026-10-16 |
+| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [Order Fulfillment Specialist, Customer Logistics](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Order-Fulfillment-Specialist--Customer-Logistics_116013) | J.M. Smucker | Orrville, OH | 2026-10-16 |
+| [Business Controls Senior Associate - IT Risk](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Senior-Associate----IT-Risk_R73246) | Fifth Third Bank | Cincinnati, OH | 2026-10-16 |
+| [Technical Lead, Software Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technical-Lead--Software-Developer_R0076677) | Huntington Bank | Columbus, OH | 2026-10-16 |
+| [Senior Software Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Software-Developer_R0076614) | Huntington Bank | Columbus, OH | 2026-10-16 |
+| [Enterprise Architect, Digital & AI](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Enterprise-Architect--Digital---AI_R12518) | The Andersons | Maumee, OH | 2026-10-16 |
+| [AI Engineer](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43421) | Worthington Enterprises | Columbus, OH, United States | 2026-10-16 |
+| [Supplier Quality Engineer](https://jobs.whirlpool.com/careers/job/34404338559) | Whirlpool | Clyde, OH, US | 2026-10-16 |
+| [Manager, Epic Payer Platform (EPP) Data Engineering](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=6680679e-cc56-4e13-86a0-df135c97a01f) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-16 |
+| [Director, Epic Payer Program](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=8d8f6707-e9e4-4460-a6f8-daaec2d651d0) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
