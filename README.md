@@ -56,16 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1637 tracked total · updated `2026-10-16T11:43:26+00:00`
+### 🆕 15 new roles this update · 1652 tracked total · updated `2026-10-16T16:57:33+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 2 |
+| Robert Half | 4 |
+| Honda | 4 |
+| Medpace | 2 |
+| Cleveland Clinic | 1 |
+| GE Aerospace | 1 |
+| Avient | 1 |
+| Dana Incorporated | 1 |
+| Atlas Air Worldwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Integration Architect / Technical Lead](https://agilityconnect.io/jobs/8539) | Agility Connect | OH | 2026-10-16 |
-| [Software Engineer, Data Platform Enablement](https://agilityconnect.io/jobs/8540) | Agility Connect | Cincinnati, OH | 2026-10-16 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013508488-usen) | Robert Half | Cincinnati, 04130 | 2026-10-16 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-16 |
+| [AI Product Manager](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/AI-Product-Manager_355250) | Cleveland Clinic | Remote Location | 2026-10-16 |
+| [Sr Enterprise Application Engineer - PLM](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Cincinnati/Sr-Enterprise-Application-Engineer---PLM_R5041209-2) | GE Aerospace | Cincinnati | 2026-10-16 |
+| [Incident Response Analyst II](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Avient/job/40001558) | Avient | Avon Lake, OH, United States | 2026-10-16 |
+| [Market Quality Engineer](https://careers.honda.com/us/en/job/13057) | Honda | Anna, Ohio, United States | 2026-10-16 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-16 |
+| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12992) | Honda | Raymond, Ohio, United States | 2026-10-16 |
+| [Design Quality Assurance Engineer](https://careers.honda.com/us/en/job/12986) | Honda | Marysville, Ohio, United States | 2026-10-16 |
+| [CMM Programmer](https://jobs.dana.com/job/Toledo-CMM-Programmer-OH-43610/1425065100/) | Dana Incorporated | OH | 2026-10-16 |
+| [Financial Pricing Systems Analyst](https://uscareers-medpace.icims.com/jobs/13078/login) | Medpace | Cincinnati, Ohio | 2026-10-16 |
+| [Entry Business Systems Analyst - Commercial Finance](https://uscareers-medpace.icims.com/jobs/13077/login) | Medpace | Cincinnati, Ohio | 2026-10-16 |
+| [Data Engineer](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4455456009) | Atlas Air Worldwide | Erlanger, KY, USA; Miami, FL, USA | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
