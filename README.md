@@ -56,17 +56,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1638 tracked total · updated `2026-10-16T04:50:11+00:00`
+### 🆕 2 new roles this update · 1637 tracked total · updated `2026-10-16T11:43:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
+| Agility Connect | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013508488-usen) | Robert Half | Cincinnati, 04130 | 2026-10-16 |
+| [Integration Architect / Technical Lead](https://agilityconnect.io/jobs/8539) | Agility Connect | OH | 2026-10-16 |
+| [Software Engineer, Data Platform Enablement](https://agilityconnect.io/jobs/8540) | Agility Connect | Cincinnati, OH | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
