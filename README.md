@@ -56,19 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1622 tracked total · updated `2026-10-17T00:01:17+00:00`
+### 🆕 1 new roles this update · 1619 tracked total · updated `2026-10-17T04:43:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| Motion Recruitment | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-17 |
-| [Technical Project Manager / Contract / Hybrid / Columbus](https://motionrecruitment.com/tech-jobs/columbus/contract/technical-project-manager-contract-hybrid-columbus/892687) | Motion Recruitment | Columbus, Ohio | 2026-10-17 |
+| [Engineer- Software, AI and Data Analytics](https://careers.honda.com/us/en/job/13079) | Honda | East Liberty, Ohio, United States | 2026-10-17 |
 <!-- JOBS:END -->
 
 ## How it works
