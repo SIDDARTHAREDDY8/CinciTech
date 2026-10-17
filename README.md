@@ -56,39 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 1661 tracked total · updated `2026-10-16T21:27:03+00:00`
+### 🆕 4 new roles this update · 1622 tracked total · updated `2026-10-17T00:01:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Gina's Tech Jobs | 2 |
-| Next Step Systems | 2 |
-| Huntington Bank | 2 |
-| Medical Mutual of Ohio | 2 |
-| Artech | 1 |
-| Mindlance | 1 |
-| J.M. Smucker | 1 |
-| Fifth Third Bank | 1 |
-| The Andersons | 1 |
-| Worthington Enterprises | 1 |
-| Whirlpool | 1 |
+| Robert Half | 3 |
+| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - ITDR Function Lead, IT Resilience (Information Technology Disaster Recovery Lead)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33258479#/jobs/33258479) | Artech | Remote, TX | 2026-10-16 |
-| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29473320#/jobs/29473320) | Mindlance | Remote, CA | 2026-10-16 |
-| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [Order Fulfillment Specialist, Customer Logistics](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Order-Fulfillment-Specialist--Customer-Logistics_116013) | J.M. Smucker | Orrville, OH | 2026-10-16 |
-| [Business Controls Senior Associate - IT Risk](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Senior-Associate----IT-Risk_R73246) | Fifth Third Bank | Cincinnati, OH | 2026-10-16 |
-| [Technical Lead, Software Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technical-Lead--Software-Developer_R0076677) | Huntington Bank | Columbus, OH | 2026-10-16 |
-| [Senior Software Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Software-Developer_R0076614) | Huntington Bank | Columbus, OH | 2026-10-16 |
-| [Enterprise Architect, Digital & AI](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Enterprise-Architect--Digital---AI_R12518) | The Andersons | Maumee, OH | 2026-10-16 |
-| [AI Engineer](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43421) | Worthington Enterprises | Columbus, OH, United States | 2026-10-16 |
-| [Supplier Quality Engineer](https://jobs.whirlpool.com/careers/job/34404338559) | Whirlpool | Clyde, OH, US | 2026-10-16 |
-| [Manager, Epic Payer Platform (EPP) Data Engineering](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=6680679e-cc56-4e13-86a0-df135c97a01f) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-16 |
-| [Director, Epic Payer Program](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=8d8f6707-e9e4-4460-a6f8-daaec2d651d0) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-16 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-17 |
+| [Technical Project Manager / Contract / Hybrid / Columbus](https://motionrecruitment.com/tech-jobs/columbus/contract/technical-project-manager-contract-hybrid-columbus/892687) | Motion Recruitment | Columbus, Ohio | 2026-10-17 |
 <!-- JOBS:END -->
 
 ## How it works
