@@ -56,15 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1615 tracked total · updated `2026-10-17T23:38:31+00:00`
+### 🆕 4 new roles this update · 1606 tracked total · updated `2026-10-18T04:48:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Root Insurance | 1 |
+| Robert Half | 3 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Engineering Manager II, AI Systems](https://ats.rippling.com/joinroot/jobs/436fa07d-a14c-4778-9fd1-2ee5efb8430c) | Root Insurance | Remote (United States) | 2026-10-17 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-18 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-18 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-18 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-18 |
 <!-- JOBS:END -->
 
 ## How it works
