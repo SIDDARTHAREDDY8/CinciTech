@@ -56,9 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1602** roles open total · updated `2026-10-18T11:25:54+00:00`
+### 🆕 3 new roles this update · 1603 tracked total · updated `2026-10-18T16:16:35+00:00`
 
-Nothing new since the last run — [browse all 1602 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 3 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-18 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-18 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-18 |
 <!-- JOBS:END -->
 
 ## How it works
