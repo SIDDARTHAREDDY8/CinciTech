@@ -56,23 +56,38 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1575 tracked total · updated `2026-10-19T13:29:42+00:00`
+### 🆕 16 new roles this update · 1587 tracked total · updated `2026-10-19T20:55:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
+| Root Insurance | 3 |
 | Huntington Bank | 3 |
-| OhioHealth | 1 |
+| Fifth Third Bank | 2 |
+| Great American Insurance | 2 |
+| Honda | 2 |
+| Njoyn (CGI) | 1 |
+| GE Aerospace | 1 |
+| STERIS | 1 |
+| Medical Mutual of Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-19 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-19 |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-19 |
-| [Data Engineering Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineering-Lead_R0076407) | Huntington Bank | Columbus, OH | 2026-10-19 |
-| [Senior Data Engineering Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Engineering-Lead_R0076450) | Huntington Bank | Columbus, OH | 2026-10-19 |
-| [Servicenow Application Architect](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Servicenow-Application-Architect_R0076480) | Huntington Bank | Columbus, OH | 2026-10-19 |
-| [Coder II](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Coder-II_JR159885) | OhioHealth | WORK AT HOME - OHIO | 2026-10-19 |
+| [Sr. Alvaria Dialer Technical System Administrator](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1759&BRID=1341959&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-19 |
+| [Senior Software Engineer, Automotive Partnerships](https://ats.rippling.com/joinroot/jobs/08ae6d8a-f80d-49ad-8af8-c13931a319f6) | Root Insurance | Remote (United States) | 2026-10-19 |
+| [Senior Software Engineer, Payments & Billing](https://ats.rippling.com/joinroot/jobs/2d830f55-f417-4917-9fbf-6ff14b9258f9) | Root Insurance | Remote (United States) | 2026-10-19 |
+| [Staff Software Engineer II](https://ats.rippling.com/joinroot/jobs/9317315a-b947-4016-971b-c6498c4f4b7c) | Root Insurance | Remote (United States) | 2026-10-19 |
+| [Senior Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Software-Engineer_R73645-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-19 |
+| [Lead Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Software-Engineer_R73644-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-19 |
+| [Application Engineering Supervisor](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Engineering-Supervisor_R9745) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-19 |
+| [Quality Assurance AI/Automation Lead](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Automation-Lead_R9731) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-19 |
+| [Senior Mainframe Systems/Platform Engineer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Mainframe-Systems-Platform-Engineer_R0076755) | Huntington Bank | Columbus, OH | 2026-10-19 |
+| [Learning and Development Senior Consultant, AI Fluency Enablement](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Learning-and-Development-Senior-Consultant--AI-Fluency-Enablement_R0076798) | Huntington Bank | Columbus, OH | 2026-10-19 |
+| [Data Management Senior Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Management-Senior-Analyst_R0076027) | Huntington Bank | Columbus, OH | 2026-10-19 |
+| [Lead Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Software-Engineer_R5041740-2) | GE Aerospace | Evendale | 2026-10-19 |
+| [Senior Technical Architect](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56434&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-19 |
+| [Senior AWS Cloud Data Engineer I](https://careers.honda.com/us/en/job/10756) | Honda | Marysville, Ohio, United States | 2026-10-19 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-19 |
+| [Site Reliability Engineer (SRE)](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=6c7eeb51-0fb8-4fea-a00f-bef5ef3ad885) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-19 |
 <!-- JOBS:END -->
 
 ## How it works
