@@ -56,15 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1568 tracked total · updated `2026-10-19T04:58:35+00:00`
+### 🆕 7 new roles this update · 1575 tracked total · updated `2026-10-19T13:29:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 1 |
+| Robert Half | 3 |
+| Huntington Bank | 3 |
+| OhioHealth | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Programmer/ .Net Developer](https://jobs.compunnel.com/jobs/5962265) | Compunnel | Columbus, Ohio, United States | 2026-10-19 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-19 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-19 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-19 |
+| [Data Engineering Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineering-Lead_R0076407) | Huntington Bank | Columbus, OH | 2026-10-19 |
+| [Senior Data Engineering Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Engineering-Lead_R0076450) | Huntington Bank | Columbus, OH | 2026-10-19 |
+| [Servicenow Application Architect](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Servicenow-Application-Architect_R0076480) | Huntington Bank | Columbus, OH | 2026-10-19 |
+| [Coder II](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Coder-II_JR159885) | OhioHealth | WORK AT HOME - OHIO | 2026-10-19 |
 <!-- JOBS:END -->
 
 ## How it works
