@@ -56,22 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1563 tracked total · updated `2026-10-20T00:41:14+00:00`
+### 🆕 3 new roles this update · 1563 tracked total · updated `2026-10-20T08:47:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| Mindlance | 2 |
-| Levi Strauss | 1 |
+| Next Step Systems | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-20 |
-| [Technical and Craft Labor - QA Technician](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29491339#/jobs/29491339) | Mindlance | Oakwood Village, OH | 2026-10-20 |
-| [Technical and Craft Labor - QA Technician](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29491338#/jobs/29491338) | Mindlance | Oakwood Village, OH | 2026-10-20 |
-| [Manager, ERP Engineering (BTPAI)](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--ERP-Engineering--BTPAI-_R-0158511-1) | Levi Strauss | Remote - USA | 2026-10-20 |
+| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/ai-backend-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
+| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/android-software-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
+| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-ai-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
 <!-- JOBS:END -->
 
 ## How it works
