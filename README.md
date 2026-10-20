@@ -56,17 +56,34 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1563 tracked total · updated `2026-10-20T08:47:03+00:00`
+### 🆕 13 new roles this update · 1572 tracked total · updated `2026-10-20T14:42:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Next Step Systems | 3 |
+| Agility Connect | 4 |
+| Robert Half | 3 |
+| Artech | 1 |
+| Fifth Third Bank | 1 |
+| Cleveland Clinic | 1 |
+| Huntington Bank | 1 |
+| Nationwide Children's Hospital | 1 |
+| Park National Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/ai-backend-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
-| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/android-software-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
-| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-ai-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-20 |
+| [Cybersecurity – Netwrix Auditor / Stealthbits](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33271250#/jobs/33271250) | Artech | Remote | 2026-10-20 |
+| [AI Engineer](https://agilityconnect.io/jobs/8558) | Agility Connect | Columbus, OH | 2026-10-20 |
+| [Back End Engineer](https://agilityconnect.io/jobs/8557) | Agility Connect | Columbus, OH | 2026-10-20 |
+| [Data Engineer](https://agilityconnect.io/jobs/8554) | Agility Connect | Columbus, OH | 2026-10-20 |
+| [Product Owner](https://agilityconnect.io/jobs/8555) | Agility Connect | Columbus, OH | 2026-10-20 |
+| [Principal Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Software-Engineer_R73646-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-20 |
+| [Senior Data Scientist / Data Scientist III](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Senior-Data-Scientist---Data-Scientist-III_358764) | Cleveland Clinic | Remote Location | 2026-10-20 |
+| [Business Intelligence Senior Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Intelligence-Senior-Analyst_R0076461) | Huntington Bank | Columbus, OH | 2026-10-20 |
+| [IS System Analyst Senior - Business Applications](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-System-Analyst-Senior---Business-Applications_R-28506-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-10-20 |
+| [IS Lending Product System Analyst](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=d23534d5-04f3-4293-8d91-bbee8e5e4c3f) | Park National Bank | CEN Newark Alford Bldg | 2026-10-20 |
 <!-- JOBS:END -->
 
 ## How it works
