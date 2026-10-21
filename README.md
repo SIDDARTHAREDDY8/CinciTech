@@ -56,19 +56,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1566 tracked total · updated `2026-10-21T00:09:37+00:00`
+### 🟢 No new roles this update · **1565** roles open total · updated `2026-10-21T05:00:23+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 1 |
-| Cintas | 1 |
-| Lincoln Electric | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-21 |
-| [SAP Functional Analyst-Level 3-Service Management](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-3-Service-Management-OH-45040/1421472500/) | Cintas | OH | 2026-10-21 |
-| [Quality Assurance Specialist](https://jobs.lincolnelectric.com/job/Mason-Quality-Assurance-Specialist-OH-45040/1449617033/) | Lincoln Electric | OH | 2026-10-21 |
+Nothing new since the last run — [browse all 1565 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
