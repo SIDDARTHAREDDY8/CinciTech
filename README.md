@@ -56,9 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **1565** roles open total · updated `2026-10-21T05:00:23+00:00`
+### 🆕 4 new roles this update · 1569 tracked total · updated `2026-10-21T12:03:58+00:00`
 
-Nothing new since the last run — [browse all 1565 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 1 |
+| Agility Connect | 1 |
+| Nationwide | 1 |
+| Honda | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-21 |
+| [Desktop Support](https://agilityconnect.io/jobs/8560) | Agility Connect | Columbus, OH | 2026-10-21 |
+| [Quality Assurance Analyst - Life Insurance](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Quality-Assurance-Analyst---Life-Insurance_100876-1) | Nationwide | Ohio - Grandview Heights, 1000 Yard Street, H Building | 2026-10-21 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
