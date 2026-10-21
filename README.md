@@ -56,30 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1573 tracked total · updated `2026-10-21T17:29:46+00:00`
+### 🆕 5 new roles this update · 1576 tracked total · updated `2026-10-21T21:58:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Huntington Bank | 2 |
-| Vaco | 1 |
-| Artech | 1 |
-| Mindlance | 1 |
-| Njoyn (CGI) | 1 |
-| FirstEnergy | 1 |
-| The Andersons | 1 |
-| Honda | 1 |
+| Robert Half | 1 |
+| Huntington Bank | 1 |
+| Scotts Miracle-Gro | 1 |
+| STERIS | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Dynamics 365 Crm Administrator Power Bi Analyst](https://jobs.vaco.com/job/2567/dynamics_365_crm_administrator_power_bi_analyst/en) | Vaco | Cincinnati, Ohio | 2026-10-21 |
-| [QA Tester Contractor: 10+ years (Expert)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33277383#/jobs/33277383) | Artech | Columbus, OH | 2026-10-21 |
-| [BusinessOperations - Provider Data Management Analyst 1 - 111458](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29499114#/jobs/29499114) | Mindlance | Remote, FL | 2026-10-21 |
-| [Senior System Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1472&BRID=1342580&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-21 |
-| [Power Quality Engineer](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105570) | FirstEnergy | Akron, OH, United States | 2026-10-21 |
-| [Data Engineer Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Engineer-Lead_R0076720) | Huntington Bank | Columbus, OH | 2026-10-21 |
-| [Service Desk Analyst 2](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Service-Desk-Analyst-2_R0075485) | Huntington Bank | Columbus, OH | 2026-10-21 |
-| [Forward Deployed AI Engineer](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Forward-Deployed-AI-Engineer_R12570) | The Andersons | Maumee, OH | 2026-10-21 |
-| [Senior ADAS Test Engineer I](https://careers.honda.com/us/en/job/12936) | Honda | Raymond, Ohio, United States | 2026-10-21 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-21 |
+| [Data Analytics Project Manager](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Analytics-Project-Manager_R0076976) | Huntington Bank | Columbus, OH | 2026-10-21 |
+| [Technical Manager, Cloud Computing Engineering](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Technical-Manager--Cloud-Computing-Engineering_R26660) | Scotts Miracle-Gro | Marysville, OH | 2026-10-21 |
+| [Director, Global IT Service Delivery](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56788&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-21 |
+| [IT SAP Developer-Level 3-Fiori](https://careers.cintas.com/job/Mason-IT-SAP-Developer-Level-3-Fiori-OH-45040/1442382200/) | Cintas | OH | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
