@@ -56,23 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1576 tracked total · updated `2026-10-21T21:58:39+00:00`
+### 🆕 2 new roles this update · 1567 tracked total · updated `2026-10-22T04:58:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Huntington Bank | 1 |
-| Scotts Miracle-Gro | 1 |
-| STERIS | 1 |
-| Cintas | 1 |
+| TRU Staffing Partners | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-21 |
-| [Data Analytics Project Manager](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Analytics-Project-Manager_R0076976) | Huntington Bank | Columbus, OH | 2026-10-21 |
-| [Technical Manager, Cloud Computing Engineering](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Technical-Manager--Cloud-Computing-Engineering_R26660) | Scotts Miracle-Gro | Marysville, OH | 2026-10-21 |
-| [Director, Global IT Service Delivery](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56788&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-21 |
-| [IT SAP Developer-Level 3-Fiori](https://careers.cintas.com/job/Mason-IT-SAP-Developer-Level-3-Fiori-OH-45040/1442382200/) | Cintas | OH | 2026-10-21 |
+| [Senior Data Engineer](https://jobs.trustaffingpartners.com/?jobid=7606#/jobs/7606) | TRU Staffing Partners | Anywhere | 2026-10-22 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
