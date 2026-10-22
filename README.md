@@ -56,24 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1573 tracked total · updated `2026-10-22T12:12:16+00:00`
+### 🆕 9 new roles this update · 1581 tracked total · updated `2026-10-22T17:30:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 2 |
-| Robert Half | 1 |
-| TRU Staffing Partners | 1 |
-| Battelle | 1 |
-| Lincoln Electric | 1 |
+| Honda | 2 |
+| Artech | 1 |
+| Mindlance | 1 |
+| CareSource | 1 |
+| Huntington Bank | 1 |
+| OhioHealth | 1 |
+| Dayton Children's Hospital | 1 |
+| Total Quality Logistics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-22 |
-| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7492#/jobs/7492) | TRU Staffing Partners | Anywhere | 2026-10-22 |
-| [MLOps Engineer](https://agilityconnect.io/jobs/8565) | Agility Connect | Cincinnati, OH | 2026-10-22 |
-| [Sr Solutions Architect](https://agilityconnect.io/jobs/8563) | Agility Connect | OH | 2026-10-22 |
-| [Software Engineer](https://jobs.battelle.org/us/en/job/76644) | Battelle | Columbus, OH | 2026-10-22 |
-| [Information Technology Summer 2027 Internship (Euclid, Oh)](https://jobs.lincolnelectric.com/job/Cleveland-Information-Technology-Summer-2027-Internship-%28Euclid%2C-Oh%29-OH-44117/1428894433/) | Lincoln Electric | OH | 2026-10-22 |
+| [Manufacturing Quality Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33283519#/jobs/33283519) | Artech | Fairfield, OH | 2026-10-22 |
+| [ProfessionalServices - Provider Data Management Analyst II - 111457](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29504593#/jobs/29504593) | Mindlance | Remote, GA | 2026-10-22 |
+| [Senior Financial Data Analyst - Reconciliation & Controls](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Senior-Financial-Data-Analyst---Reconciliation---Controls_R14067) | CareSource | Remote | 2026-10-22 |
+| [IS Technical Specialist - IT Dev](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Contractor-Flip---IT-Dev_R0076003) | Huntington Bank | Columbus, OH | 2026-10-22 |
+| [Epic Systems Analyst - Professional Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Professional-Billing-and-Claims_JR155801-1) | OhioHealth | WORK AT HOME - OHIO | 2026-10-22 |
+| [Manager, Workday HCM](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Manager--Workday-HCM_R24653) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-10-22 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12885) | Honda | Anna, Ohio, United States | 2026-10-22 |
+| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12996) | Honda | Raymond, Ohio, United States | 2026-10-22 |
+| [Data Analyst II](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Analyst-II/17889?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
