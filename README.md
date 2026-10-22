@@ -56,30 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1581 tracked total · updated `2026-10-22T17:30:25+00:00`
+### 🆕 10 new roles this update · 1590 tracked total · updated `2026-10-22T21:59:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 2 |
-| Artech | 1 |
-| Mindlance | 1 |
+| Artech | 4 |
+| Fifth Third Bank | 2 |
+| Robert Half | 1 |
+| Russell Tobin | 1 |
+| Motion Recruitment | 1 |
 | CareSource | 1 |
-| Huntington Bank | 1 |
-| OhioHealth | 1 |
-| Dayton Children's Hospital | 1 |
-| Total Quality Logistics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manufacturing Quality Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33283519#/jobs/33283519) | Artech | Fairfield, OH | 2026-10-22 |
-| [ProfessionalServices - Provider Data Management Analyst II - 111457](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29504593#/jobs/29504593) | Mindlance | Remote, GA | 2026-10-22 |
-| [Senior Financial Data Analyst - Reconciliation & Controls](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Senior-Financial-Data-Analyst---Reconciliation---Controls_R14067) | CareSource | Remote | 2026-10-22 |
-| [IS Technical Specialist - IT Dev](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Contractor-Flip---IT-Dev_R0076003) | Huntington Bank | Columbus, OH | 2026-10-22 |
-| [Epic Systems Analyst - Professional Billing and Claims](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Professional-Billing-and-Claims_JR155801-1) | OhioHealth | WORK AT HOME - OHIO | 2026-10-22 |
-| [Manager, Workday HCM](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Manager--Workday-HCM_R24653) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-10-22 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12885) | Honda | Anna, Ohio, United States | 2026-10-22 |
-| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12996) | Honda | Raymond, Ohio, United States | 2026-10-22 |
-| [Data Analyst II](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Analyst-II/17889?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-10-22 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-22 |
+| [ERP Consultant](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29510589#/jobs/29510589) | Russell Tobin | Remote, TX | 2026-10-22 |
+| [IT Consultant I](https://motionrecruitment.com/tech-jobs/remote/contract/it-consultant-i/891548) | Motion Recruitment | Remote, rmt | 2026-10-22 |
+| [High Availability Mainframe Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286544#/jobs/33286544) | Artech | Remote, NY | 2026-10-22 |
+| [Mainframe Systems Analyst / Interface & Documentation Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286656#/jobs/33286656) | Artech | Remote, NY | 2026-10-22 |
+| [SailPoint Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33285237#/jobs/33285237) | Artech | Cleveland, OH | 2026-10-22 |
+| [Senior Oracle DBA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33284827#/jobs/33284827) | Artech | Remote | 2026-10-22 |
+| [Business Analyst IV - Facets/Claim IT experience](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Business-Analyst-IV_R13708) | CareSource | Remote | 2026-10-22 |
+| [Mortgage Systems Integration Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Mortgage-Systems-Integration-Analyst_R74344) | Fifth Third Bank | Cincinnati, OH | 2026-10-22 |
+| [Senior Data Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Engineer_R73824-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
