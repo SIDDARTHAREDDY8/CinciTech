@@ -56,17 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1567 tracked total · updated `2026-10-22T04:58:59+00:00`
+### 🆕 6 new roles this update · 1573 tracked total · updated `2026-10-22T12:12:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 2 |
+| Robert Half | 1 |
 | TRU Staffing Partners | 1 |
-| Honda | 1 |
+| Battelle | 1 |
+| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](https://jobs.trustaffingpartners.com/?jobid=7606#/jobs/7606) | TRU Staffing Partners | Anywhere | 2026-10-22 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-22 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-22 |
+| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7492#/jobs/7492) | TRU Staffing Partners | Anywhere | 2026-10-22 |
+| [MLOps Engineer](https://agilityconnect.io/jobs/8565) | Agility Connect | Cincinnati, OH | 2026-10-22 |
+| [Sr Solutions Architect](https://agilityconnect.io/jobs/8563) | Agility Connect | OH | 2026-10-22 |
+| [Software Engineer](https://jobs.battelle.org/us/en/job/76644) | Battelle | Columbus, OH | 2026-10-22 |
+| [Information Technology Summer 2027 Internship (Euclid, Oh)](https://jobs.lincolnelectric.com/job/Cleveland-Information-Technology-Summer-2027-Internship-%28Euclid%2C-Oh%29-OH-44117/1428894433/) | Lincoln Electric | OH | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
