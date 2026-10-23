@@ -56,22 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1587 tracked total · updated `2026-10-23T05:10:03+00:00`
+### 🆕 6 new roles this update · 1593 tracked total · updated `2026-10-23T12:01:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 2 |
-| Artech | 1 |
-| Honeywell | 1 |
-| L3Harris | 1 |
+| Agility Connect | 2 |
+| DHL | 2 |
+| TEKsystems | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Technology - ERP Consultant - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286902#/jobs/33286902) | Artech | Remote, TX | 2026-10-23 |
-| [Senior Oracle Software Engineer](https://jobs.compunnel.com/jobs/5980154) | Compunnel | Cleveland, Ohio, United States | 2026-10-23 |
-| [Senior Data Engineer](https://jobs.compunnel.com/jobs/5921691) | Compunnel | Covington, Kentucky, United States | 2026-10-23 |
-| [Building Automation Systems Programmer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160891) | Honeywell | Independence, OH, United States | 2026-10-23 |
-| [Lead, Subcontracts Manager - Enterprise Contracts](https://careers.l3harris.com/en/job/united-states/lead-subcontracts-manager-enterprise-contracts/4832/102312134032) | L3Harris | Remote | 2026-10-23 |
+| [Noc Analyst](https://careers.teksystems.com/us/en/job/JP-006363752/Noc-Analyst) | TEKsystems | New Albany, Ohio | 2026-10-23 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-23 |
+| [Senior Dataiku Platform Engineer](https://agilityconnect.io/jobs/8568) | Agility Connect | Cincinnati, OH | 2026-10-23 |
+| [Senior Snowflake Platform Engineer](https://agilityconnect.io/jobs/8567) | Agility Connect | Cincinnati, OH | 2026-10-23 |
+| [Quality Assurance Supervisor](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Assurance-Supervisor-USN-job-Lockbourne-OH-US-11157443.html) | DHL | Lockbourne, Ohio | 2026-10-23 |
+| [Quality Engineer](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Quality-Engineer-USO-job-Westerville-OH-US-11154946.html) | DHL | Westerville, Ohio | 2026-10-23 |
 <!-- JOBS:END -->
 
 ## How it works
