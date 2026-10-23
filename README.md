@@ -56,29 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1590 tracked total · updated `2026-10-22T21:59:27+00:00`
+### 🆕 5 new roles this update · 1587 tracked total · updated `2026-10-23T05:10:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Fifth Third Bank | 2 |
-| Robert Half | 1 |
-| Russell Tobin | 1 |
-| Motion Recruitment | 1 |
-| CareSource | 1 |
+| Compunnel | 2 |
+| Artech | 1 |
+| Honeywell | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-22 |
-| [ERP Consultant](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29510589#/jobs/29510589) | Russell Tobin | Remote, TX | 2026-10-22 |
-| [IT Consultant I](https://motionrecruitment.com/tech-jobs/remote/contract/it-consultant-i/891548) | Motion Recruitment | Remote, rmt | 2026-10-22 |
-| [High Availability Mainframe Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286544#/jobs/33286544) | Artech | Remote, NY | 2026-10-22 |
-| [Mainframe Systems Analyst / Interface & Documentation Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286656#/jobs/33286656) | Artech | Remote, NY | 2026-10-22 |
-| [SailPoint Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33285237#/jobs/33285237) | Artech | Cleveland, OH | 2026-10-22 |
-| [Senior Oracle DBA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33284827#/jobs/33284827) | Artech | Remote | 2026-10-22 |
-| [Business Analyst IV - Facets/Claim IT experience](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Business-Analyst-IV_R13708) | CareSource | Remote | 2026-10-22 |
-| [Mortgage Systems Integration Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Mortgage-Systems-Integration-Analyst_R74344) | Fifth Third Bank | Cincinnati, OH | 2026-10-22 |
-| [Senior Data Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Engineer_R73824-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-22 |
+| [Information Technology - ERP Consultant - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286902#/jobs/33286902) | Artech | Remote, TX | 2026-10-23 |
+| [Senior Oracle Software Engineer](https://jobs.compunnel.com/jobs/5980154) | Compunnel | Cleveland, Ohio, United States | 2026-10-23 |
+| [Senior Data Engineer](https://jobs.compunnel.com/jobs/5921691) | Compunnel | Covington, Kentucky, United States | 2026-10-23 |
+| [Building Automation Systems Programmer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160891) | Honeywell | Independence, OH, United States | 2026-10-23 |
+| [Lead, Subcontracts Manager - Enterprise Contracts](https://careers.l3harris.com/en/job/united-states/lead-subcontracts-manager-enterprise-contracts/4832/102312134032) | L3Harris | Remote | 2026-10-23 |
 <!-- JOBS:END -->
 
 ## How it works
