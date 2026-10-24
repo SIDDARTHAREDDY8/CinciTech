@@ -56,17 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1596 tracked total · updated `2026-10-24T04:51:48+00:00`
+### 🆕 3 new roles this update · 1596 tracked total · updated `2026-10-24T11:17:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Honda | 1 |
+| Vaco | 1 |
+| Gina's Tech Jobs | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-24 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-24 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-24 |
+| [Oracle Dba](https://jobs.vaco.com/job/2652/oracle_dba/en) | Vaco | Fairfield, Ohio | 2026-10-24 |
+| [Engineering Manager, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/engineering-manager-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
