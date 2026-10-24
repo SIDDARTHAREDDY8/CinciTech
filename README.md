@@ -56,40 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 1613 tracked total · updated `2026-10-23T21:52:03+00:00`
+### 🆕 2 new roles this update · 1596 tracked total · updated `2026-10-24T04:51:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Mindlance | 2 |
-| Sherwin-Williams | 2 |
-| Cincinnati Insurance | 2 |
-| Lincoln Electric | 2 |
-| Apex Systems | 1 |
 | Robert Half | 1 |
-| Russell Tobin | 1 |
-| Worthington Enterprises | 1 |
-| Medical Mutual of Ohio | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Systems Analyst II](https://www.apexsystems.com/job/3057038_usa/systems-analyst-ii) | Apex Systems | Remote, OR | 2026-10-23 |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-23 |
-| [AI Safety & Safeguards Enforcement Specialist (CBRNE)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29514860#/jobs/29514860) | Russell Tobin | Remote, CA | 2026-10-23 |
-| [SAP GTS Functional Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291875#/jobs/33291875) | Artech | Remote | 2026-10-23 |
-| [Scrum Master](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291538#/jobs/33291538) | Artech | Remote | 2026-10-23 |
-| [Senior SQL Server DBA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290625#/jobs/33290625) | Artech | Remote | 2026-10-23 |
-| [Information Technology - Application Development - Lead Engineer II, IBS (Deltek Functional)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290023#/jobs/33290023) | Artech | Remote, NJ | 2026-10-23 |
-| [Project Tester](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29512402#/jobs/29512402) | Mindlance | Brooklyn,, OH | 2026-10-23 |
-| [Engineering/Technical - Quality Assurance Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29507059#/jobs/29507059) | Mindlance | Fairfield, OH | 2026-10-23 |
-| [IT Digital Product Manager –Supply Chain Accounting](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626658) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-23 |
-| [IT Digital Product Manager – Invoice To Cash](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626711) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-23 |
-| [HR Information System Analyst](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43443) | Worthington Enterprises | Columbus, OH, United States | 2026-10-23 |
-| [IT Security Specialist - Identity and Access Management (IAM)](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=5c0ebe07-bcb6-4aec-9026-b2145df541b1) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-23 |
-| [Planning Analytics and Risk Management - Associate Data Scientist, Innovation and Research](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169329) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-10-23 |
-| [IT - Developer I - V (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169768) | Cincinnati Insurance | ["Remote"] | 2026-10-23 |
-| [Senior Embedded Software Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Senior-Embedded-Software-Engineer-OH-44117/1450937233/) | Lincoln Electric | OH | 2026-10-23 |
-| [IT Business Analyst](https://jobs.lincolnelectric.com/job/Cleveland-IT-Business-Analyst-OH-44117/1450910833/) | Lincoln Electric | OH | 2026-10-23 |
+| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-24 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
