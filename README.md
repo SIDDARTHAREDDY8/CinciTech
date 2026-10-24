@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1601 tracked total · updated `2026-10-24T21:07:08+00:00`
+### 🆕 1 new roles this update · 1601 tracked total · updated `2026-10-24T23:33:38+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-24 |
-| [SAP Security Administrator-Level 3](https://careers.cintas.com/job/Mason-SAP-Security-Administrator-Level-3-OH-45040/1443415300/) | Cintas | OH | 2026-10-24 |
+| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
