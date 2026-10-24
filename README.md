@@ -56,25 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1601 tracked total · updated `2026-10-24T16:20:40+00:00`
+### 🆕 2 new roles this update · 1601 tracked total · updated `2026-10-24T21:07:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 4 |
-| DHL | 2 |
 | Robert Half | 1 |
-| Honda | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-24 |
-| [Java/Spring Boot Software Engineer](https://agilityconnect.io/jobs/8577) | Agility Connect | Cincinnati, OH | 2026-10-24 |
-| [Sr Data Engineer](https://agilityconnect.io/jobs/8576) | Agility Connect | Columbus, OH | 2026-10-24 |
-| [Sr Software Engineer](https://agilityconnect.io/jobs/8573) | Agility Connect | Columbus, OH | 2026-10-24 |
-| [IT Service Center Analyst](https://agilityconnect.io/jobs/8574) | Agility Connect | Columbus, OH | 2026-10-24 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-24 |
-| [Sr Business Data Analyst](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/Sr-Business-Data-Analyst-USN--job-Westerville-OH-US-11153460.html) | DHL | Westerville, Ohio | 2026-10-24 |
-| [Quality Assurance Manager I](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/QA-Manager-I-USN-job-Westerville-OH-US-11156497.html) | DHL | Westerville, Ohio | 2026-10-24 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-24 |
+| [SAP Security Administrator-Level 3](https://careers.cintas.com/job/Mason-SAP-Security-Administrator-Level-3-OH-45040/1443415300/) | Cintas | OH | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
