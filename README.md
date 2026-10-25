@@ -56,18 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1586 tracked total · updated `2026-10-25T04:55:25+00:00`
+### 🆕 2 new roles this update · 1587 tracked total · updated `2026-10-25T11:40:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nesco Resource | 2 |
 | Robert Half | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-25 |
-| [QA Inspector](https://www.nescoresource.com/job-details/qa-inspector-in-light-industrial-jobs-1766144) | Nesco Resource | Columbus, OH | 2026-10-25 |
-| [1st/2nd COPPER BUS BAR / EHRT Operator](https://www.nescoresource.com/job-details/1st2nd-copper-bus-bar-ehrt-operator-in-light-industrial-jobs-1766139) | Nesco Resource | Columbus, OH | 2026-10-25 |
+| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-25 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-25 |
 <!-- JOBS:END -->
 
 ## How it works
