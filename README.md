@@ -56,21 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1586 tracked total · updated `2026-10-25T21:05:39+00:00`
+### 🆕 1 new roles this update · 1585 tracked total · updated `2026-10-25T23:35:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
 | Robert Half | 1 |
-| Honda | 1 |
-| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Center Fiber Audit Technician](https://careers.teksystems.com/us/en/job/JP-006375325/Data-Center-Fiber-Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-10-25 |
-| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-25 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-25 |
-| [Sr. Specialist, Supplier Quality Engineer 1](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-1/4832/102434288880) | L3Harris | Remote | 2026-10-25 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-25 |
 <!-- JOBS:END -->
 
 ## How it works
