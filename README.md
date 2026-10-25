@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1587 tracked total · updated `2026-10-25T11:40:04+00:00`
+### 🆕 1 new roles this update · 1583 tracked total · updated `2026-10-25T16:34:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-25 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-25 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-25 |
 <!-- JOBS:END -->
 
 ## How it works
