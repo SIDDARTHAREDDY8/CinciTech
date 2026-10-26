@@ -56,15 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1585 tracked total · updated `2026-10-25T23:35:53+00:00`
+### 🆕 2 new roles this update · 1558 tracked total · updated `2026-10-26T05:02:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-25 |
+| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-26 |
+| [Specialist, Software Engineer – IBM ACE & ETL](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---IBM-ACE---ETL_100874) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-26 |
 <!-- JOBS:END -->
 
 ## How it works
