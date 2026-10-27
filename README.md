@@ -56,25 +56,38 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1564 tracked total · updated `2026-10-27T09:18:37+00:00`
+### 🆕 13 new roles this update · 1575 tracked total · updated `2026-10-27T15:42:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Great American Insurance | 2 |
 | Robert Half | 1 |
-| Vaco | 1 |
-| Strategic Staffing Solutions | 1 |
-| Nationwide | 1 |
+| CareSource | 1 |
+| Fifth Third Bank | 1 |
+| Sherwin-Williams | 1 |
+| FirstEnergy | 1 |
+| Huntington Bank | 1 |
+| Materion | 1 |
+| Nationwide Children's Hospital | 1 |
+| Vertiv | 1 |
 | Honda | 1 |
-| Cintas | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-27 |
-| [It Support Technician](https://jobs.vaco.com/job/2690/it_support_technician/en) | Vaco | Parma, Ohio | 2026-10-27 |
-| [Cyber Security Engineer](https://jobs.strategicstaff.com/jobs/cyber-security-engineer-170556/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-10-27 |
-| [Sr Engineer, Software Engineer (2 - 5 years' experience)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--2---5-years--experience-_100963) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-27 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-27 |
-| [SAP Functional Analyst-Level 2-CRM](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-2-CRM-OH-45040/1443925700/) | Cintas | OH | 2026-10-27 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-27 |
+| [Information Security GRC Analyst IV - ESH](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-IV---ESH_R14143) | CareSource | Remote | 2026-10-27 |
+| [AI Risk Management Senior Associate](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/AI-Risk-Management-Senior-Associate_R73467) | Fifth Third Bank | Cincinnati, OH | 2026-10-27 |
+| [Senior Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Product-Manager_R9789) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
+| [Senior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Data-Scientist_R9787) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
+| [R&D IT Summer Internship- Brecksville, OH](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627637) | Sherwin-Williams | Brecksville, OH, United States | 2026-10-27 |
+| [Systems Administrator - IT Infrastructure & Operations](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105640) | FirstEnergy | Akron, OH, United States | 2026-10-27 |
+| [Programmer/Analyst Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-Senior_R0076898) | Huntington Bank | Columbus, OH | 2026-10-27 |
+| [Customer Support Specialist - Manufacturing](https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Customer-Support-Specialist---Manufacturing_2026-R8834) | Materion | Cleveland, OH | 2026-10-27 |
+| [IT Project Scientist I - Research Data Navigation](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-Project-Scientist-I---Research-Data-Navigation_R-28600-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-10-27 |
+| [IT Project Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271302) | Vertiv | Westerville, OH, United States | 2026-10-27 |
+| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12274) | Honda | Raymond, Ohio, United States | 2026-10-27 |
+| [Audit Manager](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Audit-Manager_2137323) | Fidelity Investments | Covington, KY | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
