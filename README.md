@@ -56,32 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1561 tracked total · updated `2026-10-27T01:00:52+00:00`
+### 🆕 6 new roles this update · 1564 tracked total · updated `2026-10-27T09:18:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 5 |
-| Compunnel | 2 |
 | Robert Half | 1 |
-| Artech | 1 |
-| AtriCure | 1 |
-| Whirlpool | 1 |
-| Park National Bank | 1 |
+| Vaco | 1 |
+| Strategic Staffing Solutions | 1 |
+| Nationwide | 1 |
+| Honda | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-27 |
-| [Master Data Management (MDM) Business Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33298548#/jobs/33298548) | Artech | Remote | 2026-10-27 |
-| [Intermediate AWS Infrastructure Engineer](https://jobs.compunnel.com/jobs/5987680) | Compunnel | Columbus, Ohio, United States | 2026-10-27 |
-| [Lead Platform Engineer](https://jobs.compunnel.com/jobs/5987581) | Compunnel | Cleveland, Ohio, United States | 2026-10-27 |
-| [IT Security Analyst Co-op](https://job-boards.greenhouse.io/atricure/jobs/4468040009) | AtriCure | Mason, OH | 2026-10-27 |
-| [Software Engineer - Embedded Systems (Entry Level)](https://jobs.battelle.org/us/en/job/76480) | Battelle | Columbus, OH | 2026-10-27 |
-| [Senior Test Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76484) | Battelle | Columbus, OH | 2026-10-27 |
-| [Mid-Level Software Engineer - Embedded Systems](https://jobs.battelle.org/us/en/job/76481) | Battelle | Columbus, OH | 2026-10-27 |
-| [Senior Software Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76485) | Battelle | Columbus, OH | 2026-10-27 |
-| [Senior Systems Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76486) | Battelle | Columbus, OH | 2026-10-27 |
-| [Sr. Manufacturing Test Engineer](https://jobs.whirlpool.com/careers/job/34403263505) | Whirlpool | Marion, OH, US | 2026-10-27 |
-| [Desktop Support Admin I](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=bf233f53-7c3c-4bdb-bfbf-8d11aad04140) | Park National Bank | CEN Newark Alford Bldg | 2026-10-27 |
+| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-27 |
+| [It Support Technician](https://jobs.vaco.com/job/2690/it_support_technician/en) | Vaco | Parma, Ohio | 2026-10-27 |
+| [Cyber Security Engineer](https://jobs.strategicstaff.com/jobs/cyber-security-engineer-170556/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-10-27 |
+| [Sr Engineer, Software Engineer (2 - 5 years' experience)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--2---5-years--experience-_100963) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-27 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-27 |
+| [SAP Functional Analyst-Level 2-CRM](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-2-CRM-OH-45040/1443925700/) | Cintas | OH | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
