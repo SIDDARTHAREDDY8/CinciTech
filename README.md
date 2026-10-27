@@ -56,38 +56,48 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1575 tracked total · updated `2026-10-27T15:42:52+00:00`
+### 🆕 21 new roles this update · 1595 tracked total · updated `2026-10-27T22:35:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Great American Insurance | 2 |
+| Great American Insurance | 5 |
+| Fifth Third Bank | 2 |
+| Huntington Bank | 2 |
+| Vertiv | 2 |
 | Robert Half | 1 |
-| CareSource | 1 |
-| Fifth Third Bank | 1 |
+| Stanton House | 1 |
+| Nationwide | 1 |
+| KeyBank | 1 |
 | Sherwin-Williams | 1 |
 | FirstEnergy | 1 |
-| Huntington Bank | 1 |
-| Materion | 1 |
-| Nationwide Children's Hospital | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
-| Fidelity Investments | 1 |
+| GE Aerospace | 1 |
+| Park National Bank | 1 |
+| Medical Mutual of Ohio | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-27 |
-| [Information Security GRC Analyst IV - ESH](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-IV---ESH_R14143) | CareSource | Remote | 2026-10-27 |
-| [AI Risk Management Senior Associate](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/AI-Risk-Management-Senior-Associate_R73467) | Fifth Third Bank | Cincinnati, OH | 2026-10-27 |
-| [Senior Technical Product Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Product-Manager_R9789) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
-| [Senior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Data-Scientist_R9787) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
-| [R&D IT Summer Internship- Brecksville, OH](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627637) | Sherwin-Williams | Brecksville, OH, United States | 2026-10-27 |
-| [Systems Administrator - IT Infrastructure & Operations](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105640) | FirstEnergy | Akron, OH, United States | 2026-10-27 |
-| [Programmer/Analyst Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-Senior_R0076898) | Huntington Bank | Columbus, OH | 2026-10-27 |
-| [Customer Support Specialist - Manufacturing](https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Customer-Support-Specialist---Manufacturing_2026-R8834) | Materion | Cleveland, OH | 2026-10-27 |
-| [IT Project Scientist I - Research Data Navigation](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-Project-Scientist-I---Research-Data-Navigation_R-28600-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-10-27 |
-| [IT Project Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271302) | Vertiv | Westerville, OH, United States | 2026-10-27 |
-| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/12274) | Honda | Raymond, Ohio, United States | 2026-10-27 |
-| [Audit Manager](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Audit-Manager_2137323) | Fidelity Investments | Covington, KY | 2026-10-27 |
+| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-27 |
+| [Senior Physical Security Engineer](https://www.stantonhouse.com/us/jobs/33154-Senior-Physical-Security-Engineer) | Stanton House | Remote or Hybrid in New York City, Denver, or Charlotte | 2026-10-27 |
+| [Lead Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Software-Engineer_R74193-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-27 |
+| [Depositor Services Processing & Support Specialist I](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Depositor-Services-Processing---Support-Specialist-I_R74517) | Fifth Third Bank | Cincinnati, OH | 2026-10-27 |
+| [Platform Operations Developer Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
+| [Data Engineering Intern – Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
+| [Claims Lab Developer Intern – Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
+| [Cloud Data Platform Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
+| [IT Finance Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Finance-Intern---Summer-2027_R9808) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-27 |
+| [AVP, Property & Casualty AI Enablement](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/AVP--Property---Casualty-AI-Enablement_101090-1) | Nationwide | Ohio | 2026-10-27 |
+| [Senior Software Engineer - Consumer Digital](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Software-Engineer----Consumer-Digital_R-42644-1) | KeyBank | Brooklyn, OH | 2026-10-27 |
+| [Back End Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627502) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-27 |
+| [Director Enterprise Project Management Office - Business Transformation - Akron FirstEnergy Headquarters](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105645) | FirstEnergy | Akron, OH, United States | 2026-10-27 |
+| [Sr Manager - Virtualization Engineering](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Sr-Manager---Virtualization-Engineering_R0076522) | Huntington Bank | Columbus, OH | 2026-10-27 |
+| [Lead QA Test Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Lead-QA-Test-Analyst_R0075988) | Huntington Bank | Columbus, OH | 2026-10-27 |
+| [Lead Supplier Quality Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer_R5041616-2) | GE Aerospace | Remote | 2026-10-27 |
+| [Director, Enterprise Finance Transformation](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284905) | Vertiv | Westerville, OH, United States | 2026-10-27 |
+| [Internal Audit Operations Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285051) | Vertiv | Westerville, OH, United States | 2026-10-27 |
+| [Data Engineering/Data Science Summer Internship](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1) | Park National Bank | CEN Newark Alford Bldg | 2026-10-27 |
+| [Software Developer (Mainframe Application Development Lead)](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=8045e8d8-6778-4b29-9722-14d9cb1ebdce) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-27 |
+| [SAP Functional Analyst-Level 2-CRM](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-2-CRM-OH-45040/1444341500/) | Cintas | OH | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
