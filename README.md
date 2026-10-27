@@ -56,50 +56,32 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 21 new roles this update · 1570 tracked total · updated `2026-10-26T20:54:38+00:00`
+### 🆕 12 new roles this update · 1561 tracked total · updated `2026-10-27T01:00:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Fifth Third Bank | 2 |
-| Fidelity Investments | 2 |
+| Battelle | 5 |
+| Compunnel | 2 |
 | Robert Half | 1 |
-| Marathon Petroleum | 1 |
-| Branch Insurance | 1 |
-| Huntington Bank | 1 |
-| Applied Industrial Technologies | 1 |
-| Cincinnati Children's Hospital | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
+| Artech | 1 |
+| AtriCure | 1 |
+| Whirlpool | 1 |
 | Park National Bank | 1 |
-| Medical Mutual of Ohio | 1 |
-| Cincinnati Insurance | 1 |
-| St. Elizabeth Healthcare | 1 |
-| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-26 |
-| [Senior Java Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296584#/jobs/33296584) | Artech | Remote | 2026-10-26 |
-| [Senior Technology Catalog / ServiceNow Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294788#/jobs/33294788) | Artech | Remote, NY | 2026-10-26 |
-| [Senior Technology Catalog / ServiceNow Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294780#/jobs/33294780) | Artech | Remote, NY | 2026-10-26 |
-| [Senior Technology Catalog / ServiceNow Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294772#/jobs/33294772) | Artech | Remote, NY | 2026-10-26 |
-| [Data Analyst](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Data-Analyst_00024833-1) | Marathon Petroleum | Findlay, Ohio | 2026-10-26 |
-| [Data Engineer](https://job-boards.greenhouse.io/branch/jobs/8044391003) | Branch Insurance | Remote, US | 2026-10-26 |
-| [Data Engineer II-Regulatory Reporting](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-II-Regulatory-Reporting_R74072-1) | Fifth Third Bank | Cincinnati, OH | 2026-10-26 |
-| [Senior Treasury Solutions Consultant - Cash](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Treasury-Solutions-Consultant---Cash_R74368) | Fifth Third Bank | Virtual | 2026-10-26 |
-| [Business System Analyst Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-System-Analyst-Lead_R0076909) | Huntington Bank | Columbus, OH | 2026-10-26 |
-| [Software Architect](https://applied.wd501.myworkdayjobs.com/Applied/job/Cleveland-OH/Software-Architect_JR104002) | Applied Industrial Technologies | Cleveland, OH | 2026-10-26 |
-| [Data Engineer II](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Data-Engineer-II_JR224794) | Cincinnati Children's Hospital | Remote | 2026-10-26 |
-| [Firmware Engineer - Security](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260836) | Vertiv | Westerville, OH, United States | 2026-10-26 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-26 |
-| [Internship- Scope Credit Analyst](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=521f4439-86f3-4a05-a241-d8c4e9c127bb) | Park National Bank | COL Columbus | 2026-10-26 |
-| [IT Project Manager](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=d775d766-5f4d-4619-b971-cdd11efb15be) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-26 |
-| [Internal Audit - Associate IT Internal Auditor](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169648) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-10-26 |
-| [Senior Full Stack Engineer (Node, Python, Angular/React)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Full-Stack-Engineer_2136627) | Fidelity Investments | Covington, KY | 2026-10-26 |
-| [Principal, Full Stack Engineer (Node, Python, Angular/ React)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal--Full-Stack-Engineer_2136632) | Fidelity Investments | Covington, KY | 2026-10-26 |
-| [Application Coordinator Epic OpTime](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Application-Coordinator-Acute-Care_JR314649) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-10-26 |
-| [Experienced Feasibility Informatics Analyst](https://uscareers-medpace.icims.com/jobs/13090/login) | Medpace | Cincinnati, Ohio | 2026-10-26 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-27 |
+| [Master Data Management (MDM) Business Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33298548#/jobs/33298548) | Artech | Remote | 2026-10-27 |
+| [Intermediate AWS Infrastructure Engineer](https://jobs.compunnel.com/jobs/5987680) | Compunnel | Columbus, Ohio, United States | 2026-10-27 |
+| [Lead Platform Engineer](https://jobs.compunnel.com/jobs/5987581) | Compunnel | Cleveland, Ohio, United States | 2026-10-27 |
+| [IT Security Analyst Co-op](https://job-boards.greenhouse.io/atricure/jobs/4468040009) | AtriCure | Mason, OH | 2026-10-27 |
+| [Software Engineer - Embedded Systems (Entry Level)](https://jobs.battelle.org/us/en/job/76480) | Battelle | Columbus, OH | 2026-10-27 |
+| [Senior Test Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76484) | Battelle | Columbus, OH | 2026-10-27 |
+| [Mid-Level Software Engineer - Embedded Systems](https://jobs.battelle.org/us/en/job/76481) | Battelle | Columbus, OH | 2026-10-27 |
+| [Senior Software Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76485) | Battelle | Columbus, OH | 2026-10-27 |
+| [Senior Systems Engineer - Technology Integration](https://jobs.battelle.org/us/en/job/76486) | Battelle | Columbus, OH | 2026-10-27 |
+| [Sr. Manufacturing Test Engineer](https://jobs.whirlpool.com/careers/job/34403263505) | Whirlpool | Marion, OH, US | 2026-10-27 |
+| [Desktop Support Admin I](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=bf233f53-7c3c-4bdb-bfbf-8d11aad04140) | Park National Bank | CEN Newark Alford Bldg | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
