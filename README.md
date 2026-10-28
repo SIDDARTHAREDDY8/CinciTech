@@ -56,34 +56,50 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 1583 tracked total · updated `2026-10-28T13:11:17+00:00`
+### 🆕 19 new roles this update · 1590 tracked total · updated `2026-10-28T20:39:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 2 |
-| OhioHealth | 2 |
-| Battelle | 2 |
+| CareSource | 2 |
+| TEKsystems | 1 |
 | Robert Half | 1 |
-| TRU Staffing Partners | 1 |
-| Nesco Resource | 1 |
-| Honda | 1 |
-| Park National Bank | 1 |
+| Vaco | 1 |
+| Fifth Third Bank | 1 |
+| Great American Insurance | 1 |
+| Nationwide | 1 |
+| American Electric Power | 1 |
+| Cleveland Clinic | 1 |
+| Sherwin-Williams | 1 |
+| FirstEnergy | 1 |
+| Huntington Bank | 1 |
+| GE Aerospace | 1 |
+| Vertiv | 1 |
+| Medical Mutual of Ohio | 1 |
 | Fidelity Investments | 1 |
+| DHL | 1 |
+| Total Quality Logistics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-28 |
-| [Platform Engineer, U.S.](https://jobs.trustaffingpartners.com/?jobid=7610#/jobs/7610) | TRU Staffing Partners | Anywhere | 2026-10-28 |
-| [Cyber Security Project Manager](https://agilityconnect.io/jobs/8578) | Agility Connect | Columbus, OH | 2026-10-28 |
-| [Network Engineer III](https://agilityconnect.io/jobs/8580) | Agility Connect | New Albany, OH | 2026-10-28 |
-| [Senior IT Project Manager - (Banking)](https://www.nescoresource.com/job-details/senior-it-project-manager-banking-in-information-technology-jobs-1772618) | Nesco Resource | Cleveland, OH | 2026-10-28 |
-| [Senior Cyber Security Engineer](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-Cyber-Security-Engineer_JR160452-1) | OhioHealth | WORK AT HOME - OHIO | 2026-10-28 |
-| [Associate IT Project Manager - Infrastructure](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Associate-IT-Project-Manager---Infrastructure_JR160377) | OhioHealth | WORK AT HOME - OHIO | 2026-10-28 |
-| [Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76488) | Battelle | Columbus, OH | 2026-10-28 |
-| [Quality Assurance Regulatory Auditor](https://jobs.battelle.org/us/en/job/76490) | Battelle | Remote, OH | 2026-10-28 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-28 |
-| [Intern - Business Intelligence](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) | Park National Bank | CEN Newark Alford Bldg | 2026-10-28 |
-| [Senior Data Engineer (Snowflake, MySQL, Python)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Data-Engineer--Snowflake--MySQL--Python-_2129759-1) | Fidelity Investments | Covington, KY | 2026-10-28 |
+| [Senior It Project Manager](https://careers.teksystems.com/us/en/job/JP-006379980/Senior-It-Project-Manager) | TEKsystems | Cleveland, Ohio | 2026-10-28 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-28 |
+| [Cyber Security Admin](https://jobs.vaco.com/job/2753/cyber_security_admin/en) | Vaco | Fairfield, Ohio | 2026-10-28 |
+| [AI Product Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Product-Manager_R14157) | CareSource | Remote | 2026-10-28 |
+| [Manager, Application Production Support](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Application-Production-Support_R14172) | CareSource | Remote | 2026-10-28 |
+| [Lead Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Product-Owner_R74513) | Fifth Third Bank | Cincinnati, OH | 2026-10-28 |
+| [Application Engineering Manager](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Engineering-Manager_R9792) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-28 |
+| [Consultant, Cybersecurity (Agentic Solutions Engineer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Cybersecurity--Agentic-Solutions-Engineer-_099562) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-28 |
+| [Technical Writer Senior - Technical Writer Principal](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Technical-Writer-Senior---Technical-Writer-Principal_R20282-1) | American Electric Power | Columbus, OH | 2026-10-28 |
+| [ITD Web Technical Developer](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/ITD-Web-Technical-Developer_356657) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-10-28 |
+| [2027 R&D Data Science Co Op- Cleveland](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789) | Sherwin-Williams | Brecksville, OH, United States | 2026-10-28 |
+| [Application Configuration Analyst - IT Tx & Dx Systems and Compliance](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105671) | FirstEnergy | Akron, OH, United States | 2026-10-28 |
+| [Platform Engineer 2- Data Lake Administrator](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Platform-Engineer-2--Data-Lake-Administrator_R0076826) | Huntington Bank | Columbus, OH | 2026-10-28 |
+| [AI & Automation Lead - Product Development](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/AI---Automation-Lead---Product-Development_R5041939-2) | GE Aerospace | Evendale | 2026-10-28 |
+| [Preferred Account Representative, Neocloud / AI Factory](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284910) | Vertiv | Columbus, OH, United States | 2026-10-28 |
+| [IT Database Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=eb5f5ee1-74ff-4235-a582-bdc099eb0db8) | Medical Mutual of Ohio | Brooklyn OH | 2026-10-28 |
+| [Data Engineer (Snowflake, MySQL, Python)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Data-Engineer--Snowflake--MySQL--Python-_2132954-1) | Fidelity Investments | Covington, KY | 2026-10-28 |
+| [SRD IT Americas](https://cf-apply.jobappnetwork.com/apply/c_dhl/l_en/SRD-IT-Americas-USO-job-Westerville-OH-US-11164471.html) | DHL | Westerville, Ohio | 2026-10-28 |
+| [IT Advanced Support Technician](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/IT-Advanced-Support-Technician/18169?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-10-28 |
 <!-- JOBS:END -->
 
 ## How it works
