@@ -56,15 +56,34 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1572 tracked total · updated `2026-10-28T05:56:57+00:00`
+### 🆕 12 new roles this update · 1583 tracked total · updated `2026-10-28T13:11:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 2 |
+| OhioHealth | 2 |
+| Battelle | 2 |
 | Robert Half | 1 |
+| TRU Staffing Partners | 1 |
+| Nesco Resource | 1 |
+| Honda | 1 |
+| Park National Bank | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-28 |
+| [It Purchasing Manager](https://www.roberthalf.com/us/en/job/cincinnati-oh/it-purchasing-manager/03320-0013467904-usen) | Robert Half | Cincinnati, 03320 | 2026-10-28 |
+| [Platform Engineer, U.S.](https://jobs.trustaffingpartners.com/?jobid=7610#/jobs/7610) | TRU Staffing Partners | Anywhere | 2026-10-28 |
+| [Cyber Security Project Manager](https://agilityconnect.io/jobs/8578) | Agility Connect | Columbus, OH | 2026-10-28 |
+| [Network Engineer III](https://agilityconnect.io/jobs/8580) | Agility Connect | New Albany, OH | 2026-10-28 |
+| [Senior IT Project Manager - (Banking)](https://www.nescoresource.com/job-details/senior-it-project-manager-banking-in-information-technology-jobs-1772618) | Nesco Resource | Cleveland, OH | 2026-10-28 |
+| [Senior Cyber Security Engineer](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-Cyber-Security-Engineer_JR160452-1) | OhioHealth | WORK AT HOME - OHIO | 2026-10-28 |
+| [Associate IT Project Manager - Infrastructure](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Associate-IT-Project-Manager---Infrastructure_JR160377) | OhioHealth | WORK AT HOME - OHIO | 2026-10-28 |
+| [Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76488) | Battelle | Columbus, OH | 2026-10-28 |
+| [Quality Assurance Regulatory Auditor](https://jobs.battelle.org/us/en/job/76490) | Battelle | Remote, OH | 2026-10-28 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-28 |
+| [Intern - Business Intelligence](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) | Park National Bank | CEN Newark Alford Bldg | 2026-10-28 |
+| [Senior Data Engineer (Snowflake, MySQL, Python)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Data-Engineer--Snowflake--MySQL--Python-_2129759-1) | Fidelity Investments | Covington, KY | 2026-10-28 |
 <!-- JOBS:END -->
 
 ## How it works
