@@ -56,20 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1590 tracked total · updated `2026-10-29T01:18:25+00:00`
+### 🆕 2 new roles this update · 1583 tracked total · updated `2026-10-29T10:13:50+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vernovis | 4 |
-| Owens Corning | 1 |
+| Robert Half | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [BI Developer](https://vernovis.com/blog/jobs/11929/) | Vernovis | Cincinnati, | 2026-10-29 |
-| [COBOL Software Developer](https://vernovis.com/blog/jobs/11979/) | Vernovis | Cincinnati, | 2026-10-29 |
-| [Software Developer II](https://vernovis.com/blog/jobs/11956/) | Vernovis | Cincinnati, | 2026-10-29 |
-| [Software Developer III](https://vernovis.com/blog/jobs/11932/) | Vernovis | Cincinnati, | 2026-10-29 |
-| [Field Application Engineer](https://careers.owenscorning.com/job/Granville-Field-Application-Engineer-OH-43023-1200/1424384200/) | Owens Corning | OH | 2026-10-29 |
+| [Security Forward Deployed Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/security-forward-deployed-engineer/02940-0013512369-usen) | Robert Half | Cincinnati, 02940 | 2026-10-29 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-29 |
 <!-- JOBS:END -->
 
 ## How it works
