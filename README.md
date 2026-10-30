@@ -56,35 +56,38 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1600 tracked total · updated `2026-10-30T18:26:06+00:00`
+### 🆕 16 new roles this update · 1615 tracked total · updated `2026-10-30T22:40:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Path Robotics | 6 |
-| AtriCure | 2 |
+| Sherwin-Williams | 4 |
+| Path Robotics | 3 |
+| GE Aerospace | 2 |
+| St. Elizabeth Healthcare | 2 |
 | Robert Half | 1 |
-| Kao USA | 1 |
-| Great American Insurance | 1 |
-| GE Aerospace | 1 |
+| Nationwide | 1 |
+| Cleveland-Cliffs | 1 |
 | Battelle | 1 |
-| Cincinnati Insurance | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-10-30 |
-| [Architect, SAP ERP](https://kao.voyse.io/gh-job/4693574006?gh_jid=4693574006) | Kao USA | Cincinnati | 2026-10-30 |
-| [IT Co-op- ERP Data Migration](https://job-boards.greenhouse.io/atricure/jobs/4473612009) | AtriCure | Mason, OH | 2026-10-30 |
-| [IT Co-op- ERP Testing & Training](https://job-boards.greenhouse.io/atricure/jobs/4473604009) | AtriCure | Mason, OH | 2026-10-30 |
-| [Senior Machine Learning Engineer (Reinforcement Learning/World Model)](https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
-| [Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation](https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
-| [Senior Robotics Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8627330002?gh_jid=8627330002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
-| [Senior Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8340766002?gh_jid=8340766002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
-| [Software Engineer, C#](https://boards.greenhouse.io/pathrobotics/jobs/8635262002?gh_jid=8635262002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
-| [Staff Robotics Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8676058002?gh_jid=8676058002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
-| [IT Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-30 |
-| [Senior Staff Systems Engineer – Systems Strategy & Survivability](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Staff-Systems-Engineer---Systems-Strategy---Survivability_R5041940-2) | GE Aerospace | Evendale | 2026-10-30 |
-| [Senior Software Engineer, RF Spectrum Solutions](https://jobs.battelle.org/us/en/job/76662) | Battelle | Columbus, OH | 2026-10-30 |
-| [Human Resources - Human Resources Information Systems Analyst I-IV](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169709) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-10-30 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-10-30 |
+| [Machine Learning Engineer, Perception](https://boards.greenhouse.io/pathrobotics/jobs/8925919002?gh_jid=8925919002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
+| [Manager, Enterprise Fleet Support](https://boards.greenhouse.io/pathrobotics/jobs/8925897002?gh_jid=8925897002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
+| [Software Engineer, C++](https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
+| [Sr Engineer, Software Engineer - Genesys Cloud](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Sr-Engineer--Software-Engineer---Genesys-Cloud_100834-1) | Nationwide | Ohio - Columbus Metro | 2026-10-30 |
+| [Lead AI Cybersecurity Champion](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627721) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-30 |
+| [Sr. Application Security Engineer / Ethical Hacker](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627722) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-30 |
+| [CSOC Incident Response Lead](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628025) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-30 |
+| [Cybersecurity Security Operations Center Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628029) | Sherwin-Williams | Cleveland, OH, United States | 2026-10-30 |
+| [Quality Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Quality-Engineer_R13894) | Cleveland-Cliffs | Cleveland Works | 2026-10-30 |
+| [Senior Staff Engineer - Turbine Aerodynamics](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Staff-Engineer---Turbine-Aerodynamics_R5039907-2) | GE Aerospace | Evendale | 2026-10-30 |
+| [Staff Engineer - Turbine Aerodynamics](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Engineer---Turbine-Aerodynamics_R5042504-2) | GE Aerospace | Evendale | 2026-10-30 |
+| [Data Scientist II - Machine Learning](https://jobs.battelle.org/us/en/job/76661) | Battelle | Columbus, OH | 2026-10-30 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-30 |
+| [Sr Application Coordinator/Analyst - Epic MyChart](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Sr-Application-Coordinator-Analyst---Epic-MyChart_JR314781) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-10-30 |
+| [Sr Application Coordinator/Analyst - Epic Healthy Planet / Pop Health](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Sr-Application-Coordinator-Analyst---Epic-Healthy-Planet---Pop-Health_JR314779) | St. Elizabeth Healthcare | Crestview Hills, Kentucky | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
