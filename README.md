@@ -56,36 +56,35 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1574 tracked total · updated `2026-10-29T18:49:29+00:00`
+### 🆕 14 new roles this update · 1583 tracked total · updated `2026-10-30T01:20:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| 84.51° | 2 |
-| Great American Insurance | 2 |
-| Vertiv | 2 |
-| Robert Half | 1 |
-| Stanton House | 1 |
-| Agility Connect | 1 |
+| Battelle | 4 |
+| Collabera | 3 |
+| TEKsystems | 2 |
 | CareSource | 1 |
-| Abbott (Columbus) | 1 |
-| GE Aerospace | 1 |
-| STERIS | 1 |
+| Marathon Petroleum | 1 |
+| Path Robotics | 1 |
+| Great American Insurance | 1 |
+| Total Quality Logistics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-10-29 |
-| [Solutions Engineer, Enterprise](https://www.stantonhouse.com/us/jobs/33044-Solutions-Engineer-Enterprise) | Stanton House | San Francisco, CA (hybrid) | 2026-10-29 |
-| [QA Automation Engineer](https://agilityconnect.io/jobs/8582) | Agility Connect | Cincinnati, OH | 2026-10-29 |
-| [Lead Data Engineer](https://job-boards.greenhouse.io/8451/jobs/8773368002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-10-29 |
-| [Senior Data Engineer (P1754) (P1752)](https://job-boards.greenhouse.io/8451/jobs/8923332002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-10-29 |
-| [2027 Summer Internship Program - Full Stack AI Development Intern-1](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181) | CareSource | Remote | 2026-10-29 |
-| [Content Publishing Developer Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-29 |
-| [IT Data Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-29 |
-| [Product Manager- Epic](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Product-Manager--Epic_31165840) | Abbott (Columbus) | United States of America : Remote | 2026-10-29 |
-| [Test Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Test-Engineer_R5042435-1) | GE Aerospace | Evendale | 2026-10-29 |
-| [Test Engineer (Thermal Lab) - 2nd Shift](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20261158) | Vertiv | Columbus, OH, United States | 2026-10-29 |
-| [Internal Audit Operations Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271079) | Vertiv | Westerville, OH, United States | 2026-10-29 |
-| [Technical Support Specialist - Software](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=55386&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-10-29 |
+| [MLOps Engineer (Databricks)](https://careers.teksystems.com/us/en/job/JP-006384298/MLOps-Engineer-Databricks) | TEKsystems | Columbus, Ohio | 2026-10-30 |
+| [Lead Cloud FinOps](https://careers.teksystems.com/us/en/job/JP-006384986/Lead-Cloud-FinOps) | TEKsystems | Columbus, Ohio | 2026-10-30 |
+| [Front End Project Manager](https://jobs.smartrecruiters.com/Collabera2/743999657694743) | Collabera | Mason, OH | 2026-10-30 |
+| [Technical/Help Desk Support](https://jobs.smartrecruiters.com/Collabera2/743999655330136) | Collabera | Mason, OH | 2026-10-30 |
+| [IT Technical Writer](https://jobs.smartrecruiters.com/Collabera2/743999652323334) | Collabera | Mason, OH | 2026-10-30 |
+| [2027 Summer Internship Program - AI Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) | CareSource | Remote | 2026-10-30 |
+| [Senior Data Analyst](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Data-Analyst_00025012) | Marathon Petroleum | Findlay, Ohio | 2026-10-30 |
+| [Machine Learning & Robotics Internship 2027](https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
+| [DevOps Developer Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-30 |
+| [Mid-level Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76252) | Battelle | Columbus, OH | 2026-10-30 |
+| [Senior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76230) | Battelle | Columbus, OH | 2026-10-30 |
+| [Junior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76251) | Battelle | Columbus, OH | 2026-10-30 |
+| [Sr. Network Engineer](https://jobs.battelle.org/us/en/job/76273) | Battelle | Columbus, OH | 2026-10-30 |
+| [Site Reliability Engineer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-Site-Reliability-Engineer/18174?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
