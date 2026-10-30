@@ -56,22 +56,35 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1588 tracked total · updated `2026-10-30T10:28:35+00:00`
+### 🆕 14 new roles this update · 1600 tracked total · updated `2026-10-30T18:26:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vernovis | 2 |
+| Path Robotics | 6 |
+| AtriCure | 2 |
 | Robert Half | 1 |
+| Kao USA | 1 |
+| Great American Insurance | 1 |
+| GE Aerospace | 1 |
 | Battelle | 1 |
-| Honda | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-10-30 |
-| [Finance & Accounting SAP Business Analyst](https://vernovis.com/blog/jobs/11786/) | Vernovis | Cincinnati, | 2026-10-30 |
-| [ServiceNow Configuration Management Database (CMDB) Analyst](https://vernovis.com/blog/jobs/11424/) | Vernovis | Cincinnati, | 2026-10-30 |
-| [Software Engineer](https://jobs.battelle.org/us/en/job/76185) | Battelle | Columbus, OH | 2026-10-30 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-30 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-10-30 |
+| [Architect, SAP ERP](https://kao.voyse.io/gh-job/4693574006?gh_jid=4693574006) | Kao USA | Cincinnati | 2026-10-30 |
+| [IT Co-op- ERP Data Migration](https://job-boards.greenhouse.io/atricure/jobs/4473612009) | AtriCure | Mason, OH | 2026-10-30 |
+| [IT Co-op- ERP Testing & Training](https://job-boards.greenhouse.io/atricure/jobs/4473604009) | AtriCure | Mason, OH | 2026-10-30 |
+| [Senior Machine Learning Engineer (Reinforcement Learning/World Model)](https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
+| [Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation](https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
+| [Senior Robotics Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8627330002?gh_jid=8627330002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
+| [Senior Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8340766002?gh_jid=8340766002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
+| [Software Engineer, C#](https://boards.greenhouse.io/pathrobotics/jobs/8635262002?gh_jid=8635262002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
+| [Staff Robotics Software Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8676058002?gh_jid=8676058002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
+| [IT Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-30 |
+| [Senior Staff Systems Engineer – Systems Strategy & Survivability](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Staff-Systems-Engineer---Systems-Strategy---Survivability_R5041940-2) | GE Aerospace | Evendale | 2026-10-30 |
+| [Senior Software Engineer, RF Spectrum Solutions](https://jobs.battelle.org/us/en/job/76662) | Battelle | Columbus, OH | 2026-10-30 |
+| [Human Resources - Human Resources Information Systems Analyst I-IV](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169709) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
