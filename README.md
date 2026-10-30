@@ -56,35 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1583 tracked total · updated `2026-10-30T01:20:42+00:00`
+### 🆕 5 new roles this update · 1588 tracked total · updated `2026-10-30T10:28:35+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 4 |
-| Collabera | 3 |
-| TEKsystems | 2 |
-| CareSource | 1 |
-| Marathon Petroleum | 1 |
-| Path Robotics | 1 |
-| Great American Insurance | 1 |
-| Total Quality Logistics | 1 |
+| Vernovis | 2 |
+| Robert Half | 1 |
+| Battelle | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [MLOps Engineer (Databricks)](https://careers.teksystems.com/us/en/job/JP-006384298/MLOps-Engineer-Databricks) | TEKsystems | Columbus, Ohio | 2026-10-30 |
-| [Lead Cloud FinOps](https://careers.teksystems.com/us/en/job/JP-006384986/Lead-Cloud-FinOps) | TEKsystems | Columbus, Ohio | 2026-10-30 |
-| [Front End Project Manager](https://jobs.smartrecruiters.com/Collabera2/743999657694743) | Collabera | Mason, OH | 2026-10-30 |
-| [Technical/Help Desk Support](https://jobs.smartrecruiters.com/Collabera2/743999655330136) | Collabera | Mason, OH | 2026-10-30 |
-| [IT Technical Writer](https://jobs.smartrecruiters.com/Collabera2/743999652323334) | Collabera | Mason, OH | 2026-10-30 |
-| [2027 Summer Internship Program - AI Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) | CareSource | Remote | 2026-10-30 |
-| [Senior Data Analyst](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Data-Analyst_00025012) | Marathon Petroleum | Findlay, Ohio | 2026-10-30 |
-| [Machine Learning & Robotics Internship 2027](https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002) | Path Robotics | Columbus, Ohio | 2026-10-30 |
-| [DevOps Developer Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) | Great American Insurance | Cincinnati, OH (USA) | 2026-10-30 |
-| [Mid-level Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76252) | Battelle | Columbus, OH | 2026-10-30 |
-| [Senior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76230) | Battelle | Columbus, OH | 2026-10-30 |
-| [Junior Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76251) | Battelle | Columbus, OH | 2026-10-30 |
-| [Sr. Network Engineer](https://jobs.battelle.org/us/en/job/76273) | Battelle | Columbus, OH | 2026-10-30 |
-| [Site Reliability Engineer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-Site-Reliability-Engineer/18174?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-10-30 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-10-30 |
+| [Finance & Accounting SAP Business Analyst](https://vernovis.com/blog/jobs/11786/) | Vernovis | Cincinnati, | 2026-10-30 |
+| [ServiceNow Configuration Management Database (CMDB) Analyst](https://vernovis.com/blog/jobs/11424/) | Vernovis | Cincinnati, | 2026-10-30 |
+| [Software Engineer](https://jobs.battelle.org/us/en/job/76185) | Battelle | Columbus, OH | 2026-10-30 |
+| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
