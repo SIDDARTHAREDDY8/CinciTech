@@ -56,17 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1594 tracked total · updated `2026-10-31T12:38:49+00:00`
+### 🆕 1 new roles this update · 1588 tracked total · updated `2026-10-31T19:32:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-10-31 |
-| [Software Engineer II](https://agilityconnect.io/jobs/8586) | Agility Connect | Cincinnati, OH | 2026-10-31 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-10-31 |
 <!-- JOBS:END -->
 
 ## How it works
