@@ -56,19 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1593 tracked total · updated `2026-10-31T05:54:23+00:00`
+### 🆕 2 new roles this update · 1594 tracked total · updated `2026-10-31T12:38:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Nationwide | 1 |
-| Vertiv | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-10-31 |
-| [Specialist, Cybersecurity (Digital Forensics)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Cybersecurity--Digital-Forensics-_100985) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-10-31 |
-| [Associate Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285381) | Vertiv | Delaware, OH, United States | 2026-10-31 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-10-31 |
+| [Software Engineer II](https://agilityconnect.io/jobs/8586) | Agility Connect | Cincinnati, OH | 2026-10-31 |
 <!-- JOBS:END -->
 
 ## How it works
