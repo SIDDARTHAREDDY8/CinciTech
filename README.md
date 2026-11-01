@@ -56,21 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1565 tracked total · updated `2026-11-01T06:16:36+00:00`
+### 🆕 5 new roles this update · 1568 tracked total · updated `2026-11-01T13:38:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Root Insurance | 2 |
 | Robert Half | 1 |
-| Root Insurance | 1 |
-| Nationwide | 1 |
-| STERIS | 1 |
+| Gina's Tech Jobs | 1 |
+| Owens Corning | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-01 |
-| [Staff Machine Learning Engineer, Pricing Platform](https://ats.rippling.com/joinroot/jobs/eb244920-c537-4fdc-a01c-0fc811a35630) | Root Insurance | Remote (United States) | 2026-11-01 |
-| [Director, Product Operating Model & Agile Coaching Lead](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus/Director--Product-Operating-Model---Agile-Coaching-Lead_101076) | Nationwide | Ohio - Columbus | 2026-11-01 |
-| [Manager, Product & Platform Cybersecurity Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53422&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-01 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-01 |
+| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-11-01 |
+| [Lead Software Engineer, AI Platform](https://ats.rippling.com/joinroot/jobs/3c8a3de6-12c7-4fa8-aa35-5ba7909145d0) | Root Insurance | Remote (United States) | 2026-11-01 |
+| [Staff Software Engineer, AI Systems](https://ats.rippling.com/joinroot/jobs/81f9b048-86d1-40cf-bdc4-200643cf551f) | Root Insurance | Remote (United States) | 2026-11-01 |
+| [SAP Analytics Cloud (SAC) Analyst](https://careers.owenscorning.com/job/Toledo-SAP-Analytics-Cloud-%28SAC%29-Analyst-OH-43659-0001/1422676600/) | Owens Corning | OH | 2026-11-01 |
 <!-- JOBS:END -->
 
 ## How it works
