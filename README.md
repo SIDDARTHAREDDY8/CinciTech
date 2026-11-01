@@ -56,22 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1568 tracked total · updated `2026-11-01T13:38:26+00:00`
+### 🆕 1 new roles this update · 1564 tracked total · updated `2026-11-01T19:56:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Root Insurance | 2 |
 | Robert Half | 1 |
-| Gina's Tech Jobs | 1 |
-| Owens Corning | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-01 |
-| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-11-01 |
-| [Lead Software Engineer, AI Platform](https://ats.rippling.com/joinroot/jobs/3c8a3de6-12c7-4fa8-aa35-5ba7909145d0) | Root Insurance | Remote (United States) | 2026-11-01 |
-| [Staff Software Engineer, AI Systems](https://ats.rippling.com/joinroot/jobs/81f9b048-86d1-40cf-bdc4-200643cf551f) | Root Insurance | Remote (United States) | 2026-11-01 |
-| [SAP Analytics Cloud (SAC) Analyst](https://careers.owenscorning.com/job/Toledo-SAP-Analytics-Cloud-%28SAC%29-Analyst-OH-43659-0001/1422676600/) | Owens Corning | OH | 2026-11-01 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-01 |
 <!-- JOBS:END -->
 
 ## How it works
