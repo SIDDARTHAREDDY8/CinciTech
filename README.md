@@ -56,17 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1567 tracked total · updated `2026-11-01T00:22:53+00:00`
+### 🆕 4 new roles this update · 1565 tracked total · updated `2026-11-01T06:16:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Honda | 1 |
+| Root Insurance | 1 |
+| Nationwide | 1 |
+| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-01 |
-| [Software & System Test Engineer (102181)](https://careers.honda.com/us/en/job/11874) | Honda | Raymond, Ohio, United States | 2026-11-01 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-01 |
+| [Staff Machine Learning Engineer, Pricing Platform](https://ats.rippling.com/joinroot/jobs/eb244920-c537-4fdc-a01c-0fc811a35630) | Root Insurance | Remote (United States) | 2026-11-01 |
+| [Director, Product Operating Model & Agile Coaching Lead](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus/Director--Product-Operating-Model---Agile-Coaching-Lead_101076) | Nationwide | Ohio - Columbus | 2026-11-01 |
+| [Manager, Product & Platform Cybersecurity Engineering](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=53422&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-01 |
 <!-- JOBS:END -->
 
 ## How it works
