@@ -56,21 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1466 tracked total · updated `2026-11-02T01:02:27+00:00`
+### 🆕 8 new roles this update · 1472 tracked total · updated `2026-11-02T11:18:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medical Mutual of Ohio | 2 |
-| Lubrizol | 2 |
+| Nationwide | 3 |
+| GE Aerospace | 2 |
 | Robert Half | 1 |
+| Battelle | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-02 |
-| [BI Quality Assurance Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=565c3413-4114-438a-907a-cc17e1b5fb8b) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-02 |
-| [Business Intelligence Programmer Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=54dc2ece-7118-457d-9ceb-44f6a36e369e) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-02 |
-| [Information Technology Co-op (Spring 2027)](https://jobs.lubrizol.com/job/Wickliffe-Information-Technology-Co-op-%28Spring-2027%29-OH-44092-2298/1425406400/) | Lubrizol | OH | 2026-11-02 |
-| [Information Technology Co-op (Summer 2027)](https://jobs.lubrizol.com/job/Wickliffe-Information-Technology-Co-op-%28Summer-2027%29-OH-44092-2298/1425407200/) | Lubrizol | OH | 2026-11-02 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-02 |
+| [Consultant, Software Engineer - Platform Engineering](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Platform-Engineering_100906) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
+| [Consultant, Software Engineer — Forward Deployed Engineering](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Forward-Deployed-Engineering_100909) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
+| [Sr Consultant, Software Engineering — Forward Deployed Engineering](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineering-----Forward-Deployed-Engineering_100910) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
+| [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) | GE Aerospace | Remote | 2026-11-02 |
+| [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) | GE Aerospace | Remote | 2026-11-02 |
+| [Software Engineer](https://jobs.battelle.org/us/en/job/76503) | Battelle | Columbus, OH | 2026-11-02 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-02 |
 <!-- JOBS:END -->
 
 ## How it works
