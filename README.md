@@ -56,28 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1477 tracked total · updated `2026-11-03T07:03:19+00:00`
+### 🆕 5 new roles this update · 1479 tracked total · updated `2026-11-03T17:23:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 2 |
 | Robert Half | 1 |
+| Great American Insurance | 1 |
+| Bread Financial | 1 |
 | Sherwin-Williams | 1 |
-| GE Aerospace | 1 |
-| Honda | 1 |
 | Medical Mutual of Ohio | 1 |
-| Lincoln Electric | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Platform Engineer (Snowflake)](https://careers.teksystems.com/us/en/job/JP-006393946/Platform-Engineer-Snowflake) | TEKsystems | Cincinnati, Ohio | 2026-11-03 |
-| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006391882/Data-Analyst) | TEKsystems | New Albany, Ohio | 2026-11-03 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-03 |
-| [Product Owner, Oracle Recruiting Cloud](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627979) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-03 |
-| [Lead Supplier Quality Engineer - Metallic Powders & Melting](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer---Metallic-Powders---Melting_R5042533-1) | GE Aerospace | Remote | 2026-11-03 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-03 |
-| [Vice President, IT Applications & Technology Transformation](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=85c60d62-74f2-41fd-9987-b4dc7455293a) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-03 |
-| [Automation Applications Engineer](https://jobs.lincolnelectric.com/job/Fort-Loramie-Automation-Applications-Engineer-OH-45845/1428842833/) | Lincoln Electric | OH | 2026-11-03 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-03 |
+| [Cloud Native Senior Developer](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Native-Senior-Developer_R9841) | Great American Insurance | Cincinnati, OH (USA) | 2026-11-03 |
+| [Senior - Finance Quality Assurance Engineer](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/Senior---Finance-Quality-Assurance-Engineer_R1013371) | Bread Financial | Columbus, OH | 2026-11-03 |
+| [Senior Data Security Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628245) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-03 |
+| [Infrastructure Engineer](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=78bd982d-f980-447e-96e4-0e3b50401413) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-03 |
 <!-- JOBS:END -->
 
 ## How it works
