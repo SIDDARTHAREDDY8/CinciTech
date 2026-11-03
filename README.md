@@ -56,50 +56,28 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 1490 tracked total · updated `2026-11-02T22:04:37+00:00`
+### 🆕 8 new roles this update · 1477 tracked total · updated `2026-11-03T07:03:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Nationwide | 6 |
-| Cincinnati Children's Hospital | 5 |
-| CareSource | 2 |
-| Cintas | 2 |
+| TEKsystems | 2 |
 | Robert Half | 1 |
-| Fifth Third Bank | 1 |
-| Cleveland Clinic | 1 |
 | Sherwin-Williams | 1 |
-| OhioHealth | 1 |
-| Vertiv | 1 |
+| GE Aerospace | 1 |
 | Honda | 1 |
+| Medical Mutual of Ohio | 1 |
 | Lincoln Electric | 1 |
-| Atlas Air Worldwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-02 |
-| [Manager, Site Reliability Engineering](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Site-Reliability-Engineering_R14061-1) | CareSource | Remote | 2026-11-02 |
-| [AI Analyst IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Analyst-IV_R14265) | CareSource | Remote | 2026-11-02 |
-| [Senior Product Owner](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Product-Owner_R73849-1) | Fifth Third Bank | Cincinnati, OH | 2026-11-02 |
-| [Consultant, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer_101185) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
-| [Specialist, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer_101189) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
-| [Consultant, Software Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer_101190) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
-| [Consultant, Data Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Data-Engineer_101187) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
-| [Consultant, Data Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Data-Engineer_101183) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
-| [Consultant, Systems Analyst](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Systems-Analyst_101184) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-02 |
-| [Research Data Scientist I](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Data-Scientist-I_360816) | Cleveland Clinic | Remote Location | 2026-11-02 |
-| [Back End Applications Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628074) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-02 |
-| [IT Manager - Network Operations](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/IT-Manager---Network-Operations_JR160771) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-11-02 |
-| [Student II - Software Engineering Developer (A)](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
-| [Student II - Software Engineering Developer (B)](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
-| [Senior Developer](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/South-Campus/Senior-Developer_JR225939) | Cincinnati Children's Hospital | South Campus | 2026-11-02 |
-| [EMR Analyst II - Epic](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/EMR-Analyst-II---Epic_JR226555) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
-| [Student II - Data Management Engineer](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management-Engineer_JR226749) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
-| [IT Project Manager](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283389) | Vertiv | Westerville, OH, United States | 2026-11-02 |
-| [Global Network Security Team Lead (Firewall & Network Security Operations)](https://careers.honda.com/us/en/job/11879) | Honda | Marysville, Ohio, United States | 2026-11-02 |
-| [Commerce Modernization Developer - Level 3](https://careers.cintas.com/job/Mason-Commerce-Modernization-Developer-Level-3-OH-45040/1446729100/) | Cintas | OH | 2026-11-02 |
-| [SAP Functional Analyst-Level 3-CRM](https://careers.cintas.com/job/Mason-SAP-Functional-Analyst-Level-3-CRM-OH-45040/1446728600/) | Cintas | OH | 2026-11-02 |
-| [Quality Systems Administrator](https://jobs.lincolnelectric.com/job/Cleveland-Quality-Systems-Administrator-OH-44117/1453583533/) | Lincoln Electric | OH | 2026-11-02 |
-| [Powerplant Engineer](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4386756009) | Atlas Air Worldwide | Erlanger, KY, USA | 2026-11-02 |
+| [Platform Engineer (Snowflake)](https://careers.teksystems.com/us/en/job/JP-006393946/Platform-Engineer-Snowflake) | TEKsystems | Cincinnati, Ohio | 2026-11-03 |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006391882/Data-Analyst) | TEKsystems | New Albany, Ohio | 2026-11-03 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-03 |
+| [Product Owner, Oracle Recruiting Cloud](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627979) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-03 |
+| [Lead Supplier Quality Engineer - Metallic Powders & Melting](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer---Metallic-Powders---Melting_R5042533-1) | GE Aerospace | Remote | 2026-11-03 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-03 |
+| [Vice President, IT Applications & Technology Transformation](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=85c60d62-74f2-41fd-9987-b4dc7455293a) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-03 |
+| [Automation Applications Engineer](https://jobs.lincolnelectric.com/job/Fort-Loramie-Automation-Applications-Engineer-OH-45845/1428842833/) | Lincoln Electric | OH | 2026-11-03 |
 <!-- JOBS:END -->
 
 ## How it works
