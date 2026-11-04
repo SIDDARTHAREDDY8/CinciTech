@@ -56,33 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1486 tracked total · updated `2026-11-03T23:37:52+00:00`
+### 🆕 4 new roles this update · 1466 tracked total · updated `2026-11-04T06:29:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 1 |
 | Robert Half | 1 |
-| CareSource | 1 |
-| American Electric Power | 1 |
-| Sherwin-Williams | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
-| CrossCountry Mortgage | 1 |
-| St. Elizabeth Healthcare | 1 |
-| Medpace | 1 |
+| Vaco | 1 |
+| Fifth Third Bank | 1 |
+| Kroger | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Technical Project/Program Management - Technical Project Manager III](https://www.apexsystems.com/job/3058120_usa/technical-projectprogram-management---technical-project-manager-iii) | Apex Systems | Remote, CA | 2026-11-03 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-03 |
-| [2027 Summer Internship Program - Data Science Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306) | CareSource | Remote | 2026-11-03 |
-| [Senior Project Manager, Data & AI](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Senior-Project-Manager--Data---AI_R20798) | American Electric Power | Columbus, OH | 2026-11-03 |
-| [Full Stack Application Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628221) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-03 |
-| [DVT Engineer - Test Automation & Data Systems (Liquid Cooling)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260962) | Vertiv | Westerville, OH, United States | 2026-11-03 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-03 |
-| [Technical Support Engineer](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/LC10530---2160-Superior-Avenue-Cleveland-OH/Technical-Support-Engineer_JR03807) | CrossCountry Mortgage | LC10530 - 2160 Superior Avenue, Cleveland, OH | 2026-11-03 |
-| [Manager of HIM Epic Identity and Operations](https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Erlanger-Kentucky/Manager-of-HIM-Epic-Identity-and-Operations_JR314836-1) | St. Elizabeth Healthcare | Erlanger, Kentucky | 2026-11-03 |
-| [IT Internal Auditor](https://uscareers-medpace.icims.com/jobs/13112/login) | Medpace | Cincinnati, Ohio | 2026-11-03 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-04 |
+| [Workday Administrator](https://jobs.vaco.com/job/2876/workday_administrator/en) | Vaco | Cincinnati, Ohio | 2026-11-04 |
+| [Business Controls Analyst - Information Security](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Analyst_R74642) | Fifth Third Bank | Cincinnati, OH | 2026-11-04 |
+| [FRONT END/LEAD CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/248661) | Kroger | Columbus, WI, United States | 2026-11-04 |
 <!-- JOBS:END -->
 
 ## How it works
