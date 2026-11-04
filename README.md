@@ -56,21 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1466 tracked total · updated `2026-11-04T06:29:51+00:00`
+### 🆕 4 new roles this update · 1466 tracked total · updated `2026-11-04T14:50:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Vaco | 1 |
-| Fifth Third Bank | 1 |
-| Kroger | 1 |
+| J.M. Smucker | 1 |
+| Great American Insurance | 1 |
+| FirstEnergy | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-04 |
-| [Workday Administrator](https://jobs.vaco.com/job/2876/workday_administrator/en) | Vaco | Cincinnati, Ohio | 2026-11-04 |
-| [Business Controls Analyst - Information Security](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Analyst_R74642) | Fifth Third Bank | Cincinnati, OH | 2026-11-04 |
-| [FRONT END/LEAD CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/248661) | Kroger | Columbus, WI, United States | 2026-11-04 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-04 |
+| [Senior Manager, Quality Assurance](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Senior-Manager--Quality-Assurance_116100) | J.M. Smucker | Orrville, OH | 2026-11-04 |
+| [Business Intelligence (Power BI) Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843) | Great American Insurance | Cincinnati, OH (USA) | 2026-11-04 |
+| [Cyber Security Identity Engineer](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105765) | FirstEnergy | Akron, OH, United States | 2026-11-04 |
 <!-- JOBS:END -->
 
 ## How it works
