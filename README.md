@@ -56,37 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1473 tracked total · updated `2026-11-04T21:44:50+00:00`
+### 🆕 3 new roles this update · 1472 tracked total · updated `2026-11-05T01:46:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Stanton House | 2 |
-| Fidelity Investments | 2 |
 | Robert Half | 1 |
-| Vernovis | 1 |
-| Diebold Nixdorf | 1 |
-| Nationwide | 1 |
-| Sherwin-Williams | 1 |
-| Cincinnati Children's Hospital | 1 |
-| GE Aerospace | 1 |
-| Vertiv | 1 |
-| Battelle | 1 |
+| Cleveland Clinic | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-04 |
-| [Incident Response Lead](https://www.stantonhouse.com/us/jobs/32475-Incident-Response-Lead) | Stanton House | Seattle, WA (on-site) \| Remote options (EST) | 2026-11-04 |
-| [Infrastructure Security Engineer](https://www.stantonhouse.com/us/jobs/32584-Infrastructure-Security-Engineer) | Stanton House | New York City, NY (on-site) \| Remote options (EST) | 2026-11-04 |
-| [Fractional - Microsoft Dynamics GP Support Specialist](https://vernovis.com/blog/jobs/12294/) | Vernovis | Cincinnati, | 2026-11-04 |
-| [Production Support Technician](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20589) | Diebold Nixdorf | North Canton, OH, United States | 2026-11-04 |
-| [Specialist, Data Engineer - Snowflake and Python](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Engineer---Snowflake-and-Python_100959-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-04 |
-| [AI Digital Product Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2626052) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-04 |
-| [Senior EBA Technical Analyst - ServiceNow](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EBA-Technical-Analyst---ServiceNow_JR220821) | Cincinnati Children's Hospital | Remote | 2026-11-04 |
-| [Advanced Lead Supplier Quality Engineer - Composites](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Advanced-Lead-Supplier-Quality-Engineer---Composites_R5042638-1) | GE Aerospace | Remote | 2026-11-04 |
-| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285024) | Vertiv | Delaware, OH, United States | 2026-11-04 |
-| [Developer - Enterprise Business Systems](https://jobs.battelle.org/us/en/job/76673) | Battelle | Columbus, OH | 2026-11-04 |
-| [Principal, AI/ML Engineer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal--AI-ML-Engineer_2137341-1) | Fidelity Investments | Covington, KY | 2026-11-04 |
-| [Senior AI/ML Engineer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-AI-ML-Engineer_2137331) | Fidelity Investments | Covington, KY | 2026-11-04 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-05 |
+| [Director Nursing Informatics](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Director-Nursing-Informatics_351175) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-11-05 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-05 |
 <!-- JOBS:END -->
 
 ## How it works
