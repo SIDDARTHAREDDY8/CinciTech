@@ -56,19 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1472 tracked total · updated `2026-11-05T01:46:13+00:00`
+### 🆕 3 new roles this update · 1474 tracked total · updated `2026-11-05T11:06:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Cleveland Clinic | 1 |
-| Honda | 1 |
+| Brooksource | 1 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-05 |
-| [Director Nursing Informatics](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Director-Nursing-Informatics_351175) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-11-05 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-05 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-05 |
+| [Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000ysybeai-developer-columbus-ohio/) | Brooksource | Columbus, Ohio | 2026-11-05 |
+| [Sr. Engineer, Software Engineer (Test Automation Developer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer--Test-Automation-Developer-_101017) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-05 |
 <!-- JOBS:END -->
 
 ## How it works
