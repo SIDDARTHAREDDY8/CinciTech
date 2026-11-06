@@ -56,29 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1491 tracked total · updated `2026-11-06T01:55:48+00:00`
+### 🆕 1 new roles this update · 1491 tracked total · updated `2026-11-06T11:17:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CareSource | 2 |
-| Huntington Bank | 2 |
 | Robert Half | 1 |
-| J.M. Smucker | 1 |
-| Nationwide | 1 |
-| Cardinal Health | 1 |
-| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-06 |
-| [2027 Summer Internship Program - Cybersecurity](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) | CareSource | Remote | 2026-11-06 |
-| [2027 Summer Internship Program - Data Analyst](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) | CareSource | Remote | 2026-11-06 |
-| [Data Science Intern, Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) | J.M. Smucker | Working Remote USA | 2026-11-06 |
-| [Summer 2027 Enterprise Risk Management Internship](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Enterprise-Risk-Management-Internship_100097) | Nationwide | Ohio - Columbus Metro | 2026-11-06 |
-| [IT Business Analyst](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/IT-Business-Analyst_20189765) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-06 |
-| [Senior Software Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Software-Developer_R0076613) | Huntington Bank | Columbus, OH | 2026-11-06 |
-| [Service Desk Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Service-Desk-Analyst_R0076202) | Huntington Bank | Columbus, OH | 2026-11-06 |
-| [Software & System Test Engineer](https://careers.honda.com/us/en/job/13263) | Honda | Raymond, Ohio, United States | 2026-11-06 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-06 |
 <!-- JOBS:END -->
 
 ## How it works
