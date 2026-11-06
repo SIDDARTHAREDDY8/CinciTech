@@ -56,36 +56,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 1486 tracked total · updated `2026-11-05T20:15:56+00:00`
+### 🆕 9 new roles this update · 1491 tracked total · updated `2026-11-06T01:55:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cintas | 3 |
-| Agility Connect | 2 |
+| CareSource | 2 |
+| Huntington Bank | 2 |
 | Robert Half | 1 |
-| Strategic Staffing Solutions | 1 |
-| Huntington Bank | 1 |
-| Cincinnati Children's Hospital | 1 |
-| CrossCountry Mortgage | 1 |
-| Owens Corning | 1 |
-| Medpace | 1 |
-| L3Harris | 1 |
+| J.M. Smucker | 1 |
+| Nationwide | 1 |
+| Cardinal Health | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-05 |
-| [Identity And Access Strategy Lead Fixed Term Contract](https://jobs.strategicstaff.com/jobs/identity-and-access-strategy-lead-fixed-term-contract-170655/) | Strategic Staffing Solutions | Lithuania, Remote | 2026-11-05 |
-| [QA Analyst](https://agilityconnect.io/jobs/8594) | Agility Connect | Cincinnati, OH | 2026-11-05 |
-| [Quality Assurance Engineer](https://agilityconnect.io/jobs/8592) | Agility Connect | Cincinnati, OH | 2026-11-05 |
-| [IT Tech Analyst - Core Banking Team - Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Tech-Analyst---Core-Banking-Team---Developer_R0077528) | Huntington Bank | Columbus, OH | 2026-11-05 |
-| [Senior EMR Analyst - CINCI Lab](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EMR-Analyst---CINCI-Lab_JR226550) | Cincinnati Children's Hospital | Remote | 2026-11-05 |
-| [Technical Support Engineer](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/JP10031---North-Ridgeville-OH/Technical-Support-Engineer_JR03807) | CrossCountry Mortgage | JP10031 - North Ridgeville, OH | 2026-11-05 |
-| [IT Intern - Engineer - Customer Channels](https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/) | Cintas | OH | 2026-11-05 |
-| [IT Intern - Commerce Analyst - Customer Channels](https://careers.cintas.com/job/Mason-IT-Intern-Commerce-Analyst-Customer-Channels-OH-45040/1448204200/) | Cintas | OH | 2026-11-05 |
-| [IT Intern - Desktop](https://careers.cintas.com/job/Mason-IT-Intern-Desktop-OH-45040/1448096500/) | Cintas | OH | 2026-11-05 |
-| [Product Owner Lead - Global Capital Delivery, R&D](https://careers.owenscorning.com/job/Granville-Product-Owner-Lead-Global-Capital-Delivery%2C-R&D-OH-43023-1200/1448057200/) | Owens Corning | OH | 2026-11-05 |
-| [Internal Audit Manager](https://uscareers-medpace.icims.com/jobs/13120/login) | Medpace | Cincinnati, Ohio | 2026-11-05 |
-| [Sr. Specialist Software Engineering (Embedded)](https://careers.l3harris.com/en/job/mason/sr-specialist-software-engineering-embedded/4832/100486595536) | L3Harris | Mason, OH | 2026-11-05 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-06 |
+| [2027 Summer Internship Program - Cybersecurity](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) | CareSource | Remote | 2026-11-06 |
+| [2027 Summer Internship Program - Data Analyst](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) | CareSource | Remote | 2026-11-06 |
+| [Data Science Intern, Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) | J.M. Smucker | Working Remote USA | 2026-11-06 |
+| [Summer 2027 Enterprise Risk Management Internship](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Enterprise-Risk-Management-Internship_100097) | Nationwide | Ohio - Columbus Metro | 2026-11-06 |
+| [IT Business Analyst](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/IT-Business-Analyst_20189765) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-06 |
+| [Senior Software Developer](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Software-Developer_R0076613) | Huntington Bank | Columbus, OH | 2026-11-06 |
+| [Service Desk Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Service-Desk-Analyst_R0076202) | Huntington Bank | Columbus, OH | 2026-11-06 |
+| [Software & System Test Engineer](https://careers.honda.com/us/en/job/13263) | Honda | Raymond, Ohio, United States | 2026-11-06 |
 <!-- JOBS:END -->
 
 ## How it works
