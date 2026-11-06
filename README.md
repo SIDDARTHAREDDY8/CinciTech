@@ -56,15 +56,42 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1491 tracked total · updated `2026-11-06T11:17:18+00:00`
+### 🆕 17 new roles this update · 1507 tracked total · updated `2026-11-06T19:43:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| TEKsystems | 3 |
+| OhioHealth | 2 |
+| Medical Mutual of Ohio | 2 |
+| Cintas | 2 |
 | Robert Half | 1 |
+| Fifth Third Bank | 1 |
+| Bread Financial | 1 |
+| Cleveland Clinic | 1 |
+| Procter & Gamble | 1 |
+| Huntington Bank | 1 |
+| Cleveland-Cliffs | 1 |
+| Medpace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-06 |
+| [Manufacturing Plant IT Desktop Support Technician (L1 And L2 Openings)](https://careers.teksystems.com/us/en/job/JP-006403115/Manufacturing-Plant-IT-Desktop-Support-Technician-L1-And-L2-Openings) | TEKsystems | Toledo, Ohio | 2026-11-06 |
+| [CMDB Product Owner](https://careers.teksystems.com/us/en/job/JP-006402545/CMDB-Product-Owner) | TEKsystems | Cincinnati, Ohio | 2026-11-06 |
+| [Servicenow Administrator](https://careers.teksystems.com/us/en/job/JP-006402452/Servicenow-Administrator) | TEKsystems | Cincinnati, Ohio | 2026-11-06 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-06 |
+| [Principal, Data Governance](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal--Data-Governance_R74628) | Fifth Third Bank | Cincinnati, OH | 2026-11-06 |
+| [Senior Software Engineer](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/Senior-Software-Engineer_R1013318-1) | Bread Financial | Columbus, OH | 2026-11-06 |
+| [Data Scientist I - Center for Diagnostics and Artificial Intelligence](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Center-for-Diagnostics-and-Artificial-Intelligence_356735) | Cleveland Clinic | Remote Location | 2026-11-06 |
+| [Senior AI Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-AI-Engineer_R000158858-1) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-11-06 |
+| [Segment Risk Manager - Cybersecurity](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Segment-Risk-Manager---Cybersecurity_R0077549-1) | Huntington Bank | Columbus, OH | 2026-11-06 |
+| [IT Support Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/IT-Support-Engineer_R13988) | Cleveland-Cliffs | Cleveland Works | 2026-11-06 |
+| [IT Tech Lead -Revenue Cycle Applications](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Tech-Lead--Revenue-Cycle-Applications_JR161049) | OhioHealth | WORK AT HOME - OHIO | 2026-11-06 |
+| [Epic System Analyst - Optime/Anesthesia](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-System-Analyst---Optime-Anesthesia_JR161179) | OhioHealth | WORK AT HOME - OHIO | 2026-11-06 |
+| [Microsoft Dynamics 365 & Power Platform Developer](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=a9214cb1-bcfe-4114-87a3-e17ecad2fc71) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-06 |
+| [Microsoft Dynamics 365 Quality Assurance Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=b2d58f06-3e63-4357-a000-1a3c5d8b71c7) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-06 |
+| [IT Intern - SAP BASIS](https://careers.cintas.com/job/Mason-IT-Intern-SAP-BASIS-OH-45040/1448629500/) | Cintas | OH | 2026-11-06 |
+| [IT Intern - Security, Governance, Risk, & Compliance](https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/) | Cintas | OH | 2026-11-06 |
+| [Business Analyst / Product Owner](https://uscareers-medpace.icims.com/jobs/13124/login) | Medpace | Cincinnati, Ohio | 2026-11-06 |
 <!-- JOBS:END -->
 
 ## How it works
