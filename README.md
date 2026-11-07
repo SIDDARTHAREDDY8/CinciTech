@@ -56,17 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1516 tracked total · updated `2026-11-07T10:19:35+00:00`
+### 🆕 12 new roles this update · 1525 tracked total · updated `2026-11-07T18:04:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 11 |
 | Robert Half | 1 |
-| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-07 |
-| [Consultant, Software Engineer (DevXP)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--DevXP-_101081) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-07 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-07 |
+| [Senior Technical Product Owner](https://agilityconnect.io/jobs/8605) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [IAM Engineer](https://agilityconnect.io/jobs/8600) | Agility Connect | Columbus, OH | 2026-11-07 |
+| [Java Developer](https://agilityconnect.io/jobs/8596) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Java Full Stack Developer](https://agilityconnect.io/jobs/8606) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [AWS AI Platform Engineer](https://agilityconnect.io/jobs/8598) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Financial Crimes Quality Engineer](https://agilityconnect.io/jobs/8597) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior AI/Python Developer](https://agilityconnect.io/jobs/8604) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior Data Engineer](https://agilityconnect.io/jobs/8610) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior Full Stack Developer](https://agilityconnect.io/jobs/8608) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior QA Engineer](https://agilityconnect.io/jobs/8601) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior Software Engineer](https://agilityconnect.io/jobs/8607) | Agility Connect | Cincinnati, OH | 2026-11-07 |
 <!-- JOBS:END -->
 
 ## How it works
