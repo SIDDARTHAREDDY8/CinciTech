@@ -56,38 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1515 tracked total · updated `2026-11-07T01:16:07+00:00`
+### 🆕 2 new roles this update · 1516 tracked total · updated `2026-11-07T10:19:35+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Lincoln Electric | 3 |
-| Vertiv | 2 |
-| Kforce | 1 |
 | Robert Half | 1 |
-| CareSource | 1 |
-| Root Insurance | 1 |
-| American Electric Power | 1 |
-| Cardinal Health | 1 |
-| Sherwin-Williams | 1 |
-| FirstEnergy | 1 |
-| Honeywell | 1 |
+| Nationwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Principal AI Engineer](http://www.kforce.com/Jobs/1696~AQG~2187554T1~99/) | Kforce | Covington, KY | 2026-11-07 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-07 |
-| [Data Engineer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Engineer-III_R14343) | CareSource | Remote | 2026-11-07 |
-| [Staff Security Engineer](https://ats.rippling.com/joinroot/jobs/970dfc59-ff93-4549-b769-69b03f965a58) | Root Insurance | Remote (United States) | 2026-11-07 |
-| [Engineer/Technical Specialist (Mid – Sr.) \| Generation Control Systems Engineering](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Engineer-Technical-Specialist--Mid---Sr----Generation-Control-Systems-Engineering_R20547) | American Electric Power | Columbus, OH | 2026-11-07 |
-| [Director, Enterprise Financial Planning & Analysis](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Director--Enterprise-Financial-Planning---Analysis_20190121-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-07 |
-| [Lead AI Cybersecurity Champion](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628670) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-07 |
-| [Data Analyst I - Distribution System Operations](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105810) | FirstEnergy | Akron, OH, United States | 2026-11-07 |
-| [Services Data Analytics Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279135) | Vertiv | Westerville, OH, United States | 2026-11-07 |
-| [Lead Developer Enablement Engineer (Apple Infrastructure)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285878) | Vertiv | Westerville, OH, United States | 2026-11-07 |
-| [Manufacturing Systems Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Manufacturing-Systems-Engineer-OH-44117/1455346933/) | Lincoln Electric | OH | 2026-11-07 |
-| [Manufacturing Systems Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Manufacturing-Systems-Engineer-OH-44117/1455336533/) | Lincoln Electric | OH | 2026-11-07 |
-| [Manufacturing Systems Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Manufacturing-Systems-Engineer-OH-44117/1455334933/) | Lincoln Electric | OH | 2026-11-07 |
-| [Sr Product Management Specialist, AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161118) | Honeywell | Hamilton Township, NJ, United States | 2026-11-07 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-07 |
+| [Consultant, Software Engineer (DevXP)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--DevXP-_101081) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-07 |
 <!-- JOBS:END -->
 
 ## How it works
