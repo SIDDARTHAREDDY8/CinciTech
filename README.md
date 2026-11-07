@@ -56,42 +56,38 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 1507 tracked total · updated `2026-11-06T19:43:11+00:00`
+### 🆕 14 new roles this update · 1515 tracked total · updated `2026-11-07T01:16:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 3 |
-| OhioHealth | 2 |
-| Medical Mutual of Ohio | 2 |
-| Cintas | 2 |
+| Lincoln Electric | 3 |
+| Vertiv | 2 |
+| Kforce | 1 |
 | Robert Half | 1 |
-| Fifth Third Bank | 1 |
-| Bread Financial | 1 |
-| Cleveland Clinic | 1 |
-| Procter & Gamble | 1 |
-| Huntington Bank | 1 |
-| Cleveland-Cliffs | 1 |
-| Medpace | 1 |
+| CareSource | 1 |
+| Root Insurance | 1 |
+| American Electric Power | 1 |
+| Cardinal Health | 1 |
+| Sherwin-Williams | 1 |
+| FirstEnergy | 1 |
+| Honeywell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manufacturing Plant IT Desktop Support Technician (L1 And L2 Openings)](https://careers.teksystems.com/us/en/job/JP-006403115/Manufacturing-Plant-IT-Desktop-Support-Technician-L1-And-L2-Openings) | TEKsystems | Toledo, Ohio | 2026-11-06 |
-| [CMDB Product Owner](https://careers.teksystems.com/us/en/job/JP-006402545/CMDB-Product-Owner) | TEKsystems | Cincinnati, Ohio | 2026-11-06 |
-| [Servicenow Administrator](https://careers.teksystems.com/us/en/job/JP-006402452/Servicenow-Administrator) | TEKsystems | Cincinnati, Ohio | 2026-11-06 |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-06 |
-| [Principal, Data Governance](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal--Data-Governance_R74628) | Fifth Third Bank | Cincinnati, OH | 2026-11-06 |
-| [Senior Software Engineer](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/Senior-Software-Engineer_R1013318-1) | Bread Financial | Columbus, OH | 2026-11-06 |
-| [Data Scientist I - Center for Diagnostics and Artificial Intelligence](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Center-for-Diagnostics-and-Artificial-Intelligence_356735) | Cleveland Clinic | Remote Location | 2026-11-06 |
-| [Senior AI Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-AI-Engineer_R000158858-1) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-11-06 |
-| [Segment Risk Manager - Cybersecurity](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Segment-Risk-Manager---Cybersecurity_R0077549-1) | Huntington Bank | Columbus, OH | 2026-11-06 |
-| [IT Support Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/IT-Support-Engineer_R13988) | Cleveland-Cliffs | Cleveland Works | 2026-11-06 |
-| [IT Tech Lead -Revenue Cycle Applications](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Tech-Lead--Revenue-Cycle-Applications_JR161049) | OhioHealth | WORK AT HOME - OHIO | 2026-11-06 |
-| [Epic System Analyst - Optime/Anesthesia](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-System-Analyst---Optime-Anesthesia_JR161179) | OhioHealth | WORK AT HOME - OHIO | 2026-11-06 |
-| [Microsoft Dynamics 365 & Power Platform Developer](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=a9214cb1-bcfe-4114-87a3-e17ecad2fc71) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-06 |
-| [Microsoft Dynamics 365 Quality Assurance Analyst](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=b2d58f06-3e63-4357-a000-1a3c5d8b71c7) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-06 |
-| [IT Intern - SAP BASIS](https://careers.cintas.com/job/Mason-IT-Intern-SAP-BASIS-OH-45040/1448629500/) | Cintas | OH | 2026-11-06 |
-| [IT Intern - Security, Governance, Risk, & Compliance](https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/) | Cintas | OH | 2026-11-06 |
-| [Business Analyst / Product Owner](https://uscareers-medpace.icims.com/jobs/13124/login) | Medpace | Cincinnati, Ohio | 2026-11-06 |
+| [Principal AI Engineer](http://www.kforce.com/Jobs/1696~AQG~2187554T1~99/) | Kforce | Covington, KY | 2026-11-07 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-07 |
+| [Data Engineer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Engineer-III_R14343) | CareSource | Remote | 2026-11-07 |
+| [Staff Security Engineer](https://ats.rippling.com/joinroot/jobs/970dfc59-ff93-4549-b769-69b03f965a58) | Root Insurance | Remote (United States) | 2026-11-07 |
+| [Engineer/Technical Specialist (Mid – Sr.) \| Generation Control Systems Engineering](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Engineer-Technical-Specialist--Mid---Sr----Generation-Control-Systems-Engineering_R20547) | American Electric Power | Columbus, OH | 2026-11-07 |
+| [Director, Enterprise Financial Planning & Analysis](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Director--Enterprise-Financial-Planning---Analysis_20190121-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-07 |
+| [Lead AI Cybersecurity Champion](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628670) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-07 |
+| [Data Analyst I - Distribution System Operations](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105810) | FirstEnergy | Akron, OH, United States | 2026-11-07 |
+| [Services Data Analytics Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279135) | Vertiv | Westerville, OH, United States | 2026-11-07 |
+| [Lead Developer Enablement Engineer (Apple Infrastructure)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285878) | Vertiv | Westerville, OH, United States | 2026-11-07 |
+| [Manufacturing Systems Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Manufacturing-Systems-Engineer-OH-44117/1455346933/) | Lincoln Electric | OH | 2026-11-07 |
+| [Manufacturing Systems Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Manufacturing-Systems-Engineer-OH-44117/1455336533/) | Lincoln Electric | OH | 2026-11-07 |
+| [Manufacturing Systems Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Manufacturing-Systems-Engineer-OH-44117/1455334933/) | Lincoln Electric | OH | 2026-11-07 |
+| [Sr Product Management Specialist, AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161118) | Honeywell | Hamilton Township, NJ, United States | 2026-11-07 |
 <!-- JOBS:END -->
 
 ## How it works
