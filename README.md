@@ -56,18 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1527 tracked total · updated `2026-11-07T22:08:30+00:00`
+### 🆕 1 new roles this update · 1512 tracked total · updated `2026-11-08T06:15:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Battelle | 2 |
 | Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-07 |
-| [Junior Embedded Systems Developer](https://jobs.battelle.org/us/en/job/76361) | Battelle | Columbus, OH | 2026-11-07 |
-| [Embedded Systems Developer, Cyber Research](https://jobs.battelle.org/us/en/job/76362) | Battelle | Columbus, OH | 2026-11-07 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-08 |
 <!-- JOBS:END -->
 
 ## How it works
