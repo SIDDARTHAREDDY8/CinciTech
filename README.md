@@ -56,15 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1512 tracked total · updated `2026-11-08T06:15:26+00:00`
+### 🆕 3 new roles this update · 1507 tracked total · updated `2026-11-08T13:42:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
+| Compunnel | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-08 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-08 |
+| [Senior Genesys Cloud CX Engineer](https://jobs.compunnel.com/jobs/6030937) | Compunnel | Remote, Oregon, United States | 2026-11-08 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-08 |
 <!-- JOBS:END -->
 
 ## How it works
