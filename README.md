@@ -56,17 +56,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1470 tracked total · updated `2026-11-09T01:15:28+00:00`
+### 🆕 2 new roles this update · 1470 tracked total · updated `2026-11-09T11:47:40+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Honda | 1 |
+| Lubrizol | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-09 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-09 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-09 |
+| [Senior Corporate Quality Engineer](https://jobs.lubrizol.com/job/Wickliffe-Senior-Corporate-Quality-Engineer-OH-44092-2298/1434966200/) | Lubrizol | OH | 2026-11-09 |
 <!-- JOBS:END -->
 
 ## How it works
