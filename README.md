@@ -56,17 +56,33 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1470 tracked total · updated `2026-11-09T11:47:40+00:00`
+### 🆕 11 new roles this update · 1473 tracked total · updated `2026-11-09T22:38:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Vertiv | 2 |
+| Honda | 2 |
 | Robert Half | 1 |
-| Lubrizol | 1 |
+| Vaco | 1 |
+| 84.51° | 1 |
+| Fifth Third Bank | 1 |
+| Nationwide | 1 |
+| Kroger | 1 |
+| Huntington Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-09 |
-| [Senior Corporate Quality Engineer](https://jobs.lubrizol.com/job/Wickliffe-Senior-Corporate-Quality-Engineer-OH-44092-2298/1434966200/) | Lubrizol | OH | 2026-11-09 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-09 |
+| [It Support Technician](https://jobs.vaco.com/job/3008/it_support_technician/en) | Vaco | Parma, Ohio | 2026-11-09 |
+| [Lead AI/ML Engineer (P4363)](https://job-boards.greenhouse.io/8451/jobs/8924511002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-11-09 |
+| [Principal Data Engineer - Data Strategy & Architecture](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Data-Engineer---Data-Strategy---Architecture_R74748-1) | Fifth Third Bank | Cincinnati, OH | 2026-11-09 |
+| [Specialist, Systems Analyst - Claims](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Systems-Analyst---Claims_100838-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-09 |
+| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/250431) | Kroger | Sharonville, OH, United States | 2026-11-09 |
+| [Business Intelligence Lead Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Intelligence-Lead-Analyst_R0077232) | Huntington Bank | Columbus, OH | 2026-11-09 |
+| [Systems Integration Engineer A - East](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285701) | Vertiv | Dayton, OH, United States | 2026-11-09 |
+| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285861) | Vertiv | Delaware, OH, United States | 2026-11-09 |
+| [Operations Support Specialist](https://careers.honda.com/us/en/job/12981) | Honda | Marysville, Ohio, United States | 2026-11-09 |
+| [Technical Project Manager (102371)](https://careers.honda.com/us/en/job/13329) | Honda | Raymond, Ohio, United States | 2026-11-09 |
 <!-- JOBS:END -->
 
 ## How it works
