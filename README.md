@@ -56,38 +56,30 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 1467 tracked total · updated `2026-11-10T17:27:45+00:00`
+### 🆕 9 new roles this update · 1469 tracked total · updated `2026-11-10T23:35:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| American Electric Power | 2 |
-| FirstEnergy | 2 |
-| Vertiv | 2 |
+| Honda | 2 |
 | Robert Half | 1 |
-| Agility Connect | 1 |
-| CareSource | 1 |
-| Cincinnati Children's Hospital | 1 |
-| STERIS | 1 |
-| Dana Incorporated | 1 |
-| Medpace | 1 |
-| L3Harris | 1 |
+| Fifth Third Bank | 1 |
+| Great American Insurance | 1 |
+| Cleveland Clinic | 1 |
+| Abbott (Columbus) | 1 |
+| GE Aerospace | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-10 |
-| [Software Engineer](https://agilityconnect.io/jobs/8556) | Agility Connect | Columbus, OH | 2026-11-10 |
-| [FWA Payment Integrity Data Analyst III (Health Plan & SQL exp required)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/FWA-Payment-Integrity-Data-Analyst-III--Health-Plan---SQL-exp-required-_R14454) | CareSource | Remote | 2026-11-10 |
-| [Director, Enterprise Architecture](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director--Enterprise-Architecture_R20836) | American Electric Power | Columbus, OH | 2026-11-10 |
-| [Cyber Cloud Solution Engineer Lead/Staff](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cyber-Cloud-Solution-Engineer-Lead-Staff_R20688-1) | American Electric Power | Columbus, OH | 2026-11-10 |
-| [Senior Transmission Policy & Support Specialist](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105084) | FirstEnergy | Akron, OH, United States | 2026-11-10 |
-| [Standards Analyst - IT Tx & Dx Systems and Compliance](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105838) | FirstEnergy | Akron, OH, United States | 2026-11-10 |
-| [SVP - Chief AI Officer](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/SVP---Chief-AI-Officer_JR227162) | Cincinnati Children's Hospital | Burnet Campus | 2026-11-10 |
-| [AI Enablement Change Management Lead](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270991) | Vertiv | Westerville, OH, United States | 2026-11-10 |
-| [AI Integration Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281109) | Vertiv | Westerville, OH, United States | 2026-11-10 |
-| [Senior Systems Engineer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=56918&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-10 |
-| [IT Field Support](https://jobs.dana.com/job/Napoleon-IT-Field-Support-OH-43545/1449323200/) | Dana Incorporated | OH | 2026-11-10 |
-| [Clinical Informatics Internship/Co-op - Summer 2027](https://uscareers-medpace.icims.com/jobs/12988/login) | Medpace | Cincinnati, Ohio | 2026-11-10 |
-| [Lead, Data Architect - Business Solution Architect](https://careers.l3harris.com/en/job/united-states/lead-data-architect-business-solution-architect/4832/103118096144) | L3Harris | Remote | 2026-11-10 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-10 |
+| [Lead Information Security Engineer - Cyber Defense](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Information-Security-Engineer---Cyber-Defense_R74867-1) | Fifth Third Bank | Virtual | 2026-11-10 |
+| [IT Summer Internship Program Event Coordinator Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Summer-Internship-Program-Event-Coordinator-Intern---Summer-2027_R9889) | Great American Insurance | Cincinnati, OH (USA) | 2026-11-10 |
+| [Research Data Scientist II - Rotroff Lab](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-II---Rotroff-Lab_356305) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-11-10 |
+| [Senior Project Lead Quality Assurance - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Project-Lead-Quality-Assurance_31166623) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-11-10 |
+| [Turbine Aerodynamics Lead Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Turbine-Aerodynamics-Lead-Engineer_R5043007-1) | GE Aerospace | Evendale | 2026-11-10 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/13343) | Honda | East Liberty, Ohio, United States | 2026-11-10 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-10 |
+| [Director, Product Management, Wealth AI](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-Crosby-Pkwy-Covington-KY/Director--Product-Management---Wealth-AI_2133611) | Fidelity Investments | 100 Crosby Pkwy, Covington KY | 2026-11-10 |
 <!-- JOBS:END -->
 
 ## How it works
