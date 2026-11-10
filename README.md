@@ -56,33 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1473 tracked total · updated `2026-11-09T22:38:51+00:00`
+### 🆕 7 new roles this update · 1457 tracked total · updated `2026-11-10T07:31:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 2 |
+| Battelle | 2 |
 | Honda | 2 |
 | Robert Half | 1 |
-| Vaco | 1 |
-| 84.51° | 1 |
-| Fifth Third Bank | 1 |
+| Root Insurance | 1 |
 | Nationwide | 1 |
-| Kroger | 1 |
-| Huntington Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-09 |
-| [It Support Technician](https://jobs.vaco.com/job/3008/it_support_technician/en) | Vaco | Parma, Ohio | 2026-11-09 |
-| [Lead AI/ML Engineer (P4363)](https://job-boards.greenhouse.io/8451/jobs/8924511002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-11-09 |
-| [Principal Data Engineer - Data Strategy & Architecture](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Data-Engineer---Data-Strategy---Architecture_R74748-1) | Fifth Third Bank | Cincinnati, OH | 2026-11-09 |
-| [Specialist, Systems Analyst - Claims](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Systems-Analyst---Claims_100838-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-09 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/250431) | Kroger | Sharonville, OH, United States | 2026-11-09 |
-| [Business Intelligence Lead Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Intelligence-Lead-Analyst_R0077232) | Huntington Bank | Columbus, OH | 2026-11-09 |
-| [Systems Integration Engineer A - East](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285701) | Vertiv | Dayton, OH, United States | 2026-11-09 |
-| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285861) | Vertiv | Delaware, OH, United States | 2026-11-09 |
-| [Operations Support Specialist](https://careers.honda.com/us/en/job/12981) | Honda | Marysville, Ohio, United States | 2026-11-09 |
-| [Technical Project Manager (102371)](https://careers.honda.com/us/en/job/13329) | Honda | Raymond, Ohio, United States | 2026-11-09 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-10 |
+| [Staff Data Engineer](https://ats.rippling.com/joinroot/jobs/273bd499-90f1-47fd-9ea5-bf5e427260d5) | Root Insurance | Remote (United States) | 2026-11-10 |
+| [Sr Consultant, Software Engineer (AI Engineer)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineer--AI-Engineer-_101174) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-10 |
+| [Junior Embedded Reverse Engineer/Vulnerability Researcher](https://jobs.battelle.org/us/en/job/76523) | Battelle | Columbus, OH | 2026-11-10 |
+| [Embedded Reverse Engineer/Vulnerability Researcher (Early Career)](https://jobs.battelle.org/us/en/job/76524) | Battelle | Columbus, OH | 2026-11-10 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-10 |
+| [AI Machine Learning Principal Engineer](https://careers.honda.com/us/en/job/10852) | Honda | Raymond, Ohio, United States | 2026-11-10 |
 <!-- JOBS:END -->
 
 ## How it works
