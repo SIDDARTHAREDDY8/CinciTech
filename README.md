@@ -56,22 +56,46 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1451 tracked total · updated `2026-11-11T06:27:13+00:00`
+### 🆕 19 new roles this update · 1461 tracked total · updated `2026-11-11T22:19:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 2 |
+| Medpace | 4 |
+| Sherwin-Williams | 2 |
+| Fidelity Investments | 2 |
 | Robert Half | 1 |
-| Compunnel | 1 |
-| Fifth Third Bank | 1 |
+| Agility Connect | 1 |
+| Pinnacle Group | 1 |
+| CareSource | 1 |
+| Materion | 1 |
+| Abbott (Columbus) | 1 |
+| Vertiv | 1 |
+| Emerson | 1 |
+| O-I Glass | 1 |
+| CrossCountry Mortgage | 1 |
+| Cincinnati Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-11 |
-| [Principal AI Transformation Architect](https://jobs.compunnel.com/jobs/6104566) | Compunnel | Columbus, Ohio, United States | 2026-11-11 |
-| [Director, Software Engineering](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) | Fifth Third Bank | Cincinnati, OH | 2026-11-11 |
-| [Application Development & Support Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279818) | Vertiv | Westerville, OH, United States | 2026-11-11 |
-| [ERP Second Level Support (RUN) Senior Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279824) | Vertiv | Westerville, OH, United States | 2026-11-11 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-11 |
+| [Sr Java Developer](https://agilityconnect.io/jobs/8611) | Agility Connect | OH | 2026-11-11 |
+| [Director, AI Solutions Delivery & Operations](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-NJ/Director--AI-Solutions-Delivery---Operations_JR1304) | Pinnacle Group | Remote NJ | 2026-11-11 |
+| [Application Security Developer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Application-Security-Developer-III_R14459) | CareSource | Remote | 2026-11-11 |
+| [Director, AI Value Realization and Governance](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628712) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-11 |
+| [Senior AI Product Manager](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628815) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-11 |
+| [AI Solutions Architect](https://materion.wd5.myworkdayjobs.com/Materion/job/Remote/AI-Solutions-Architect_2026-R8886-1) | Materion | Remote | 2026-11-11 |
+| [Sr. Cybersecurity Specialist](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Sr-Cybersecurity-Specialist_31166213) | Abbott (Columbus) | United States of America : Remote | 2026-11-11 |
+| [Firmware Engineer II](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285774) | Vertiv | Delaware, OH, United States | 2026-11-11 |
+| [Quality Engineer 2](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013677) | Emerson | Mansfield, OH, United States | 2026-11-11 |
+| [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659) | O-I Glass | Perrysburg, OH | 2026-11-11 |
+| [IAM Coordinator](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/LC10530---2160-Superior-Avenue-Cleveland-OH/Systems-Access-Coordinator_JR03826) | CrossCountry Mortgage | LC10530 - 2160 Superior Avenue, Cleveland, OH | 2026-11-11 |
+| [Administrative Services – Fulfillment Supervisor](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=170228) | Cincinnati Insurance | ["OH-Fairfield"] | 2026-11-11 |
+| [Sr. Data Engineer (Python, SAS, SQL)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Sr-Data-Engineer--Python--SAS--SQL-_2137549) | Fidelity Investments | Covington, KY | 2026-11-11 |
+| [Senior IT Data Analyst](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-IT-Data-Analyst_2137589-1) | Fidelity Investments | Covington, KY | 2026-11-11 |
+| [Quality Assurance (QA) Associate](https://uscareers-medpace.icims.com/jobs/12372/login) | Medpace | Cincinnati, Ohio | 2026-11-11 |
+| [Software Engineer – Medical Imaging](https://uscareers-medpace.icims.com/jobs/11967/login) | Medpace | Cincinnati, Ohio | 2026-11-11 |
+| [Business Systems Analyst - Imaging](https://uscareers-medpace.icims.com/jobs/11961/login) | Medpace | Cincinnati, Ohio | 2026-11-11 |
+| [Scientific Technical Writer](https://uscareers-medpace.icims.com/jobs/11955/login) | Medpace | Cincinnati, Ohio | 2026-11-11 |
 <!-- JOBS:END -->
 
 ## How it works
