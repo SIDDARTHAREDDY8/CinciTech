@@ -56,30 +56,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 1469 tracked total · updated `2026-11-10T23:35:55+00:00`
+### 🆕 5 new roles this update · 1451 tracked total · updated `2026-11-11T06:27:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 2 |
+| Vertiv | 2 |
 | Robert Half | 1 |
+| Compunnel | 1 |
 | Fifth Third Bank | 1 |
-| Great American Insurance | 1 |
-| Cleveland Clinic | 1 |
-| Abbott (Columbus) | 1 |
-| GE Aerospace | 1 |
-| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-10 |
-| [Lead Information Security Engineer - Cyber Defense](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Information-Security-Engineer---Cyber-Defense_R74867-1) | Fifth Third Bank | Virtual | 2026-11-10 |
-| [IT Summer Internship Program Event Coordinator Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Summer-Internship-Program-Event-Coordinator-Intern---Summer-2027_R9889) | Great American Insurance | Cincinnati, OH (USA) | 2026-11-10 |
-| [Research Data Scientist II - Rotroff Lab](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-II---Rotroff-Lab_356305) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-11-10 |
-| [Senior Project Lead Quality Assurance - Columbus, OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Project-Lead-Quality-Assurance_31166623) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-11-10 |
-| [Turbine Aerodynamics Lead Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Turbine-Aerodynamics-Lead-Engineer_R5043007-1) | GE Aerospace | Evendale | 2026-11-10 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/13343) | Honda | East Liberty, Ohio, United States | 2026-11-10 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-10 |
-| [Director, Product Management, Wealth AI](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-Crosby-Pkwy-Covington-KY/Director--Product-Management---Wealth-AI_2133611) | Fidelity Investments | 100 Crosby Pkwy, Covington KY | 2026-11-10 |
+| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-11 |
+| [Principal AI Transformation Architect](https://jobs.compunnel.com/jobs/6104566) | Compunnel | Columbus, Ohio, United States | 2026-11-11 |
+| [Director, Software Engineering](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) | Fifth Third Bank | Cincinnati, OH | 2026-11-11 |
+| [Application Development & Support Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279818) | Vertiv | Westerville, OH, United States | 2026-11-11 |
+| [ERP Second Level Support (RUN) Senior Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279824) | Vertiv | Westerville, OH, United States | 2026-11-11 |
 <!-- JOBS:END -->
 
 ## How it works
