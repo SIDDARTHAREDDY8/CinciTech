@@ -56,29 +56,33 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1465 tracked total · updated `2026-11-12T07:26:11+00:00`
+### 🆕 11 new roles this update · 1474 tracked total · updated `2026-11-12T18:01:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Medpace | 5 |
+| CareSource | 2 |
+| Nationwide | 2 |
 | Robert Half | 1 |
-| TRU Staffing Partners | 1 |
-| Vertiv | 1 |
-| Honda | 1 |
-| Levi Strauss | 1 |
+| Kroger | 1 |
+| Procter & Gamble | 1 |
+| Huntington Bank | 1 |
+| Nationwide Children's Hospital | 1 |
+| OhioHealth | 1 |
+| Cintas | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-12 |
-| [CONTRACT OneTrust Implementation Consultant](https://jobs.trustaffingpartners.com/?jobid=7678#/jobs/7678) | TRU Staffing Partners | Anywhere | 2026-11-12 |
-| [Manager, AI Enablement & Adoption](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284538) | Vertiv | Westerville, OH, United States | 2026-11-12 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-12 |
-| [Business Systems Analyst Internship - Summer 2027](https://uscareers-medpace.icims.com/jobs/13128/login) | Medpace | Cincinnati, Ohio | 2026-11-12 |
-| [Junior Data Governance Analyst](https://uscareers-medpace.icims.com/jobs/13127/login) | Medpace | Cincinnati, Ohio | 2026-11-12 |
-| [Junior Clinical Data Analyst](https://uscareers-medpace.icims.com/jobs/12986/login) | Medpace | Cincinnati, Ohio | 2026-11-12 |
-| [Business Systems Analyst - Human Resources](https://uscareers-medpace.icims.com/jobs/12213/login) | Medpace | Cincinnati, Ohio | 2026-11-12 |
-| [Business Intelligence Engineer Internship - Spring & Summer 2027](https://uscareers-medpace.icims.com/jobs/12962/login) | Medpace | Cincinnati, Ohio | 2026-11-12 |
-| [Manager, HR Technology & AI Solutions](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--HR-Technology---AI-Solutions_R-0158485-1) | Levi Strauss | Remote - USA | 2026-11-12 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-12 |
+| [2027 Summer Internship Program - Software Engineer](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136) | CareSource | Remote | 2026-11-12 |
+| [AI Compliance Analyst II - Healthcare preferred](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Compliance-Analyst-II---Healthcare-preferred_R14425) | CareSource | Remote | 2026-11-12 |
+| [Manager, Software Engineering Product Manager (Software Supply Chain Security)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager--Software-Supply-Chain-Security-_101264-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-12 |
+| [Manager, Software Engineering (PLS Billing & Digital Servicing Run)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering--PLS-Billing---Digital-Servicing-Run-_101199-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-12 |
+| [Enterprise Technical Specialist](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/252113) | Kroger | Cincinnati, OH, United States | 2026-11-12 |
+| [Digital Product Owner](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Digital-Product-Owner_R000159233) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-11-12 |
+| [Java Developer- API and Microservices](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Java-Developer--API-and-Microservices_R0077546) | Huntington Bank | Columbus, OH | 2026-11-12 |
+| [Senior Software Engineer](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Senior-Software-Engineer_R-28883-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-11-12 |
+| [IT Manager - Infrastructure Operations + Automation](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Manager---Infrastructure-Operations---Automation_JR161105) | OhioHealth | WORK AT HOME - OHIO | 2026-11-12 |
+| [Information Security Engineer II](https://careers.cintas.com/job/Mason-Information-Security-Engineer-II-OH-45040/1450235300/) | Cintas | OH | 2026-11-12 |
 <!-- JOBS:END -->
 
 ## How it works
