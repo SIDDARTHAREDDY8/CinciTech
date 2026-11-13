@@ -56,19 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1482 tracked total · updated `2026-11-13T07:01:16+00:00`
+### 🆕 7 new roles this update · 1488 tracked total · updated `2026-11-13T17:32:35+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Honda | 2 |
 | Robert Half | 1 |
-| Honda | 1 |
-| Fidelity Investments | 1 |
+| 84.51° | 1 |
+| Sherwin-Williams | 1 |
+| FirstEnergy | 1 |
+| Nationwide Children's Hospital | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-13 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-13 |
-| [Senior Manager, Product Management , Wealth AI](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Manager--Product-Management---Wealth-AI_2137787) | Fidelity Investments | Covington, KY | 2026-11-13 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-13 |
+| [Lead Data Scientist (P4296)](https://job-boards.greenhouse.io/8451/jobs/8924525002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-11-13 |
+| [Cloud Architect](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629046) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-13 |
+| [Systems Engineer II - Smart Network Technology & Engineering - Akron Central Electric Lab](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105893) | FirstEnergy | Akron, OH, United States | 2026-11-13 |
+| [IS Business Intelligence Analyst I](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-27748-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-11-13 |
+| [Strength Test Engineer, Powersports](https://careers.honda.com/us/en/job/12189) | Honda | Raymond, Ohio, United States | 2026-11-13 |
+| [Technical Support and Spare Parts Engineer](https://careers.honda.com/us/en/job/12556) | Honda | Marysville, Ohio, United States | 2026-11-13 |
 <!-- JOBS:END -->
 
 ## How it works
