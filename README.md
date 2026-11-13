@@ -56,32 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 1481 tracked total · updated `2026-11-12T23:56:08+00:00`
+### 🆕 3 new roles this update · 1482 tracked total · updated `2026-11-13T07:01:16+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| DHL | 2 |
 | Robert Half | 1 |
-| Gina's Tech Jobs | 1 |
-| Next Step Systems | 1 |
-| ProMedica | 1 |
-| American Electric Power | 1 |
-| Procter & Gamble | 1 |
-| Nationwide Children's Hospital | 1 |
-| Cintas | 1 |
+| Honda | 1 |
+| Fidelity Investments | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr Network Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/sr-network-engineer/04130-0013493473-usen) | Robert Half | Cincinnati, 04130 | 2026-11-12 |
-| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.ginastechjobs.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-12 |
-| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.nextstepsystems.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-12 |
-| [Business System Analyst](https://promedica.wd12.myworkdayjobs.com/External_Careers/job/Remote---US/Business-System-Analyst_JR-10168) | ProMedica | Remote - US | 2026-11-12 |
-| [Cybersecurity Intern - Summer 2027](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158) | American Electric Power | Columbus, OH | 2026-11-12 |
-| [IT Software Manager](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Software-Manager_R000160640) | Procter & Gamble | CINCINNATI GENERAL OFFICES | 2026-11-12 |
-| [Software Engineer Senior-1](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Software-Engineer-Senior-1_R-28894-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-11-12 |
-| [IT Intern - OT Software Engineer](https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/) | Cintas | OH | 2026-11-12 |
-| [Quality Assurance Manager](https://dpdhlgroup.avature.net/jobs/ApplicationMethods?jobId=371232&source=careers.dhl.com) | DHL | Hebron, Kentucky | 2026-11-12 |
-| [Director, Customs Quality Assurance & Training](https://dpdhlgroup.avature.net/jobs/ApplicationMethods?jobId=386696&source=careers.dhl.com) | DHL | Erlanger, Kentucky | 2026-11-12 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-13 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-13 |
+| [Senior Manager, Product Management , Wealth AI](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Manager--Product-Management---Wealth-AI_2137787) | Fidelity Investments | Covington, KY | 2026-11-13 |
 <!-- JOBS:END -->
 
 ## How it works
