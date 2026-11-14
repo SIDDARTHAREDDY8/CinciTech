@@ -56,32 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 1498 tracked total · updated `2026-11-13T23:48:03+00:00`
+### 🆕 1 new roles this update · 1486 tracked total · updated `2026-11-14T06:25:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CareSource | 3 |
-| Vertiv | 2 |
-| Apex Systems | 1 |
 | Robert Half | 1 |
-| Root Insurance | 1 |
-| FirstEnergy | 1 |
-| Huntington Bank | 1 |
-| STERIS | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3059307_usa/software-engineering---software-engineer-iii) | Apex Systems | Remote Location, CA | 2026-11-13 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-13 |
-| [Manager, Enterprise Engineering Solutions (EES)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Enterprise-Engineering-Solutions--EES-_R14292) | CareSource | Remote | 2026-11-13 |
-| [AI Solution Consultant](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Solution-Consultant_R14438) | CareSource | Remote | 2026-11-13 |
-| [AI Analyst II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Analyst-II_R14590) | CareSource | Remote | 2026-11-13 |
-| [IT Audit Manager, Internal Audit & Internal Controls](https://ats.rippling.com/joinroot/jobs/bd560c05-31b6-4dcd-a456-f0d5c993b7c6) | Root Insurance | Remote (United States) | 2026-11-13 |
-| [Cyber Security Operations Analyst - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105910) | FirstEnergy | Akron, OH, United States | 2026-11-13 |
-| [Treasury Liquidity Data Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Treasury-Liquidity-Data-Analyst_R0077808) | Huntington Bank | Columbus, OH | 2026-11-13 |
-| [Senior Oracle CPQ Developer and Architect](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20257786) | Vertiv | Westerville, OH, United States | 2026-11-13 |
-| [Senior Oracle CPQ Developer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265727) | Vertiv | Westerville, OH, United States | 2026-11-13 |
-| [Advanced Systems Engineer - Software Verification](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57255&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-13 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-14 |
 <!-- JOBS:END -->
 
 ## How it works
