@@ -56,15 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1486 tracked total · updated `2026-11-14T06:25:28+00:00`
+### 🆕 6 new roles this update · 1490 tracked total · updated `2026-11-14T13:41:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 5 |
 | Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-14 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-14 |
+| [Code Security Engineer](https://agilityconnect.io/jobs/8621) | Agility Connect | Cincinnati, OH | 2026-11-14 |
+| [Senior Java Developer](https://agilityconnect.io/jobs/8627) | Agility Connect | Cincinnati, OH | 2026-11-14 |
+| [Android Engineer](https://agilityconnect.io/jobs/8624) | Agility Connect | Columbus, Ohio | 2026-11-14 |
+| [Jr AI Engineer](https://agilityconnect.io/jobs/8617) | Agility Connect | OH | 2026-11-14 |
+| [Full Stack Engineer](https://agilityconnect.io/jobs/8618) | Agility Connect | Columbus, OH | 2026-11-14 |
 <!-- JOBS:END -->
 
 ## How it works
