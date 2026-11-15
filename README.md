@@ -56,19 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1465 tracked total · updated `2026-11-15T11:02:37+00:00`
+### 🆕 1 new roles this update · 1462 tracked total · updated `2026-11-15T19:09:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
-| Battelle | 1 |
-| Lubrizol | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-15 |
-| [Sr. Quality Assurance Officer](https://jobs.battelle.org/us/en/job/76531) | Battelle | Columbus, OH | 2026-11-15 |
-| [Enterprise ServiceNow Governance & Platform Owner](https://jobs.lubrizol.com/job/Wickliffe-Enterprise-ServiceNow-Governance-&-Platform-Owner-OH-44092-2298/1429783100/) | Lubrizol | OH | 2026-11-15 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-15 |
 <!-- JOBS:END -->
 
 ## How it works
