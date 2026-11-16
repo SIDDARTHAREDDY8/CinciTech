@@ -56,17 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 1444 tracked total · updated `2026-11-16T01:20:54+00:00`
+### 🆕 3 new roles this update · 1446 tracked total · updated `2026-11-16T11:30:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
 | Robert Half | 1 |
+| Battelle | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Desktop Support Technician](https://careers.teksystems.com/us/en/job/JP-006421907/Desktop-Support-Technician) | TEKsystems | Bowling Green, Ohio | 2026-11-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-16 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-16 |
+| [Network Systems Administrator](https://jobs.battelle.org/us/en/job/76370) | Battelle | Columbus, OH | 2026-11-16 |
+| [Associate Manager, Systems Engineer](https://careers.l3harris.com/en/job/mason/associate-manager-systems-engineer/4832/101869922912) | L3Harris | Mason, OH | 2026-11-16 |
 <!-- JOBS:END -->
 
 ## How it works
