@@ -56,47 +56,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 21 new roles this update · 1463 tracked total · updated `2026-11-16T22:17:30+00:00`
+### 🆕 8 new roles this update · 1438 tracked total · updated `2026-11-17T08:10:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 4 |
-| Honda | 4 |
-| Vaco | 2 |
-| Cincinnati Insurance | 2 |
-| Apex Systems | 1 |
+| Cintas | 5 |
 | Robert Half | 1 |
-| Path Robotics | 1 |
-| Nationwide | 1 |
-| Cardinal Health | 1 |
-| Nordson | 1 |
-| Scotts Miracle-Gro | 1 |
-| GE Aerospace | 1 |
-| Cintas | 1 |
+| Honda | 1 |
+| Medical Mutual of Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Scrum master](https://www.apexsystems.com/job/3054623_usa/scrum-master) | Apex Systems | Findlay, OH | 2026-11-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-16 |
-| [Systems Engineer](https://jobs.vaco.com/job/3123/systems_engineer/en) | Vaco | Cincinnati, Ohio | 2026-11-16 |
-| [Sr Analyst Workday](https://jobs.vaco.com/job/3124/sr_analyst_workday/en) | Vaco | Etna, Ohio | 2026-11-16 |
-| [Robotics Software Engineer, Systems Integration](https://boards.greenhouse.io/pathrobotics/jobs/8944480002?gh_jid=8944480002) | Path Robotics | Columbus, Ohio | 2026-11-16 |
-| [Specialist, Software Engineer (Full Stack)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer--Full-Stack-_101113-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-16 |
-| [Principal Specialist, Quality Assurance - Microbiology](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Lewis-Center-NPHS-Logistics-Center/Principal-Specialist--Quality-Assurance---Microbiology_20190625-1) | Cardinal Health | OH-Lewis Center-NPHS Logistics Center | 2026-11-16 |
-| [Sr. Manager, Cybersecurity Architecture and Engineering](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Westlake/Sr-Manager--Cybersecurity-Architecture-and-Engineering_REQ53910) | Nordson | USA - Ohio - Westlake | 2026-11-16 |
-| [Designer / AI Artist](https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Designer---AI-Artist_R26889) | Scotts Miracle-Gro | Marysville, OH | 2026-11-16 |
-| [Data Analyst- Insurance Claims](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Operations-Data-Analyst--Insurance_R5035881-1) | GE Aerospace | Remote | 2026-11-16 |
-| [Maintenance, Reliability, & Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276730) | Vertiv | Ironton, OH, United States | 2026-11-16 |
-| [IT Project Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284743) | Vertiv | Westerville, OH, United States | 2026-11-16 |
-| [Test Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284985) | Vertiv | Delaware, OH, United States | 2026-11-16 |
-| [Data Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286722) | Vertiv | Westerville, OH, United States | 2026-11-16 |
-| [Technical Support and Spare Parts Engineer](https://careers.honda.com/us/en/job/12556) | Honda | Marysville, Ohio, United States | 2026-11-16 |
-| [Cloud Applications Engineer](https://careers.honda.com/us/en/job/12412) | Honda | Marysville, Ohio, United States | 2026-11-16 |
-| [Systems Analyst I - Plant Floor Systems](https://careers.honda.com/us/en/job/13390) | Honda | East Liberty, Ohio, United States | 2026-11-16 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-16 |
-| [IT - Testing Engineer IV (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=170209) | Cincinnati Insurance | ["Remote"] | 2026-11-16 |
-| [IT - Developer III - V (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169789) | Cincinnati Insurance | ["Remote"] | 2026-11-16 |
-| [IT Intern - PMO](https://careers.cintas.com/job/Mason-IT-Intern-PMO-OH-45040/1451054300/) | Cintas | OH | 2026-11-16 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-17 |
+| [Global IT Strategic Sourcing Specialist](https://careers.honda.com/us/en/job/13393) | Honda | Marysville, Ohio, United States | 2026-11-17 |
+| [IT 2027 Summer Internship](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=0bd8d648-3a8e-4cf7-993d-ec3ba1175733) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-17 |
+| [IT Intern - SCM](https://careers.cintas.com/job/Mason-IT-Intern-SCM-OH-45040/1451175000/) | Cintas | OH | 2026-11-17 |
+| [IT Intern - SCM](https://careers.cintas.com/job/Mason-IT-Intern-SCM-OH-45040/1451175700/) | Cintas | OH | 2026-11-17 |
+| [IT Intern - SAP FICO](https://careers.cintas.com/job/Mason-IT-Intern-SAP-FICO-OH-45040/1451174100/) | Cintas | OH | 2026-11-17 |
+| [IT Intern - SAP CRM](https://careers.cintas.com/job/Mason-IT-Intern-SAP-CRM-OH-45040/1451175800/) | Cintas | OH | 2026-11-17 |
+| [IT Intern - SAP OTC](https://careers.cintas.com/job/Mason-IT-Intern-SAP-OTC-OH-45040/1451176300/) | Cintas | OH | 2026-11-17 |
 <!-- JOBS:END -->
 
 ## How it works
