@@ -56,25 +56,37 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 1438 tracked total · updated `2026-11-17T08:10:42+00:00`
+### 🆕 13 new roles this update · 1446 tracked total · updated `2026-11-17T18:53:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cintas | 5 |
+| Honda | 3 |
 | Robert Half | 1 |
-| Honda | 1 |
+| TRU Staffing Partners | 1 |
+| FirstEnergy | 1 |
+| Materion | 1 |
+| Abbott (Columbus) | 1 |
+| GE Aerospace | 1 |
 | Medical Mutual of Ohio | 1 |
+| Cintas | 1 |
+| Medpace | 1 |
+| Atlas Air Worldwide | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-17 |
-| [Global IT Strategic Sourcing Specialist](https://careers.honda.com/us/en/job/13393) | Honda | Marysville, Ohio, United States | 2026-11-17 |
-| [IT 2027 Summer Internship](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=0bd8d648-3a8e-4cf7-993d-ec3ba1175733) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-17 |
-| [IT Intern - SCM](https://careers.cintas.com/job/Mason-IT-Intern-SCM-OH-45040/1451175000/) | Cintas | OH | 2026-11-17 |
-| [IT Intern - SCM](https://careers.cintas.com/job/Mason-IT-Intern-SCM-OH-45040/1451175700/) | Cintas | OH | 2026-11-17 |
-| [IT Intern - SAP FICO](https://careers.cintas.com/job/Mason-IT-Intern-SAP-FICO-OH-45040/1451174100/) | Cintas | OH | 2026-11-17 |
-| [IT Intern - SAP CRM](https://careers.cintas.com/job/Mason-IT-Intern-SAP-CRM-OH-45040/1451175800/) | Cintas | OH | 2026-11-17 |
-| [IT Intern - SAP OTC](https://careers.cintas.com/job/Mason-IT-Intern-SAP-OTC-OH-45040/1451176300/) | Cintas | OH | 2026-11-17 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-17 |
+| [Director, AI Operations](https://jobs.trustaffingpartners.com/?jobid=7683#/jobs/7683) | TRU Staffing Partners | Anywhere | 2026-11-17 |
+| [Cyber and Information Security Analyst - Cyber Security & TSOC](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105930) | FirstEnergy | Wadsworth, OH, United States | 2026-11-17 |
+| [Data Architect](https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Data-Architect_2026-R8884) | Materion | Cleveland, OH | 2026-11-17 |
+| [Senior AI Product Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-AI-Product-Manager_31167448) | Abbott (Columbus) | United States of America : Remote | 2026-11-17 |
+| [Applied AI Engineer Intern (m/f/d) – Spring 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1) | GE Aerospace | Remote | 2026-11-17 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-17 |
+| [Supplier Quality Engineer- 2nd Shift](https://careers.honda.com/us/en/job/13358) | Honda | East Liberty, Ohio, United States | 2026-11-17 |
+| [Supplier Quality Engineer](https://careers.honda.com/us/en/job/13357) | Honda | East Liberty, Ohio, United States | 2026-11-17 |
+| [AI Transformation Project Manager](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=bd9dd811-6f19-4be7-90c0-608500cb9eb6) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-17 |
+| [SAP Developer-Level 3 ABAP HANA](https://careers.cintas.com/job/Mason-SAP-Developer-Level-3-ABAP-HANA-OH-45040/1451364200/) | Cintas | OH | 2026-11-17 |
+| [Enterprise Systems Architect](https://uscareers-medpace.icims.com/jobs/13158/login) | Medpace | Cincinnati, Ohio | 2026-11-17 |
+| [Senior Powerplant Engineer](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4510751009) | Atlas Air Worldwide | Erlanger, KY, USA | 2026-11-17 |
 <!-- JOBS:END -->
 
 ## How it works
