@@ -56,42 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 1443 tracked total · updated `2026-11-18T03:13:16+00:00`
+### 🆕 1 new roles this update · 1441 tracked total · updated `2026-11-18T11:55:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Sherwin-Williams | 2 |
-| Huntington Bank | 2 |
-| L3Harris | 2 |
 | Robert Half | 1 |
-| 84.51° | 1 |
-| First Solar | 1 |
-| Branch Insurance | 1 |
-| Fifth Third Bank | 1 |
-| OhioHealth | 1 |
-| Dayton Children's Hospital | 1 |
-| STERIS | 1 |
-| Honda | 1 |
-| Medical Mutual of Ohio | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-18 |
-| [Lead Data Engineer (P3999)](https://job-boards.greenhouse.io/8451/jobs/8924231002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-11-18 |
-| [Manager II- IT USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026572) | First Solar | Perrysburg, OH, United States | 2026-11-18 |
-| [Android Engineer](https://job-boards.greenhouse.io/branch/jobs/8207537003) | Branch Insurance | Remote, US | 2026-11-18 |
-| [Data Engineer I-Regulatory Reporting](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I-Regulatory-Reporting_R74837-1) | Fifth Third Bank | Cincinnati, OH | 2026-11-18 |
-| [Data Security Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628537) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-18 |
-| [Full Stack Developer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629244) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-18 |
-| [Software Developer - Senior](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Software-Developer---Senior_R0077788) | Huntington Bank | Columbus, OH | 2026-11-18 |
-| [Programmer/Analyst 2](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-2_R0077832) | Huntington Bank | Columbus, OH | 2026-11-18 |
-| [Senior IT Engineer – Enterprise Storage and Backup](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Senior-IT-Engineer---Enterprise-Storage-and-Backup_JR160145) | OhioHealth | HYBRID - BLOM ADMINISTRATIVE CAMPUS | 2026-11-18 |
-| [Epic Project Manager](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Epic-Project-Manager_R24828) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-11-18 |
-| [Manager, Customer Technical Support](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57311&jobPipeline=PhenomCareerSite) | STERIS | Menotor, Ohio | 2026-11-18 |
-| [Technical Support and Spare Parts Engineer](https://careers.honda.com/us/en/job/12556) | Honda | Marysville, Ohio, United States | 2026-11-18 |
-| [Data Engineer/Database Administrator](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=ec39fb3c-5d4b-41bd-8b7e-a1f2950e5063) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-18 |
-| [Specialist Systems Engineer](https://careers.l3harris.com/en/job/mason/specialist-systems-engineer/4832/98865265024) | L3Harris | Mason, OH | 2026-11-18 |
-| [Senior Associate, Systems Engineering](https://careers.l3harris.com/en/job/cincinnati/senior-associate-systems-engineering/4832/103448102720) | L3Harris | Cincinnati, OH | 2026-11-18 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-18 |
 <!-- JOBS:END -->
 
 ## How it works
