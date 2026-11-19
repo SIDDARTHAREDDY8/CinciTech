@@ -56,26 +56,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1452 tracked total · updated `2026-11-19T02:53:39+00:00`
+### 🆕 4 new roles this update · 1454 tracked total · updated `2026-11-19T11:57:13+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 2 |
 | Robert Half | 1 |
-| Fifth Third Bank | 1 |
-| Greif | 1 |
-| Nationwide Children's Hospital | 1 |
-| GE Aerospace | 1 |
+| Vernovis | 1 |
+| Nationwide | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior IT Asset Management Administrator](http://www.kforce.com/Jobs/1696~EQG~2182804T1~99/) | Kforce | Columbus, OH | 2026-11-19 |
-| [Commerical Lines AI Solutions Engineer](http://www.kforce.com/Jobs/1696~EQG~2194259P1~99/) | Kforce | Columbus, OH | 2026-11-19 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-19 |
-| [Senior Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Software-Engineer_R75052-1) | Fifth Third Bank | Virtual | 2026-11-19 |
-| [Credit Administrator](https://greif.wd5.myworkdayjobs.com/Greif/job/Delaware-OH-Greif-Pkwy/Credit-Administrator_036175) | Greif | Delaware-OH-Greif Pkwy | 2026-11-19 |
-| [IS Epic Application Coordinator - HIM](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Application-Coordinator---HIM_R-28941-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-11-19 |
-| [AI & Automation Lead - Product Development](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/AI---Automation-Lead---Product-Development_R5043476) | GE Aerospace | Evendale | 2026-11-19 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-19 |
+| [Cloud Solutions Architect](https://vernovis.com/blog/jobs/12179/) | Vernovis | Cincinnati, | 2026-11-19 |
+| [Consultant, Site Reliability Engineer](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Site-Reliability-Engineer_101295) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-19 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-19 |
 <!-- JOBS:END -->
 
 ## How it works
