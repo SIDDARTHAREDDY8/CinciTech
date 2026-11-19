@@ -56,50 +56,26 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 21 new roles this update · 1455 tracked total · updated `2026-11-18T20:50:09+00:00`
+### 🆕 7 new roles this update · 1452 tracked total · updated `2026-11-19T02:53:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 4 |
-| Agility Connect | 3 |
+| Kforce | 2 |
 | Robert Half | 1 |
-| 84.51° | 1 |
-| Path Robotics | 1 |
-| Great American Insurance | 1 |
-| FirstEnergy | 1 |
-| Huntington Bank | 1 |
-| OhioHealth | 1 |
+| Fifth Third Bank | 1 |
+| Greif | 1 |
+| Nationwide Children's Hospital | 1 |
 | GE Aerospace | 1 |
-| Vertiv | 1 |
-| Worthington Steel | 1 |
-| Honda | 1 |
-| Cintas | 1 |
-| Levi Strauss | 1 |
-| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sharepoint Developer](https://careers.teksystems.com/us/en/job/JP-006429891/Sharepoint-Developer) | TEKsystems | Erlanger, Kentucky | 2026-11-18 |
-| [Desktop Support Technician](https://careers.teksystems.com/us/en/job/JP-006424489/Desktop-Support-Technician) | TEKsystems | Bowling Green, Ohio | 2026-11-18 |
-| [Desktop Support Technician](https://careers.teksystems.com/us/en/job/JP-006426486/Desktop-Support-Technician) | TEKsystems | Bowling Green, Ohio | 2026-11-18 |
-| [Desktop Support Technician](https://careers.teksystems.com/us/en/job/JP-006425286/Desktop-Support-Technician) | TEKsystems | Bowling Green, Ohio | 2026-11-18 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-11-18 |
-| [Lead Data Scientist](https://agilityconnect.io/jobs/8632) | Agility Connect | Cincinnati, OH | 2026-11-18 |
-| [Software Engineer](https://agilityconnect.io/jobs/8634) | Agility Connect | Columbus, OH | 2026-11-18 |
-| [Platform Engineer - Commodity & Market Data](https://agilityconnect.io/jobs/8633) | Agility Connect | Cincinnati, OH | 2026-11-18 |
-| [Senior Software Engineer, AI Agents (P345)](https://job-boards.greenhouse.io/8451/jobs/8948833002) | 84.51° | Cincinnati, OH; Chicago, IL | 2026-11-18 |
-| [Machine Learning Engineer, Robotics](https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002) | Path Robotics | Columbus, Ohio or Remote | 2026-11-18 |
-| [Data Engineer Developer Intern – Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919) | Great American Insurance | Cincinnati, OH (USA) | 2026-11-18 |
-| [SAP Developer - IT Customer & Metering Systems](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/105962) | FirstEnergy | Akron, OH, United States | 2026-11-18 |
-| [OS Platform Engineer III](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Easton-Ops-Cols-C-Oh/OS-Platform-Engineer-III_R0077083) | Huntington Bank | Easton Ops Cols C Oh | 2026-11-18 |
-| [Clinical Enterprise Director, Medicine Service Line](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/BLOM-ADMINISTRATIVE-CAMPUS/Clinical-Enterprise-Director--Medicine-Service-Line_JR161209) | OhioHealth | BLOM ADMINISTRATIVE CAMPUS | 2026-11-18 |
-| [Senior Systems Engineer – Turbine Module Field Integration (F110/J85)](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Systems-Engineer---Turbine-Module-Field-Integration--F110-J85-_R5041521) | GE Aerospace | Evendale | 2026-11-18 |
-| [Application Engineer - Thermal Management](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285987) | Vertiv | Westerville, OH, United States | 2026-11-18 |
-| [Senior IT Auditor](https://cbdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WorthingtonSteelCareers/job/43289) | Worthington Steel | Columbus, OH, United States | 2026-11-18 |
-| [System Analyst](https://careers.honda.com/us/en/job/13427) | Honda | Raymond, Ohio, United States | 2026-11-18 |
-| [Software Engineer - Level 3 - Operational Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-3-Operational-Technology-OH-45040/1451739900/) | Cintas | OH | 2026-11-18 |
-| [Manager, ERP Engineering (BTPAI)](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---CAN/Manager--ERP-Engineering--BTPAI-_R-0158511-1) | Levi Strauss | Remote - CAN | 2026-11-18 |
-| [Specialist Systems Engineer](https://careers.l3harris.com/en/job/mason/specialist-systems-engineer/4832/100498293744) | L3Harris | Mason, OH | 2026-11-18 |
+| [Senior IT Asset Management Administrator](http://www.kforce.com/Jobs/1696~EQG~2182804T1~99/) | Kforce | Columbus, OH | 2026-11-19 |
+| [Commerical Lines AI Solutions Engineer](http://www.kforce.com/Jobs/1696~EQG~2194259P1~99/) | Kforce | Columbus, OH | 2026-11-19 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-19 |
+| [Senior Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Software-Engineer_R75052-1) | Fifth Third Bank | Virtual | 2026-11-19 |
+| [Credit Administrator](https://greif.wd5.myworkdayjobs.com/Greif/job/Delaware-OH-Greif-Pkwy/Credit-Administrator_036175) | Greif | Delaware-OH-Greif Pkwy | 2026-11-19 |
+| [IS Epic Application Coordinator - HIM](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Application-Coordinator---HIM_R-28941-1) | Nationwide Children's Hospital | 431 S 18th St, Columbus, OH | 2026-11-19 |
+| [AI & Automation Lead - Product Development](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/AI---Automation-Lead---Product-Development_R5043476) | GE Aerospace | Evendale | 2026-11-19 |
 <!-- JOBS:END -->
 
 ## How it works
