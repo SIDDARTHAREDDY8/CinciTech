@@ -56,19 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1470 tracked total · updated `2026-11-20T11:54:11+00:00`
+### 🆕 14 new roles this update · 1483 tracked total · updated `2026-11-20T20:29:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Vaco | 2 |
+| Honda | 2 |
+| TEKsystems | 1 |
 | Robert Half | 1 |
+| Vernovis | 1 |
+| Great American Insurance | 1 |
 | Nationwide | 1 |
-| Battelle | 1 |
+| Cardinal Health | 1 |
+| Vertiv | 1 |
+| CrossCountry Mortgage | 1 |
+| Cintas | 1 |
+| Total Quality Logistics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-20 |
-| [Manager, Software Engineering Product Manager (Commercial Lines)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager--Commercial-Lines-_101240) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-20 |
-| [Mid-level Linux Infrastructure Administrator](https://jobs.battelle.org/us/en/job/76380) | Battelle | Columbus, OH | 2026-11-20 |
+| [SharePoint Developer](https://careers.teksystems.com/us/en/job/JP-006434350/SharePoint-Developer) | TEKsystems | Erlanger, Kentucky | 2026-11-20 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-20 |
+| [It Network Engineer](https://jobs.vaco.com/job/3253/it_network_engineer/en) | Vaco | Cincinnati, Ohio | 2026-11-20 |
+| [It Support Specialist](https://jobs.vaco.com/job/3270/it_support_specialist/en) | Vaco | Cincinnati, Ohio | 2026-11-20 |
+| [SQA Test Automation Engineer](https://vernovis.com/blog/jobs/12342/) | Vernovis | Cincinnati, | 2026-11-20 |
+| [Desktop AI Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Desktop-AI-Intern---Summer-2027_R9817) | Great American Insurance | Cincinnati, OH (USA) | 2026-11-20 |
+| [Sr. Consultant, Data Product Owner (ESS Programs)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona-Work-from-Home-2/Sr-Consultant--Data-Product-Owner--ESS-Programs-_101505) | Nationwide | Arizona-Work from Home-2 | 2026-11-20 |
+| [Senior Engineer, SAP Pricing and Vistex](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Engineer--SAP-Pricing-and-Vistex_20191064) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-20 |
+| [Global Master Data Management - IT Lead Coordinator](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20289013) | Vertiv | Columbus, OH, United States | 2026-11-20 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-20 |
+| [ADAS Test Engineer](https://careers.honda.com/us/en/job/12684) | Honda | Raymond, Ohio, United States | 2026-11-20 |
+| [Loan Support Specialist - Pacific Region](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Loan-Support-Specialist---Pacific-Region_JR03885) | CrossCountry Mortgage | Remote USA | 2026-11-20 |
+| [Software Engineer II](https://careers.cintas.com/job/Mason-Software-Engineer-II-OH-45040/1452661000/) | Cintas | OH | 2026-11-20 |
+| [IT Recruiting Assistant](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-IT-Recruiting-Assistant/19538?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-11-20 |
 <!-- JOBS:END -->
 
 ## How it works
