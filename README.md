@@ -56,24 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 1468 tracked total · updated `2026-11-20T02:45:03+00:00`
+### 🆕 3 new roles this update · 1470 tracked total · updated `2026-11-20T11:54:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Lubrizol | 2 |
-| Sherwin-Williams | 1 |
-| OhioHealth | 1 |
-| Vertiv | 1 |
-| Park National Bank | 1 |
+| Robert Half | 1 |
+| Nationwide | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Principle Enterprise Architect, Strategic Initiatives – Business Integration & Transformation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629666) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-20 |
-| [IS Business Analyst - Solution Delivery Clinical Enterprise](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IS-Business-Analyst---Solution-Delivery-Clinical-Enterprise_JR161690-1) | OhioHealth | WORK AT HOME - OHIO | 2026-11-20 |
-| [Application Engineer - AC Power, GSA](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286888) | Vertiv | Delaware, OH, United States | 2026-11-20 |
-| [Service Desk Analyst I](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=9970d2be-ebe9-4d1d-a1ca-55e32338c92b) | Park National Bank | CEN Newark Alford Bldg | 2026-11-20 |
-| [Senior Cloud Engineer](https://jobs.lubrizol.com/job/Wickliffe-Senior-Cloud-Engineer-OH-44092-2298/1431766500/) | Lubrizol | OH | 2026-11-20 |
-| [Systems Engineer](https://jobs.lubrizol.com/job/Wickliffe-Systems-Engineer-OH-44092-2298/1431766100/) | Lubrizol | OH | 2026-11-20 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-20 |
+| [Manager, Software Engineering Product Manager (Commercial Lines)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager--Commercial-Lines-_101240) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-20 |
+| [Mid-level Linux Infrastructure Administrator](https://jobs.battelle.org/us/en/job/76380) | Battelle | Columbus, OH | 2026-11-20 |
 <!-- JOBS:END -->
 
 ## How it works
