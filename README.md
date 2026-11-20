@@ -56,43 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 1468 tracked total · updated `2026-11-19T20:55:19+00:00`
+### 🆕 6 new roles this update · 1468 tracked total · updated `2026-11-20T02:45:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Huntington Bank | 3 |
-| OhioHealth | 2 |
-| Dana Incorporated | 2 |
-| Apex Systems | 1 |
-| Robert Half | 1 |
-| American Electric Power | 1 |
-| KeyBank | 1 |
-| Materion | 1 |
-| Abbott (Columbus) | 1 |
-| Emerson | 1 |
-| Honeywell | 1 |
-| Fidelity Investments | 1 |
-| Atlas Air Worldwide | 1 |
+| Lubrizol | 2 |
+| Sherwin-Williams | 1 |
+| OhioHealth | 1 |
+| Vertiv | 1 |
+| Park National Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ML Engineer](https://www.apexsystems.com/job/3056763_usa/ml-engineer) | Apex Systems | Cleveland, OH | 2026-11-19 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-19 |
-| [Cloud Architect - GIS Platforms](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Cloud-Architect---GIS-Platforms_R21032) | American Electric Power | Gahanna, OH | 2026-11-19 |
-| [Online Banking Lead Software Developer (Angular)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Online-Banking-Access-Management-Technical-Lead--Angular-_R-42885) | KeyBank | Brooklyn, OH | 2026-11-19 |
-| [Business Systems Analyst Sr](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Sr_R0077992) | Huntington Bank | Columbus, OH | 2026-11-19 |
-| [Senior AI Product Manager: Onsite](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Easton-Ops-Cols-C-Oh/Senior-AI-Product-Manager--Onsite_R0077911) | Huntington Bank | Easton Ops Cols C Oh | 2026-11-19 |
-| [QA Testing Analyst - Lead](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Testing-Analyst---Lead_R0077864) | Huntington Bank | Columbus, OH | 2026-11-19 |
-| [Customer Support Specialist - Manufacturing](https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Customer-Support-Specialist---Manufacturing_2026-R8952-1) | Materion | Cleveland, OH | 2026-11-19 |
-| [Program Manager - Ingredient Supplier QA - Columbus,OH](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Program-Manager---Ingredient-Supplier-QA---Columbus-OH_31167481) | Abbott (Columbus) | United States - Ohio - Columbus | 2026-11-19 |
-| [Associate Data and AI Engineer](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Associate-Data-and-AI-Engineer_JR161378) | OhioHealth | WORK AT HOME - OHIO | 2026-11-19 |
-| [Senior IT Engineer - Configuration Manager & Intune](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer----Configuration-Manager---Intune_JR161920-1) | OhioHealth | WORK AT HOME - OHIO | 2026-11-19 |
-| [IT Project Manager](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013890) | Emerson | Elyria, OH, United States | 2026-11-19 |
-| [Sr. Product Cybersecurity Engineer](https://jobs.dana.com/job/Maumee-Sr_-Product-Cybersecurity-Engineer-OH-43537/1452196900/) | Dana Incorporated | OH | 2026-11-19 |
-| [Sr. Applications Engineer](https://jobs.dana.com/job/Maumee-Sr_-Applications-Engineer-OH-43537/1430702900/) | Dana Incorporated | OH | 2026-11-19 |
-| [Principal Systems Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161813) | Honeywell | Columbus, OH, United States | 2026-11-19 |
-| [Systems Engineer](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Systems-Engineer_2138027) | Fidelity Investments | Covington, KY | 2026-11-19 |
-| [Senior Automation Engineer](https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4264689009) | Atlas Air Worldwide | Erlanger, KY, USA; Miami, FL, USA; White Plains, NY, USA | 2026-11-19 |
+| [Principle Enterprise Architect, Strategic Initiatives – Business Integration & Transformation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629666) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-20 |
+| [IS Business Analyst - Solution Delivery Clinical Enterprise](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IS-Business-Analyst---Solution-Delivery-Clinical-Enterprise_JR161690-1) | OhioHealth | WORK AT HOME - OHIO | 2026-11-20 |
+| [Application Engineer - AC Power, GSA](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286888) | Vertiv | Delaware, OH, United States | 2026-11-20 |
+| [Service Desk Analyst I](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=9970d2be-ebe9-4d1d-a1ca-55e32338c92b) | Park National Bank | CEN Newark Alford Bldg | 2026-11-20 |
+| [Senior Cloud Engineer](https://jobs.lubrizol.com/job/Wickliffe-Senior-Cloud-Engineer-OH-44092-2298/1431766500/) | Lubrizol | OH | 2026-11-20 |
+| [Systems Engineer](https://jobs.lubrizol.com/job/Wickliffe-Systems-Engineer-OH-44092-2298/1431766100/) | Lubrizol | OH | 2026-11-20 |
 <!-- JOBS:END -->
 
 ## How it works
