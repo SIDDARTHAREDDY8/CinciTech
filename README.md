@@ -56,21 +56,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1453 tracked total · updated `2026-11-21T02:36:29+00:00`
+### 🆕 8 new roles this update · 1458 tracked total · updated `2026-11-21T11:18:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Gina's Tech Jobs | 2 |
+| Next Step Systems | 2 |
 | Robert Half | 1 |
-| Nationwide | 1 |
-| GE Aerospace | 1 |
-| STERIS | 1 |
+| Battelle | 1 |
+| Honda | 1 |
+| Lubrizol | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-21 |
-| [Sr Consultant, Software Engineer – Platform Engineering](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Consultant--Software-Engineer----Platform-Engineering_100907-1) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-21 |
-| [Large Combat Systems Engineering - ADEC Airworthiness Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Large-Combat-Systems-Engineering---ADEC-Airworthiness-Engineer_R5042166-2) | GE Aerospace | Evendale | 2026-11-21 |
-| [Enterprise Data Modeler / Data Architect](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=51962&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-21 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-21 |
+| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [Lead Software Engineer](https://jobs.battelle.org/us/en/job/76736) | Battelle | Columbus, OH | 2026-11-21 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-21 |
+| [Enterprise Data & AI Solutions Architect](https://jobs.lubrizol.com/job/Wickliffe-Enterprise-Data-&-AI-Solutions-Architect-OH-44092-2298/1427467500/) | Lubrizol | OH | 2026-11-21 |
 <!-- JOBS:END -->
 
 ## How it works
