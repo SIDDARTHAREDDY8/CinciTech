@@ -56,18 +56,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1459 tracked total · updated `2026-11-21T19:28:19+00:00`
+### 🆕 1 new roles this update · 1421 tracked total · updated `2026-11-22T01:33:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 2 |
 | Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-21 |
-| [Data Engineer](https://agilityconnect.io/jobs/8641) | Agility Connect | Cincinnati, OH | 2026-11-21 |
-| [Web SDET](https://agilityconnect.io/jobs/8640) | Agility Connect | Columbus, Ohio | 2026-11-21 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-22 |
 <!-- JOBS:END -->
 
 ## How it works
