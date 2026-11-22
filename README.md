@@ -56,15 +56,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1421 tracked total · updated `2026-11-22T01:33:18+00:00`
+### 🆕 7 new roles this update · 1427 tracked total · updated `2026-11-22T11:30:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Vernovis | 3 |
+| Honda | 2 |
 | Robert Half | 1 |
+| Root Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-22 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-22 |
+| [AI Developer](https://vernovis.com/blog/jobs/12180/) | Vernovis | Cincinnati, | 2026-11-22 |
+| [Cisco Network Engineer](https://vernovis.com/blog/jobs/12178/) | Vernovis | Cincinnati, | 2026-11-22 |
+| [Senior Software Developer - Cloud](https://vernovis.com/blog/jobs/12181/) | Vernovis | Cincinnati, | 2026-11-22 |
+| [Principal Software Engineer](https://ats.rippling.com/joinroot/jobs/4d54fd0e-2d2d-48e8-803a-e4b4720c80a0) | Root Insurance | Remote (United States) | 2026-11-22 |
+| [ADAS Test Engineer](https://careers.honda.com/us/en/job/12684) | Honda | Raymond, Ohio, United States | 2026-11-22 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-22 |
 <!-- JOBS:END -->
 
 ## How it works
