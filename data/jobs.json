@@ -1,16 +1,49 @@
 {
-  "updated": "2026-11-23T01:58:55+00:00",
-  "count": 1409,
+  "updated": "2026-11-23T12:48:32+00:00",
+  "count": 1410,
   "jobs": [
     {
       "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "Cincinnati, 02940",
-      "url": "https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen",
+      "title": "Artificial Intelligence Ai Engineer",
+      "location": "Cincinnati, 04340",
+      "url": "https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen",
       "posted": "2026-11-19",
-      "id": "d0e6cf5d261d",
-      "first_seen": "2026-11-23T01:58:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "id": "1fd87f58a88f",
+      "first_seen": "2026-11-23T12:48:32+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Battelle",
+      "title": "Software Engineer (Embedded Systems & Vulnerability Research)",
+      "location": "Columbus, OH",
+      "url": "https://jobs.battelle.org/us/en/job/76565",
+      "posted": "2018-04-22T17:57:54.000+0000",
+      "id": "8814dae9ef0b",
+      "first_seen": "2026-11-23T12:48:32+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Honda",
+      "title": "Manufacturing Quality Engineer",
+      "location": "Russells Point, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/12444",
+      "posted": "2026-10-30T00:00:00.000+0000",
+      "id": "1d7b220ad286",
+      "first_seen": "2026-11-23T12:48:32+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Honda",
+      "title": "ADAS Test Engineer",
+      "location": "Raymond, Ohio, United States",
+      "url": "https://careers.honda.com/us/en/job/12684",
+      "posted": "2026-10-22T00:00:00.000+0000",
+      "id": "80cb7df5d29e",
+      "first_seen": "2026-11-23T12:48:32+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -18,10 +51,10 @@
       "title": "Finance & Structuring Associate | Competitive Generation Infrastructure Solutions",
       "location": "Columbus, OH",
       "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Finance---Structuring-Associate---Competitive-Generation-Infrastructure-Solutions_R21173",
-      "posted": "2026-11-23",
+      "posted": "2026-11-22",
       "id": "02d858a99767",
       "first_seen": "2026-11-23T01:58:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -43,7 +76,7 @@
       "posted": "",
       "id": "460e62e15181",
       "first_seen": "2026-11-22T11:30:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -54,7 +87,7 @@
       "posted": "",
       "id": "728fb64de88b",
       "first_seen": "2026-11-22T11:30:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -65,7 +98,7 @@
       "posted": "",
       "id": "2ef30610b948",
       "first_seen": "2026-11-22T11:30:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -76,7 +109,7 @@
       "posted": "",
       "id": "efdd8bec36ff",
       "first_seen": "2026-11-22T11:30:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -87,7 +120,7 @@
       "posted": "2026-11-18",
       "id": "6d2d8a062f9c",
       "first_seen": "2026-11-21T19:28:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -98,7 +131,7 @@
       "posted": "2026-11-17",
       "id": "52310c45462e",
       "first_seen": "2026-11-21T19:28:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -109,7 +142,7 @@
       "posted": "2026-11-21",
       "id": "83f6a59fbcb4",
       "first_seen": "2026-11-21T11:18:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -120,7 +153,7 @@
       "posted": "2026-11-21",
       "id": "acced1413a89",
       "first_seen": "2026-11-21T11:18:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -131,7 +164,7 @@
       "posted": "2026-11-21",
       "id": "7b62b819acd3",
       "first_seen": "2026-11-21T11:18:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -142,7 +175,7 @@
       "posted": "2026-11-21",
       "id": "c88a3ecfac18",
       "first_seen": "2026-11-21T11:18:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -153,7 +186,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "d7cb8f724f18",
       "first_seen": "2026-11-21T11:18:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -164,7 +197,7 @@
       "posted": "",
       "id": "5f62dd3ee049",
       "first_seen": "2026-11-21T11:18:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -175,7 +208,7 @@
       "posted": "",
       "id": "9421bae4b359",
       "first_seen": "2026-11-21T02:36:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -183,10 +216,10 @@
       "title": "Large Combat Systems Engineering - ADEC Airworthiness Engineer",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Large-Combat-Systems-Engineering---ADEC-Airworthiness-Engineer_R5042166-2",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "9ba5f15121f2",
       "first_seen": "2026-11-21T02:36:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -197,7 +230,7 @@
       "posted": "2026-05-04T00:00:00.000+0000",
       "id": "9416090c8b4d",
       "first_seen": "2026-11-21T02:36:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -208,7 +241,7 @@
       "posted": "2026-11-20T16:06:41.267+0000",
       "id": "60317ea21f61",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -241,7 +274,7 @@
       "posted": "",
       "id": "3c49ac9b3746",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -249,10 +282,10 @@
       "title": "Desktop AI Intern - Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Desktop-AI-Intern---Summer-2027_R9817",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "476e33dd214d",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -263,7 +296,7 @@
       "posted": "",
       "id": "bd4d5240a412",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -271,10 +304,10 @@
       "title": "Senior Engineer, SAP Pricing and Vistex",
       "location": "OH-Ohio-Work from Home",
       "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Engineer--SAP-Pricing-and-Vistex_20191064",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "ee391e76676a",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -285,7 +318,7 @@
       "posted": "2026-11-20",
       "id": "4e6a1637a5a7",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -293,10 +326,10 @@
       "title": "Loan Support Specialist - Pacific Region",
       "location": "Remote USA",
       "url": "https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Loan-Support-Specialist---Pacific-Region_JR03885",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "73652c31336f",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -307,7 +340,7 @@
       "posted": "",
       "id": "a5f72c07729e",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -318,7 +351,7 @@
       "posted": "",
       "id": "6ca53916358c",
       "first_seen": "2026-11-20T20:29:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -329,7 +362,7 @@
       "posted": "",
       "id": "9bbb71698a79",
       "first_seen": "2026-11-20T11:54:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -340,7 +373,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "9adb7bf1fae2",
       "first_seen": "2026-11-20T11:54:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -373,7 +406,7 @@
       "posted": "2026-11-19",
       "id": "7a369941bda0",
       "first_seen": "2026-11-20T02:45:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -384,7 +417,7 @@
       "posted": "2026-11-19T21:12:40.844Z",
       "id": "260832907036",
       "first_seen": "2026-11-20T02:45:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -395,7 +428,7 @@
       "posted": "",
       "id": "2fee762a6cbd",
       "first_seen": "2026-11-20T02:45:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -406,7 +439,7 @@
       "posted": "",
       "id": "c8aeadee942a",
       "first_seen": "2026-11-20T02:45:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -417,7 +450,7 @@
       "posted": "2026-11-19",
       "id": "56b6c8896c6a",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-22T11:30:45+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -425,10 +458,10 @@
       "title": "Cloud Architect - GIS Platforms",
       "location": "Gahanna, OH",
       "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Cloud-Architect---GIS-Platforms_R21032",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "1ce6dc826ad2",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -436,10 +469,10 @@
       "title": "Online Banking Lead Software Developer (Angular)",
       "location": "Brooklyn, OH",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Online-Banking-Access-Management-Technical-Lead--Angular-_R-42885",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "b19f4eab7834",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -447,10 +480,10 @@
       "title": "Business Systems Analyst Sr",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Sr_R0077992",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "78c934ee1bc7",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -469,10 +502,10 @@
       "title": "QA Testing Analyst - Lead",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/QA-Testing-Analyst---Lead_R0077864",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "906b853f2144",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -480,10 +513,10 @@
       "title": "Customer Support Specialist - Manufacturing",
       "location": "Cleveland, OH",
       "url": "https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Customer-Support-Specialist---Manufacturing_2026-R8952-1",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "8a36dafc810f",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -491,10 +524,10 @@
       "title": "Program Manager - Ingredient Supplier QA - Columbus,OH",
       "location": "United States - Ohio - Columbus",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Program-Manager---Ingredient-Supplier-QA---Columbus-OH_31167481",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "07a72713ac4e",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -513,10 +546,10 @@
       "title": "Senior IT Engineer - Configuration Manager & Intune",
       "location": "WORK AT HOME - OHIO",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Senior-IT-Engineer----Configuration-Manager---Intune_JR161920-1",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "b744c1512b33",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -527,7 +560,7 @@
       "posted": "2026-11-19",
       "id": "d18574411644",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -538,7 +571,7 @@
       "posted": "",
       "id": "4191205402a3",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -549,7 +582,7 @@
       "posted": "",
       "id": "aa6f1a46fb8a",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -560,7 +593,7 @@
       "posted": "2026-11-19",
       "id": "ff2c18d9a2c6",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -568,10 +601,10 @@
       "title": "Systems Engineer",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Systems-Engineer_2138027",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "eeb28f12b6e5",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -582,7 +615,7 @@
       "posted": "2026-11-19T13:57:19-05:00",
       "id": "43bda2608955",
       "first_seen": "2026-11-19T20:55:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -593,7 +626,7 @@
       "posted": "",
       "id": "c6178d78fd55",
       "first_seen": "2026-11-19T11:57:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -604,7 +637,7 @@
       "posted": "",
       "id": "19f35cd690a0",
       "first_seen": "2026-11-19T11:57:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -615,7 +648,7 @@
       "posted": "2026-11-18T16:49:28Z",
       "id": "a811056ac9fc",
       "first_seen": "2026-11-19T02:53:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -626,7 +659,7 @@
       "posted": "2026-11-18T16:27:51Z",
       "id": "b92c595acdd6",
       "first_seen": "2026-11-19T02:53:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -656,10 +689,10 @@
       "title": "IS Epic Application Coordinator - HIM",
       "location": "431 S 18th St, Columbus, OH",
       "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Application-Coordinator---HIM_R-28941-1",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "9954e2d7ad94",
       "first_seen": "2026-11-19T02:53:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -667,10 +700,10 @@
       "title": "AI & Automation Lead - Product Development",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/AI---Automation-Lead---Product-Development_R5043476",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "ca8874c011c8",
       "first_seen": "2026-11-19T02:53:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -681,7 +714,7 @@
       "posted": "2026-11-18T19:04:10.746+0000",
       "id": "d7f75d9ef6ef",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -692,7 +725,7 @@
       "posted": "2026-11-16T19:56:39.446+0000",
       "id": "60217b585d79",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -703,7 +736,7 @@
       "posted": "2026-11-17T15:55:59.014+0000",
       "id": "190ee6fe2277",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -714,7 +747,7 @@
       "posted": "2026-11-16T22:51:53.643+0000",
       "id": "3ad4f18e2c5a",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -725,7 +758,7 @@
       "posted": "2026-11-16",
       "id": "1fda6004c1a8",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -736,7 +769,7 @@
       "posted": "2026-11-16",
       "id": "cb37a8fd28a1",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -747,7 +780,7 @@
       "posted": "2026-11-12",
       "id": "3fcd75c3307a",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -758,7 +791,7 @@
       "posted": "2026-11-19T10:50:07-05:00",
       "id": "18a6f3cfc59b",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -769,7 +802,7 @@
       "posted": "2026-11-18T08:43:38-05:00",
       "id": "d7b26b0e4f26",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -777,10 +810,10 @@
       "title": "Data Engineer Developer Intern \u2013 Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "a06a4d754c88",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -791,7 +824,7 @@
       "posted": "2026-11-18",
       "id": "733a1e1354ef",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -810,10 +843,10 @@
       "title": "Clinical Enterprise Director, Medicine Service Line",
       "location": "BLOM ADMINISTRATIVE CAMPUS",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/BLOM-ADMINISTRATIVE-CAMPUS/Clinical-Enterprise-Director--Medicine-Service-Line_JR161209",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "34c1c7442652",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -821,10 +854,10 @@
       "title": "Senior Systems Engineer \u2013 Turbine Module Field Integration (F110/J85)",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Systems-Engineer---Turbine-Module-Field-Integration--F110-J85-_R5041521",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "785f28b58022",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -835,7 +868,7 @@
       "posted": "2026-11-18",
       "id": "f0b05f9c209f",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -846,7 +879,7 @@
       "posted": "2026-11-18",
       "id": "58f64c466fe5",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -857,7 +890,7 @@
       "posted": "2026-11-18T00:00:00.000+0000",
       "id": "a795033b3c55",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -868,7 +901,7 @@
       "posted": "",
       "id": "e6b05daf12c3",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -876,10 +909,10 @@
       "title": "Manager, ERP Engineering (BTPAI)",
       "location": "Remote - CAN",
       "url": "https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---CAN/Manager--ERP-Engineering--BTPAI-_R-0158511-1",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "86900b3de4f8",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -890,7 +923,7 @@
       "posted": "",
       "id": "0096b41d74f9",
       "first_seen": "2026-11-18T20:50:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -901,7 +934,7 @@
       "posted": "2026-11-17T16:42:34-05:00",
       "id": "6af7a01cd05d",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -912,7 +945,7 @@
       "posted": "2026-11-17",
       "id": "c72df21d7912",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -923,7 +956,7 @@
       "posted": "2026-11-17T14:25:31-05:00",
       "id": "7efa83a1dc42",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -964,10 +997,10 @@
       "title": "Software Developer - Senior",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Software-Developer---Senior_R0077788",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "2990bda3d939",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -975,10 +1008,10 @@
       "title": "Programmer/Analyst 2",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-2_R0077832",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "09c724e75bb0",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -986,10 +1019,10 @@
       "title": "Senior IT Engineer \u2013 Enterprise Storage and Backup",
       "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Senior-IT-Engineer---Enterprise-Storage-and-Backup_JR160145",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "5602d8a6deea",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -997,10 +1030,10 @@
       "title": "Epic Project Manager",
       "location": "Work from Home - Hybrid - Ohio",
       "url": "https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Epic-Project-Manager_R24828",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "6e3779ff3d46",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1011,7 +1044,7 @@
       "posted": "2026-11-17T00:00:00.000+0000",
       "id": "50e7a322c4d2",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1022,7 +1055,7 @@
       "posted": "2026-11-18T01:03:30.685Z",
       "id": "d67420a963dc",
       "first_seen": "2026-11-18T03:13:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1055,7 +1088,7 @@
       "posted": "",
       "id": "89c65dfca0cf",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1066,7 +1099,7 @@
       "posted": "2026-11-17",
       "id": "288d3fc8038f",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1074,10 +1107,10 @@
       "title": "Data Architect",
       "location": "Cleveland, OH",
       "url": "https://materion.wd5.myworkdayjobs.com/Materion/job/Cleveland-OH/Data-Architect_2026-R8884",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "d786e3c04026",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1085,10 +1118,10 @@
       "title": "Senior AI Product Manager",
       "location": "United States of America : Remote",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-AI-Product-Manager_31167448",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "17e9fc3a75a5",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1096,10 +1129,10 @@
       "title": "Applied AI Engineer Intern (m/f/d) \u2013 Spring 2027",
       "location": "Remote",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1",
-      "posted": "2026-11-18",
+      "posted": "2026-11-23",
       "id": "a435ef153d85",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-18T03:13:16+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1110,7 +1143,7 @@
       "posted": "2026-11-17T00:00:00.000+0000",
       "id": "901a3a7b1d57",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1121,7 +1154,7 @@
       "posted": "2026-11-17T00:00:00.000+0000",
       "id": "7d604b81492f",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1132,7 +1165,7 @@
       "posted": "2026-11-17T13:58:53.343Z",
       "id": "a0d250462989",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1143,7 +1176,7 @@
       "posted": "",
       "id": "ced41a9057e5",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1154,7 +1187,7 @@
       "posted": "2026-11-17T12:53:00+0000",
       "id": "201105e5e7ad",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1165,7 +1198,7 @@
       "posted": "2026-11-17T12:16:59-05:00",
       "id": "5be3dbb541f2",
       "first_seen": "2026-11-17T18:53:12+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1176,7 +1209,7 @@
       "posted": "2026-11-16T00:00:00.000+0000",
       "id": "f52ddd0ae106",
       "first_seen": "2026-11-17T08:10:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1198,7 +1231,7 @@
       "posted": "",
       "id": "7cec7afefd77",
       "first_seen": "2026-11-17T08:10:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1209,7 +1242,7 @@
       "posted": "",
       "id": "7356fa32414d",
       "first_seen": "2026-11-17T08:10:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1220,7 +1253,7 @@
       "posted": "",
       "id": "7b4fe69d8aa4",
       "first_seen": "2026-11-17T08:10:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1231,7 +1264,7 @@
       "posted": "",
       "id": "984d1826edea",
       "first_seen": "2026-11-17T08:10:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1242,7 +1275,7 @@
       "posted": "",
       "id": "7e4cd0d978af",
       "first_seen": "2026-11-17T08:10:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1286,7 +1319,7 @@
       "posted": "2026-11-16T08:58:04-05:00",
       "id": "427b2033a90c",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1305,10 +1338,10 @@
       "title": "Principal Specialist, Quality Assurance - Microbiology",
       "location": "OH-Lewis Center-NPHS Logistics Center",
       "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Lewis-Center-NPHS-Logistics-Center/Principal-Specialist--Quality-Assurance---Microbiology_20190625-1",
-      "posted": "2026-11-17",
+      "posted": "2026-11-16",
       "id": "95fb51c05735",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1316,10 +1349,10 @@
       "title": "Sr. Manager, Cybersecurity Architecture and Engineering",
       "location": "USA - Ohio - Westlake",
       "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Ohio---Westlake/Sr-Manager--Cybersecurity-Architecture-and-Engineering_REQ53910",
-      "posted": "2026-11-17",
+      "posted": "2026-11-16",
       "id": "2a73fc7b28df",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1327,10 +1360,10 @@
       "title": "Designer / AI Artist",
       "location": "Marysville, OH",
       "url": "https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Designer---AI-Artist_R26889",
-      "posted": "2026-11-17",
+      "posted": "2026-11-16",
       "id": "7aee39c9789d",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1338,10 +1371,10 @@
       "title": "Data Analyst- Insurance Claims",
       "location": "Remote",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Operations-Data-Analyst--Insurance_R5035881-1",
-      "posted": "2026-11-17",
+      "posted": "2026-11-16",
       "id": "63282bcc4eee",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1396,7 +1429,7 @@
       "posted": "2026-11-16T00:00:00.000+0000",
       "id": "43e39dcadbbc",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1407,7 +1440,7 @@
       "posted": "2026-11-16T00:00:00.000+0000",
       "id": "4c0871b7a8b7",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1440,7 +1473,7 @@
       "posted": "",
       "id": "e0046d55a093",
       "first_seen": "2026-11-16T22:17:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1451,7 +1484,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "77365047e86c",
       "first_seen": "2026-11-16T11:30:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1484,7 +1517,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "bc8a8ed42f55",
       "first_seen": "2026-11-15T11:02:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1495,7 +1528,7 @@
       "posted": "",
       "id": "982873e1817c",
       "first_seen": "2026-11-15T11:02:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1503,10 +1536,10 @@
       "title": "Business Controls Manager - Data Analytics and Automation",
       "location": "Cincinnati, OH",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Business-Controls-Manager---Data-Analytics-and-Automation_R74868",
-      "posted": "2026-11-14",
+      "posted": "2026-11-13",
       "id": "7e341454d1a0",
       "first_seen": "2026-11-14T20:16:47+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1514,10 +1547,10 @@
       "title": "Lead Engineer - Aero Dynamics",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Engineer---Aero-Dynamics_R5043168-1",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "af727da9f547",
       "first_seen": "2026-11-14T20:16:47+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1528,7 +1561,7 @@
       "posted": "2026-11-12",
       "id": "29dc230f47e8",
       "first_seen": "2026-11-14T13:41:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1539,7 +1572,7 @@
       "posted": "2026-11-12",
       "id": "92e7acb90708",
       "first_seen": "2026-11-14T13:41:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1550,7 +1583,7 @@
       "posted": "2026-11-10",
       "id": "a3e97cd1dae0",
       "first_seen": "2026-11-14T13:41:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1561,7 +1594,7 @@
       "posted": "2026-11-10",
       "id": "5ba22e297352",
       "first_seen": "2026-11-14T13:41:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1572,7 +1605,7 @@
       "posted": "2026-11-09",
       "id": "68109fafd31d",
       "first_seen": "2026-11-14T13:41:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1583,7 +1616,7 @@
       "posted": "2026-11-13",
       "id": "78dda5605973",
       "first_seen": "2026-11-13T23:48:03+00:00",
-      "last_seen": "2026-11-22T11:30:45+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1591,10 +1624,10 @@
       "title": "Manager, Enterprise Engineering Solutions (EES)",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Enterprise-Engineering-Solutions--EES-_R14292",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "be646ec7146e",
       "first_seen": "2026-11-13T23:48:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1638,7 +1671,7 @@
       "posted": "2026-11-13",
       "id": "21c10cc75ff6",
       "first_seen": "2026-11-13T23:48:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1682,7 +1715,7 @@
       "posted": "2026-11-13T00:00:00.000+0000",
       "id": "76815d3eb0b0",
       "first_seen": "2026-11-13T23:48:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1693,7 +1726,7 @@
       "posted": "2026-11-13T09:40:00-05:00",
       "id": "03240cefa527",
       "first_seen": "2026-11-13T17:32:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1715,7 +1748,7 @@
       "posted": "2026-11-13",
       "id": "83001cded715",
       "first_seen": "2026-11-13T17:32:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1737,7 +1770,7 @@
       "posted": "2026-11-13T00:00:00.000+0000",
       "id": "efa7bfeee8ef",
       "first_seen": "2026-11-13T17:32:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1759,7 +1792,7 @@
       "posted": "2026-11-12",
       "id": "847beea9db95",
       "first_seen": "2026-11-12T23:56:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1770,7 +1803,7 @@
       "posted": "2026-11-12",
       "id": "1bd3c35f1f87",
       "first_seen": "2026-11-12T23:56:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1789,10 +1822,10 @@
       "title": "Cybersecurity Intern - Summer 2027",
       "location": "Columbus, OH",
       "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "497fece04433",
       "first_seen": "2026-11-12T23:56:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1800,10 +1833,10 @@
       "title": "IT Software Manager",
       "location": "CINCINNATI GENERAL OFFICES",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Software-Manager_R000160640",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "7777c0e3ca8b",
       "first_seen": "2026-11-12T23:56:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1811,10 +1844,10 @@
       "title": "Software Engineer Senior-1",
       "location": "Main Campus, Columbus, OH",
       "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Software-Engineer-Senior-1_R-28894-1",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "57bc6e02c40e",
       "first_seen": "2026-11-12T23:56:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1825,7 +1858,7 @@
       "posted": "",
       "id": "e29e24e68c70",
       "first_seen": "2026-11-12T23:56:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1836,7 +1869,7 @@
       "posted": "2026-10-01T13:13:51.230+0000",
       "id": "20c4c4e43e0e",
       "first_seen": "2026-11-12T23:56:08+00:00",
-      "last_seen": "2026-11-12T23:56:08+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1866,10 +1899,10 @@
       "title": "AI Compliance Analyst II - Healthcare preferred",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Compliance-Analyst-II---Healthcare-preferred_R14425",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "135559c2991c",
       "first_seen": "2026-11-12T18:01:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1891,7 +1924,7 @@
       "posted": "",
       "id": "51490520a43a",
       "first_seen": "2026-11-12T18:01:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1910,10 +1943,10 @@
       "title": "Digital Product Owner",
       "location": "CINCINNATI GENERAL OFFICES",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Digital-Product-Owner_R000159233",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "fd7fe44d5128",
       "first_seen": "2026-11-12T18:01:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1921,10 +1954,10 @@
       "title": "Java Developer- API and Microservices",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Java-Developer--API-and-Microservices_R0077546",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "1e931387efed",
       "first_seen": "2026-11-12T18:01:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1943,10 +1976,10 @@
       "title": "IT Manager - Infrastructure Operations + Automation",
       "location": "WORK AT HOME - OHIO",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Manager---Infrastructure-Operations---Automation_JR161105",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "04a132cc5dbb",
       "first_seen": "2026-11-12T18:01:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1957,7 +1990,7 @@
       "posted": "",
       "id": "6159f2b327c1",
       "first_seen": "2026-11-12T18:01:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1968,7 +2001,7 @@
       "posted": "",
       "id": "4aacaaa6165f",
       "first_seen": "2026-11-12T07:26:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1979,7 +2012,7 @@
       "posted": "2026-11-18",
       "id": "c7cd1fbc93ca",
       "first_seen": "2026-11-12T07:26:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -1990,7 +2023,7 @@
       "posted": "2026-11-12T01:10:00+0000",
       "id": "b4ee01270937",
       "first_seen": "2026-11-12T07:26:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2001,7 +2034,7 @@
       "posted": "2026-11-12T01:08:00+0000",
       "id": "cd492f88d125",
       "first_seen": "2026-11-12T07:26:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2012,7 +2045,7 @@
       "posted": "2026-11-12T00:44:00+0000",
       "id": "1f6c649616f3",
       "first_seen": "2026-11-12T07:26:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2042,10 +2075,10 @@
       "title": "Manager, HR Technology & AI Solutions",
       "location": "Remote - USA",
       "url": "https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--HR-Technology---AI-Solutions_R-0158485-1",
-      "posted": "2026-11-12",
+      "posted": "2026-11-11",
       "id": "df5467acdcef",
       "first_seen": "2026-11-12T07:26:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2056,7 +2089,7 @@
       "posted": "2026-11-09",
       "id": "451e6803ab2e",
       "first_seen": "2026-11-11T22:19:58+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2155,7 +2188,7 @@
       "posted": "2026-11-11T07:30:00.784Z",
       "id": "893d802de73a",
       "first_seen": "2026-11-11T22:19:58+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2163,10 +2196,10 @@
       "title": "IAM Coordinator",
       "location": "LC10530 - 2160 Superior Avenue, Cleveland, OH",
       "url": "https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/LC10530---2160-Superior-Avenue-Cleveland-OH/Systems-Access-Coordinator_JR03826",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "d660c5486128",
       "first_seen": "2026-11-11T22:19:58+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2185,10 +2218,10 @@
       "title": "Sr. Data Engineer (Python, SAS, SQL)",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Sr-Data-Engineer--Python--SAS--SQL-_2137549",
-      "posted": "2026-11-12",
+      "posted": "2026-11-11",
       "id": "73eb24d095f9",
       "first_seen": "2026-11-11T22:19:58+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2196,10 +2229,10 @@
       "title": "Senior IT Data Analyst",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-IT-Data-Analyst_2137589-1",
-      "posted": "2026-11-17",
+      "posted": "2026-11-16",
       "id": "c81b32a23840",
       "first_seen": "2026-11-11T22:19:58+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2306,10 +2339,10 @@
       "title": "IT Summer Internship Program Event Coordinator Intern - Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Summer-Internship-Program-Event-Coordinator-Intern---Summer-2027_R9889",
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "id": "a2454e611216",
       "first_seen": "2026-11-10T23:35:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2328,10 +2361,10 @@
       "title": "Senior Project Lead Quality Assurance - Columbus, OH",
       "location": "United States - Ohio - Columbus",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Senior-Project-Lead-Quality-Assurance_31166623",
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "id": "1cf54b40e3eb",
       "first_seen": "2026-11-10T23:35:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2353,7 +2386,7 @@
       "posted": "2026-11-10T00:00:00.000+0000",
       "id": "4386e05566a2",
       "first_seen": "2026-11-10T23:35:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2383,10 +2416,10 @@
       "title": "FWA Payment Integrity Data Analyst III (Health Plan & SQL exp required)",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/FWA-Payment-Integrity-Data-Analyst-III--Health-Plan---SQL-exp-required-_R14454",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "fefcfee93693",
       "first_seen": "2026-11-10T17:27:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2394,10 +2427,10 @@
       "title": "Director, Enterprise Architecture",
       "location": "Columbus, OH",
       "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director--Enterprise-Architecture_R20836",
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "id": "ee11673f844f",
       "first_seen": "2026-11-10T17:27:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2419,7 +2452,7 @@
       "posted": "2026-11-10",
       "id": "6167f96e6b00",
       "first_seen": "2026-11-10T17:27:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2430,7 +2463,7 @@
       "posted": "2026-11-10",
       "id": "cf822c7ee3e0",
       "first_seen": "2026-11-10T17:27:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2438,10 +2471,10 @@
       "title": "SVP - Chief AI Officer",
       "location": "Burnet Campus",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/SVP---Chief-AI-Officer_JR227162",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "fb7fa4ae198d",
       "first_seen": "2026-11-10T17:27:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2485,7 +2518,7 @@
       "posted": "",
       "id": "b1c9549150bc",
       "first_seen": "2026-11-10T17:27:45+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2518,7 +2551,7 @@
       "posted": "",
       "id": "33e62ad4489d",
       "first_seen": "2026-11-10T07:31:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2540,7 +2573,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "6f6142358ea4",
       "first_seen": "2026-11-10T07:31:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2551,7 +2584,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "ba646dc99eec",
       "first_seen": "2026-11-10T07:31:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2562,7 +2595,7 @@
       "posted": "2026-04-23T00:00:00.000+0000",
       "id": "a1cbbfff1941",
       "first_seen": "2026-11-10T07:31:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2584,7 +2617,7 @@
       "posted": "2026-11-09T11:49:00-05:00",
       "id": "7fb12981fee2",
       "first_seen": "2026-11-09T22:38:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2592,10 +2625,10 @@
       "title": "Principal Data Engineer - Data Strategy & Architecture",
       "location": "Cincinnati, OH",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Principal-Data-Engineer---Data-Strategy---Architecture_R74748-1",
-      "posted": "2026-11-10",
+      "posted": "2026-11-09",
       "id": "ba628e999db4",
       "first_seen": "2026-11-09T22:38:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2661,7 +2694,7 @@
       "posted": "2026-10-14T00:00:00.000+0000",
       "id": "7f4ec6c7d440",
       "first_seen": "2026-11-09T22:38:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2672,7 +2705,7 @@
       "posted": "2026-11-09T00:00:00.000+0000",
       "id": "bc40e62d345c",
       "first_seen": "2026-11-09T22:38:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2716,7 +2749,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "85ad2b276f5a",
       "first_seen": "2026-11-07T22:08:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2727,7 +2760,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "f55cac3d0c9c",
       "first_seen": "2026-11-07T22:08:30+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2738,7 +2771,7 @@
       "posted": "2026-11-06",
       "id": "f3527d7e689c",
       "first_seen": "2026-11-07T18:04:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2749,7 +2782,7 @@
       "posted": "2026-11-05",
       "id": "c21edb49fdf0",
       "first_seen": "2026-11-07T18:04:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2760,7 +2793,7 @@
       "posted": "2026-11-05",
       "id": "18c83ab3aefe",
       "first_seen": "2026-11-07T18:04:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2771,7 +2804,7 @@
       "posted": "2026-11-05",
       "id": "bd871ba984f7",
       "first_seen": "2026-11-07T18:04:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2782,7 +2815,7 @@
       "posted": "2026-11-04",
       "id": "8ba97fc3e166",
       "first_seen": "2026-11-07T18:04:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2815,7 +2848,7 @@
       "posted": "2026-11-04",
       "id": "94eb188d0bec",
       "first_seen": "2026-11-07T18:04:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2837,7 +2870,7 @@
       "posted": "2026-11-04",
       "id": "d29a36f240f4",
       "first_seen": "2026-11-07T18:04:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2859,7 +2892,7 @@
       "posted": "",
       "id": "424a08aa72c6",
       "first_seen": "2026-11-07T10:19:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2892,7 +2925,7 @@
       "posted": "",
       "id": "3d1aae4115e7",
       "first_seen": "2026-11-07T01:16:07+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2969,7 +3002,7 @@
       "posted": "",
       "id": "ff548a10fccf",
       "first_seen": "2026-11-07T01:16:07+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2980,7 +3013,7 @@
       "posted": "",
       "id": "328502b274d4",
       "first_seen": "2026-11-07T01:16:07+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -2991,7 +3024,7 @@
       "posted": "",
       "id": "9667b84a59cf",
       "first_seen": "2026-11-07T01:16:07+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3024,7 +3057,7 @@
       "posted": "2026-11-05T21:41:42.817+0000",
       "id": "7b543c7e6ebb",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3035,7 +3068,7 @@
       "posted": "2026-11-05T21:22:25.239+0000",
       "id": "167bb57b2d1a",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3076,10 +3109,10 @@
       "title": "Senior AI Engineer",
       "location": "CINCINNATI GENERAL OFFICES",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-AI-Engineer_R000158858-1",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "094c7a8b0571",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3087,10 +3120,10 @@
       "title": "Segment Risk Manager - Cybersecurity",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Segment-Risk-Manager---Cybersecurity_R0077549-1",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "b4037b43432f",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3098,10 +3131,10 @@
       "title": "IT Support Engineer",
       "location": "Cleveland Works",
       "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/IT-Support-Engineer_R13988",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "78f297582303",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3109,10 +3142,10 @@
       "title": "IT Tech Lead -Revenue Cycle Applications",
       "location": "WORK AT HOME - OHIO",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/IT-Tech-Lead--Revenue-Cycle-Applications_JR161049",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "e7726f2e3920",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3120,10 +3153,10 @@
       "title": "Epic System Analyst - Optime/Anesthesia",
       "location": "WORK AT HOME - OHIO",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-System-Analyst---Optime-Anesthesia_JR161179",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "8ac0a6a31764",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3134,7 +3167,7 @@
       "posted": "2026-11-06T16:49:44.686Z",
       "id": "5aed8e158702",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3145,7 +3178,7 @@
       "posted": "2026-11-06T16:40:19.251Z",
       "id": "f0703c9e8dde",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3167,7 +3200,7 @@
       "posted": "",
       "id": "3e43beaee444",
       "first_seen": "2026-11-06T19:43:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3230,10 +3263,10 @@
       "title": "IT Business Analyst",
       "location": "OH-Ohio-Work from Home",
       "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/IT-Business-Analyst_20189765",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "39faa231aafa",
       "first_seen": "2026-11-06T01:55:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3241,10 +3274,10 @@
       "title": "Senior Software Developer",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Software-Developer_R0076613",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "0bc38a44a576",
       "first_seen": "2026-11-06T01:55:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3252,10 +3285,10 @@
       "title": "Service Desk Analyst",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Service-Desk-Analyst_R0076202",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "be74e34797b2",
       "first_seen": "2026-11-06T01:55:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3266,7 +3299,7 @@
       "posted": "2026-11-05T00:00:00.000+0000",
       "id": "30f90cfabc59",
       "first_seen": "2026-11-06T01:55:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3299,7 +3332,7 @@
       "posted": "2026-11-03",
       "id": "77675d12233f",
       "first_seen": "2026-11-05T20:15:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3318,10 +3351,10 @@
       "title": "Senior EMR Analyst - CINCI Lab",
       "location": "Remote",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EMR-Analyst---CINCI-Lab_JR226550",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "3ddcc20b4e01",
       "first_seen": "2026-11-05T20:15:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3365,7 +3398,7 @@
       "posted": "",
       "id": "1b2cbc88c75e",
       "first_seen": "2026-11-05T20:15:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3376,7 +3409,7 @@
       "posted": "",
       "id": "6470a9afb805",
       "first_seen": "2026-11-05T20:15:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3428,10 +3461,10 @@
       "title": "Director Nursing Informatics",
       "location": "Cleveland Clinic Main Campus",
       "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Director-Nursing-Informatics_351175",
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "id": "52e357e28549",
       "first_seen": "2026-11-05T01:46:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3442,7 +3475,7 @@
       "posted": "1793805184",
       "id": "bb01be9f1798",
       "first_seen": "2026-11-04T21:44:50+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3453,7 +3486,7 @@
       "posted": "1793804913",
       "id": "bacd42ce0c58",
       "first_seen": "2026-11-04T21:44:50+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3464,7 +3497,7 @@
       "posted": "",
       "id": "403de9b61829",
       "first_seen": "2026-11-04T21:44:50+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3541,7 +3574,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "3a00bf8cd922",
       "first_seen": "2026-11-04T21:44:50+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3549,10 +3582,10 @@
       "title": "Principal, AI/ML Engineer",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal--AI-ML-Engineer_2137341-1",
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "id": "331ac5ea9ee2",
       "first_seen": "2026-11-04T21:44:50+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3560,10 +3593,10 @@
       "title": "Senior AI/ML Engineer",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-AI-ML-Engineer_2137331",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "69c3afb5d032",
       "first_seen": "2026-11-04T21:44:50+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3571,10 +3604,10 @@
       "title": "Senior Manager, Quality Assurance",
       "location": "Orrville, OH",
       "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Senior-Manager--Quality-Assurance_116100",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "42b75b4c2dc2",
       "first_seen": "2026-11-04T14:50:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3582,10 +3615,10 @@
       "title": "Business Intelligence (Power BI) Intern - Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843",
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "id": "35c2b4799ee6",
       "first_seen": "2026-11-04T14:50:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3596,7 +3629,7 @@
       "posted": "2026-11-04",
       "id": "4ea9c413dab8",
       "first_seen": "2026-11-04T14:50:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3703,10 +3736,10 @@
       "title": "Manager of HIM Epic Identity and Operations",
       "location": "Erlanger, Kentucky",
       "url": "https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Erlanger-Kentucky/Manager-of-HIM-Epic-Identity-and-Operations_JR314836-1",
-      "posted": "2026-11-10",
+      "posted": "2026-11-09",
       "id": "ed4f2eaa060a",
       "first_seen": "2026-11-03T23:37:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3725,10 +3758,10 @@
       "title": "Cloud Native Senior Developer",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Native-Senior-Developer_R9841",
-      "posted": "2026-11-04",
+      "posted": "2026-11-03",
       "id": "e7077af4b0f8",
       "first_seen": "2026-11-03T17:23:27+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3761,7 +3794,7 @@
       "posted": "2026-11-17T21:28:29.093Z",
       "id": "408a70650bfc",
       "first_seen": "2026-11-03T17:23:27+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3772,7 +3805,7 @@
       "posted": "2026-11-02T22:01:37.598+0000",
       "id": "1018ba9672d0",
       "first_seen": "2026-11-03T07:03:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3783,7 +3816,7 @@
       "posted": "2026-11-02T15:22:32.049+0000",
       "id": "22cfb6a9a5c6",
       "first_seen": "2026-11-03T07:03:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3802,10 +3835,10 @@
       "title": "Lead Supplier Quality Engineer - Metallic Powders & Melting",
       "location": "Remote",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer---Metallic-Powders---Melting_R5042533-1",
-      "posted": "2026-11-03",
+      "posted": "2026-11-02",
       "id": "20c5a6aaa069",
       "first_seen": "2026-11-03T07:03:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3816,7 +3849,7 @@
       "posted": "2026-11-02T22:52:53.571Z",
       "id": "bbeb7fdd1baf",
       "first_seen": "2026-11-03T07:03:19+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3956,10 +3989,10 @@
       "title": "IT Manager - Network Operations",
       "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/IT-Manager---Network-Operations_JR160771",
-      "posted": "2026-11-03",
+      "posted": "2026-11-02",
       "id": "0202e9e52907",
       "first_seen": "2026-11-02T22:04:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -3989,10 +4022,10 @@
       "title": "Senior Developer",
       "location": "South Campus",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/South-Campus/Senior-Developer_JR225939",
-      "posted": "2026-11-04",
+      "posted": "2026-11-03",
       "id": "929f5aad54b7",
       "first_seen": "2026-11-02T22:04:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4036,7 +4069,7 @@
       "posted": "2026-11-02T00:00:00.000+0000",
       "id": "5804f171a1df",
       "first_seen": "2026-11-02T22:04:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4047,7 +4080,7 @@
       "posted": "",
       "id": "7e540442d3d0",
       "first_seen": "2026-11-02T22:04:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4058,7 +4091,7 @@
       "posted": "",
       "id": "19c3854e54f2",
       "first_seen": "2026-11-02T22:04:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4069,7 +4102,7 @@
       "posted": "",
       "id": "7ed97e0fbbb7",
       "first_seen": "2026-11-02T22:04:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4080,7 +4113,7 @@
       "posted": "2026-11-02T14:45:39-05:00",
       "id": "d6326645296a",
       "first_seen": "2026-11-02T22:04:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4091,7 +4124,7 @@
       "posted": "",
       "id": "1ad80e03ff0d",
       "first_seen": "2026-11-02T11:18:28+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4102,7 +4135,7 @@
       "posted": "",
       "id": "4b6d56c32d34",
       "first_seen": "2026-11-02T11:18:28+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4113,7 +4146,7 @@
       "posted": "",
       "id": "dd7d365ceb53",
       "first_seen": "2026-11-02T11:18:28+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4132,10 +4165,10 @@
       "title": "Artificial Intelligence Intern",
       "location": "Remote",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "id": "fae7305406a5",
       "first_seen": "2026-11-02T11:18:28+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4157,7 +4190,7 @@
       "posted": "2026-11-19T20:52:37.668Z",
       "id": "8b5a2b9c930e",
       "first_seen": "2026-11-02T01:02:27+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4168,7 +4201,7 @@
       "posted": "2026-11-19T20:39:56.697Z",
       "id": "9bead7fcd5cd",
       "first_seen": "2026-11-02T01:02:27+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4201,7 +4234,7 @@
       "posted": "2026-11-01",
       "id": "6be713d4d552",
       "first_seen": "2026-11-01T13:38:26+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4212,7 +4245,7 @@
       "posted": "",
       "id": "d2a807ab5b0b",
       "first_seen": "2026-11-01T13:38:26+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4223,7 +4256,7 @@
       "posted": "",
       "id": "3c8bd11a7941",
       "first_seen": "2026-11-01T13:38:26+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4245,7 +4278,7 @@
       "posted": "",
       "id": "9b4e60e00df0",
       "first_seen": "2026-11-01T06:16:36+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4311,7 +4344,7 @@
       "posted": "2026-10-30T17:09:12-04:00",
       "id": "e27533da4257",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4322,7 +4355,7 @@
       "posted": "2026-10-30T15:31:42-04:00",
       "id": "b2643c4d8bb7",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4333,7 +4366,7 @@
       "posted": "2026-11-03T12:04:52-05:00",
       "id": "c4707faf91b0",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4396,10 +4429,10 @@
       "title": "Quality Engineer",
       "location": "Cleveland Works",
       "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Cleveland-Works/Quality-Engineer_R13894",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "2238dea2c812",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4407,10 +4440,10 @@
       "title": "Senior Staff Engineer - Turbine Aerodynamics",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Staff-Engineer---Turbine-Aerodynamics_R5039907-2",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "e131aac54904",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4418,10 +4451,10 @@
       "title": "Staff Engineer - Turbine Aerodynamics",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Engineer---Turbine-Aerodynamics_R5042504-2",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "a3c30c74bd8e",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4432,7 +4465,7 @@
       "posted": "2022-12-08T15:31:47.000+0000",
       "id": "accaf888c90a",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4440,10 +4473,10 @@
       "title": "Sr Application Coordinator/Analyst - Epic MyChart",
       "location": "Crestview Hills, Kentucky",
       "url": "https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Sr-Application-Coordinator-Analyst---Epic-MyChart_JR314781",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "833a6da4b7ef",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4451,10 +4484,10 @@
       "title": "Sr Application Coordinator/Analyst - Epic Healthy Planet / Pop Health",
       "location": "Crestview Hills, Kentucky",
       "url": "https://stelizabeth.wd115.myworkdayjobs.com/StElizabethExternalCareerSite/job/Crestview-Hills-Kentucky/Sr-Application-Coordinator-Analyst---Epic-Healthy-Planet---Pop-Health_JR314779",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "bc8fe83fc624",
       "first_seen": "2026-10-30T22:40:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4465,7 +4498,7 @@
       "posted": "2026-10-30T09:07:32-04:00",
       "id": "4b15d0f3f375",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4476,7 +4509,7 @@
       "posted": "2026-10-30T09:51:14-04:00",
       "id": "7ac8bf5ffcc9",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4487,7 +4520,7 @@
       "posted": "2026-10-30T10:38:08-04:00",
       "id": "f6aae4e1c4a7",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4509,7 +4542,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "8595644f132c",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4520,7 +4553,7 @@
       "posted": "2026-11-17T14:33:58-05:00",
       "id": "d0227dee81c1",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4531,7 +4564,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "1b003f563d3e",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4542,7 +4575,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "f096df229725",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4553,7 +4586,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "9ccd3ff1f032",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4561,10 +4594,10 @@
       "title": "IT Intern - Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "566537067841",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4572,10 +4605,10 @@
       "title": "Senior Staff Systems Engineer \u2013 Systems Strategy & Survivability",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Senior-Staff-Systems-Engineer---Systems-Strategy---Survivability_R5041940-2",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "9f550e665b59",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4586,7 +4619,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "1f846ab74ae4",
       "first_seen": "2026-10-30T18:26:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4608,7 +4641,7 @@
       "posted": "",
       "id": "8072087f5907",
       "first_seen": "2026-10-30T10:28:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4619,7 +4652,7 @@
       "posted": "",
       "id": "00ed98f7b625",
       "first_seen": "2026-10-30T10:28:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4630,7 +4663,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "5516417d97aa",
       "first_seen": "2026-10-30T10:28:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4641,7 +4674,7 @@
       "posted": "2026-10-28T20:48:21.130+0000",
       "id": "6fb7fc6d4e1d",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4663,7 +4696,7 @@
       "posted": "2017-08-11T19:38:54.000Z",
       "id": "3372dad13f1f",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4674,7 +4707,7 @@
       "posted": "2017-07-10T14:51:01.000Z",
       "id": "cfe3dd625ad1",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4685,7 +4718,7 @@
       "posted": "2017-06-05T16:32:14.000Z",
       "id": "b99eab4188a1",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4740,7 +4773,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "1d63c949d6bd",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4751,7 +4784,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "9429cd101b3f",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4762,7 +4795,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "5599e69fa458",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4773,7 +4806,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "bce42d162d85",
       "first_seen": "2026-10-30T01:20:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4795,7 +4828,7 @@
       "posted": "1793802811",
       "id": "e88637124bf3",
       "first_seen": "2026-10-29T18:49:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4806,7 +4839,7 @@
       "posted": "2026-10-27",
       "id": "1e19a9422d6d",
       "first_seen": "2026-10-29T18:49:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4817,7 +4850,7 @@
       "posted": "2026-10-29T13:41:15-04:00",
       "id": "20bd1c16883a",
       "first_seen": "2026-10-29T18:49:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4828,7 +4861,7 @@
       "posted": "2026-11-03T14:02:43-05:00",
       "id": "aeb5ee0ce2a7",
       "first_seen": "2026-10-29T18:49:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4858,10 +4891,10 @@
       "title": "IT Data Intern - Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820",
-      "posted": "2026-10-30",
+      "posted": "2026-10-29",
       "id": "62835872731c",
       "first_seen": "2026-10-29T18:49:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4927,7 +4960,7 @@
       "posted": "",
       "id": "3781436be3bc",
       "first_seen": "2026-10-29T01:18:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4938,7 +4971,7 @@
       "posted": "",
       "id": "b99d1de27a31",
       "first_seen": "2026-10-29T01:18:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4949,7 +4982,7 @@
       "posted": "",
       "id": "6360b61b1a21",
       "first_seen": "2026-10-29T01:18:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4960,7 +4993,7 @@
       "posted": "",
       "id": "bab7b0e59c39",
       "first_seen": "2026-10-29T01:18:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -4971,7 +5004,7 @@
       "posted": "",
       "id": "cb84f2970ac8",
       "first_seen": "2026-10-29T01:18:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5034,10 +5067,10 @@
       "title": "Application Engineering Manager",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Engineering-Manager_R9792",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "a60fcba961ba",
       "first_seen": "2026-10-28T20:39:01+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5048,7 +5081,7 @@
       "posted": "",
       "id": "faeae086f78f",
       "first_seen": "2026-10-28T20:39:01+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5111,10 +5144,10 @@
       "title": "AI & Automation Lead - Product Development",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/AI---Automation-Lead---Product-Development_R5041939-2",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "2fd38e1587f3",
       "first_seen": "2026-10-28T20:39:01+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5136,7 +5169,7 @@
       "posted": "2026-10-28T15:39:01.141Z",
       "id": "9b55038fdcf0",
       "first_seen": "2026-10-28T20:39:01+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5180,7 +5213,7 @@
       "posted": "",
       "id": "6a9727a9ad3f",
       "first_seen": "2026-10-28T13:11:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5191,7 +5224,7 @@
       "posted": "2026-10-26",
       "id": "60a18eae944e",
       "first_seen": "2026-10-28T13:11:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5246,7 +5279,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "0eb24d6698d7",
       "first_seen": "2026-10-28T13:11:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5268,7 +5301,7 @@
       "posted": "2026-10-28T11:51:53.272Z",
       "id": "c8594a6cc504",
       "first_seen": "2026-10-28T13:11:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5331,10 +5364,10 @@
       "title": "Data Engineering Intern \u2013 Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "520ba551f87c",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5342,10 +5375,10 @@
       "title": "Claims Lab Developer Intern \u2013 Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "88b67ecb31fd",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5353,10 +5386,10 @@
       "title": "Cloud Data Platform Intern - Summer 2027",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "898e3828a491",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5386,10 +5419,10 @@
       "title": "Senior Software Engineer - Consumer Digital",
       "location": "Brooklyn, OH",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Software-Engineer----Consumer-Digital_R-42644-1",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "ebb801d1476c",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5419,10 +5452,10 @@
       "title": "Sr Manager - Virtualization Engineering",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Sr-Manager---Virtualization-Engineering_R0076522",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "eecced27c9cd",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5477,7 +5510,7 @@
       "posted": "2026-10-27T20:19:45.104Z",
       "id": "fbcbf870a5c2",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5488,7 +5521,7 @@
       "posted": "2026-10-27T15:42:26.57Z",
       "id": "71b82f88cb72",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5499,7 +5532,7 @@
       "posted": "",
       "id": "dcc6b04f08c9",
       "first_seen": "2026-10-27T22:35:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5518,10 +5551,10 @@
       "title": "AI Risk Management Senior Associate",
       "location": "Cincinnati, OH",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/AI-Risk-Management-Senior-Associate_R73467",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "a2e362475871",
       "first_seen": "2026-10-27T15:42:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5529,10 +5562,10 @@
       "title": "Senior Technical Product Manager",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Technical-Product-Manager_R9789",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "1d10295f8e47",
       "first_seen": "2026-10-27T15:42:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5540,10 +5573,10 @@
       "title": "Senior Data Scientist",
       "location": "Cincinnati, OH (USA)",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Senior-Data-Scientist_R9787",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "c7006c850006",
       "first_seen": "2026-10-27T15:42:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5565,7 +5598,7 @@
       "posted": "2026-10-27",
       "id": "c8cd0a1f566d",
       "first_seen": "2026-10-27T15:42:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5595,10 +5628,10 @@
       "title": "IT Project Scientist I - Research Data Navigation",
       "location": "431 S 18th St, Columbus, OH",
       "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-Project-Scientist-I---Research-Data-Navigation_R-28600-1",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "a7c8a2ed49a6",
       "first_seen": "2026-10-27T15:42:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5609,7 +5642,7 @@
       "posted": "2026-11-19",
       "id": "3b838d2cb4f2",
       "first_seen": "2026-10-27T15:42:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5628,10 +5661,10 @@
       "title": "Audit Manager",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Audit-Manager_2137323",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "fd1b165b1490",
       "first_seen": "2026-10-27T15:42:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5730,7 +5763,7 @@
       "posted": "2023-11-09T14:46:01.000+0000",
       "id": "5a24448dde87",
       "first_seen": "2026-10-27T01:00:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5741,7 +5774,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "06f12e14fd65",
       "first_seen": "2026-10-27T01:00:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5752,7 +5785,7 @@
       "posted": "2023-11-09T14:46:01.000+0000",
       "id": "22b9d1709b1c",
       "first_seen": "2026-10-27T01:00:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5774,7 +5807,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "704100187d60",
       "first_seen": "2026-10-27T01:00:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5862,7 +5895,7 @@
       "posted": "2026-10-26T10:28:24-04:00",
       "id": "d64a0f16f51f",
       "first_seen": "2026-10-26T20:54:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5903,10 +5936,10 @@
       "title": "Software Architect",
       "location": "Cleveland, OH",
       "url": "https://applied.wd501.myworkdayjobs.com/Applied/job/Cleveland-OH/Software-Architect_JR104002",
-      "posted": "2026-10-27",
+      "posted": "2026-10-26",
       "id": "873fc13cf2dc",
       "first_seen": "2026-10-26T20:54:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5939,7 +5972,7 @@
       "posted": "2026-10-26T19:44:49.441Z",
       "id": "176287ea6f84",
       "first_seen": "2026-10-26T20:54:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5969,10 +6002,10 @@
       "title": "Senior Full Stack Engineer (Node, Python, Angular/React)",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Full-Stack-Engineer_2136627",
-      "posted": "2026-11-03",
+      "posted": "2026-11-02",
       "id": "00fded1354ff",
       "first_seen": "2026-10-26T20:54:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -5980,10 +6013,10 @@
       "title": "Principal, Full Stack Engineer (Node, Python, Angular/ React)",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal--Full-Stack-Engineer_2136632",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "25c55f6d328a",
       "first_seen": "2026-10-26T20:54:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6049,7 +6082,7 @@
       "posted": "2026-10-25T14:09:27.831+0000",
       "id": "d96012bb2e38",
       "first_seen": "2026-10-25T21:05:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6093,7 +6126,7 @@
       "posted": "",
       "id": "5b8da362e40c",
       "first_seen": "2026-10-24T21:07:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6126,7 +6159,7 @@
       "posted": "2026-10-22",
       "id": "fd23af9f3729",
       "first_seen": "2026-10-24T16:20:40+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6137,7 +6170,7 @@
       "posted": "2026-10-21",
       "id": "2a92fd6ad041",
       "first_seen": "2026-10-24T16:20:40+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6302,7 +6335,7 @@
       "posted": "2026-10-23",
       "id": "13bbb2facbdf",
       "first_seen": "2026-10-23T21:52:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6313,7 +6346,7 @@
       "posted": "2026-10-28T19:49:42.926Z",
       "id": "7569165d7bad",
       "first_seen": "2026-10-23T21:52:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6346,7 +6379,7 @@
       "posted": "",
       "id": "4eb0907e2782",
       "first_seen": "2026-10-23T21:52:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6368,7 +6401,7 @@
       "posted": "1793743132",
       "id": "1bbf8900dd4e",
       "first_seen": "2026-10-23T17:31:00+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6379,7 +6412,7 @@
       "posted": "2026-10-24",
       "id": "77ff8587ee23",
       "first_seen": "2026-10-23T17:31:00+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6390,7 +6423,7 @@
       "posted": "2026-10-24",
       "id": "c04c429637b8",
       "first_seen": "2026-10-23T17:31:00+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6434,7 +6467,7 @@
       "posted": "2026-10-21",
       "id": "cb1f281e2f28",
       "first_seen": "2026-10-23T12:01:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6588,7 +6621,7 @@
       "posted": "2026-10-24",
       "id": "b0dae825f9e3",
       "first_seen": "2026-10-22T21:59:27+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6654,7 +6687,7 @@
       "posted": "2026-10-24",
       "id": "8745100f731f",
       "first_seen": "2026-10-22T17:30:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6665,7 +6698,7 @@
       "posted": "2026-10-24",
       "id": "f9d2b165149d",
       "first_seen": "2026-10-22T17:30:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6676,7 +6709,7 @@
       "posted": "2026-10-24",
       "id": "e50ed3f2ba98",
       "first_seen": "2026-10-22T17:30:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6687,7 +6720,7 @@
       "posted": "2026-10-22T00:00:00.000+0000",
       "id": "e2ed14e19a97",
       "first_seen": "2026-10-22T17:30:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6698,7 +6731,7 @@
       "posted": "2026-10-22T00:00:00.000+0000",
       "id": "deafbafbea6d",
       "first_seen": "2026-10-22T17:30:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6720,7 +6753,7 @@
       "posted": "",
       "id": "6ab90c9d34b6",
       "first_seen": "2026-10-22T12:12:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6742,7 +6775,7 @@
       "posted": "2026-10-20",
       "id": "6e43f302997b",
       "first_seen": "2026-10-22T12:12:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6753,7 +6786,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "95a8f0f2bd65",
       "first_seen": "2026-10-22T12:12:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6775,7 +6808,7 @@
       "posted": "",
       "id": "5d22401ce0bf",
       "first_seen": "2026-10-22T04:58:59+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6794,10 +6827,10 @@
       "title": "Technical Manager, Cloud Computing Engineering",
       "location": "Marysville, OH",
       "url": "https://scottsmiraclegro.wd5.myworkdayjobs.com/SMGExternal/job/Marysville-OH/Technical-Manager--Cloud-Computing-Engineering_R26660",
-      "posted": "2026-11-12",
+      "posted": "2026-11-11",
       "id": "b9429f6f8139",
       "first_seen": "2026-10-21T21:58:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6808,7 +6841,7 @@
       "posted": "2026-10-21T00:00:00.000+0000",
       "id": "c941a246b755",
       "first_seen": "2026-10-21T21:58:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6819,7 +6852,7 @@
       "posted": "",
       "id": "8c58979a3ac6",
       "first_seen": "2026-10-21T21:58:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6874,7 +6907,7 @@
       "posted": "2026-10-21",
       "id": "ccb406fa08be",
       "first_seen": "2026-10-21T17:29:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6904,10 +6937,10 @@
       "title": "Forward Deployed AI Engineer",
       "location": "Maumee, OH",
       "url": "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Forward-Deployed-AI-Engineer_R12570",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "d5047970440d",
       "first_seen": "2026-10-21T17:29:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -6962,7 +6995,7 @@
       "posted": "",
       "id": "265c184a025e",
       "first_seen": "2026-10-21T00:09:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7083,7 +7116,7 @@
       "posted": "2026-10-20T00:00:00.000+0000",
       "id": "e9ecd3df9c92",
       "first_seen": "2026-10-20T19:35:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7105,7 +7138,7 @@
       "posted": "",
       "id": "0c7180ca7cf2",
       "first_seen": "2026-10-20T19:35:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7116,7 +7149,7 @@
       "posted": "",
       "id": "9fd02a23a47e",
       "first_seen": "2026-10-20T19:35:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7270,7 +7303,7 @@
       "posted": "2026-10-24",
       "id": "7537ed0a689a",
       "first_seen": "2026-10-20T14:42:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7281,7 +7314,7 @@
       "posted": "2026-10-20T12:29:26.108Z",
       "id": "388c76eaf8e4",
       "first_seen": "2026-10-20T14:42:55+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7424,7 +7457,7 @@
       "posted": "2026-10-24",
       "id": "9d9bca074838",
       "first_seen": "2026-10-19T20:55:23+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7435,7 +7468,7 @@
       "posted": "2026-10-24",
       "id": "6c0c725ce0a6",
       "first_seen": "2026-10-19T20:55:23+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7446,7 +7479,7 @@
       "posted": "2026-10-24",
       "id": "0ddf1991e0ec",
       "first_seen": "2026-10-19T20:55:23+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7454,10 +7487,10 @@
       "title": "Learning and Development Senior Consultant, AI Fluency Enablement",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Learning-and-Development-Senior-Consultant--AI-Fluency-Enablement_R0076798",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "cf05334706ea",
       "first_seen": "2026-10-19T20:55:23+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7479,7 +7512,7 @@
       "posted": "2026-10-24",
       "id": "1d99b5631b1f",
       "first_seen": "2026-10-19T20:55:23+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7542,10 +7575,10 @@
       "title": "Servicenow Application Architect",
       "location": "Columbus, OH",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Servicenow-Application-Architect_R0076480",
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "id": "44b3600d6bf4",
       "first_seen": "2026-10-19T13:29:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7556,7 +7589,7 @@
       "posted": "2026-10-24",
       "id": "28c3fef1384e",
       "first_seen": "2026-10-19T13:29:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7578,7 +7611,7 @@
       "posted": "",
       "id": "cb7641bc6052",
       "first_seen": "2026-10-17T23:38:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7600,7 +7633,7 @@
       "posted": "2026-10-15",
       "id": "ca040cda03a3",
       "first_seen": "2026-10-17T15:58:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7611,7 +7644,7 @@
       "posted": "2026-10-17T00:00:00.000+0000",
       "id": "5c6656cb0f40",
       "first_seen": "2026-10-17T15:58:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7721,7 +7754,7 @@
       "posted": "2026-10-24",
       "id": "cf132d30fbc6",
       "first_seen": "2026-10-16T21:27:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7754,7 +7787,7 @@
       "posted": "2026-10-24",
       "id": "6329ed6f5c45",
       "first_seen": "2026-10-16T21:27:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7776,7 +7809,7 @@
       "posted": "1794461847",
       "id": "111ec30e6937",
       "first_seen": "2026-10-16T21:27:03+00:00",
-      "last_seen": "2026-11-20T20:29:51+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7798,7 +7831,7 @@
       "posted": "2026-10-16T18:22:37.185Z",
       "id": "9739c0d7365d",
       "first_seen": "2026-10-16T21:27:03+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7820,7 +7853,7 @@
       "posted": "2026-10-24",
       "id": "708896f89ec1",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7831,7 +7864,7 @@
       "posted": "2026-10-16",
       "id": "3028e404ef77",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7842,7 +7875,7 @@
       "posted": "2026-10-16T00:00:00.000+0000",
       "id": "3f9dfe277681",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7853,7 +7886,7 @@
       "posted": "2026-10-16T00:00:00.000+0000",
       "id": "d0d02ee149d7",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7864,7 +7897,7 @@
       "posted": "2026-10-16T00:00:00.000+0000",
       "id": "d38dcee06adb",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7886,7 +7919,7 @@
       "posted": "2026-11-12T00:43:00+0000",
       "id": "0077da66805e",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7897,7 +7930,7 @@
       "posted": "2026-11-12T00:42:00+0000",
       "id": "8e9630e49a54",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -7908,7 +7941,7 @@
       "posted": "2026-10-20T16:59:59-04:00",
       "id": "7cd3b9c8b5e5",
       "first_seen": "2026-10-16T16:57:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8026,10 +8059,10 @@
       "title": "Lead Data Engineer - Technology Data Product",
       "location": "Brooklyn, OH",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Lead-Data-Engineer---Technology-Data-Product_R-42648",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "12d5e8bce0cd",
       "first_seen": "2026-10-15T21:46:10+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8040,7 +8073,7 @@
       "posted": "2026-10-15",
       "id": "225ffceeb1a6",
       "first_seen": "2026-10-15T21:46:10+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8128,7 +8161,7 @@
       "posted": "2026-10-15T16:05:41.959Z",
       "id": "5c464e529b82",
       "first_seen": "2026-10-15T17:22:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8205,7 +8238,7 @@
       "posted": "",
       "id": "b4fb87cfa5a3",
       "first_seen": "2026-10-15T04:56:28+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8227,7 +8260,7 @@
       "posted": "2026-11-02T00:00:00.000+0000",
       "id": "0f46f7bb050e",
       "first_seen": "2026-10-15T04:56:28+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8260,7 +8293,7 @@
       "posted": "2026-11-18T10:40:11Z",
       "id": "24b99ba5f0bd",
       "first_seen": "2026-10-14T22:02:21+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8282,7 +8315,7 @@
       "posted": "2026-10-24",
       "id": "b3e5f10d5a65",
       "first_seen": "2026-10-14T22:02:21+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8370,7 +8403,7 @@
       "posted": "2026-10-24",
       "id": "9185913568bb",
       "first_seen": "2026-10-14T22:02:21+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8381,7 +8414,7 @@
       "posted": "2026-10-24",
       "id": "1934506666c3",
       "first_seen": "2026-10-14T22:02:21+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8447,7 +8480,7 @@
       "posted": "2026-10-24",
       "id": "1c8d5ec8fa4a",
       "first_seen": "2026-10-14T17:36:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8535,7 +8568,7 @@
       "posted": "",
       "id": "df5dfa297291",
       "first_seen": "2026-10-14T05:22:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8546,7 +8579,7 @@
       "posted": "2022-12-08T15:31:47.000+0000",
       "id": "1112c9e73f25",
       "first_seen": "2026-10-14T05:22:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8656,7 +8689,7 @@
       "posted": "2026-10-13T00:00:00.000+0000",
       "id": "a723ed7b8969",
       "first_seen": "2026-10-14T00:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8722,7 +8755,7 @@
       "posted": "",
       "id": "2b172699c32f",
       "first_seen": "2026-10-13T19:41:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8730,10 +8763,10 @@
       "title": "Enterprise GenAI Product Manager",
       "location": "Brooklyn, OH",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Enterprise-GenAI-Product-Manager_R-42650-1",
-      "posted": "2026-11-03",
+      "posted": "2026-11-02",
       "id": "d685cb886e4a",
       "first_seen": "2026-10-13T19:41:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8777,7 +8810,7 @@
       "posted": "2026-10-24",
       "id": "24bb3e8db713",
       "first_seen": "2026-10-13T19:41:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8788,7 +8821,7 @@
       "posted": "2026-10-24",
       "id": "b95748b0a41d",
       "first_seen": "2026-10-13T19:41:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8843,7 +8876,7 @@
       "posted": "2026-11-12T00:44:00+0000",
       "id": "4ff73bf40ef8",
       "first_seen": "2026-10-13T19:41:56+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -8997,7 +9030,7 @@
       "posted": "2026-10-24",
       "id": "7a52944efa25",
       "first_seen": "2026-10-12T21:45:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9008,7 +9041,7 @@
       "posted": "2026-10-24",
       "id": "bcacccc1bbdf",
       "first_seen": "2026-10-12T21:45:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9030,7 +9063,7 @@
       "posted": "2019-09-25T17:09:18.000+0000",
       "id": "13a8f897e879",
       "first_seen": "2026-10-12T21:45:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9041,7 +9074,7 @@
       "posted": "2026-10-12T21:31:56.65Z",
       "id": "77096ebc0e36",
       "first_seen": "2026-10-12T21:45:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9063,7 +9096,7 @@
       "posted": "2026-10-12T16:13:19-04:00",
       "id": "6e7106e8e5b4",
       "first_seen": "2026-10-12T21:45:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9096,7 +9129,7 @@
       "posted": "",
       "id": "6c3d1429d976",
       "first_seen": "2026-10-12T11:10:35+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9118,7 +9151,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "cff59796b447",
       "first_seen": "2026-10-12T01:04:15+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9173,7 +9206,7 @@
       "posted": "",
       "id": "d23efd5b9a1b",
       "first_seen": "2026-10-11T13:14:29+00:00",
-      "last_seen": "2026-11-22T01:33:18+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9261,7 +9294,7 @@
       "posted": "2026-10-08",
       "id": "f5a91e356cd1",
       "first_seen": "2026-10-10T17:46:44+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9324,10 +9357,10 @@
       "title": "Lead Data Scientist",
       "location": "COLUMBUS, OH",
       "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Lead-Data-Scientist_JR75426-1",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "a8bd0af72602",
       "first_seen": "2026-10-10T10:15:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9437,7 +9470,7 @@
       "posted": "2026-10-06",
       "id": "b801c2da186f",
       "first_seen": "2026-10-09T18:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9459,7 +9492,7 @@
       "posted": "",
       "id": "472d87c507c2",
       "first_seen": "2026-10-09T18:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9470,7 +9503,7 @@
       "posted": "",
       "id": "daca9110f16a",
       "first_seen": "2026-10-09T18:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9492,7 +9525,7 @@
       "posted": "2026-10-24",
       "id": "a2837e7d1719",
       "first_seen": "2026-10-09T18:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9525,7 +9558,7 @@
       "posted": "2026-10-09",
       "id": "124c9bb1c998",
       "first_seen": "2026-10-09T18:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9536,7 +9569,7 @@
       "posted": "2026-10-09",
       "id": "62b38ee3eb8f",
       "first_seen": "2026-10-09T18:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9547,7 +9580,7 @@
       "posted": "2026-10-24",
       "id": "91504974d574",
       "first_seen": "2026-10-09T18:47:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9643,10 +9676,10 @@
       "title": "Telecom Consultant Assc- Telecom Sr",
       "location": "New Albany, OH",
       "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Telecom-Consultant-Assc--Telecom-Sr_R19485",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "57245cd4d0c2",
       "first_seen": "2026-10-09T01:39:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9668,7 +9701,7 @@
       "posted": "",
       "id": "bebc8f3b8b7d",
       "first_seen": "2026-10-09T01:39:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9731,10 +9764,10 @@
       "title": "Solution Architect: AI & Automation",
       "location": "Columbus, OH",
       "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Architect--AI---Automation_R19775",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "640b03109578",
       "first_seen": "2026-10-08T19:14:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9778,7 +9811,7 @@
       "posted": "2026-10-24",
       "id": "1b6ef6b406a6",
       "first_seen": "2026-10-08T19:14:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9899,7 +9932,7 @@
       "posted": "",
       "id": "6772dccd5f31",
       "first_seen": "2026-10-08T01:23:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -9910,7 +9943,7 @@
       "posted": "",
       "id": "38cc7829c889",
       "first_seen": "2026-10-08T01:23:25+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10009,7 +10042,7 @@
       "posted": "2026-10-05",
       "id": "457f2cffb1f9",
       "first_seen": "2026-10-07T19:16:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10020,7 +10053,7 @@
       "posted": "2026-11-07T14:30:14-05:00",
       "id": "e7e3dba3a832",
       "first_seen": "2026-10-07T19:16:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10075,7 +10108,7 @@
       "posted": "2026-10-24",
       "id": "c29eb2cd2e76",
       "first_seen": "2026-10-07T19:16:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10108,7 +10141,7 @@
       "posted": "2023-11-09T14:46:01.000+0000",
       "id": "2ed19da2a2d5",
       "first_seen": "2026-10-07T19:16:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10119,7 +10152,7 @@
       "posted": "2023-11-09T14:46:01.000+0000",
       "id": "93b45e6e8f2b",
       "first_seen": "2026-10-07T19:16:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10141,7 +10174,7 @@
       "posted": "2026-10-07T18:26:29.288Z",
       "id": "26b00a80506b",
       "first_seen": "2026-10-07T19:16:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10185,7 +10218,7 @@
       "posted": "2018-04-22T17:57:54.000+0000",
       "id": "4cfea5f81764",
       "first_seen": "2026-10-07T10:40:53+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10262,7 +10295,7 @@
       "posted": "",
       "id": "7993091028b4",
       "first_seen": "2026-10-07T01:04:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10273,7 +10306,7 @@
       "posted": "2026-11-02T11:22:17-05:00",
       "id": "5c439f127761",
       "first_seen": "2026-10-07T01:04:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10292,10 +10325,10 @@
       "title": "NGP5 - Advanced Military Engine Systems Integration",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/NGP5---Advanced-Military-Engine-Systems--Integration_R5040751",
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "id": "202c675589b7",
       "first_seen": "2026-10-07T01:04:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10306,7 +10339,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "1c39763a17c0",
       "first_seen": "2026-10-06T20:43:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10317,7 +10350,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "a9c0b7f07ba0",
       "first_seen": "2026-10-06T20:43:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10325,10 +10358,10 @@
       "title": "Epic Access Optimization Analyst I - Capacity Management",
       "location": "Remote Location",
       "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Epic-Access-Optimization-Analyst-I---Capacity-Management_351650",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "9bd8d2979849",
       "first_seen": "2026-10-06T20:43:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10350,7 +10383,7 @@
       "posted": "2023-11-09T14:46:01.000+0000",
       "id": "e4e2dcdda76f",
       "first_seen": "2026-10-06T20:43:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10372,7 +10405,7 @@
       "posted": "2026-10-06T17:02:31.589Z",
       "id": "59926a57c898",
       "first_seen": "2026-10-06T20:43:34+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10504,7 +10537,7 @@
       "posted": "2026-10-05",
       "id": "031e7788f234",
       "first_seen": "2026-10-05T22:27:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10515,7 +10548,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "7332ba7cf580",
       "first_seen": "2026-10-05T22:27:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10559,7 +10592,7 @@
       "posted": "2026-10-24",
       "id": "9d45ac6ca719",
       "first_seen": "2026-10-05T22:27:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10581,7 +10614,7 @@
       "posted": "2026-11-06T16:41:31.855Z",
       "id": "bfbeb68f5525",
       "first_seen": "2026-10-05T22:27:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10592,7 +10625,7 @@
       "posted": "2026-10-05T15:12:16.503Z",
       "id": "34570c749cfd",
       "first_seen": "2026-10-05T22:27:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10614,7 +10647,7 @@
       "posted": "2026-10-05",
       "id": "f98a0457cdca",
       "first_seen": "2026-10-05T14:54:47+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10647,7 +10680,7 @@
       "posted": "",
       "id": "58a3c57b3312",
       "first_seen": "2026-10-05T14:54:47+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10724,7 +10757,7 @@
       "posted": "2026-10-01",
       "id": "3c6b228e127b",
       "first_seen": "2026-10-04T12:43:57+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10735,7 +10768,7 @@
       "posted": "2026-10-02T00:00:00.000+0000",
       "id": "cc0ac304c064",
       "first_seen": "2026-10-03T21:39:04+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10757,7 +10790,7 @@
       "posted": "2026-10-24T00:00:00.000+0000",
       "id": "85551480798a",
       "first_seen": "2026-10-03T05:40:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10768,7 +10801,7 @@
       "posted": "2026-10-03T02:06:26.34Z",
       "id": "aba5f430f972",
       "first_seen": "2026-10-03T05:40:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10834,7 +10867,7 @@
       "posted": "2026-10-02",
       "id": "9ea68a5de3f6",
       "first_seen": "2026-10-02T22:34:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10900,7 +10933,7 @@
       "posted": "2026-10-02T00:00:00.000+0000",
       "id": "834539abf5c5",
       "first_seen": "2026-10-02T22:34:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -10911,7 +10944,7 @@
       "posted": "2026-11-12T00:43:00+0000",
       "id": "40f3ac44eb5c",
       "first_seen": "2026-10-02T22:34:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11032,7 +11065,7 @@
       "posted": "2026-09-28",
       "id": "03c92c9d65ad",
       "first_seen": "2026-10-02T18:17:14+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11043,7 +11076,7 @@
       "posted": "2026-09-28",
       "id": "696d900208d8",
       "first_seen": "2026-10-02T18:17:14+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11065,7 +11098,7 @@
       "posted": "2026-10-24",
       "id": "a8c11452235f",
       "first_seen": "2026-10-02T18:17:14+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11230,7 +11263,7 @@
       "posted": "2026-10-24",
       "id": "3a0abc7adb80",
       "first_seen": "2026-10-02T01:12:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11318,7 +11351,7 @@
       "posted": "",
       "id": "2e99aa81a0da",
       "first_seen": "2026-10-01T18:54:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11384,7 +11417,7 @@
       "posted": "",
       "id": "d5a71f5f39a3",
       "first_seen": "2026-10-01T18:54:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11395,7 +11428,7 @@
       "posted": "2026-10-24",
       "id": "03255dbe0bb9",
       "first_seen": "2026-10-01T18:54:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11417,7 +11450,7 @@
       "posted": "",
       "id": "6c701084b8d5",
       "first_seen": "2026-10-01T00:59:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11527,7 +11560,7 @@
       "posted": "2026-10-24",
       "id": "47454f16f4f4",
       "first_seen": "2026-09-30T20:33:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11549,7 +11582,7 @@
       "posted": "2026-10-24",
       "id": "bb237de4ccfe",
       "first_seen": "2026-09-30T20:33:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11615,7 +11648,7 @@
       "posted": "",
       "id": "b15b70e32177",
       "first_seen": "2026-09-30T20:33:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11623,10 +11656,10 @@
       "title": "Principal Full Stack Engineer (Node.js, Angular, REST APIs)",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Principal-Full-Stack-Engineer--Nodejs--Angular--REST-APIs-_2134818-1",
-      "posted": "2026-10-30",
+      "posted": "2026-10-29",
       "id": "031c7293d4df",
       "first_seen": "2026-09-30T20:33:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11637,7 +11670,7 @@
       "posted": "2026-10-24",
       "id": "6afc336f106e",
       "first_seen": "2026-09-30T20:33:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11659,7 +11692,7 @@
       "posted": "2026-09-30T08:29:51-04:00",
       "id": "a3917fb62506",
       "first_seen": "2026-09-30T12:58:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11821,10 +11854,10 @@
       "title": "Lead Engineer - Engine Dynamics",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Engineer---Engine-Dynamics_R5039384",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "0c17c21b2a94",
       "first_seen": "2026-09-29T22:42:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11835,7 +11868,7 @@
       "posted": "2026-09-29T00:00:00.000+0000",
       "id": "507deec24135",
       "first_seen": "2026-09-29T22:42:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11857,7 +11890,7 @@
       "posted": "2026-10-30T09:10:13-04:00",
       "id": "736eecee5336",
       "first_seen": "2026-09-29T18:36:49+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11868,7 +11901,7 @@
       "posted": "",
       "id": "947f26bb2d79",
       "first_seen": "2026-09-29T18:36:49+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11879,7 +11912,7 @@
       "posted": "2026-10-24",
       "id": "3c55aed53607",
       "first_seen": "2026-09-29T18:36:49+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11890,7 +11923,7 @@
       "posted": "2026-10-24",
       "id": "7c908ccc703c",
       "first_seen": "2026-09-29T18:36:49+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11901,7 +11934,7 @@
       "posted": "2026-10-24",
       "id": "411ccd916105",
       "first_seen": "2026-09-29T18:36:49+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -11967,7 +12000,7 @@
       "posted": "",
       "id": "bf810724c04e",
       "first_seen": "2026-09-29T18:36:49+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12129,10 +12162,10 @@
       "title": "Test Engineer",
       "location": "Elyria, Ohio",
       "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Test-Engineer_JR102543",
-      "posted": "2026-11-17",
+      "posted": "2026-11-16",
       "id": "f5af9d786086",
       "first_seen": "2026-09-28T21:43:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12187,7 +12220,7 @@
       "posted": "",
       "id": "a433fa89693b",
       "first_seen": "2026-09-28T21:43:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12209,7 +12242,7 @@
       "posted": "2026-11-12T00:44:00+0000",
       "id": "2832a29ddb82",
       "first_seen": "2026-09-28T21:43:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12253,7 +12286,7 @@
       "posted": "2026-10-24",
       "id": "f8057af17a8c",
       "first_seen": "2026-09-28T14:16:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12286,7 +12319,7 @@
       "posted": "",
       "id": "6e913eda0005",
       "first_seen": "2026-09-28T14:16:33+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12363,7 +12396,7 @@
       "posted": "2026-09-25",
       "id": "4df80b6b28c4",
       "first_seen": "2026-09-27T12:21:14+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12429,7 +12462,7 @@
       "posted": "2026-09-26",
       "id": "566203a5e106",
       "first_seen": "2026-09-26T05:19:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12605,7 +12638,7 @@
       "posted": "2026-11-04T00:00:00.000+0000",
       "id": "5cc0a38cbc96",
       "first_seen": "2026-09-25T22:00:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12770,7 +12803,7 @@
       "posted": "",
       "id": "19eb1ee5de0d",
       "first_seen": "2026-09-25T05:23:54+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -12957,7 +12990,7 @@
       "posted": "2026-09-23T14:46:34-04:00",
       "id": "0eb90a0182f4",
       "first_seen": "2026-09-23T21:54:41+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13075,10 +13108,10 @@
       "title": "Systems Analyst III",
       "location": "Remote Location",
       "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EPIC-Resolute--Revenue-Cycle-Analyst-II_309370",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "700ed4f2f6e6",
       "first_seen": "2026-09-23T17:24:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13122,29 +13155,7 @@
       "posted": "",
       "id": "7f21d03c448c",
       "first_seen": "2026-09-23T17:24:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Nationwide",
-      "title": "Specialist, Software Engineer (Full Stack, AWS)",
-      "location": "Ohio - Columbus, Three Nationwide Plaza",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer--Full-Stack--AWS-_100338",
-      "posted": "",
-      "id": "492a10590609",
-      "first_seen": "2026-09-23T05:11:55+00:00",
-      "last_seen": "2026-10-02T22:34:17+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Nationwide",
-      "title": "Consultant, Software Engineer (Apigee, APIs, Kong)",
-      "location": "Ohio - Columbus, Three Nationwide Plaza",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--Apigee--APIs--Kong-_100389",
-      "posted": "",
-      "id": "531d42937af6",
-      "first_seen": "2026-09-23T05:11:55+00:00",
-      "last_seen": "2026-10-02T22:34:17+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13185,10 +13196,10 @@
       "title": "Site Reliability Engineer - Identity & Access Management",
       "location": "CINCINNATI GENERAL OFFICES",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Site-Reliability-Engineer---Identity---Access-Management_R000155236",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "978cc20f49d8",
       "first_seen": "2026-09-22T21:48:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13199,7 +13210,7 @@
       "posted": "2026-10-24",
       "id": "4e997c2aa710",
       "first_seen": "2026-09-22T21:48:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13254,7 +13265,7 @@
       "posted": "2026-11-09T00:00:00.000+0000",
       "id": "4479ef416c8c",
       "first_seen": "2026-09-21T20:25:53+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13265,7 +13276,7 @@
       "posted": "2026-10-24",
       "id": "51dbb8702564",
       "first_seen": "2026-09-18T21:20:04+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13273,10 +13284,10 @@
       "title": "Senior Process Automation Engineer (Power Apps, SQL, RPA, JavaScript)",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Senior-Process-Automation-Engineer--Power-Apps--SQL--RPA--JavaScript-_2128624",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "96d7b18cdf3c",
       "first_seen": "2026-09-18T21:20:04+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13287,7 +13298,7 @@
       "posted": "2026-10-24",
       "id": "7bf3d170dd07",
       "first_seen": "2026-09-18T16:54:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13295,10 +13306,10 @@
       "title": "Senior Data Engineer",
       "location": "CINCINNATI GENERAL OFFICES",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-Data-Engineer_R000155516",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "213c6fd5cfe8",
       "first_seen": "2026-09-18T16:54:06+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13364,7 +13375,7 @@
       "posted": "2026-10-24",
       "id": "cb49eb040eb9",
       "first_seen": "2026-09-16T21:46:24+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13375,7 +13386,7 @@
       "posted": "2026-11-19",
       "id": "e1d48d936b8e",
       "first_seen": "2026-09-16T21:46:24+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13408,7 +13419,7 @@
       "posted": "2026-10-24",
       "id": "0535b5189459",
       "first_seen": "2026-09-16T11:54:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13419,7 +13430,7 @@
       "posted": "2026-10-27T10:22:29-04:00",
       "id": "17195c312e13",
       "first_seen": "2026-09-15T21:49:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13441,7 +13452,7 @@
       "posted": "2026-10-24",
       "id": "e40263f67e0e",
       "first_seen": "2026-09-15T21:49:48+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13507,7 +13518,7 @@
       "posted": "2026-10-24",
       "id": "82ce918fb88f",
       "first_seen": "2026-09-15T05:18:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13537,10 +13548,10 @@
       "title": "Senior Sailpoint Security Operations Analyst - Identity & Access Management",
       "location": "CINCINNATI GENERAL OFFICES",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Senior-Sailpoint-Security-Operations-Analyst---Identity---Access-Management_R000155686",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "52bb388be411",
       "first_seen": "2026-09-14T20:24:46+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13595,7 +13606,7 @@
       "posted": "2026-10-24",
       "id": "f0607c40cd4c",
       "first_seen": "2026-09-11T16:55:47+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13628,7 +13639,7 @@
       "posted": "2026-10-24",
       "id": "00e775a88a3a",
       "first_seen": "2026-09-10T16:54:07+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13639,7 +13650,7 @@
       "posted": "2026-10-24",
       "id": "e108d0938ff7",
       "first_seen": "2026-09-10T16:54:07+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13650,7 +13661,7 @@
       "posted": "2026-10-24",
       "id": "add94fd94a01",
       "first_seen": "2026-09-10T16:54:07+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13801,10 +13812,10 @@
       "title": "LTSS & Dual Eligible Program Report Developer IV",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/LTSS---Dual-Eligible-Program-Report-Developer-IV_R13047-1",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "b489c2cc1d46",
       "first_seen": "2026-09-09T17:11:54+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -13867,10 +13878,10 @@
       "title": "Manager - Network Engineering",
       "location": "HYBRID - BLOM ADMINISTRATIVE CAMPUS",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Manager---Network-Engineering_JR157596",
-      "posted": "2026-10-30",
+      "posted": "2026-10-29",
       "id": "c7726209df22",
       "first_seen": "2026-09-08T17:13:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14101,7 +14112,7 @@
       "posted": "2026-10-24",
       "id": "b7cf73e533b3",
       "first_seen": "2026-09-04T21:13:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14112,7 +14123,7 @@
       "posted": "2026-10-29T00:00:00.000+0000",
       "id": "29ed9528b763",
       "first_seen": "2026-09-04T21:13:52+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14120,10 +14131,10 @@
       "title": "Embedded Product Cybersecurity Engineer \u2013 Embedded Software",
       "location": "Evendale",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Embedded-Product-Cybersecurity-Engineer---Embedded-Software_R5032388-2",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "34365c6119e9",
       "first_seen": "2026-09-04T16:50:44+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14200,7 +14211,7 @@
       "posted": "2026-11-13",
       "id": "2af5389f682c",
       "first_seen": "2026-09-02T16:52:16+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14211,7 +14222,7 @@
       "posted": "2026-10-24",
       "id": "b4627eae8d3f",
       "first_seen": "2026-09-01T01:03:50+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14244,7 +14255,7 @@
       "posted": "2026-10-24",
       "id": "ed2a2d870194",
       "first_seen": "2026-08-31T21:13:18+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14266,7 +14277,7 @@
       "posted": "2026-10-24",
       "id": "ae401e7061a0",
       "first_seen": "2026-08-29T02:07:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14277,7 +14288,7 @@
       "posted": "2026-10-08T00:00:00.000+0000",
       "id": "2a637f479c96",
       "first_seen": "2026-08-29T02:07:31+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14288,7 +14299,7 @@
       "posted": "2026-10-24",
       "id": "496d9ee04404",
       "first_seen": "2026-08-28T15:44:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14332,7 +14343,7 @@
       "posted": "2026-10-24",
       "id": "ab3ff5a5a7c8",
       "first_seen": "2026-08-26T20:31:13+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14387,7 +14398,7 @@
       "posted": "2026-10-05",
       "id": "65feced774c1",
       "first_seen": "2026-08-25T16:27:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14398,7 +14409,7 @@
       "posted": "2026-10-24",
       "id": "d06398f18fa0",
       "first_seen": "2026-08-25T16:27:39+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14409,7 +14420,7 @@
       "posted": "2026-10-24",
       "id": "016d923ab383",
       "first_seen": "2026-08-25T13:45:22+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14431,7 +14442,7 @@
       "posted": "2026-10-24",
       "id": "92aa65db087f",
       "first_seen": "2026-08-25T02:13:21+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14442,7 +14453,7 @@
       "posted": "2026-10-24",
       "id": "f9432f6a7bc5",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14453,7 +14464,7 @@
       "posted": "2026-10-24",
       "id": "47d4cf3452fb",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14464,7 +14475,7 @@
       "posted": "2026-10-24",
       "id": "2f289c45d30f",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14475,7 +14486,7 @@
       "posted": "2026-10-24",
       "id": "2437f2b19467",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14486,7 +14497,7 @@
       "posted": "2026-10-24",
       "id": "088bbabb65c0",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14497,7 +14508,7 @@
       "posted": "2026-10-24",
       "id": "f60cb05df839",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14508,7 +14519,7 @@
       "posted": "2026-10-24",
       "id": "39b7e9e98f75",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14519,7 +14530,7 @@
       "posted": "2026-10-24",
       "id": "e082607dc9d6",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14530,7 +14541,7 @@
       "posted": "2026-10-24",
       "id": "acf4dcc758ac",
       "first_seen": "2026-08-24T22:04:17+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14552,7 +14563,7 @@
       "posted": "2026-10-24",
       "id": "809bdf76d60c",
       "first_seen": "2026-08-24T13:42:29+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14593,10 +14604,10 @@
       "title": "ETRA Senior Data Analyst",
       "location": "Covington, KY",
       "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/ETRA-Senior-Data-Analyst_2132444-1",
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "id": "174ca87556e2",
       "first_seen": "2026-08-20T19:28:42+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14640,7 +14651,7 @@
       "posted": "2026-10-24",
       "id": "2cc44eb5fa16",
       "first_seen": "2026-08-20T02:17:08+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14662,7 +14673,7 @@
       "posted": "2026-10-24",
       "id": "dab7068cf35a",
       "first_seen": "2026-08-19T22:06:47+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14706,7 +14717,7 @@
       "posted": "2026-10-15T20:05:18.165Z",
       "id": "303a1e2fe46e",
       "first_seen": "2026-08-18T19:20:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14728,7 +14739,7 @@
       "posted": "2026-11-21T00:00:00.000+0000",
       "id": "6741fda9d1bb",
       "first_seen": "2026-08-17T21:57:40+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14736,10 +14747,10 @@
       "title": "Data Engineer - North America Fabric Care",
       "location": "CINCINNATI GENERAL OFFICES",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Engineer---North-America-Fabric-Care_R000157463",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "bcad40c96c60",
       "first_seen": "2026-08-17T19:19:15+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14750,7 +14761,7 @@
       "posted": "2026-10-24",
       "id": "a2d4f374b99b",
       "first_seen": "2026-08-17T19:19:15+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14761,7 +14772,7 @@
       "posted": "2026-10-24",
       "id": "ce4de8da41ae",
       "first_seen": "2026-08-17T19:19:15+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14860,7 +14871,7 @@
       "posted": "2026-10-24",
       "id": "48aaef0bc9c0",
       "first_seen": "2026-08-12T14:05:21+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14871,7 +14882,7 @@
       "posted": "2026-10-26T15:59:57-04:00",
       "id": "58b45e01ab38",
       "first_seen": "2026-08-11T19:44:40+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14937,7 +14948,7 @@
       "posted": "2026-10-24",
       "id": "aca420113c95",
       "first_seen": "2026-08-07T19:40:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14948,7 +14959,7 @@
       "posted": "2026-10-24",
       "id": "fc7f59f15da0",
       "first_seen": "2026-08-07T19:40:11+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14981,7 +14992,7 @@
       "posted": "2026-10-24",
       "id": "818498de0958",
       "first_seen": "2026-08-07T00:48:20+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -14989,10 +15000,10 @@
       "title": "Epic Systems Analyst - Sched/Reg (Grand Central, Prelude, Cadence, Welcome)",
       "location": "WORK AT HOME - OHIO",
       "url": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Sched-Reg--Grand-Central--Prelude--Cadence--Welcome-_JR156068",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "36eefa6cf77e",
       "first_seen": "2026-08-07T00:48:20+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15102,7 +15113,7 @@
       "posted": "2026-10-24",
       "id": "85b12998ddf0",
       "first_seen": "2026-07-31T20:29:20+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15113,7 +15124,7 @@
       "posted": "2026-10-24",
       "id": "4ac9be1b74e9",
       "first_seen": "2026-07-31T20:29:20+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15146,7 +15157,7 @@
       "posted": "2026-10-24",
       "id": "5160d1bef98e",
       "first_seen": "2026-07-29T22:35:51+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15168,7 +15179,7 @@
       "posted": "2026-10-24",
       "id": "72a02b9ba663",
       "first_seen": "2026-07-28T22:49:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15179,7 +15190,7 @@
       "posted": "2026-10-24",
       "id": "f896d8d82b73",
       "first_seen": "2026-07-28T22:49:05+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15212,7 +15223,7 @@
       "posted": "2026-10-27T00:00:00.000+0000",
       "id": "26eaf9b7a9a1",
       "first_seen": "2026-07-23T14:49:38+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15253,10 +15264,10 @@
       "title": "Product Director, AI & Agentic",
       "location": "US - REMOTE",
       "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/US---REMOTE/Product-Director--AI---Agentic_JR72620",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "f93ae7bd0842",
       "first_seen": "2026-07-20T09:53:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15275,10 +15286,10 @@
       "title": "AI Engineer - Automated Channels Transformation",
       "location": "Cincinnati, OH",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/AI-Engineer---Automated-Channels-Transformation_R70497",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "909578d9b325",
       "first_seen": "2026-07-14T17:00:01+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15286,10 +15297,10 @@
       "title": "Senior Data Engineer",
       "location": "COLUMBUS, OH",
       "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Senior-Data-Engineer_JR72360",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "5c3676f868bd",
       "first_seen": "2026-07-13T15:40:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15297,10 +15308,10 @@
       "title": "Manager of Data Engineering",
       "location": "COLUMBUS, OH",
       "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Mgr-Data-Engineering_JR72337",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "2befceb0d601",
       "first_seen": "2026-07-13T15:40:09+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15355,7 +15366,7 @@
       "posted": "2026-10-24",
       "id": "e0cb2f907950",
       "first_seen": "2026-06-28T21:41:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15366,7 +15377,7 @@
       "posted": "2026-10-24",
       "id": "dec2f1d779ed",
       "first_seen": "2026-06-28T21:41:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15377,7 +15388,7 @@
       "posted": "2026-11-06",
       "id": "612ec972cf3a",
       "first_seen": "2026-06-28T21:41:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15388,7 +15399,7 @@
       "posted": "2026-10-24",
       "id": "e2bb6294f642",
       "first_seen": "2026-06-28T21:41:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15410,7 +15421,7 @@
       "posted": "2026-10-24",
       "id": "3ec2167df086",
       "first_seen": "2026-06-28T21:41:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15418,10 +15429,10 @@
       "title": "Senior Electrical Test Engineer",
       "location": "US, Dayton, OH",
       "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Engineer--Electrical-Test_R1062766",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "c48079e376bd",
       "first_seen": "2026-06-28T21:41:37+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15432,7 +15443,7 @@
       "posted": "2026-10-24",
       "id": "29632fd961f7",
       "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15443,7 +15454,7 @@
       "posted": "2026-10-24",
       "id": "c0202a23416a",
       "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15454,7 +15465,7 @@
       "posted": "2026-10-24",
       "id": "22fac7d56182",
       "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15465,7 +15476,7 @@
       "posted": "2026-10-24",
       "id": "32529327a107",
       "first_seen": "2026-06-28T00:54:32+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     },
     {
@@ -15495,10 +15506,10 @@
       "title": "Software Engineering Lead (Solar Product)",
       "location": "Ohio Remote",
       "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineering-Lead_R6084",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "40aa4f72b81f",
       "first_seen": "2026-06-27T23:56:59+00:00",
-      "last_seen": "2026-11-23T01:58:55+00:00",
+      "last_seen": "2026-11-23T12:48:32+00:00",
       "readme_posted": true
     }
   ]

@@ -56,19 +56,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 1409 tracked total · updated `2026-11-23T01:58:55+00:00`
+### 🆕 4 new roles this update · 1410 tracked total · updated `2026-11-23T12:48:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Honda | 2 |
 | Robert Half | 1 |
-| American Electric Power | 1 |
-| Kroger | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-23 |
-| [Finance & Structuring Associate \| Competitive Generation Infrastructure Solutions](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Finance---Structuring-Associate---Competitive-Generation-Infrastructure-Solutions_R21173) | American Electric Power | Columbus, OH | 2026-11-23 |
-| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/255642) | Kroger | Blue Ash, OH, United States | 2026-11-23 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-23 |
+| [Software Engineer (Embedded Systems & Vulnerability Research)](https://jobs.battelle.org/us/en/job/76565) | Battelle | Columbus, OH | 2026-11-23 |
+| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-23 |
+| [ADAS Test Engineer](https://careers.honda.com/us/en/job/12684) | Honda | Raymond, Ohio, United States | 2026-11-23 |
 <!-- JOBS:END -->
 
 ## How it works
