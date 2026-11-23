@@ -56,15 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 1424 tracked total · updated `2026-11-22T19:50:21+00:00`
+### 🆕 3 new roles this update · 1409 tracked total · updated `2026-11-23T01:58:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Robert Half | 1 |
+| American Electric Power | 1 |
+| Kroger | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-22 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-23 |
+| [Finance & Structuring Associate \| Competitive Generation Infrastructure Solutions](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Finance---Structuring-Associate---Competitive-Generation-Infrastructure-Solutions_R21173) | American Electric Power | Columbus, OH | 2026-11-23 |
+| [FRONT END/COURTESY CLERK](https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/255642) | Kroger | Blue Ash, OH, United States | 2026-11-23 |
 <!-- JOBS:END -->
 
 ## How it works
