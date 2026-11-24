@@ -56,20 +56,39 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 1410 tracked total · updated `2026-11-23T12:48:32+00:00`
+### 🆕 14 new roles this update · 1402 tracked total · updated `2026-11-24T02:34:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honda | 2 |
+| TEKsystems | 2 |
+| Cleveland Clinic | 2 |
+| Apex Systems | 1 |
 | Robert Half | 1 |
-| Battelle | 1 |
+| First Solar | 1 |
+| Path Robotics | 1 |
+| KeyBank | 1 |
+| Vertiv | 1 |
+| STERIS | 1 |
+| Medical Mutual of Ohio | 1 |
+| Lincoln Electric | 1 |
+| Dana Incorporated | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-23 |
-| [Software Engineer (Embedded Systems & Vulnerability Research)](https://jobs.battelle.org/us/en/job/76565) | Battelle | Columbus, OH | 2026-11-23 |
-| [Manufacturing Quality Engineer](https://careers.honda.com/us/en/job/12444) | Honda | Russells Point, Ohio, United States | 2026-11-23 |
-| [ADAS Test Engineer](https://careers.honda.com/us/en/job/12684) | Honda | Raymond, Ohio, United States | 2026-11-23 |
+| [Netsuite Administrator](https://careers.teksystems.com/us/en/job/JP-006439670/Netsuite-Administrator) | TEKsystems | Cleveland, Ohio | 2026-11-24 |
+| [Permit Coordinator Long-Haul Underground Fiber \| Pennsylvania](https://careers.teksystems.com/us/en/job/JP-006439762/Permit-Coordinator-Long-Haul-Underground-Fiber-Pennsylvania) | TEKsystems | Columbus, Ohio | 2026-11-24 |
+| [SaaS Security Engineer](https://www.apexsystems.com/job/3060277_usa/saas-security-engineer) | Apex Systems | Columbus, OH | 2026-11-24 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-24 |
+| [Analyst- IT III USA](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026734) | First Solar | Perrysburg, OH, United States | 2026-11-24 |
+| [Software Support Engineer, Sensing & Robotics](https://boards.greenhouse.io/pathrobotics/jobs/8959233002?gh_jid=8959233002) | Path Robotics | Columbus, Ohio | 2026-11-24 |
+| [Research Data Scientist III - DDI](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-III---DDI_349700) | Cleveland Clinic | Cleveland Clinic Main Campus | 2026-11-24 |
+| [HRIS/Workday Systems Analyst I](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/HRIS-Workday-Systems-Analyst-I_361672) | Cleveland Clinic | Remote Location | 2026-11-24 |
+| [ITSM Application Support Developer – ServiceNow Delivery](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/ITSM-Application-Support-Developer---ServiceNow-Delivery_R-43386) | KeyBank | Brooklyn, OH | 2026-11-24 |
+| [Sr Manager, Technical Support-PurgeRite](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286689) | Vertiv | Westerville, OH, United States | 2026-11-24 |
+| [Tester I](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57518&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-24 |
+| [Data Engineer - Epic Payer Platform](https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=98534a22-51ec-4a86-8524-4b0b8968e6af) | Medical Mutual of Ohio | Brooklyn OH | 2026-11-24 |
+| [QA Technician- Consumables](https://jobs.lincolnelectric.com/job/Cleveland-QA-Technician-Consumables-OH-44117/1459391433/) | Lincoln Electric | OH | 2026-11-24 |
+| [Cybersecurity Engineer](https://jobs.dana.com/job/Maumee-Cybersecurity-Engineer-OH-43537/1424396000/) | Dana Incorporated | OH | 2026-11-24 |
 <!-- JOBS:END -->
 
 ## How it works
