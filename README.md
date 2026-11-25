@@ -56,42 +56,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 1391 tracked total · updated `2026-11-25T00:12:50+00:00`
+### 🆕 5 new roles this update · 1394 tracked total · updated `2026-11-25T08:41:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 2 |
 | Robert Half | 1 |
-| CareSource | 1 |
-| J.M. Smucker | 1 |
-| Great American Insurance | 1 |
-| American Electric Power | 1 |
-| Cardinal Health | 1 |
-| Sherwin-Williams | 1 |
-| Huntington Bank | 1 |
-| Cleveland-Cliffs | 1 |
-| GE Aerospace | 1 |
-| Honda | 1 |
-| Cintas | 1 |
-| Total Quality Logistics | 1 |
+| Vaco | 1 |
+| Nationwide | 1 |
+| Vertiv | 1 |
+| Kettering Health | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-25 |
-| [Health Plan Data Analyst II (need Health Plan/MCO and SQL)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941) | CareSource | Remote | 2026-11-25 |
-| [Senior Manager, Sweet Baked Snacks Innovation](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Senior-Manager--Sweet-Baked-Snacks-Innovation_116200) | J.M. Smucker | Orrville, OH | 2026-11-25 |
-| [Quality Assurance Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Quality-Assurance-Intern---Summer-2027_R9942) | Great American Insurance | Cincinnati, OH (USA) | 2026-11-25 |
-| [Director Demand Planning - Enterprise IT](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) | American Electric Power | Columbus, OH | 2026-11-25 |
-| [Director, IT - SAP Transformation Leader](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Director--IT---SAP-Transformation-Leader_20191663-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-25 |
-| [Senior Ignition Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2630008) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-25 |
-| [IT Service Delivery Director](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Service-Delivery-Director_R0078116) | Huntington Bank | Columbus, OH | 2026-11-25 |
-| [Quality Engineer](https://aksteel.wd1.myworkdayjobs.com/careers/job/Middletown-Works/Quality-Engineer_R14110) | Cleveland-Cliffs | Middletown Works | 2026-11-25 |
-| [Staff Model-Based Systems Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Model-Based-Systems-Engineer_R5043667-1) | GE Aerospace | Evendale | 2026-11-25 |
-| [Electrical Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260681) | Vertiv | Delaware, OH, United States | 2026-11-25 |
-| [Sustaining Engineer – Infrastructure Solutions](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286052) | Vertiv | Westerville, OH, United States | 2026-11-25 |
-| [Manufacturing Quality Engineer- 3rd Shift](https://careers.honda.com/us/en/job/13490) | Honda | Russells Point, Ohio, United States | 2026-11-25 |
-| [Software Engineer - Level 2 - Mobility](https://careers.cintas.com/job/Mason-Software-Engineer-Level-2-Mobility-OH-45040/1453631100/) | Cintas | OH | 2026-11-25 |
-| [Senior Network Engineer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-Senior-Network-Engineer/19730?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-11-25 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-25 |
+| [Automation Engineer Ii](https://jobs.vaco.com/job/3325/automation_engineer_ii/en) | Vaco | Cincinnati, Ohio | 2026-11-25 |
+| [Specialist, Software Engineer - Fullstack - Java, Angular, Python](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---Fullstack---Java--Angular--Python_101421) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-25 |
+| [Business Hosting Specialist/Sr. Cloud Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286051) | Vertiv | Westerville, OH, United States | 2026-11-25 |
+| [Health Unit Coordinator - NICU](https://careers-ketteringhealth.icims.com/jobs/66070/health-unit-coordinator---nicu/job?in_iframe=1) | Kettering Health | Kettering, OH | 2026-11-25 |
 <!-- JOBS:END -->
 
 ## How it works
