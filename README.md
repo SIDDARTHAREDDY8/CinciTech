@@ -56,23 +56,36 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 1394 tracked total · updated `2026-11-25T08:41:57+00:00`
+### 🆕 12 new roles this update · 1404 tracked total · updated `2026-11-25T19:34:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Agility Connect | 2 |
 | Robert Half | 1 |
-| Vaco | 1 |
-| Nationwide | 1 |
-| Vertiv | 1 |
-| Kettering Health | 1 |
+| Forge Biologics | 1 |
+| FirstEnergy | 1 |
+| Huntington Bank | 1 |
+| Nationwide Children's Hospital | 1 |
+| Battelle | 1 |
+| Lincoln Electric | 1 |
+| Fidelity Investments | 1 |
+| Total Quality Logistics | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-25 |
-| [Automation Engineer Ii](https://jobs.vaco.com/job/3325/automation_engineer_ii/en) | Vaco | Cincinnati, Ohio | 2026-11-25 |
-| [Specialist, Software Engineer - Fullstack - Java, Angular, Python](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---Fullstack---Java--Angular--Python_101421) | Nationwide | Ohio - Columbus, Three Nationwide Plaza | 2026-11-25 |
-| [Business Hosting Specialist/Sr. Cloud Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286051) | Vertiv | Westerville, OH, United States | 2026-11-25 |
-| [Health Unit Coordinator - NICU](https://careers-ketteringhealth.icims.com/jobs/66070/health-unit-coordinator---nicu/job?in_iframe=1) | Kettering Health | Kettering, OH | 2026-11-25 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-25 |
+| [SaaS Security Engineer](https://agilityconnect.io/jobs/8645) | Agility Connect | OH | 2026-11-25 |
+| [Sr Data Scientist](https://agilityconnect.io/jobs/8646) | Agility Connect | OH | 2026-11-25 |
+| [Manufacturing Systems Engineer II (IT/OT)](https://boards.greenhouse.io/forgebiologics/jobs/6266504004?gh_jid=6266504004) | Forge Biologics | Columbus, Ohio | 2026-11-25 |
+| [Solutions Architect - IT Enterprise Platforms](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106031) | FirstEnergy | Akron, OH, United States | 2026-11-25 |
+| [IT Security Administrator](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Security-Administrator_R0076708) | Huntington Bank | Columbus, OH | 2026-11-25 |
+| [Behavior Support Specialist](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Behavior-Support-Specialist_R-29091-1) | Nationwide Children's Hospital | Main Campus, Columbus, OH | 2026-11-25 |
+| [IT Support Technician](https://jobs.battelle.org/us/en/job/76742) | Battelle | Columbus, OH | 2026-11-25 |
+| [Embedded Software Engineer](https://jobs.lincolnelectric.com/job/Cleveland-Embedded-Software-Engineer-OH-44117/1460789533/) | Lincoln Electric | OH | 2026-11-25 |
+| [Director, Client Assurance, Information Security Office](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Covington-KY/Director--Client-Assurance--Information-Security-Office_2137351-1) | Fidelity Investments | Covington, KY | 2026-11-25 |
+| [IT Support Intern (Summer 2027)](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/IT-Support-Intern-Summer-2027/19770?source=External+Career+Site) | Total Quality Logistics | Cincinnati, Ohio, USA | 2026-11-25 |
+| [Manufacturing Process Quality Engineer](https://careers.l3harris.com/en/job/cincinnati/manufacturing-process-quality-engineer/4832/101109853984) | L3Harris | Cincinnati, OH | 2026-11-25 |
 <!-- JOBS:END -->
 
 ## How it works
