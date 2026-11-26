@@ -56,26 +56,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 1398 tracked total · updated `2026-11-26T03:51:14+00:00`
+### 🆕 3 new roles this update · 1400 tracked total · updated `2026-11-26T17:08:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| STERIS | 2 |
+| TEKsystems | 1 |
 | Robert Half | 1 |
-| Sherwin-Williams | 1 |
-| Cincinnati Children's Hospital | 1 |
-| DHL | 1 |
-| Levi Strauss | 1 |
+| Honda | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/artificial-intelligence-ai-engineer/04340-0013537148-usen) | Robert Half | Cincinnati, 04340 | 2026-11-26 |
-| [IT - Senior FinOps & Tokenomics Technical Analyst](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629431) | Sherwin-Williams | Cleveland, OH, United States | 2026-11-26 |
-| [Postdoctoral Research Fellow - Tech (Woods Laboratory) Hyperpolarized Gas Lung Imaging](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Fellow---Woods-lab_JR226526) | Cincinnati Children's Hospital | Burnet Campus | 2026-11-26 |
-| [Senior Business Intelligence Developer](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57492&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-26 |
-| [Senior Analytics and AI Program Manager](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57491&jobPipeline=PhenomCareerSite) | STERIS | Mentor, Ohio | 2026-11-26 |
-| [Systems Support Engineer](https://dpdhlgroup.avature.net/jobs/ApplicationMethods?jobId=392106&source=careers.dhl.com) | DHL | Erlanger, Kentucky | 2026-11-26 |
-| [Director, Security Operations](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Director--Security-Operations_R-0160043) | Levi Strauss | Remote - USA | 2026-11-26 |
+| [Data Center Audit Technician](https://careers.teksystems.com/us/en/job/JP-006445095/Data-Center-Audit-Technician) | TEKsystems | New Albany, Ohio | 2026-11-26 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-26 |
+| [ADAS Test Engineer](https://careers.honda.com/us/en/job/12684) | Honda | Raymond, Ohio, United States | 2026-11-26 |
 <!-- JOBS:END -->
 
 ## How it works
